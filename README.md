@@ -18,10 +18,6 @@ Currently the `hosts` files from the following locations are amalgamated:
 * Hosts-file.net ad blocking servers [http://hosts-file.net/](http://adaway.org/), updated regularly
 * My own rules for blocking Turkish Advertising Agencies
 
-You can add any additional sources you'd like under the data/ directory. Provide a copy of the current `hosts` file and a file called
-update.info with the URL to the `hosts` file source. This will allow updateHostsFile.py to automatically update your source.
-
-
 ## What is a hosts file?
 
 A hosts file, named `hosts` (with no file extension), is a plain-text file used by all operating systems to map hostnames to IP addresses. 
