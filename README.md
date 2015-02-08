@@ -1,4 +1,6 @@
-#Supplementary Adblocking Hosts file
+#Adblocking Softether VPN with DNSMasq Supplementary Hosts file
+Here, you can find the config files and script I use on my own system to run an ads-free network when I'm connected to VPN
+I do use Softether VPN, DNSMasq and some cron jobs to ensure it's running stable.
 
 This repo consolidates several reputable `hosts` files and consolidates them into a single hosts file that you can use.
 
