@@ -1,0 +1,2 @@
+#!/bin/bash
+/sbin/ifconfig tap_softether | grep 10.0.13.1
