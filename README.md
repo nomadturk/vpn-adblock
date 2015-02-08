@@ -15,7 +15,7 @@ Currently the `hosts` files from the following locations are amalgamated:
 * Malware Domain List at [http://www.malwaredomainlist.com/](http://www.malwaredomainlist.com/), updated regularly.
 * Peter Lowe at [http://pgl.yoyo.org/adservers/](http://pgl.yoyo.org/adservers/), updated regularly.
 * AdAway at [http://adaway.org/](http://adaway.org/), updated regularly
-* Steven Black's Small List [here](https://raw.github.com/StevenBlack/hosts/master/data/StevenBlack/hosts).
+* Hosts-file.net ad blocking servers [http://hosts-file.net/](http://adaway.org/), updated regularly
 * My own rules for blocking Turkish Advertising Agencies
 
 You can add any additional sources you'd like under the data/ directory. Provide a copy of the current `hosts` file and a file called
