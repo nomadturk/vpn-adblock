@@ -1,0 +1,69 @@
+#!/bin/sh
+### BEGIN INIT INFO
+# Provides:          vpnserver
+# Required-Start:    $remote_fs $syslog
+# Required-Stop:     $remote_fs $syslog
+# Default-Start:     2 3 4 5
+# Default-Stop:      0 1 6
+# Short-Description: Start daemon at boot time
+# Description:       Enable Softether by daemon.
+### END INIT INFO
+DAEMON=/usr/local/vpnserver/vpnserver
+LOCK=/var/lock/vpnserver
+TAP_ADDR=10.0.13.1
+
+
+test -x $DAEMON || exit 0
+case "$1" in
+start)
+###################################### START
+$DAEMON start
+touch $LOCK
+sleep 1
+/sbin/ifconfig tap_softether $TAP_ADDR
+iptables -t nat -A POSTROUTING -s 10.0.13.0/24 -o eth0 -j MASQUERADE
+iptables -A INPUT  -m state --state ESTABLISHED,RELATED -j ACCEPT
+iptables -A OUTPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+iptables -A FORWARD -j ACCEPT
+iptables -A OUTPUT -j ACCEPT
+#ifconfig tap_softether inet6 add 2001:470:XXXX:YYYY::/64
+ifconfig tap_softether inet6 add 2001:470:XXXX:YYYY::1/64
+# IPv6
+ip route add 2001:470:XXXX:YYYY::/64 dev tap_softether
+ip6tables -A INPUT  -m state --state ESTABLISHED,RELATED -j ACCEPT
+ip6tables -A OUTPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+ip6tables -A FORWARD -j ACCEPT
+ip6tables -A OUTPUT -j ACCEPT
+service dnsmasq restart
+;;
+
+###################################### STOP
+stop)
+$DAEMON stop
+rm $LOCK
+;;
+
+
+###################################### RESTART
+restart)
+$DAEMON stop
+sleep 3
+$DAEMON start
+sleep 1
+/sbin/ifconfig tap_softether $TAP_ADDR
+#KVM
+iptables -t nat -A POSTROUTING -s 10.0.13.0/24 -o eth0 -j MASQUERADE
+iptables -A INPUT  -m state --state ESTABLISHED,RELATED -j ACCEPT
+iptables -A OUTPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+iptables -A FORWARD -j ACCEPT
+iptables -A OUTPUT -j ACCEPT
+ifconfig tap_softether inet6 add 2001:470:XXXX:YYYY::/64
+ifconfig tap_softether inet6 add 2001:470:XXXX:YYYY::1/64
+service dnsmasq restart
+;;
+*)
+
+echo "Usage: $0 {start|stop|restart}"
+exit 1
+esac
+exit 0
