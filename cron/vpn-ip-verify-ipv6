@@ -1,0 +1,2 @@
+#!/bin/bash
+/sbin/ifconfig tap_softether | grep 2001:470:XXXX:YYYY::/64
