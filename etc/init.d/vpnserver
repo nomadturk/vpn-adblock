@@ -57,20 +57,24 @@ sleep 3
 $DAEMON start
 sleep 1
 /sbin/ifconfig tap_softether $TAP_ADDR
-#IPv4
 iptables -t nat -A POSTROUTING -s 10.0.13.0/24 -o eth0 -j MASQUERADE
 iptables -A INPUT  -m state --state ESTABLISHED,RELATED -j ACCEPT
 iptables -A OUTPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
 iptables -A FORWARD -j ACCEPT
 iptables -A OUTPUT -j ACCEPT
-#IPv6
+
+# IPv6
 ip route add 2001:470:XXXX:YYYY::/64 dev tap_softether
 ip route add 2001:470:XXXX:YYYY::1/64 dev tap_softether
 ip6tables -A INPUT  -m state --state ESTABLISHED,RELATED -j ACCEPT
 ip6tables -A OUTPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
 ip6tables -A FORWARD -j ACCEPT
 ip6tables -A OUTPUT -j ACCEPT
-service dnsmasq restart
+
+# Enable on OpenVZ
+# iptables -t nat -A POSTROUTING -o venet0 -j SNAT --to-source YOUREXTERNALIP
+# iptables -t nat -A POSTROUTING -s 10.0.13.0/24 -j SNAT --to-source YOUREXTERNALIP
+# iptables --table nat --append POSTROUTING --jump MASQUERADE
 ;;
 *)
 
