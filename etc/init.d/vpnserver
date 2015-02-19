@@ -34,6 +34,12 @@ ip6tables -A INPUT  -m state --state ESTABLISHED,RELATED -j ACCEPT
 ip6tables -A OUTPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
 ip6tables -A FORWARD -j ACCEPT
 ip6tables -A OUTPUT -j ACCEPT
+
+# Enable on OpenVZ
+# iptables -t nat -A POSTROUTING -o venet0 -j SNAT --to-source YOUREXTERNALIP
+# iptables -t nat -A POSTROUTING -s 10.0.13.0/24 -j SNAT --to-source YOUREXTERNALIP
+# iptables --table nat --append POSTROUTING --jump MASQUERADE
+
 service dnsmasq restart
 ;;
 
