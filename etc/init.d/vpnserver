@@ -28,8 +28,8 @@ iptables -A FORWARD -j ACCEPT
 iptables -A OUTPUT -j ACCEPT
 
 # IPv6
+ip route add 2001:470:XXXX:YYYY::3/64 dev tap_softether
 ip route add 2001:470:XXXX:YYYY::/64 dev tap_softether
-ip route add 2001:470:XXXX:YYYY::1/64 dev tap_softether
 ip6tables -A INPUT  -m state --state ESTABLISHED,RELATED -j ACCEPT
 ip6tables -A OUTPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
 ip6tables -A FORWARD -j ACCEPT
@@ -64,8 +64,8 @@ iptables -A FORWARD -j ACCEPT
 iptables -A OUTPUT -j ACCEPT
 
 # IPv6
+ip route add 2001:470:XXXX:YYYY::3/64 dev tap_softether
 ip route add 2001:470:XXXX:YYYY::/64 dev tap_softether
-ip route add 2001:470:XXXX:YYYY::1/64 dev tap_softether
 ip6tables -A INPUT  -m state --state ESTABLISHED,RELATED -j ACCEPT
 ip6tables -A OUTPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
 ip6tables -A FORWARD -j ACCEPT
