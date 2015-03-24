@@ -28,7 +28,7 @@ curl -sS http://www.malwaredomainlist.com/hostslist/hosts.txt >> $temphosts1
 # Pass all this through sort with the unique flag to remove duplicates and save the result
 echo 
 echo "Parsing" 
-echo "Cleaning""
+echo "Cleaning"
 echo "De-duplicating"
 echo "Sorting..."
 echo 
