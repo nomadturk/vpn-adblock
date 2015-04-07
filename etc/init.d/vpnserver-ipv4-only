@@ -11,10 +11,10 @@
 DAEMON=/usr/local/vpnserver/vpnserver
 LOCK=/var/lock/vpnserver
 TAP_ADDR=10.0.13.1								# Main IP of your TAP interface
-TAP_INTERFACE=tap_softether						# The name of your TAP interface.
-VPN_SUBNET=10.0.13.0/24							# Virtual IP subnet you want to use within your VPN
-NET_INTERFACE=eth0								# Your network adapter that connects you to the world. 
-YOUREXTERNALIP=                     # Your machines external IPv4 address. Needed only on OpenVZ.
+TAP_INTERFACE=tap_softether				# The name of your TAP interface.
+VPN_SUBNET=10.0.13.0/24						# Virtual IP subnet you want to use within your VPN
+NET_INTERFACE=eth0								# Your network adapter that connects you to the world.In OpenVZ this is venet0 for example.
+YOUREXTERNALIP=                   # Your machines external IPv4 address. Needed only on OpenVZ.
 
 test -x $DAEMON || exit 0
 case "$1" in
