@@ -10,8 +10,11 @@
 ### END INIT INFO
 DAEMON=/usr/local/vpnserver/vpnserver
 LOCK=/var/lock/vpnserver
-TAP_ADDR=10.0.13.1
-
+TAP_ADDR=10.0.13.1								# Main IP of your TAP interface
+TAP_INTERFACE=tap_softether						# The name of your TAP interface.
+VPN_SUBNET=10.0.13.0/24							# Virtual IP subnet you want to use within your VPN
+NET_INTERFACE=eth0								# Your network adapter that connects you to the world. 
+YOUREXTERNALIP=                     # Your machines external IPv4 address. Needed only on OpenVZ.
 
 test -x $DAEMON || exit 0
 case "$1" in
@@ -19,20 +22,36 @@ start)
 ###################################### START
 $DAEMON start
 touch $LOCK
-sleep 1
-/sbin/ifconfig tap_softether $TAP_ADDR
-iptables -t nat -A POSTROUTING -s 10.0.13.0/24 -o eth0 -j MASQUERADE
-iptables -A INPUT  -m state --state ESTABLISHED,RELATED -j ACCEPT
-iptables -A OUTPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
-iptables -A FORWARD -j ACCEPT
-iptables -A OUTPUT -j ACCEPT
+sleep 6
 
-# Enable on OpenVZ
-# iptables -t nat -A POSTROUTING -o venet0 -j SNAT --to-source YOUREXTERNALIP
-# iptables -t nat -A POSTROUTING -s 10.0.13.0/24 -j SNAT --to-source YOUREXTERNALIP
+#######################################################################################
+#	Rules for IPTables. You can remove and use these iptables-persistent if you want 
+#######################################################################################
+# Assign $TAP_ADDR to our tap interface
+/sbin/ifconfig $TAP_INTERFACE $TAP_ADDR
+#
+# Forward all VPN traffic to $NET_INTERFACE interface.
+iptables -t nat -A POSTROUTING -s $VPN_SUBNET -o $NET_INTERFACE -j MASQUERADE
+#
+# Allow VPN Interface to access the whole world, back and forth.
+iptables -A INPUT   -m state --state ESTABLISHED,RELATED -j ACCEPT
+iptables -A OUTPUT  -m state --state ESTABLISHED,RELATED -j ACCEPT
+iptables -A FORWARD -m state --state ESTABLISHED,RELATED -j ACCEPT
+# 
+iptables -A INPUT  -s $VPN_SUBNET   -m state --state NEW  -j ACCEPT 
+iptables -A OUTPUT  -s $VPN_SUBNET   -m state --state NEW  -j ACCEPT 
+iptables -A FORWARD  -s $VPN_SUBNET   -m state --state NEW  -j ACCEPT 
+# 
+# Enable on OpenVZ systems
+# iptables -t nat -A POSTROUTING -o $NET_INTERFACE -j SNAT --to-source $YOUREXTERNALIP
+# iptables -t nat -A POSTROUTING -s $VPN_SUBNET -j SNAT --to-source $YOUREXTERNALIP
 # iptables --table nat --append POSTROUTING --jump MASQUERADE
+#######################################################################################
+#	End of IPTables Rules
+#######################################################################################
 
-service dnsmasq restart
+
+/etc/init.d/dnsmasq restart
 ;;
 
 ###################################### STOP
@@ -47,18 +66,21 @@ restart)
 $DAEMON stop
 sleep 3
 $DAEMON start
-sleep 1
-/sbin/ifconfig tap_softether $TAP_ADDR
-iptables -t nat -A POSTROUTING -s 10.0.13.0/24 -o eth0 -j MASQUERADE
-iptables -A INPUT  -m state --state ESTABLISHED,RELATED -j ACCEPT
-iptables -A OUTPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
-iptables -A FORWARD -j ACCEPT
-iptables -A OUTPUT -j ACCEPT
+sleep 5
 
-# Enable on OpenVZ
-# iptables -t nat -A POSTROUTING -o venet0 -j SNAT --to-source YOUREXTERNALIP
-# iptables -t nat -A POSTROUTING -s 10.0.13.0/24 -j SNAT --to-source YOUREXTERNALIP
-# iptables --table nat --append POSTROUTING --jump MASQUERADE
+#######################################################################################
+#	Rules for IPTables. 
+#	I used these here as well since sometimes the IP addresses tend to disappear
+#	So now at least we ensure they exist whilst we restart
+#######################################################################################
+# Assign $TAP_ADDR to our tap interface
+/sbin/ifconfig $TAP_INTERFACE $TAP_ADDR
+########################################################################################
+#	End of IPTables Rules
+#######################################################################################
+
+
+/etc/init.d/dnsmasq restart
 ;;
 *)
 
