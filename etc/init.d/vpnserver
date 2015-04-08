@@ -21,7 +21,7 @@ VPN_SUBNET=10.0.13.0/24                         # Virtual IP subnet you want to 
 NET_INTERFACE=eth0                              # Your network adapter that connects you to the world.In OpenVZ this is venet0 for example.
 IPV6_ADDR=2001:XXX:YYY:ZZZ:110:110:110:110      # You can also assign this as DNS server in dnsmasq config.
 IPV6_SUBNET=2001:XXX:YYY:ZZZ::/64               # Used to assign IPv6 to connecting clients. Remember to use the same subnet in dnsmasq.conf
-YOUREXTERNALIP=195.154.63.153                   # Your machines external IPv4 address. 
+YOUREXTERNALIP=xxx.xxx.xxx.xxx                   # Your machines external IPv4 address. 
                                                 # Write down you IP or one of the IP adresses if you have more than one.
 
 #############################
