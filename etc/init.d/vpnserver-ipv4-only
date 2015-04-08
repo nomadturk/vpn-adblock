@@ -8,13 +8,24 @@
 # Short-Description: Start daemon at boot time
 # Description:       Enable Softether by daemon.
 ### END INIT INFO
-DAEMON=/usr/local/vpnserver/vpnserver
-LOCK=/var/lock/vpnserver
-TAP_ADDR=10.0.13.1								# Main IP of your TAP interface
-TAP_INTERFACE=tap_softether				# The name of your TAP interface.
-VPN_SUBNET=10.0.13.0/24						# Virtual IP subnet you want to use within your VPN
-NET_INTERFACE=eth0								# Your network adapter that connects you to the world.In OpenVZ this is venet0 for example.
-YOUREXTERNALIP=                   # Your machines external IPv4 address. Needed only on OpenVZ.
+
+##########################################################################################################################################
+### Configuration
+#############################
+
+DAEMON=/usr/local/vpnserver/vpnserver           # Change this only if you have installed the vpnserver to an alternate location.
+LOCK=/var/lock/vpnserver                        # No need to edit this.
+TAP_ADDR=10.0.13.1                              # Main IP of your TAP interface
+TAP_INTERFACE=tap_softether                     # The name of your TAP interface.
+VPN_SUBNET=10.0.13.0/24                         # Virtual IP subnet you want to use within your VPN
+NET_INTERFACE=eth0                              # Your network adapter that connects you to the world.In OpenVZ this is venet0 for example.
+YOUREXTERNALIP=xxx.xxx.xxx.xxx                   # Your machines external IPv4 address. 
+                                                # Write down you IP or one of the IP adresses if you have more than one.
+
+#############################
+### End of Configuration
+##########################################################################################################################################
+
 
 test -x $DAEMON || exit 0
 case "$1" in
@@ -22,7 +33,7 @@ start)
 ###################################### START
 $DAEMON start
 touch $LOCK
-sleep 6
+sleep 4
 
 #######################################################################################
 #	Rules for IPTables. You can remove and use these iptables-persistent if you want 
@@ -30,22 +41,20 @@ sleep 6
 # Assign $TAP_ADDR to our tap interface
 /sbin/ifconfig $TAP_INTERFACE $TAP_ADDR
 #
-# Forward all VPN traffic to $NET_INTERFACE interface.
-iptables -t nat -A POSTROUTING -s $VPN_SUBNET -o $NET_INTERFACE -j MASQUERADE
+# Forward all VPN traffic that comes from VPN_SUBNET through $NET_INTERFACE interface for outgoing packets.
+iptables -t nat -A POSTROUTING -o $NET_INTERFACE -s $VPN_SUBNET -j SNAT --to-source $YOUREXTERNALIP
+# Alternate rule if your server has dynamic IP
+#iptables -t nat -A POSTROUTING -s $VPN_SUBNET -o $NET_INTERFACE -j MASQUERADE
 #
 # Allow VPN Interface to access the whole world, back and forth.
-iptables -A INPUT   -m state --state ESTABLISHED,RELATED -j ACCEPT
-iptables -A OUTPUT  -m state --state ESTABLISHED,RELATED -j ACCEPT
+iptables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+iptables -A OUTPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
 iptables -A FORWARD -m state --state ESTABLISHED,RELATED -j ACCEPT
 # 
-iptables -A INPUT  -s $VPN_SUBNET   -m state --state NEW  -j ACCEPT 
-iptables -A OUTPUT  -s $VPN_SUBNET   -m state --state NEW  -j ACCEPT 
-iptables -A FORWARD  -s $VPN_SUBNET   -m state --state NEW  -j ACCEPT 
-# 
-# Enable on OpenVZ systems
-# iptables -t nat -A POSTROUTING -o $NET_INTERFACE -j SNAT --to-source $YOUREXTERNALIP
-# iptables -t nat -A POSTROUTING -s $VPN_SUBNET -j SNAT --to-source $YOUREXTERNALIP
-# iptables --table nat --append POSTROUTING --jump MASQUERADE
+iptables -A INPUT -s $VPN_SUBNET -m state --state NEW -j ACCEPT 
+iptables -A OUTPUT -s $VPN_SUBNET -m state --state NEW -j ACCEPT 
+iptables -A FORWARD -s $VPN_SUBNET -m state --state NEW -j ACCEPT 
+
 #######################################################################################
 #	End of IPTables Rules
 #######################################################################################
@@ -66,7 +75,7 @@ restart)
 $DAEMON stop
 sleep 3
 $DAEMON start
-sleep 5
+sleep 3
 
 #######################################################################################
 #	Rules for IPTables. 
@@ -75,7 +84,7 @@ sleep 5
 #######################################################################################
 # Assign $TAP_ADDR to our tap interface
 /sbin/ifconfig $TAP_INTERFACE $TAP_ADDR
-########################################################################################
+#######################################################################################
 #	End of IPTables Rules
 #######################################################################################
 
