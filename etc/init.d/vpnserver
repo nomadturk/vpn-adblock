@@ -21,8 +21,9 @@ VPN_SUBNET=10.0.13.0/24                         # Virtual IP subnet you want to 
 NET_INTERFACE=eth0                              # Your network adapter that connects you to the world.In OpenVZ this is venet0 for example.
 IPV6_ADDR=2001:XXX:YYY:ZZZ:110:110:110:110      # You can also assign this as DNS server in dnsmasq config.
 IPV6_SUBNET=2001:XXX:YYY:ZZZ::/64               # Used to assign IPv6 to connecting clients. Remember to use the same subnet in dnsmasq.conf
-YOUREXTERNALIP=xxx.xxx.xxx.xxx                   # Your machines external IPv4 address. 
+YOUREXTERNALIP=xxx.xxx.xxx.xxx                  # Your machines external IPv4 address. 
                                                 # Write down you IP or one of the IP adresses if you have more than one.
+                                                # Warning! NAT Machine users, here write the local IP address of your VPS instead of the external IP.
 
 #############################
 ### End of Configuration
@@ -44,7 +45,7 @@ sleep 4
 /sbin/ifconfig $TAP_INTERFACE $TAP_ADDR
 #
 # Forward all VPN traffic that comes from VPN_SUBNET through $NET_INTERFACE interface for outgoing packets.
-iptables -t nat -A POSTROUTING -o $NET_INTERFACE -s $VPN_SUBNET -j SNAT --to-source $YOUREXTERNALIP
+iptables -t nat -A POSTROUTING -s $VPN_SUBNET -j SNAT --to-source $YOUREXTERNALIP
 # Alternate rule if your server has dynamic IP
 #iptables -t nat -A POSTROUTING -s $VPN_SUBNET -o $NET_INTERFACE -j MASQUERADE
 #
