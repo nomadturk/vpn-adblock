@@ -12,7 +12,6 @@ curl -sS http://winhelp2002.mvps.org/hosts.txt > $temphosts1
 curl -sS http://someonewhocares.org/hosts/zero/hosts >> $temphosts1
 curl -sS "http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0" >> $temphosts1
 curl -sS https://raw.githubusercontent.com/nomadturk/vpn-adblock/master/hosts-sources/Turkish/hosts >> $temphosts1
-curl -sS "http://hosts-file.net/.%5Cad_servers.txt" >> $temphosts1
 curl -sS https://adaway.org/hosts.txt >> $temphosts1
 curl -sS http://www.malwaredomainlist.com/hostslist/hosts.txt >> $temphosts1
 
