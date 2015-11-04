@@ -42,7 +42,7 @@ sed -e 's/\r//'                         \
      < $temphosts1 | sort -u > $temphosts2
 
 # Remove 0.0.0.0 accidentally referring to itself
-sed -i 's/^0.0.0.0\t0.0.0.0/0.0.0.0/' $temphosts2
+sed -i 's/^0.0.0.0\\t0.0.0.0/0.0.0.0/' $temphosts2
 
 # Combine system hosts with adblocks
 echo "Creating supplementary hosts file is complete..."
