@@ -37,8 +37,8 @@ sed -e 's/\r//'                         \
     -e 's/127.0.0.1/0.0.0.0/'           \
     -e 's/ \+/\t/'                      \
     -e 's/#.*$//'                       \
-    -e '/^0.0.0.0/!d'                   \
     -e 's/[ \t]*$//'                    \
+    -e '/^0.0.0.0/!d'                   \
      < $temphosts1 | sort -u > $temphosts2
 
 # Remove 0.0.0.0 accidentally referring to itself
