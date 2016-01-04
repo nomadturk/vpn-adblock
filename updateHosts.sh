@@ -1,6 +1,7 @@
 #!/bin/bash
 # Last revision: 2016/01/04
-# Nomad
+# Script originally belongs to SteveRiley, thanks for the work.
+# I just did some modifications, bug fixing etc.
 
 # Let's create our temporary files
 temphosts1=$(mktemp)
