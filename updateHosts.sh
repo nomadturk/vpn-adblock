@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# Last revision: 2016/01/04
+# Nomad
 
 # Let's create our temporary files
 temphosts1=$(mktemp)
@@ -46,7 +47,14 @@ sed -i 's/^0.0.0.0\\t0.0.0.0/0.0.0.0/' $temphosts2
 
 # Combine system hosts with adblocks
 echo "Creating supplementary hosts file is complete..."
-echo -e "\n# Ad blocking hosts generated "$(date) | cat $temphosts2 > ~/hosts.supp
+echo -e "#<local-data>" > ~/hosts.supp
+echo -e "\n# Ad blocking hosts generated "$(date) >> ~/hosts.supp
+cat $temphosts2 > ~/hosts.supp.tmp
+totallines="$(grep --regexp="$" --count ~/hosts.supp.tmp)"
+echo -e "# Total number of blocked hosts are:" $totallines >> ~/hosts.supp
+rm -rf ~/hosts.supp.tmp
+cat $temphosts2 >> ~/hosts.supp
+echo -e "#</local-data>" >> ~/hosts.supp
 # Clean up temp files and remind user to copy new file
 echo "Time to clean up..."
 rm $temphosts1 $temphosts2
