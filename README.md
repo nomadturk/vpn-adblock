@@ -4,7 +4,7 @@ I do use Softether VPN, DNSMasq and some cron jobs to ensure it's running stable
 
 This repo consolidates several reputable `hosts` files and consolidates them into a single hosts file that you can use.
 
-**Currently this hosts file contains 48674 unique entries.**
+**Currently this hosts file contains 68342 unique entries.**
 
 ## Source of hosts are listed here
 
