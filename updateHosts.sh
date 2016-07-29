@@ -10,12 +10,16 @@ temphosts2=$(mktemp)
 # Obtain various hosts files and merge into one
 # You can add/remove more as you wish.
 echo "Downloading ad-blocking hosts files..."
-curl -sS http://winhelp2002.mvps.org/hosts.txt > $temphosts1
-curl -sS http://someonewhocares.org/hosts/zero/hosts >> $temphosts1
-curl -sS "http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0" >> $temphosts1
-curl -sS https://raw.githubusercontent.com/nomadturk/vpn-adblock/master/hosts-sources/Turkish/hosts >> $temphosts1
-curl -sS https://adaway.org/hosts.txt >> $temphosts1
-curl -sS http://www.malwaredomainlist.com/hostslist/hosts.txt >> $temphosts1
+curl -ksS http://winhelp2002.mvps.org/hosts.txt > $temphosts1
+curl -ksS http://someonewhocares.org/hosts/zero/hosts >> $temphosts1
+curl -ksS "http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0" >> $temphosts1
+curl -ksS https://raw.githubusercontent.com/nomadturk/vpn-adblock/master/hosts-sources/Turkish/hosts >> $temphosts1
+curl -ksS https://adaway.org/hosts.txt >> $temphosts1
+curl -ksS http://www.malwaredomainlist.com/hostslist/hosts.txt >> $temphosts1
+curl -ksS http://hosts-file.net/ad_servers.txt >> $temphosts1
+curl -ksS https://github.com/nomadturk/hosts/raw/master/data/Turkish/hosts >> $temphosts1
+curl -ksS https://github.com/nomadturk/hosts/raw/master/data/nomad/hosts  >> $temphosts1
+
 
 # Do some work on the file:
 # 1. Remove MS-DOS carriage returns
