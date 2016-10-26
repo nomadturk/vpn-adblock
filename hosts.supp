@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Oct 25 02:30:19 CEST 2016
+# Ad blocking hosts generated Wed Oct 26 02:30:13 CEST 2016
 # Total number of blocked hosts are: 68783
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -33344,7 +33344,6 @@
 0.0.0.0	dashboardnew.adcalls.nl
 0.0.0.0	dashboard.qubitproducts.com
 0.0.0.0	dashboard.trafficforce.com
-0.0.0.0	dashlinen.testing-domain-live.co.uk
 0.0.0.0	dash.scorpiointeractive.com
 0.0.0.0	dasoertl.ivwbox.de
 0.0.0.0	dastelef.ivwbox.de
@@ -44823,6 +44822,7 @@
 0.0.0.0	mrss.ads.moguldom.com
 0.0.0.0	mrtg.hitbox.com
 0.0.0.0	mrwjy.voluumtrk.com
+0.0.0.0	ms0x0000001341.club
 0.0.0.0	ms11.net
 0.0.0.0	ms49r.voluumtrk.com
 0.0.0.0	ms.5.p2l.info
