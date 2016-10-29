@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Oct 28 02:30:18 CEST 2016
-# Total number of blocked hosts are: 68787
+# Ad blocking hosts generated Sat Oct 29 02:30:18 CEST 2016
+# Total number of blocked hosts are: 68785
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -19424,7 +19424,6 @@
 0.0.0.0	adserver.prodigy.net
 0.0.0.0	adserver.proteinos.com
 0.0.0.0	adserverpub.com
-0.0.0.0	adserver.quizdingo.com
 0.0.0.0	adserver.radio-canada.ca
 0.0.0.0	adserver.ratestar.net
 0.0.0.0	adserver.realhomesex.net
@@ -25858,7 +25857,6 @@
 0.0.0.0	banner.vrs.cz
 0.0.0.0	bannerware.com
 0.0.0.0	bannerweb.com
-0.0.0.0	banner.webmersion.com
 0.0.0.0	bannerwebservice.zvz.co.il
 0.0.0.0	banner.webtools24.net
 0.0.0.0	banner.westernunion.com
@@ -49606,7 +49604,6 @@
 0.0.0.0	ranking-street.de
 0.0.0.0	ranking.ynet.com
 0.0.0.0	rank-master.com
-0.0.0.0	rank-master.de
 0.0.0.0	rankmytattoos.us.intellitxt.com
 0.0.0.0	ranks.boardtracker.com
 0.0.0.0	ranks.com
@@ -54032,6 +54029,7 @@
 0.0.0.0	su.addthis.com
 0.0.0.0	suads.sulekha.com
 0.0.0.0	s.uadx.com
+0.0.0.0	suavalds.com
 0.0.0.0	subad-server.com
 0.0.0.0	subaruofamerica.112.2o7.net
 0.0.0.0	sub.hablum.info
