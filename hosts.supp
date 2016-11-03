@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Nov 2 02:30:19 CET 2016
-# Total number of blocked hosts are: 68789
+# Ad blocking hosts generated Thu Nov 3 02:30:21 CET 2016
+# Total number of blocked hosts are: 68862
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -12,6 +12,7 @@
 0.0.0.0	008.free-counter.co.uk
 0.0.0.0	008.free-counters.co.uk
 0.0.0.0	00fun.com
+0.0.0.0	00zasdf.pw
 0.0.0.0	0101011.com
 0.0.0.0	011707160008.c.mystat-in.net
 0.0.0.0	011i5.voluumtrk.com
@@ -2025,6 +2026,10 @@
 0.0.0.0	abandonment.saas.seewhy.com
 0.0.0.0	abbie-surber.us
 0.0.0.0	abbott.vo.llnwd.net
+0.0.0.0	abbp1.pw
+0.0.0.0	abbp1.science
+0.0.0.0	abbp1.space
+0.0.0.0	abbp1.website
 0.0.0.0	abby-clowers.us
 0.0.0.0	abbyssh.freestats.com
 0.0.0.0	abc-ads.com
@@ -20501,6 +20506,8 @@
 0.0.0.0	ads.pastemagazine.com
 0.0.0.0	ads.patch.com
 0.0.0.0	ads.paxnet.co.kr
+0.0.0.0	adspayformymortgage.win
+0.0.0.0	adspayformy.site
 0.0.0.0	adspcces.ero-advertising.com
 0.0.0.0	adsp.ciner.com.tr
 0.0.0.0	ads.p-club.net
@@ -22651,6 +22658,7 @@
 0.0.0.0	aff.shopmania.bg
 0.0.0.0	aff.summercart.com
 0.0.0.0	aff.tagcdn.com
+0.0.0.0	afftrack001.com
 0.0.0.0	afftrack.box.tmpds286.trkag1.com
 0.0.0.0	afftrack.com
 0.0.0.0	afftracker.info
@@ -26187,6 +26195,7 @@
 0.0.0.0	betatest.adition.com
 0.0.0.0	bet-at-home.com
 0.0.0.0	betburdaaffiliates.com
+0.0.0.0	betclic.com
 0.0.0.0	betcollect.247realmedia.com
 0.0.0.0	bet.demdex.net
 0.0.0.0	bethany-wentz.us
@@ -29012,8 +29021,26 @@
 0.0.0.0	cdn-0.pics.dvdcdn.com
 0.0.0.0	cdn0.puata.info
 0.0.0.0	cdn10-ref.landing.comcontent.net
+0.0.0.0	cdn11.00zasdf.pw
+0.0.0.0	cdn11.abbp1.pw
+0.0.0.0	cdn11.abbp1.science
+0.0.0.0	cdn11.abbp1.space
+0.0.0.0	cdn11.abbp1.website
+0.0.0.0	cdn11.adspayformymortgage.win
+0.0.0.0	cdn11.adspayformy.site
 0.0.0.0	cdn11.contentabc.com
+0.0.0.0	cdn11.monzta.pet
+0.0.0.0	cdn11.oknplm.website
+0.0.0.0	cdn11.olmknp.space
+0.0.0.0	cdn11.pleasedontslaymy.download
+0.0.0.0	cdn11.plmokn.pw
+0.0.0.0	cdn11.poolnoodle.tech
 0.0.0.0	cdn11-ref.landing.comcontent.net
+0.0.0.0	cdn11.routehero.com
+0.0.0.0	cdn11.tgbvfr.website
+0.0.0.0	cdn11.yuiop.trade
+0.0.0.0	cdn11.yuiout.online
+0.0.0.0	cdn11.zxcvb.space
 0.0.0.0	cdn12-ref.landing.comcontent.net
 0.0.0.0	cdn13-ref.landing.comcontent.net
 0.0.0.0	cdn14-ref.landing.comcontent.net
@@ -32535,10 +32562,15 @@
 0.0.0.0	coxtv.us.intellitxt.com
 0.0.0.0	cp1dk.voluumtrk.com
 0.0.0.0	cpaaltima.go2cloud.org
+0.0.0.0	cp.abbp1.pw
+0.0.0.0	cp.abbp1.science
+0.0.0.0	cp.abbp1.space
+0.0.0.0	cp.abbp1.website
 0.0.0.0	cpabrasil.go2cloud.org
 0.0.0.0	cpacampaigns.directtrack.com
 0.0.0.0	cpadna1.com
 0.0.0.0	cpadoc.com
+0.0.0.0	cp.adspayformy.site
 0.0.0.0	c.p-advg.com
 0.0.0.0	cpafull.go2cloud.org
 0.0.0.0	cpagrip.com
@@ -32585,6 +32617,7 @@
 0.0.0.0	cpmfun.com
 0.0.0.0	cpmleader.com
 0.0.0.0	cpm.live6.com
+0.0.0.0	cp.monzta.pet
 0.0.0.0	cpm-plus.com
 0.0.0.0	cpmstar.com
 0.0.0.0	cpm.super-links.net
@@ -32594,11 +32627,13 @@
 0.0.0.0	c.pocitadlo.sk
 0.0.0.0	c.popunderz.com
 0.0.0.0	cp.pleasedontslaymy.download
+0.0.0.0	cp.poolnoodle.tech
 0.0.0.0	cp.promoisland.net
 0.0.0.0	cp.pushwoosh.com
 0.0.0.0	cpro.baidu.com
 0.0.0.0	cpro.baidustatic.com
 0.0.0.0	c.prodigy.msn.com
+0.0.0.0	cp.routehero.com
 0.0.0.0	cp.surf-town.net
 0.0.0.0	c.pt.msn.com
 0.0.0.0	cpu.firingsquad.com
@@ -32615,6 +32650,8 @@
 0.0.0.0	cpxinteractive.com
 0.0.0.0	cpxl.golem.de
 0.0.0.0	cpxmobile.go2cloud.org
+0.0.0.0	cp.yuiop.trade
+0.0.0.0	cp.yuiout.online
 0.0.0.0	cqcounter.com
 0.0.0.0	cqji.artidentalkurs.com
 0.0.0.0	cqyoj.voluumtrk.com
@@ -36257,6 +36294,7 @@
 0.0.0.0	firmenw.ivwbox.de
 0.0.0.0	firstadnetwork.go2cloud.org
 0.0.0.0	firstfinda.info
+0.0.0.0	firstgame.xyz
 0.0.0.0	firstlightera.com
 0.0.0.0	firstload.com
 0.0.0.0	firstlook.com
@@ -37254,6 +37292,7 @@
 0.0.0.0	funsilly.com
 0.0.0.0	funskins.ezthemes.com
 0.0.0.0	funstun.com
+0.0.0.0	funtabsafe.com
 0.0.0.0	fun-town.com
 0.0.0.0	furious.adman.gr
 0.0.0.0	furniturecom.112.2o7.net
@@ -37426,6 +37465,7 @@
 0.0.0.0	gask.hit.gemius.pl
 0.0.0.0	gastar.ivwbox.de
 0.0.0.0	gastrointestinal.1.p2l.info
+0.0.0.0	gasurvey.gemius.com
 0.0.0.0	gata.ero-advertising.com
 0.0.0.0	g.atdmt.com
 0.0.0.0	gatehousemedia.122.2o7.net
@@ -40848,6 +40888,7 @@
 0.0.0.0	jennycraig.112.2o7.net
 0.0.0.0	jeolk.voluumtrk.com
 0.0.0.0	je.revolvermaps.com
+0.0.0.0	jerichoplay.com
 0.0.0.0	jerrcotch.com
 0.0.0.0	jerrica-abraham.us
 0.0.0.0	jerrica-godinez.us
@@ -42655,6 +42696,7 @@
 0.0.0.0	l.popin.cc
 0.0.0.0	lp.plan-q-secret.com
 0.0.0.0	lp.sekindo.co.il
+0.0.0.0	lp.sexyadults.eu
 0.0.0.0	lp.sharelive.net
 0.0.0.0	lp.stargames.com
 0.0.0.0	lp.sumorobo.net
@@ -44549,6 +44591,7 @@
 0.0.0.0	mobcdn.com
 0.0.0.0	mobclix.com
 0.0.0.0	mobday.com
+0.0.0.0	mobfactory.info
 0.0.0.0	mobfox.com
 0.0.0.0	mobgold.com
 0.0.0.0	mobhero.com
@@ -44720,6 +44763,7 @@
 0.0.0.0	monstersandcritics.advertserve.com
 0.0.0.0	monstersandcritics.uk.intellitxt.com
 0.0.0.0	montezuma.spb.ru
+0.0.0.0	monzta.pet
 0.0.0.0	moodoo.com.cn
 0.0.0.0	moodoocrv.com.cn
 0.0.0.0	moo.go2cloud.org
@@ -46696,6 +46740,7 @@
 0.0.0.0	oklahomadepartmentofcommerce.112.2o7.net
 0.0.0.0	okmagazine.us.intellitxt.com
 0.0.0.0	oknarai.ru
+0.0.0.0	oknplm.website
 0.0.0.0	okohp.voluumtrk.com
 0.0.0.0	okpgn.voluumtrk.com
 0.0.0.0	okrg0.voluumtrk.com
@@ -46713,6 +46758,7 @@
 0.0.0.0	olivia-hermes.us
 0.0.0.0	olivia-stanfield.us
 0.0.0.0	olizyr.com
+0.0.0.0	olmknp.space
 0.0.0.0	ol.uk.at.atwola.com
 0.0.0.0	olx.hit.gemius.pl
 0.0.0.0	om.1and1.co.uk
@@ -48318,7 +48364,9 @@
 0.0.0.0	play.traffpartners.com
 0.0.0.0	plb27.voluumtrk.com
 0.0.0.0	pl.bbelements.com
+0.0.0.0	pl.betclic.com
 0.0.0.0	pldev.112.2o7.net
+0.0.0.0	pleasedontslaymy.download
 0.0.0.0	plemedia.com
 0.0.0.0	plemx.com
 0.0.0.0	plenews.net
@@ -48334,6 +48382,7 @@
 0.0.0.0	plista.com
 0.0.0.0	pll28.voluumtrk.com
 0.0.0.0	pl.marketgid.com
+0.0.0.0	plmokn.pw
 0.0.0.0	plocia.com
 0.0.0.0	p-log.ykimg.com
 0.0.0.0	ploko.voluumtrk.com
@@ -48444,6 +48493,7 @@
 0.0.0.0	pool-colruytgroup.adhese.com
 0.0.0.0	pool.dichtbij.adhese.com
 0.0.0.0	pool.euroads.no
+0.0.0.0	poolnoodle.tech
 0.0.0.0	pool-nrc.adhese.com
 0.0.0.0	pool.nrc.adhese.com
 0.0.0.0	pool.pebblemedia.adhese.com
@@ -48763,6 +48813,7 @@
 0.0.0.0	profile.uproxx.com
 0.0.0.0	profiling.avandor.com
 0.0.0.0	profiling.veoxa.com
+0.0.0.0	profitboosterapp.com
 0.0.0.0	profitreload.com
 0.0.0.0	profitshare.bg
 0.0.0.0	profitshare.emag.ro
@@ -50384,6 +50435,7 @@
 0.0.0.0	rotor6.newzfind.com
 0.0.0.0	rotrk.com
 0.0.0.0	roulette-online.petrovka.info
+0.0.0.0	routehero.com
 0.0.0.0	router01.ixn.local.vmsn.de
 0.0.0.0	router02.ixn.local.vmsn.de
 0.0.0.0	router03.ixn.local.vmsn.de
@@ -54963,6 +55015,7 @@
 0.0.0.0	t.frtyg.com
 0.0.0.0	tga.acs86.com
 0.0.0.0	tga.csbew.com
+0.0.0.0	tgbvfr.website
 0.0.0.0	tgdaily.us.intellitxt.com
 0.0.0.0	tgd.timesonline.co.uk
 0.0.0.0	tgn.122.2o7.net
@@ -56534,6 +56587,7 @@
 0.0.0.0	trafic.ro
 0.0.0.0	trafmag.com
 0.0.0.0	trafsearchonline.com
+0.0.0.0	trafstarcurlms.com
 0.0.0.0	traf.visit-x.net
 0.0.0.0	trahic.ru
 0.0.0.0	trailblazers.122.2o7.net
@@ -57390,6 +57444,7 @@
 0.0.0.0	ultracet.1.p2l.info
 0.0.0.0	ultram.1.p2l.info
 0.0.0.0	ultramercial.com
+0.0.0.0	ultraministry.xyz
 0.0.0.0	ultrasponsor.com
 0.0.0.0	ultsearch.com
 0.0.0.0	umbel.com
@@ -62840,7 +62895,9 @@
 0.0.0.0	ws7.surf-town.net
 0.0.0.0	ws8.surf-town.net
 0.0.0.0	ws9.surf-town.net
+0.0.0.0	ws.abbp1.pw
 0.0.0.0	ws.abbp1.science
+0.0.0.0	ws.abbp1.space
 0.0.0.0	ws.abbp1.website
 0.0.0.0	ws.addthis.com
 0.0.0.0	ws.adspayformymortgage.win
@@ -62862,13 +62919,20 @@
 0.0.0.0	wsclick.infospace.com
 0.0.0.0	w-script.com
 0.0.0.0	ws-eu.amazon-adsystem.com
+0.0.0.0	wsg.abbp1.pw
 0.0.0.0	w.sharethis.com
 0.0.0.0	wsi1.surf-town.net
+0.0.0.0	ws.monzta.pet
 0.0.0.0	ws-na.amazon-adsystem.com
 0.0.0.0	wsod.com
+0.0.0.0	ws.oknplm.website
+0.0.0.0	ws.olmknp.space
 0.0.0.0	wsp1.surf-town.net
+0.0.0.0	ws.pleasedontslaymy.download
+0.0.0.0	ws.plmokn.pw
 0.0.0.0	ws.poolnoodle.tech
 0.0.0.0	wsq.umeng.com
+0.0.0.0	ws.routehero.com
 0.0.0.0	wss-gw-1.hitbox.com
 0.0.0.0	wss-gw-3.hitbox.com
 0.0.0.0	ws.sharethis.com
@@ -62877,6 +62941,7 @@
 0.0.0.0	wsstatic.govmetric.com
 0.0.0.0	ws.tapjoyads.com
 0.0.0.0	wstat.wibiya.com
+0.0.0.0	ws.tgbvfr.website
 0.0.0.0	wsw1.surf-town.net
 0.0.0.0	wsw2.surf-town.net
 0.0.0.0	wsw3.surf-town.net
@@ -62887,6 +62952,9 @@
 0.0.0.0	wswb3.surf-town.net
 0.0.0.0	wsw.ero-advertising.com
 0.0.0.0	ws.yellowpages.ca
+0.0.0.0	ws.yuiop.trade
+0.0.0.0	ws.yuiout.online
+0.0.0.0	ws.zxcvb.space
 0.0.0.0	wt01.webtrekk.net
 0.0.0.0	wt10.haote.com
 0.0.0.0	wta.ero-advertising.com
@@ -63696,6 +63764,7 @@
 0.0.0.0	www.adspace.be
 0.0.0.0	www.ad-space.net
 0.0.0.0	www.adspaces.ero-advertising.com
+0.0.0.0	www.adspayformy.site
 0.0.0.0	www.adspeed.com
 0.0.0.0	www.adsphinx.com
 0.0.0.0	www.adspics.com
@@ -66701,6 +66770,7 @@
 0.0.0.0	www.platinscience.com
 0.0.0.0	www.platinumbucks.com
 0.0.0.0	www.playertraffic.com
+0.0.0.0	www.pleasedontslaymy.download
 0.0.0.0	www.plocia.com
 0.0.0.0	www.plug-media.com
 0.0.0.0	www.plus500.com
@@ -68518,6 +68588,8 @@
 0.0.0.0	ytaahg.vo.llnwd.net
 0.0.0.0	ytubevideoqualitymanager.com
 0.0.0.0	yuilop.com
+0.0.0.0	yuiop.trade
+0.0.0.0	yuiout.online
 0.0.0.0	yukoyuko.112.2o7.net
 0.0.0.0	yume.com
 0.0.0.0	yumekin.com
@@ -68772,6 +68844,7 @@
 0.0.0.0	zv.zeroredirect1.com
 0.0.0.0	zww.ero-advertising.com
 0.0.0.0	zw.zeroredirect1.com
+0.0.0.0	zxcvb.space
 0.0.0.0	zxypenguin.people-group.su
 0.0.0.0	zx.zeroredirect1.com
 0.0.0.0	zyban.1.p2l.info
