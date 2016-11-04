@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Nov 3 02:30:21 CET 2016
-# Total number of blocked hosts are: 68862
+# Ad blocking hosts generated Fri Nov 4 02:30:20 CET 2016
+# Total number of blocked hosts are: 68863
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -39286,6 +39286,7 @@
 0.0.0.0	httpool.nuggad.net
 0.0.0.0	httpoolsr.nuggad.net
 0.0.0.0	httpring.qq.com
+0.0.0.0	http://rpmdo.com/
 0.0.0.0	https.edge.ru4.com
 0.0.0.0	http.tidaltv.com.10088.9022.302br.net
 0.0.0.0	http.tidaltv.com.10089.9022.302br.net
