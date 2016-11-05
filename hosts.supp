@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Nov 4 02:30:20 CET 2016
-# Total number of blocked hosts are: 68863
+# Ad blocking hosts generated Sat Nov 5 02:30:20 CET 2016
+# Total number of blocked hosts are: 68864
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -25865,6 +25865,7 @@
 0.0.0.0	banner.vrs.cz
 0.0.0.0	bannerware.com
 0.0.0.0	bannerweb.com
+0.0.0.0	banner.webmersion.com
 0.0.0.0	bannerwebservice.zvz.co.il
 0.0.0.0	banner.webtools24.net
 0.0.0.0	banner.westernunion.com
@@ -39262,6 +39263,7 @@
 0.0.0.0	htmlcenter.us.intellitxt.com
 0.0.0.0	html.centralmediaserver.com
 0.0.0.0	htmlcounter.com
+0.0.0.0	htmlhubing.xyz
 0.0.0.0	html-images.realnetworks.com
 0.0.0.0	html.knbc.com
 0.0.0.0	html.nbc10.com
@@ -39286,7 +39288,6 @@
 0.0.0.0	httpool.nuggad.net
 0.0.0.0	httpoolsr.nuggad.net
 0.0.0.0	httpring.qq.com
-0.0.0.0	http://rpmdo.com/
 0.0.0.0	https.edge.ru4.com
 0.0.0.0	http.tidaltv.com.10088.9022.302br.net
 0.0.0.0	http.tidaltv.com.10089.9022.302br.net
@@ -41619,7 +41620,6 @@
 0.0.0.0	ksta.ivwbox.de
 0.0.0.0	kszmp.voluumtrk.com
 0.0.0.0	kt4.kliptracker.com
-0.0.0.0	kt-g.de
 0.0.0.0	ktmoh.voluumtrk.com
 0.0.0.0	kt.tns-gallup.dk
 0.0.0.0	ktu.sv2.biz
@@ -47502,7 +47502,6 @@
 0.0.0.0	pagepeels.sexmoney.com
 0.0.0.0	pagerank4you.com
 0.0.0.0	pagerank.jklir.net
-0.0.0.0	pagerank-ranking.com
 0.0.0.0	pagerank-ranking.de
 0.0.0.0	pagerank.scambiositi.com
 0.0.0.0	pagerank-submitter.de
@@ -50465,6 +50464,7 @@
 0.0.0.0	r.pixel.trafficmp.com
 0.0.0.0	rpjf.com
 0.0.0.0	rp.mamamama2.com
+0.0.0.0	rpmdo.com
 0.0.0.0	rpm-images.newrelic.com
 0.0.0.0	rp-online.met.vgwort.de
 0.0.0.0	rponl.ivwbox.de
@@ -51041,6 +51041,7 @@
 0.0.0.0	sa.entireweb.com
 0.0.0.0	safaribooks.112.2o7.net
 0.0.0.0	safari-critical-alert.com
+0.0.0.0	safedownloadcenter.com
 0.0.0.0	safedownloadnow.work
 0.0.0.0	safedownloadsrus166.com
 0.0.0.0	safe-es.imrworldwide.com
