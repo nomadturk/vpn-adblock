@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Nov 8 02:30:30 CET 2016
-# Total number of blocked hosts are: 68868
+# Ad blocking hosts generated Wed Nov 9 02:30:17 CET 2016
+# Total number of blocked hosts are: 68875
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -29368,6 +29368,9 @@
 0.0.0.0	cdn.freefaits.com
 0.0.0.0	cdn.freefarcy.com
 0.0.0.0	cdn.freehalves.com
+0.0.0.0	cdn.freehas.com
+0.0.0.0	cdn.freehonor.com
+0.0.0.0	cdn.freeimply.com
 0.0.0.0	cdn.frestacero.com
 0.0.0.0	cdn.ftdownloader.net
 0.0.0.0	cdn.funnel.naturaltracking.com
@@ -29676,6 +29679,7 @@
 0.0.0.0	cengagecsinfosec.112.2o7.net
 0.0.0.0	c.enhance.com
 0.0.0.0	cent.adbureau.net
+0.0.0.0	center-message-mobile.com
 0.0.0.0	centerpoint.hitbox.com
 0.0.0.0	centertrk.com
 0.0.0.0	centik.justclick.ru
@@ -38273,6 +38277,7 @@
 0.0.0.0	gottabemobile.us.intellitxt.com
 0.0.0.0	go.underclick.ru
 0.0.0.0	gourmetgiftbaskets.112.2o7.net
+0.0.0.0	go.verymuchad.com
 0.0.0.0	goviral.com
 0.0.0.0	goviralnetwork.com
 0.0.0.0	goviralnetwork.net
@@ -47683,6 +47688,7 @@
 0.0.0.0	partners.xpertmarket.com
 0.0.0.0	partners.yobt.com
 0.0.0.0	partners.yobt.tv
+0.0.0.0	partner.tagscreator.com
 0.0.0.0	partner.teufel.de
 0.0.0.0	partner.topcities.com
 0.0.0.0	partner-ts.groupon.be
@@ -49580,6 +49586,7 @@
 0.0.0.0	r6.cooleremail.com
 0.0.0.0	r6qz8.voluumtrk.com
 0.0.0.0	r7.cooleremail.com
+0.0.0.0	r7mediar.com
 0.0.0.0	r8.cooleremail.com
 0.0.0.0	r9.cooleremail.com
 0.0.0.0	r9pyq.voluumtrk.com
