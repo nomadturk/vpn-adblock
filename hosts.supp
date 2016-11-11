@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Nov 10 02:30:25 CET 2016
-# Total number of blocked hosts are: 68875
+# Ad blocking hosts generated Fri Nov 11 02:30:16 CET 2016
+# Total number of blocked hosts are: 68887
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -29371,6 +29371,9 @@
 0.0.0.0	cdn.freehas.com
 0.0.0.0	cdn.freehonor.com
 0.0.0.0	cdn.freeimply.com
+0.0.0.0	cdn.freeinfringe.com
+0.0.0.0	cdn.freejars.com
+0.0.0.0	cdn.freejax.com
 0.0.0.0	cdn.frestacero.com
 0.0.0.0	cdn.ftdownloader.net
 0.0.0.0	cdn.funnel.naturaltracking.com
@@ -38268,6 +38271,7 @@
 0.0.0.0	go.theadsnet.com
 0.0.0.0	gotlaughs.com
 0.0.0.0	gotoast.com
+0.0.0.0	goto.mystreamdelivery.xyz
 0.0.0.0	gotoo.com
 0.0.0.0	goto.trafficmultiplier.com
 0.0.0.0	go.toutapp.com
@@ -40257,6 +40261,7 @@
 0.0.0.0	indieclick.3janecdn.com
 0.0.0.0	indieclick.com
 0.0.0.0	indigio.122.2o7.net
+0.0.0.0	indisancal.com
 0.0.0.0	indium.openx.net
 0.0.0.0	indocpa.go2cloud.org
 0.0.0.0	INDpolice.com
@@ -41627,6 +41632,7 @@
 0.0.0.0	kszmp.voluumtrk.com
 0.0.0.0	kt4.kliptracker.com
 0.0.0.0	ktmoh.voluumtrk.com
+0.0.0.0	ktrackdata.com
 0.0.0.0	kt.tns-gallup.dk
 0.0.0.0	ktu.sv2.biz
 0.0.0.0	ktva.112.2o7.net
@@ -41715,6 +41721,7 @@
 0.0.0.0	lakequincy.com
 0.0.0.0	lakeshore.d1.sc.omtrdc.net
 0.0.0.0	lamictal.about-tabs.com
+0.0.0.0	lamiflor.xyz
 0.0.0.0	lamisil.about-tabs.com
 0.0.0.0	landing.adhall.com
 0.0.0.0	landing.appia.com
@@ -45196,6 +45203,7 @@
 0.0.0.0	myprivateemails.com
 0.0.0.0	my-reward-channel.com
 0.0.0.0	my-rewardsvault.com
+0.0.0.0	mysagagame.com
 0.0.0.0	mysavings.directtrack.com
 0.0.0.0	myscoop-tracking.googlecode.com
 0.0.0.0	myscreen.com
@@ -45752,6 +45760,7 @@
 0.0.0.0	nht-3.extreme-dm.com
 0.0.0.0	ni3.imlive.com
 0.0.0.0	ni8bd.voluumtrk.com
+0.0.0.0	nicappazaza.com
 0.0.0.0	nickde.oewabox.at
 0.0.0.0	nickleplatedads.com
 0.0.0.0	nicolette-brier.us
@@ -47164,7 +47173,6 @@
 0.0.0.0	oreo.iawsnetwork.com
 0.0.0.0	oreo.matchmaker.com
 0.0.0.0	orf.oewabox.at
-0.0.0.0	orientaltrading.com
 0.0.0.0	origin2.adsdk.com
 0.0.0.0	origin.chron.com
 0.0.0.0	origin.privoy.doublepimp.com
@@ -48048,6 +48056,7 @@
 0.0.0.0	photos.daily-deals.analoganalytics.com
 0.0.0.0	photoshop-master.org
 0.0.0.0	photos.pop6.com
+0.0.0.0	phox2ey.bid
 0.0.0.0	php4you.biz
 0.0.0.0	phpads.astalavista.us
 0.0.0.0	phpads.cnpapers.com
@@ -50977,7 +50986,6 @@
 0.0.0.0	s7.adaces.ero-advertising.com
 0.0.0.0	s7.addthis.com
 0.0.0.0	s7.cnzz.com
-0.0.0.0	s7.orientaltrading.com
 0.0.0.0	s7.shinystat.com
 0.0.0.0	s80.cnzz.com
 0.0.0.0	s83.cnzz.com
@@ -51587,6 +51595,7 @@
 0.0.0.0	secure.pubdirecte.com
 0.0.0.0	secure.quantserve.com
 0.0.0.0	secure.redirectportal.com
+0.0.0.0	securerr.com
 0.0.0.0	securerunner.com
 0.0.0.0	secure-sg.imrworldwide.com
 0.0.0.0	secure.statcounter.com
@@ -55585,6 +55594,7 @@
 0.0.0.0	touche.adcentric.proximi-t.com
 0.0.0.0	tour.affbuzzads.com
 0.0.0.0	tour.brazzers.com
+0.0.0.0	tour.cineble.com
 0.0.0.0	tournevis.ovh
 0.0.0.0	tours.imlive.com
 0.0.0.0	tour.SweetDiscreet.com
@@ -64200,6 +64210,7 @@
 0.0.0.0	www.bernadette-stefanski.us
 0.0.0.0	www.bestdealconnector.com
 0.0.0.0	www.bestfwdservice.com
+0.0.0.0	www.best-games4you.top
 0.0.0.0	www.besthitsnow.com
 0.0.0.0	www.best-iphone6s.com
 0.0.0.0	www.bestofreeapps.com
@@ -68343,6 +68354,7 @@
 0.0.0.0	xml2.trafficsyndicate.com
 0.0.0.0	xml.adfclick1.com
 0.0.0.0	xml.admanage.com
+0.0.0.0	xml.adservme.com
 0.0.0.0	xml.adsparkmedia.net
 0.0.0.0	xml.adtech.de
 0.0.0.0	xml.adtech.fr
