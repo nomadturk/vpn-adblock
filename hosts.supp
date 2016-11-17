@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Nov 16 02:30:18 CET 2016
-# Total number of blocked hosts are: 68902
+# Ad blocking hosts generated Thu Nov 17 02:30:18 CET 2016
+# Total number of blocked hosts are: 68907
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -21072,7 +21072,6 @@
 0.0.0.0	ads.smowtion.com
 0.0.0.0	ads.snowball.com
 0.0.0.0	ads.socialbakers.com
-0.0.0.0	ads.socialmedia.com
 0.0.0.0	ads.socialreach.com
 0.0.0.0	ads.socialtheater.com
 0.0.0.0	ads.sockshots.com
@@ -23359,7 +23358,6 @@
 0.0.0.0	androidsdk.ads.mp.mydas.mobi
 0.0.0.0	androidsk.ads.mp.mydas.mobi
 0.0.0.0	andropit.ivwbox.de
-0.0.0.0	andysgame.com
 0.0.0.0	anet.apx.appier.net
 0.0.0.0	anet.c.appier.net
 0.0.0.0	anetch.tradedoubler.com
@@ -26289,6 +26287,10 @@
 0.0.0.0	bigbrandpromotions.com
 0.0.0.0	bigbrandrewards.com
 0.0.0.0	bigclicks.com
+0.0.0.0	bigdata.adfuture.cn
+0.0.0.0	bigdata.adsunflower.com
+0.0.0.0	bigdata.adups.com
+0.0.0.0	bigdata.advmob.cn
 0.0.0.0	bigfatbaby.com
 0.0.0.0	bigfreelotto.com
 0.0.0.0	biggestgiftrewards.com
@@ -28771,6 +28773,7 @@
 0.0.0.0	canwestdose.112.2o7.net
 0.0.0.0	canwestglobal.112.2o7.net
 0.0.0.0	can.you.shut.the.fuck.up.at.bnex.com
+0.0.0.0	c.anytrx.com
 0.0.0.0	c.aol.com
 0.0.0.0	ca.origin.startappservice.com
 0.0.0.0	cap1ss.xp1.ru4.com
@@ -40784,6 +40787,7 @@
 0.0.0.0	j0q3w.voluumtrk.com
 0.0.0.0	j1alc.voluumtrk.com
 0.0.0.0	j.2004cms.com
+0.0.0.0	j3safetyismyname.com
 0.0.0.0	j3vcj.voluumtrk.com
 0.0.0.0	j4sgq.voluumtrk.com
 0.0.0.0	j4.signclck.com
@@ -55603,6 +55607,7 @@
 0.0.0.0	touchclarity.com
 0.0.0.0	touchclarity.natwest.com
 0.0.0.0	touche.adcentric.proximi-t.com
+0.0.0.0	touch.media-serving.com
 0.0.0.0	tour.affbuzzads.com
 0.0.0.0	tour.brazzers.com
 0.0.0.0	tour.cineble.com
@@ -57820,6 +57825,7 @@
 0.0.0.0	v.admob.com
 0.0.0.0	vads.adbrite.com
 0.0.0.0	vaime.net.popunder.ru
+0.0.0.0	vaitu.club
 0.0.0.0	valarie-clack.us
 0.0.0.0	valarie-kummer.us
 0.0.0.0	valb.atm.youku.com
@@ -64262,7 +64268,6 @@
 0.0.0.0	www.bigpenisguide.com
 0.0.0.0	www.bigsister.cxa.de
 0.0.0.0	www.bigsister-puff.cxa.de
-0.0.0.0	www.bilder-upload.eu
 0.0.0.0	www.bill-info.com
 0.0.0.0	www.bimm.in
 0.0.0.0	www.binarysystem4u.com
