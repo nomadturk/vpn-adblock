@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Nov 17 02:30:18 CET 2016
-# Total number of blocked hosts are: 68907
+# Ad blocking hosts generated Fri Nov 18 02:30:19 CET 2016
+# Total number of blocked hosts are: 68908
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -55488,6 +55488,7 @@
 0.0.0.0	top1.list.ru
 0.0.0.0	top1site.3host.com
 0.0.0.0	top20.com
+0.0.0.0	top20.com.invalid
 0.0.0.0	top20free.com
 0.0.0.0	top3.list.ru
 0.0.0.0	top50.co.uk
