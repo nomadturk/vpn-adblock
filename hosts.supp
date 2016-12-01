@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Nov 30 02:30:17 CET 2016
+# Ad blocking hosts generated Thu Dec 1 02:30:28 CET 2016
 # Total number of blocked hosts are: 69028
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -38496,7 +38496,6 @@
 0.0.0.0	group11.iperceptions.com
 0.0.0.0	groupe.go2cloud.org
 0.0.0.0	groupm.com
-0.0.0.0	groupon.pl
 0.0.0.0	groupware.adition.com
 0.0.0.0	grow.kissmetrics.com
 0.0.0.0	grsyd.voluumtrk.com
@@ -48684,6 +48683,7 @@
 0.0.0.0	popup.msn.com
 0.0.0.0	popupnation.com
 0.0.0.0	popup.oxcash.com
+0.0.0.0	popuppicker.com
 0.0.0.0	popups.ad-logics.com
 0.0.0.0	popups.infostart.com
 0.0.0.0	popup.smusic.ir
