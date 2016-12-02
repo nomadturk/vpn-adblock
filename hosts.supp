@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Dec 1 02:30:28 CET 2016
-# Total number of blocked hosts are: 69028
+# Ad blocking hosts generated Fri Dec 2 02:30:18 CET 2016
+# Total number of blocked hosts are: 69032
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -4009,6 +4009,7 @@
 0.0.0.0	ad.beepworld.de
 0.0.0.0	adbenefit.go2cloud.org
 0.0.0.0	ad.beritasatumedia.com
+0.0.0.0	adbers.com
 0.0.0.0	adbest.com
 0.0.0.0	adbest.net
 0.0.0.0	adb.fling.com
@@ -51008,6 +51009,7 @@
 0.0.0.0	s38.cnzz.com
 0.0.0.0	s38.sitemeter.com
 0.0.0.0	s39.sitemeter.com
+0.0.0.0	s3.adbers.com
 0.0.0.0	s3.addthis.com
 0.0.0.0	s3.buysellads.com
 0.0.0.0	s3bvd.voluumtrk.com
@@ -54290,6 +54292,7 @@
 0.0.0.0	supplements.1.p2l.info
 0.0.0.0	supply.upjers.com
 0.0.0.0	support.carmunity.de
+0.0.0.0	support.com-support-help.online
 0.0.0.0	support.crittercism.com
 0.0.0.0	support.hasoffers.com
 0.0.0.0	support.kissmetrics.com
@@ -56032,6 +56035,7 @@
 0.0.0.0	track.getflirting.com
 0.0.0.0	track.greatofferstoyou.net
 0.0.0.0	track.grmtracking.com
+0.0.0.0	track.happysitewriter.com
 0.0.0.0	track.homestead.com
 0.0.0.0	track.hotdrugsstore.in
 0.0.0.0	track.hubspot.com
