@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Dec 2 02:30:18 CET 2016
-# Total number of blocked hosts are: 69032
+# Ad blocking hosts generated Sat Dec 3 02:30:18 CET 2016
+# Total number of blocked hosts are: 69037
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -17993,6 +17993,7 @@
 0.0.0.0	ads29.hpg.com.br
 0.0.0.0	ads2.adbrite.com
 0.0.0.0	ads2.ad-flow.com
+0.0.0.0	ads2-adnow.com
 0.0.0.0	ads2ads.net
 0.0.0.0	ads2.advance.de
 0.0.0.0	ads2.advance.net
@@ -18595,7 +18596,6 @@
 0.0.0.0	ads.bigfoot.com
 0.0.0.0	ads.biggerboat.com
 0.0.0.0	ads.bigrebelads.com
-0.0.0.0	ads.billiton.de
 0.0.0.0	ads.bing.com
 0.0.0.0	ads.biscom.net
 0.0.0.0	ads.bitservices.no
@@ -34336,6 +34336,7 @@
 0.0.0.0	dowlatow.justclick.ru
 0.0.0.0	down2.feiyang163.com
 0.0.0.0	down3.feiyang163.com
+0.0.0.0	downads.com
 0.0.0.0	down.feiyang163.com
 0.0.0.0	down.guangsu.cn
 0.0.0.0	download1.pacificpoker.com
@@ -41667,6 +41668,7 @@
 0.0.0.0	ksta.ivwbox.de
 0.0.0.0	kszmp.voluumtrk.com
 0.0.0.0	kt4.kliptracker.com
+0.0.0.0	kt-g.de
 0.0.0.0	ktmoh.voluumtrk.com
 0.0.0.0	ktrackdata.com
 0.0.0.0	kt.tns-gallup.dk
@@ -45684,6 +45686,7 @@
 0.0.0.0	network-a.bazaarvoice.com
 0.0.0.0	network.adbullion.com
 0.0.0.0	network.adjal.com
+0.0.0.0	networkad.net
 0.0.0.0	network.adsmarket.com
 0.0.0.0	networkads.net
 0.0.0.0	network.advertise.com
@@ -48684,7 +48687,6 @@
 0.0.0.0	popup.msn.com
 0.0.0.0	popupnation.com
 0.0.0.0	popup.oxcash.com
-0.0.0.0	popuppicker.com
 0.0.0.0	popups.ad-logics.com
 0.0.0.0	popups.infostart.com
 0.0.0.0	popup.smusic.ir
@@ -49035,6 +49037,7 @@
 0.0.0.0	promotools.vpscash.nl
 0.0.0.0	promo.twistyscash.com
 0.0.0.0	promo.ulust.com
+0.0.0.0	promoviral.com
 0.0.0.0	promo.webmasterprofitcenter.com
 0.0.0.0	promo.worldprofitcenter.com
 0.0.0.0	promo.yahoo.com
@@ -50117,6 +50120,7 @@
 0.0.0.0	reklam9.net
 0.0.0.0	reklama.bgads.net
 0.0.0.0	reklamaction.com
+0.0.0.0	reklamagaci.com
 0.0.0.0	reklama.internet.cz
 0.0.0.0	reklama.mironet.cz
 0.0.0.0	reklama.neg.bg
@@ -50141,6 +50145,7 @@
 0.0.0.0	reklam.rfsl.se
 0.0.0.0	reklam.softreklam.com
 0.0.0.0	reklam.star.com.tr
+0.0.0.0	reklamtrk.com
 0.0.0.0	reklam.vogel.com.tr
 0.0.0.0	reklam.yonlendir.com
 0.0.0.0	reklamy.sfd.pl
