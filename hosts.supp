@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Dec 6 02:30:18 CET 2016
-# Total number of blocked hosts are: 69040
+# Ad blocking hosts generated Wed Dec 7 02:30:19 CET 2016
+# Total number of blocked hosts are: 69045
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -26388,6 +26388,7 @@
 0.0.0.0	bizzibeans.net
 0.0.0.0	bj02.cww.com
 0.0.0.0	bj04.com
+0.0.0.0	bj7kpvd.gandjaltilogoki.com
 0.0.0.0	bjvim.voluumtrk.com
 0.0.0.0	b.kavanga.ru
 0.0.0.0	bkrntr.netmng.com
@@ -29437,8 +29438,11 @@
 0.0.0.0	cdn.kixer.com
 0.0.0.0	cdn.komoona.com
 0.0.0.0	cdn.krxd.net
+0.0.0.0	cdn.lazymem.com
+0.0.0.0	cdn.lazymic.com
 0.0.0.0	cdn.lfstmedia.com
 0.0.0.0	cdn.libraries.inpwrd.com
+0.0.0.0	cdn.likeaced.com
 0.0.0.0	cdn.linksmart.com
 0.0.0.0	cdn.listrakbi.com
 0.0.0.0	cdn.livechatinc.com
@@ -35482,6 +35486,7 @@
 0.0.0.0	errorception.com
 0.0.0.0	error.demdex.net
 0.0.0.0	error.fc2.com
+0.0.0.0	errorfixing.tech
 0.0.0.0	error.freewebsites.com
 0.0.0.0	error.hostinger.eu
 0.0.0.0	error.intuitext.ro
