@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Dec 8 02:30:19 CET 2016
-# Total number of blocked hosts are: 69045
+# Ad blocking hosts generated Fri Dec 9 02:30:15 CET 2016
+# Total number of blocked hosts are: 69047
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -30496,6 +30496,7 @@
 0.0.0.0	clk.im
 0.0.0.0	clk.integral-marketing.com
 0.0.0.0	clk.jmp9.com
+0.0.0.0	clk.konflab.com
 0.0.0.0	clk.madisonlogic.com
 0.0.0.0	clk.members.fling.com
 0.0.0.0	clkmg.com
@@ -55663,7 +55664,7 @@
 0.0.0.0	top.mail.ru
 0.0.0.0	topmarketcenter.com
 0.0.0.0	topmeds10.com
-0.0.0.0	topmmorpgsites.com
+0.0.0.0	topmmorpgsites.com.invalid
 0.0.0.0	topnews.us.intellitxt.com
 0.0.0.0	top.oewabox.at
 0.0.0.0	toppagefinder.com
@@ -61749,6 +61750,7 @@
 0.0.0.0	vignette.com
 0.0.0.0	vig.tynt.com
 0.0.0.0	vikingtrck.com
+0.0.0.0	villagarden.pl
 0.0.0.0	villagevoicecollect.247realmedia.com
 0.0.0.0	villalecchi.com
 0.0.0.0	ville-st-remy-sur-avre.fr
