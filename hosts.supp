@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Dec 21 02:30:33 CET 2016
-# Total number of blocked hosts are: 69028
+# Ad blocking hosts generated Thu Dec 22 02:30:28 CET 2016
+# Total number of blocked hosts are: 69030
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -4027,6 +4027,7 @@
 0.0.0.0	ad.blm.net
 0.0.0.0	ad.blm.org
 0.0.0.0	adblockanalytics.com
+0.0.0.0	adblockerkillswebsites.pw
 0.0.0.0	ad.blogdrive.com
 0.0.0.0	adbl.spieletipps.de
 0.0.0.0	adb.nikkei.co.jp
@@ -34559,7 +34560,6 @@
 0.0.0.0	dv-fw-a-nat.iovation.com
 0.0.0.0	dvnzx.voluumtrk.com
 0.0.0.0	dwb54.voluumtrk.com
-0.0.0.0	dw.cbsi.com
 0.0.0.0	dw.cbsi.com.cn
 0.0.0.0	dwclick.com
 0.0.0.0	dw.cnet.com
@@ -46967,6 +46967,7 @@
 0.0.0.0	onclickads2.net
 0.0.0.0	onclickads.net
 0.0.0.0	onclickrev.com
+0.0.0.0	onclkds.com
 0.0.0.0	one.123counters.com
 0.0.0.0	oneandonlynetwork.com
 0.0.0.0	one.cam4ads.com
@@ -56603,6 +56604,7 @@
 0.0.0.0	track.viralvidi.com
 0.0.0.0	track.visitorpath.com
 0.0.0.0	track.vivid.com
+0.0.0.0	trackvoluum.com
 0.0.0.0	track.vscash.com
 0.0.0.0	track.webgains.com
 0.0.0.0	track.webprodeals.cf
