@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat Dec 24 02:30:28 CET 2016
-# Total number of blocked hosts are: 69033
+# Ad blocking hosts generated Sun Dec 25 02:30:19 CET 2016
+# Total number of blocked hosts are: 69047
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -34106,6 +34106,7 @@
 0.0.0.0	dixonscouk.112.2o7.net
 0.0.0.0	dixonslnkcouk.112.2o7.net
 0.0.0.0	diyfood.us.intellitxt.com
+0.0.0.0	dizzcloud.com
 0.0.0.0	dj1.baidu.com
 0.0.0.0	d.jazzedcdn.com
 0.0.0.0	djbanners.deadjournal.com
@@ -52921,6 +52922,7 @@
 0.0.0.0	speedclecks.ero-advertising.com
 0.0.0.0	speedclicks.ero-advertising.com
 0.0.0.0	speedclics.ero-advertising.com
+0.0.0.0	speedcurve.com
 0.0.0.0	speedguide.us.intellitxt.com
 0.0.0.0	speedlicks.ero-advertising.com
 0.0.0.0	speed.lstat.youku.com
@@ -57936,6 +57938,7 @@
 0.0.0.0	v2.adsbookie.com
 0.0.0.0	v2.ipopup.ir
 0.0.0.0	v2.popupsky.ir
+0.0.0.0	v2profit.com
 0.0.0.0	v2.revcontent.com
 0.0.0.0	v2.shareaholic.com
 0.0.0.0	v2.stat.ku6.com
@@ -68894,7 +68897,18 @@
 0.0.0.0	zenzuu.com
 0.0.0.0	zerezas.com
 0.0.0.0	zeroclick.sendori.com
+0.0.0.0	zeroredirect10.com
+0.0.0.0	zeroredirect11.com
+0.0.0.0	zeroredirect12.com
 0.0.0.0	zeroredirect1.com
+0.0.0.0	zeroredirect2.com
+0.0.0.0	zeroredirect3.com
+0.0.0.0	zeroredirect4.com
+0.0.0.0	zeroredirect5.com
+0.0.0.0	zeroredirect6.com
+0.0.0.0	zeroredirect7.com
+0.0.0.0	zeroredirect8.com
+0.0.0.0	zeroredirect9.com
 0.0.0.0	zeroredirect.com
 0.0.0.0	zetatrk.com
 0.0.0.0	zettapetta.com
