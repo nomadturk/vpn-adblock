@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Jan 2 02:30:14 CET 2017
-# Total number of blocked hosts are: 69062
+# Ad blocking hosts generated Tue Jan 3 02:30:32 CET 2017
+# Total number of blocked hosts are: 69072
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -29398,6 +29398,7 @@
 0.0.0.0	cdn.ftdownloader.net
 0.0.0.0	cdn.funnel.naturaltracking.com
 0.0.0.0	cdn.gameadvert.com
+0.0.0.0	cdn.geni.us
 0.0.0.0	cdn-gl.imrworldwide.com
 0.0.0.0	cdn.go.arbo.bbelements.com
 0.0.0.0	cdn.go.arbopl.bbelements.com
@@ -32755,6 +32756,7 @@
 0.0.0.0	creative.digitaltargetmarketing.com
 0.0.0.0	creative.hatid.com
 0.0.0.0	creative.m2pub.com
+0.0.0.0	creative.medianexusnetwork.com
 0.0.0.0	creative.metalyzer.com
 0.0.0.0	creative-mobile.com
 0.0.0.0	creative.nscash.com
@@ -33469,6 +33471,7 @@
 0.0.0.0	datametrical.com
 0.0.0.0	data.mobclix.com
 0.0.0.0	data.nal.usda.gov
+0.0.0.0	data.namesakeoscilloscopemarquis.com
 0.0.0.0	data.neuroxmedia.com
 0.0.0.0	data.ninemsn.com.au
 0.0.0.0	data.oileddaintiessunset.info
@@ -38329,6 +38332,7 @@
 0.0.0.0	go.trackgold.net
 0.0.0.0	go.tracking222.site
 0.0.0.0	go.trafficshop.com
+0.0.0.0	go.trkreward.com
 0.0.0.0	gottabemobile.us.intellitxt.com
 0.0.0.0	go.underclick.ru
 0.0.0.0	gourmetgiftbaskets.112.2o7.net
@@ -48337,6 +48341,7 @@
 0.0.0.0	pixel.ad.mlnadvertising.com
 0.0.0.0	pixel.adsafeprotected.com
 0.0.0.0	pixel.adsniper.ru
+0.0.0.0	pixel.adssafeprotected.com
 0.0.0.0	pixel.advertising.com
 0.0.0.0	pixel.alephd.com
 0.0.0.0	pixel.alexametrics.com
@@ -48392,6 +48397,7 @@
 0.0.0.0	pixel.reddit.com
 0.0.0.0	pixel.redditmedia.com
 0.0.0.0	pixel.rubiconproject.com
+0.0.0.0	pixel-secure.solvemedia.com
 0.0.0.0	pixelservice.apphb.com
 0.0.0.0	pixel.serviceleverage.com
 0.0.0.0	pixel.sitescout.com
@@ -48688,6 +48694,7 @@
 0.0.0.0	poponthepop.us.intellitxt.com
 0.0.0.0	pop.performancerevenues.com
 0.0.0.0	pop.pptw.org
+0.0.0.0	pop.redirect.adsjudo.com
 0.0.0.0	popsci.com.122.2o7.net
 0.0.0.0	pops.ero-advertising.com
 0.0.0.0	pops.freeze.com
@@ -56627,6 +56634,7 @@
 0.0.0.0	track.webtrekk.net
 0.0.0.0	track.webwindows.co.uk
 0.0.0.0	track.wesell.co.il
+0.0.0.0	track.whitespace57.com
 0.0.0.0	track.wildblue.com
 0.0.0.0	trackword.net
 0.0.0.0	track.written.com
@@ -61905,6 +61913,8 @@
 0.0.0.0	voken.eyereturn.com
 0.0.0.0	volkswagen.122.2o7.net
 0.0.0.0	voluum.redirecting.site
+0.0.0.0	voluumtracker1.com
+0.0.0.0	voluumtracker.com
 0.0.0.0	voluumtrk2.com
 0.0.0.0	voluumtrk3.com
 0.0.0.0	voluumtrk.com
