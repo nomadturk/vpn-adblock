@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Jan 6 02:30:23 CET 2017
-# Total number of blocked hosts are: 69072
+# Ad blocking hosts generated Sat Jan 7 02:30:23 CET 2017
+# Total number of blocked hosts are: 69076
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -2876,6 +2876,7 @@
 0.0.0.0	ad1.lbn.ru
 0.0.0.0	ad1.logger.co.kr
 0.0.0.0	ad1m.adk2.co
+0.0.0.0	ad1.nend.net
 0.0.0.0	ad1.netshelter.net
 0.0.0.0	ad1.nownews.com
 0.0.0.0	ad1.pamedia.com.au
@@ -3190,6 +3191,7 @@
 0.0.0.0	ad2.emediate.se
 0.0.0.0	ad2.ero-advertising.com
 0.0.0.0	ad2.firehousezone.com
+0.0.0.0	ad2.fivecdm.com
 0.0.0.0	ad2flash.com
 0.0.0.0	ad2games.com
 0.0.0.0	ad2.gammae.com
@@ -21464,6 +21466,7 @@
 0.0.0.0	ads.webnet.advance.net
 0.0.0.0	ads.web.nl
 0.0.0.0	ads.websearch.com
+0.0.0.0	ads.webseoanalytics.com
 0.0.0.0	ads.webshots.com
 0.0.0.0	ads.website-guru.com
 0.0.0.0	ads.websiteservices.com
@@ -23450,7 +23453,6 @@
 0.0.0.0	antventure.com
 0.0.0.0	an.worldbaseballclassic.com
 0.0.0.0	anxiety.1.p2l.info
-0.0.0.0	anx.mindspark.com
 0.0.0.0	an.yandex.ru
 0.0.0.0	anycast.fw.adsafeprotected.com
 0.0.0.0	anycast.pixel.adsafeprotected.com
@@ -25992,6 +25994,7 @@
 0.0.0.0	bbs.ws
 0.0.0.0	bbtv.blinkx.com
 0.0.0.0	bbvj6.voluumtrk.com
+0.0.0.0	bc2.fivecdm.com
 0.0.0.0	bc.5.p2l.info
 0.0.0.0	bc685d37-266c-488e-824e-dd95d1c0e98b.statcamp.net
 0.0.0.0	bc84-88b8-96b7-6515.reporo.net
@@ -33674,7 +33677,6 @@
 0.0.0.0	debbie-clifton.us
 0.0.0.0	debra-strom.us
 0.0.0.0	debsfunpages.com
-0.0.0.0	debtbusterloans.com
 0.0.0.0	debt.shengen.ru
 0.0.0.0	debug.adfarm1.adition.com
 0.0.0.0	debug.adition.com
@@ -34383,7 +34385,6 @@
 0.0.0.0	downloadmpplayer.com
 0.0.0.0	download.mywebsearch.com
 0.0.0.0	download.pchubs.com
-0.0.0.0	download-performance.com
 0.0.0.0	download.realtimegaming.com
 0.0.0.0	download.scorecardresearch.com
 0.0.0.0	downloads.default-homepage-network.com
@@ -34504,6 +34505,7 @@
 0.0.0.0	dsnextgen.com
 0.0.0.0	dsnrmg.com
 0.0.0.0	dsnr.net
+0.0.0.0	d.socdm.com
 0.0.0.0	ds.onet.pl
 0.0.0.0	dsp.adfarm1.adition.com
 0.0.0.0	dsp.adkernel.com
@@ -35446,6 +35448,7 @@
 0.0.0.0	eqads.com
 0.0.0.0	eqgdx.voluumtrk.com
 0.0.0.0	e.qq.com
+0.0.0.0	eqs-redserver.appspot.com
 0.0.0.0	equantum.com
 0.0.0.0	equitymarketingsolutions.com
 0.0.0.0	eqx.smartadserver.com
@@ -35728,7 +35731,6 @@
 0.0.0.0	exactseek.com
 0.0.0.0	exacttarget.com
 0.0.0.0	exad.mmo1vn.com
-0.0.0.0	exadu.mymag250.co.uk
 0.0.0.0	exadwese.us
 0.0.0.0	exakj.voluumtrk.com
 0.0.0.0	examinercom.122.2o7.net
@@ -38520,7 +38522,6 @@
 0.0.0.0	grippedownloads.co
 0.0.0.0	gr.linkwi.se
 0.0.0.0	grmtech.net
-0.0.0.0	groax.mymag250.co.uk
 0.0.0.0	groopz.com
 0.0.0.0	grosirkecantikan.com
 0.0.0.0	group11.iperceptions.com
@@ -40014,6 +40015,7 @@
 0.0.0.0	img100-321.xvideos.com
 0.0.0.0	img.163.com
 0.0.0.0	img1.ncsreporting.com
+0.0.0.0	img1.nend.net
 0.0.0.0	img1.ru.redtram.com
 0.0.0.0	img1.webring.com
 0.0.0.0	img1.zergnet.com
@@ -40175,7 +40177,6 @@
 0.0.0.0	imitrex.1.p2l.info
 0.0.0.0	imitrex.3.p2l.info
 0.0.0.0	imitrex.4.p2l.info
-0.0.0.0	imitrk.com
 0.0.0.0	imln5.voluumtrk.com
 0.0.0.0	immanalytics.com
 0.0.0.0	immassets.s3.amazonaws.com
@@ -40712,6 +40713,7 @@
 0.0.0.0	ism6.emediate.eu
 0.0.0.0	i.smartwebads.com
 0.0.0.0	isoa.adition.com
+0.0.0.0	i.socdm.com
 0.0.0.0	isoftmarketing.com
 0.0.0.0	isonomia.com.ar
 0.0.0.0	ispeakvideo.com
@@ -41711,7 +41713,6 @@
 0.0.0.0	ku6.allyes.com
 0.0.0.0	kuad.kusogi.com
 0.0.0.0	kudika.2cnt.net
-0.0.0.0	kuglu.mymag250.co.uk
 0.0.0.0	kuhdi.com
 0.0.0.0	kuhuz.voluumtrk.com
 0.0.0.0	kuivt.voluumtrk.com
@@ -47382,6 +47383,7 @@
 0.0.0.0	out.popads.net
 0.0.0.0	outporn.com
 0.0.0.0	outpost.real.com
+0.0.0.0	output.nend.net
 0.0.0.0	outsidethebeltway.us.intellitxt.com
 0.0.0.0	out-there-media.com
 0.0.0.0	out.true-counter.com
@@ -49785,6 +49787,7 @@
 0.0.0.0	rads.stackoverflow.com
 0.0.0.0	radstackmedia.go2cloud.org
 0.0.0.0	r.ads.zynga.com
+0.0.0.0	r.af-share.jp
 0.0.0.0	railads.scripps.com
 0.0.0.0	rainbowclub.hitbox.com
 0.0.0.0	rainbowcolours.me.uk
@@ -51508,6 +51511,7 @@
 0.0.0.0	scrooge.wtov9.com
 0.0.0.0	sc.rvtlife.com
 0.0.0.0	sc-spyware.com
+0.0.0.0	s-cs.send.microad.jp
 0.0.0.0	scs.webtrends.com
 0.0.0.0	sc.tradetracker.net
 0.0.0.0	sc.tynt.com
@@ -52267,7 +52271,6 @@
 0.0.0.0	shinystat.shiny.it
 0.0.0.0	shirley-rivet.us
 0.0.0.0	shlinks.industrybrains.com
-0.0.0.0	shoac.mymag250.co.uk
 0.0.0.0	shoal.grahanusareadymix.com
 0.0.0.0	shonda-nowicki.us
 0.0.0.0	shop.adition.com
@@ -52418,7 +52421,6 @@
 0.0.0.0	siteintercept.qualtrics.com
 0.0.0.0	site.johnlewis.com
 0.0.0.0	sitelife.ehow.com
-0.0.0.0	sitemerkezi.net
 0.0.0.0	sitemeter.com
 0.0.0.0	siteminer.mycomputer.com
 0.0.0.0	siteminer.superstats.com
@@ -55213,6 +55215,7 @@
 0.0.0.0	tgpmanager.com
 0.0.0.0	tgp.pornsponsors.com
 0.0.0.0	tgptraffic.biz
+0.0.0.0	tg.socdm.com
 0.0.0.0	th.2.cqcounter.com
 0.0.0.0	thaliaat02.webtrekk.net
 0.0.0.0	thaliach02.webtrekk.net
@@ -57776,6 +57779,7 @@
 0.0.0.0	urlcheck.hulu.com
 0.0.0.0	urlcut.net
 0.0.0.0	urlstats.com
+0.0.0.0	urlzzz.com
 0.0.0.0	urshort.net
 0.0.0.0	urx.io
 0.0.0.0	us01.lockview.cn
@@ -65118,7 +65122,6 @@
 0.0.0.0	www.down1oads.com
 0.0.0.0	www.downloadcounter.de
 0.0.0.0	www.downloaddirect.com
-0.0.0.0	www.download-performance.com
 0.0.0.0	www.downloadupload.com
 0.0.0.0	www.dpbolvw.net
 0.0.0.0	www.dprtb.com
@@ -68025,6 +68028,7 @@
 0.0.0.0	www.uriyuri.com
 0.0.0.0	www.urlcash.net
 0.0.0.0	www.urlstats.com
+0.0.0.0	www.urlzzz.com
 0.0.0.0	www.urmediazone.com
 0.0.0.0	www.urx.io
 0.0.0.0	www.usabilla.com
