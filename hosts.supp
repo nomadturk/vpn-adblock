@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Jan 12 02:30:15 +03 2017
-# Total number of blocked hosts are: 69090
+# Ad blocking hosts generated Fri Jan 13 02:30:15 +03 2017
+# Total number of blocked hosts are: 69089
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -52768,7 +52768,6 @@
 0.0.0.0	snimi-sam.justclick.ru
 0.0.0.0	snip.answers.com
 0.0.0.0	snipjs.answcdn.com
-0.0.0.0	snippets.mozilla.com
 0.0.0.0	snippets-stats.mozilla.org
 0.0.0.0	s.n.jwpltx.com
 0.0.0.0	snonline.ivwbox.de
