@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Jan 20 02:30:16 +03 2017
+# Ad blocking hosts generated Sat Jan 21 02:30:17 +03 2017
 # Total number of blocked hosts are: 69120
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -55713,6 +55713,7 @@
 0.0.0.0	topforall.com
 0.0.0.0	topfox.co.uk
 0.0.0.0	top-fwz1.mail.ru
+0.0.0.0	topgamesites.net
 0.0.0.0	top.gde.ru
 0.0.0.0	tophostbg.net
 0.0.0.0	topica.advertserve.com
@@ -56718,7 +56719,6 @@
 0.0.0.0	traffdaq.com
 0.0.0.0	traffic4you.de
 0.0.0.0	traffic.acwebconnecting.com
-0.0.0.0	trafficadept.com
 0.0.0.0	trafficads.com
 0.0.0.0	trafficads.s3-website-us-west-1.amazonaws.com
 0.0.0.0	traffic.adwitty.com
