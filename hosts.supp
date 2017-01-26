@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Jan 26 02:31:18 +03 2017
-# Total number of blocked hosts are: 69149
+# Ad blocking hosts generated Fri Jan 27 02:30:21 +03 2017
+# Total number of blocked hosts are: 69151
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -26447,7 +26447,6 @@
 0.0.0.0	blogcounter.com
 0.0.0.0	blogcounter.de
 0.0.0.0	blog.data.ero-advertising.com
-0.0.0.0	blog.disqus.com
 0.0.0.0	blog.duba.net
 0.0.0.0	blog.ero-advertising.com
 0.0.0.0	bloggannonser.no
@@ -54566,6 +54565,7 @@
 0.0.0.0	sync.richmetrics.com
 0.0.0.0	sync.search.spotxchange.com
 0.0.0.0	sync.smarttds.ru
+0.0.0.0	sync.teads.tv
 0.0.0.0	sync.zenoviaexchange.com
 0.0.0.0	syndicated.mondominishows.com
 0.0.0.0	syndicate.payloadz.com
@@ -57689,6 +57689,7 @@
 0.0.0.0	uktvdotcom.2cnt.net
 0.0.0.0	uktvios.2cnt.net
 0.0.0.0	ukugl.tourstogo.us
+0.0.0.0	uk.websearchnow.net
 0.0.0.0	uleadstrk.com
 0.0.0.0	ulic.baidu.com
 0.0.0.0	ulock.it
@@ -68961,6 +68962,7 @@
 0.0.0.0	zb.zeroredirect1.com
 0.0.0.0	zc1.delta-boa.com
 0.0.0.0	zc1.zeroredirect11.com
+0.0.0.0	zc2.quebec-bin.com
 0.0.0.0	z.ceotrk.com
 0.0.0.0	zc.zeroredirect1.com
 0.0.0.0	zc.zeroredirect2.com
