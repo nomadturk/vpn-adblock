@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Jan 27 02:30:21 +03 2017
-# Total number of blocked hosts are: 69151
+# Ad blocking hosts generated Sat Jan 28 02:30:47 +03 2017
+# Total number of blocked hosts are: 69150
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -16568,6 +16568,7 @@
 0.0.0.0	ade.wooboo.com.cn
 0.0.0.0	adex.adchakra.net
 0.0.0.0	adex.admailtiser.com
+0.0.0.0	adexce.net
 0.0.0.0	adexchangeprediction.com
 0.0.0.0	ad.excite.co.jp
 0.0.0.0	adexcite.com
@@ -45321,7 +45322,6 @@
 0.0.0.0	myimagetracking.com
 0.0.0.0	my.iwon.com
 0.0.0.0	mylabsrl.com
-0.0.0.0	my.leadpages.net
 0.0.0.0	mylike.co.uk
 0.0.0.0	my-linker.com
 0.0.0.0	mylistenetwork.go2cloud.org
@@ -45517,6 +45517,7 @@
 0.0.0.0	nandp.go2cloud.org
 0.0.0.0	nanigans.com
 0.0.0.0	nan.netmng.com
+0.0.0.0	nanoadexchange.com
 0.0.0.0	nanocluster.reklamz.com
 0.0.0.0	nanostats.nanopress.it
 0.0.0.0	naomi-thorn.us
@@ -47361,6 +47362,7 @@
 0.0.0.0	ospsweeps.brandmovers.net
 0.0.0.0	OSQA.com
 0.0.0.0	osqa.net
+0.0.0.0	o.ss2.us
 0.0.0.0	os.scmpacdn.com
 0.0.0.0	oss-content.securestudies.com
 0.0.0.0	oss-crules.marketscore.com
@@ -49735,7 +49737,6 @@
 0.0.0.0	r0d2x.voluumtrk.com
 0.0.0.0	r10.cooleremail.com
 0.0.0.0	r11.cooleremail.com
-0.0.0.0	r17---sn-vgqsenes.googlevideo.com
 0.0.0.0	r1.ace.advertising.com
 0.0.0.0	r1-ads.ace.advertising.com
 0.0.0.0	r1.affiliatefuel.com
@@ -49746,12 +49747,8 @@
 0.0.0.0	r1.literotica.com
 0.0.0.0	r1.pcwelt.de
 0.0.0.0	r1.plugrush.com
-0.0.0.0	r1---sn-vgqsen7z.googlevideo.com
-0.0.0.0	r1.sn-vgqsen7z.googlevideo.com
 0.0.0.0	r1.zedo.com
 0.0.0.0	r20.rs6.net
-0.0.0.0	r20---sn-vgqs7ne7.googlevideo.com
-0.0.0.0	r20.sn-vgqs7ne7.googlevideo.com
 0.0.0.0	r.254a.com
 0.0.0.0	r.254a.comjs.moatads.com
 0.0.0.0	r2.adwo.com
@@ -49761,7 +49758,6 @@
 0.0.0.0	r2jmarketing.go2cloud.org
 0.0.0.0	r2.linksynergy.com
 0.0.0.0	r2.plugrush.com
-0.0.0.0	r2---sn-vgqs7n7k.googlevideo.com
 0.0.0.0	r2v3n.voluumtrk.com
 0.0.0.0	r.369dl.com
 0.0.0.0	r3.cooleremail.com
@@ -49769,8 +49765,6 @@
 0.0.0.0	r.4at1.com
 0.0.0.0	r4.cooleremail.com
 0.0.0.0	r4.plugrush.com
-0.0.0.0	r4---sn-vgqs7nez.googlevideo.com
-0.0.0.0	r4.sn-vgqs7nez.googlevideo.com
 0.0.0.0	r4zih.voluumtrk.com
 0.0.0.0	r5.cooleremail.com
 0.0.0.0	r5.dir.bg
@@ -56352,6 +56346,7 @@
 0.0.0.0	tracking.paymentfindermail.net
 0.0.0.0	tracking.pennystockpicks.net
 0.0.0.0	tracking.percentmobile.com
+0.0.0.0	tracking.perfecttoolmedia.com
 0.0.0.0	tracking.perfectwaterpurifier.net
 0.0.0.0	tracking.performancerevenues.com
 0.0.0.0	tracking.plattformad.com
@@ -56988,6 +56983,7 @@
 0.0.0.0	trk.kissmetrics.com
 0.0.0.0	trklnks.com
 0.0.0.0	trk.mailtoward.com
+0.0.0.0	trk.meacashtrk.com
 0.0.0.0	trk.m.libero.it
 0.0.0.0	trk.mobile-setting.com
 0.0.0.0	trkmydomain.com
@@ -62055,6 +62051,7 @@
 0.0.0.0	vtncmn.com
 0.0.0.0	vtot.proxy.aol.com
 0.0.0.0	vtracking.in.com
+0.0.0.0	vtrack.larvtrk.com
 0.0.0.0	vtrtl.de
 0.0.0.0	vu.adschoom.com
 0.0.0.0	vug.in
@@ -63870,6 +63867,7 @@
 0.0.0.0	www.adelixir.com
 0.0.0.0	www.ademails.com
 0.0.0.0	www.adengage.com
+0.0.0.0	www.adexce.net
 0.0.0.0	www.adexchangecloud.com
 0.0.0.0	www.adexcite.com
 0.0.0.0	www.adexit.com
@@ -68592,6 +68590,7 @@
 0.0.0.0	xiti.com
 0.0.0.0	xit.sexlist.com
 0.0.0.0	xkygmtrrjalx.com
+0.0.0.0	xl415.com
 0.0.0.0	xlite.counterpath.com
 0.0.0.0	xlivehost.com
 0.0.0.0	xlonhcld.xlontech.net
