@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Feb 2 02:30:25 +03 2017
-# Total number of blocked hosts are: 69154
+# Ad blocking hosts generated Fri Feb 3 02:30:16 +03 2017
+# Total number of blocked hosts are: 69157
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -1294,6 +1294,7 @@
 0.0.0.0	4235225.fls.doubleclick.net
 0.0.0.0	4236808.fls.doubleclick.net
 0.0.0.0	42.6.87.194.dynamic.dol.ru
+0.0.0.0	4294919531.kt.mixmarket.biz
 0.0.0.0	4299553.fls.doubleclick.net
 0.0.0.0	4331660.fls.doubleclick.net
 0.0.0.0	4338244.fls.doubleclick.net
@@ -19502,6 +19503,7 @@
 0.0.0.0	adserver.ugo.com
 0.0.0.0	adserver.ugo.nl
 0.0.0.0	adserver.ukplus.co.uk
+0.0.0.0	adserver.unityads.unity3d.com
 0.0.0.0	adserver.uproxx.com
 0.0.0.0	adserver-us.adtech.advertising.com
 0.0.0.0	adserver.usermagnet.com
@@ -29424,6 +29426,7 @@
 0.0.0.0	cdn.heapanalytics.com
 0.0.0.0	cdn.herezera.com
 0.0.0.0	cdn.hgdat.com
+0.0.0.0	cdn-highwinds.unityads.unity3d.com
 0.0.0.0	cdn.hiido.cn
 0.0.0.0	cdn.hyperpromote.com
 0.0.0.0	cdn.iasrv.com
@@ -29903,6 +29906,7 @@
 0.0.0.0	choices.truste.com
 0.0.0.0	choicesurveypanel.com
 0.0.0.0	chokertraffic.com
+0.0.0.0	chokoladsrv.net
 0.0.0.0	c.homestore.com
 0.0.0.0	chope-co.b.appier.net
 0.0.0.0	ch.questionmarket.com
@@ -51882,7 +51886,6 @@
 0.0.0.0	selina-scarlett.us
 0.0.0.0	selina-wimmer.us
 0.0.0.0	sellads.eu
-0.0.0.0	sematext.com
 0.0.0.0	semengineers.com
 0.0.0.0	semiyun.com
 0.0.0.0	se.monetate.net
@@ -64743,6 +64746,7 @@
 0.0.0.0	www.choicedealz.com
 0.0.0.0	www.choicesurveypanel.com
 0.0.0.0	www.chokertraffic.com
+0.0.0.0	www.chokoladsrv.net
 0.0.0.0	www.christianbusinessadvertising.com
 0.0.0.0	www.christi-canfield.us
 0.0.0.0	www.christie-hanlon.us
@@ -67467,7 +67471,6 @@
 0.0.0.0	www.selipuquoe.com
 0.0.0.0	www.sellads.eu
 0.0.0.0	www.sellmeyourtraffic.com
-0.0.0.0	www.sematext.com
 0.0.0.0	www.semrush.com
 0.0.0.0	www.send4fun.com
 0.0.0.0	www.sendori.com
