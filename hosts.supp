@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Feb 3 02:30:16 +03 2017
-# Total number of blocked hosts are: 69157
+# Ad blocking hosts generated Sat Feb 4 02:30:16 +03 2017
+# Total number of blocked hosts are: 69161
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -25849,6 +25849,7 @@
 0.0.0.0	banner.telefragged.com
 0.0.0.0	banner.terminal.hu
 0.0.0.0	banner.testberichte.de
+0.0.0.0	bannertesting.com
 0.0.0.0	banner.themediaplanets.com
 0.0.0.0	banner.thenudelist.com
 0.0.0.0	banner.titan-dsl.de
@@ -33490,6 +33491,7 @@
 0.0.0.0	data.mb8e17f12.website
 0.0.0.0	datametrical.com
 0.0.0.0	data.mobclix.com
+0.0.0.0	data.mozilla.com
 0.0.0.0	data.nal.usda.gov
 0.0.0.0	data.namesakeoscilloscopemarquis.com
 0.0.0.0	data.neuroxmedia.com
@@ -35863,7 +35865,6 @@
 0.0.0.0	extntechnologies.us.intellitxt.com
 0.0.0.0	ext.platinnetz.de
 0.0.0.0	extra33.com
-0.0.0.0	extractorandburner.com
 0.0.0.0	ex-traffic.com
 0.0.0.0	extranet.ilius.net
 0.0.0.0	extra.wavecdn.net
@@ -36265,6 +36266,7 @@
 0.0.0.0	fhmonline.us.intellitxt.com
 0.0.0.0	fhm.uk.intellitxt.com
 0.0.0.0	fhm.valueclick.net
+0.0.0.0	fhr.data.mozilla.com
 0.0.0.0	fhserve.com
 0.0.0.0	fiacardservicesgroup.tt.omtrdc.net
 0.0.0.0	fiafii.org
@@ -47040,7 +47042,6 @@
 0.0.0.0	one-time-offer.com
 0.0.0.0	onetoone.112.2o7.net
 0.0.0.0	oneund.ru
-0.0.0.0	onewaylinkexchange.net
 0.0.0.0	on-js.herokuapp.com
 0.0.0.0	onlamp.us.intellitxt.com
 0.0.0.0	onlgc.voluumtrk.com
@@ -51306,6 +51307,7 @@
 0.0.0.0	sarah-maurer.us
 0.0.0.0	sara-machen.us
 0.0.0.0	s.arclk.net
+0.0.0.0	sa-receiver.sematext.com
 0.0.0.0	s.arlime.com
 0.0.0.0	s.as997.de
 0.0.0.0	sascentral.com
@@ -57011,6 +57013,7 @@
 0.0.0.0	tr-metrics.loomia.com
 0.0.0.0	tr.mobiadserv.com
 0.0.0.0	tr.newsletter.capdecision.fr
+0.0.0.0	tr.note001.com
 0.0.0.0	trollzeweb.com
 0.0.0.0	troopersiccy.bravejournal.com
 0.0.0.0	tropiccritics.com
@@ -63875,6 +63878,7 @@
 0.0.0.0	www.adexce.net
 0.0.0.0	www.adexchangecloud.com
 0.0.0.0	www.adexcite.com
+0.0.0.0	www.adexc.net
 0.0.0.0	www.adexit.com
 0.0.0.0	www.adexm.com
 0.0.0.0	www.adfactor.nl
