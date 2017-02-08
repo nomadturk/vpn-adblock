@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Feb 8 02:30:17 +03 2017
-# Total number of blocked hosts are: 69100
+# Ad blocking hosts generated Thu Feb 9 02:30:18 +03 2017
+# Total number of blocked hosts are: 69103
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -26323,6 +26323,7 @@
 0.0.0.0	bin.pinion.gg
 0.0.0.0	binsservicesonline.info
 0.0.0.0	biosmagazine.uk.intellitxt.com
+0.0.0.0	bir.snjack.info
 0.0.0.0	birta.stats.is
 0.0.0.0	birth-control.1.p2l.info
 0.0.0.0	bi.softservers.net
@@ -45855,6 +45856,7 @@
 0.0.0.0	nexzenpro.go2cloud.org
 0.0.0.0	nf.5.p2l.info
 0.0.0.0	nfbal.trackvoluum.com
+0.0.0.0	n.fclick-adnow.com
 0.0.0.0	nfl.demdex.net
 0.0.0.0	nfl.sp1.convertro.com
 0.0.0.0	nfm.optdiv.net
@@ -51682,6 +51684,7 @@
 0.0.0.0	secserv.adtech.us
 0.0.0.0	sectracking.com
 0.0.0.0	secure128.go2cloud.org
+0.0.0.0	secure.160117rd.xyz
 0.0.0.0	secure2.segpay.com
 0.0.0.0	secure3.go2cloud.org
 0.0.0.0	secure3.marketengines.com
