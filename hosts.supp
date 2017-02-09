@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Feb 9 02:30:18 +03 2017
-# Total number of blocked hosts are: 69103
+# Ad blocking hosts generated Fri Feb 10 02:30:19 +03 2017
+# Total number of blocked hosts are: 69115
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -1932,6 +1932,7 @@
 0.0.0.0	aa-download.waw.pl
 0.0.0.0	a.ad.playstation.net
 0.0.0.0	a.adready.com
+0.0.0.0	aadroid.net
 0.0.0.0	a.adroll.com
 0.0.0.0	a.ads1.msads.net
 0.0.0.0	a.ads1.msn.com
@@ -22671,6 +22672,7 @@
 0.0.0.0	afx.tagcdn.com
 0.0.0.0	ag1.hitbox.com
 0.0.0.0	agamgreetingscom.112.2o7.net
+0.0.0.0	agardomains.com
 0.0.0.0	agata-lillard.us
 0.0.0.0	agata-wadlington.us
 0.0.0.0	agbmcom.112.2o7.net
@@ -23788,9 +23790,12 @@
 0.0.0.0	applab-sdk.amazon.com
 0.0.0.0	applebarq.com
 0.0.0.0	apple.com-safetyalert.com
+0.0.0.0	apple.com-----scanner.club
 0.0.0.0	apple.com-scan-virus-detected.com
 0.0.0.0	apple.com-store.me
+0.0.0.0	apple.com-supportcenter.website
 0.0.0.0	apple.com------support.host
+0.0.0.0	apple.com.virus-mac.com
 0.0.0.0	appledaily.apx.appier.net
 0.0.0.0	appleglobal.112.2o7.net
 0.0.0.0	appleitl.rewards-bonanza-2.com
@@ -28706,6 +28711,7 @@
 0.0.0.0	c.am10.ru
 0.0.0.0	c.am11.ru
 0.0.0.0	c.am15.net
+0.0.0.0	cam2cam.xlovecam.com
 0.0.0.0	c.amazon-adsystem.com
 0.0.0.0	cambonanza.com
 0.0.0.0	cam.demdex.net
@@ -31191,6 +31197,7 @@
 0.0.0.0	cope.it
 0.0.0.0	copilul.2cnt.net
 0.0.0.0	copyright-reform.info
+0.0.0.0	coquine-dispo.com
 0.0.0.0	c.orange.fr
 0.0.0.0	corba.adtech.de
 0.0.0.0	corba.adtech.fr
@@ -36485,6 +36492,7 @@
 0.0.0.0	f-nod1.adsniper.ru
 0.0.0.0	f-nod2.adsniper.ru
 0.0.0.0	fo4n.com
+0.0.0.0	fo5.a1-downloader.org
 0.0.0.0	fo-api.omnitagjs.com
 0.0.0.0	focalink.com
 0.0.0.0	focas.jp
@@ -43205,6 +43213,7 @@
 0.0.0.0	macnn.us.intellitxt.com
 0.0.0.0	macobserver.us.intellitxt.com
 0.0.0.0	mac-os.apple.com-secured.online
+0.0.0.0	mac-osx.message-warning.net
 0.0.0.0	mac-protection.info
 0.0.0.0	macpurifier.com
 0.0.0.0	mac.system-alert1.com
@@ -45310,6 +45319,7 @@
 0.0.0.0	my.omniture.com
 0.0.0.0	mypagerank.net
 0.0.0.0	mypagerank.ru
+0.0.0.0	myperiod.club
 0.0.0.0	myphentermine.polybuild.ru
 0.0.0.0	my.plexapp.com
 0.0.0.0	mypoints.com
@@ -48817,6 +48827,7 @@
 0.0.0.0	ppctrck.com
 0.0.0.0	pp.free.fr
 0.0.0.0	p.placemypixel.com
+0.0.0.0	pple.com.virus-mac.com
 0.0.0.0	pp.nrelate.com
 0.0.0.0	p.po.st
 0.0.0.0	pppads.com
@@ -51782,6 +51793,7 @@
 0.0.0.0	securitas493maximus.xyz
 0.0.0.0	securitas611maximus.xyz
 0.0.0.0	securite.01net.com
+0.0.0.0	security-alert.zs2vm.top
 0.0.0.0	securityandroidupdate.dinamikaprinting.com
 0.0.0.0	security.ivwbox.de
 0.0.0.0	securityscan.us
