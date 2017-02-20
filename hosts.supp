@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Feb 20 02:30:18 +03 2017
+# Ad blocking hosts generated Tue Feb 21 02:30:17 +03 2017
 # Total number of blocked hosts are: 69129
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -40647,6 +40647,7 @@
 0.0.0.0	ipinyou.com.cn
 0.0.0.0	i.playnow.guru
 0.0.0.0	ipl.hk
+0.0.0.0	iplogger.org
 0.0.0.0	i.plug.it
 0.0.0.0	ip.nuggad.net
 0.0.0.0	i.po.st
@@ -53209,7 +53210,7 @@
 0.0.0.0	ssl.mousestats.com
 0.0.0.0	ssl-msn.oewabox.at
 0.0.0.0	ssl-munchkin.marketo.net
-0.0.0.0	ssl-nl.persgroep.edgekey.netO
+0.0.0.0	ssl-nl.persgroep.edgekey.net
 0.0.0.0	ssl-offloader.2cnt.net
 0.0.0.0	ssl.siteimprove.com
 0.0.0.0	ssl-sl-retargeting.adsonar.com
@@ -68245,7 +68246,6 @@
 0.0.0.0	www.wegetpaid.net
 0.0.0.0	www.weitclick.de
 0.0.0.0	www.wellsfarg0-onllne.net
-0.0.0.0	www.wellsfarg0-onllne.netw
 0.0.0.0	www.wendi-bell.us
 0.0.0.0	www.weownthetraffic.com
 0.0.0.0	www.werehacked.com
