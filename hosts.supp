@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Feb 22 02:30:19 +03 2017
-# Total number of blocked hosts are: 69129
+# Ad blocking hosts generated Thu Feb 23 02:30:18 +03 2017
+# Total number of blocked hosts are: 69139
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -23790,10 +23790,12 @@
 0.0.0.0	app.kissmetrics.com
 0.0.0.0	applab-sdk.amazon.com
 0.0.0.0	applebarq.com
+0.0.0.0	apple.com.clean-virus-mac.com
 0.0.0.0	apple.com-safetyalert.com
 0.0.0.0	apple.com-----scanner.club
 0.0.0.0	apple.com-scan-virus-detected.com
 0.0.0.0	apple.com-store.me
+0.0.0.0	apple.com-supportcenter.pro
 0.0.0.0	apple.com-supportcenter.website
 0.0.0.0	apple.com------support.host
 0.0.0.0	apple.com.virus-mac.com
@@ -24653,6 +24655,7 @@
 0.0.0.0	badv.wp.pl
 0.0.0.0	badzeit.ivwbox.de
 0.0.0.0	bagslap.com
+0.0.0.0	baiduccdn1.com
 0.0.0.0	baiducdn.biz
 0.0.0.0	baidutv.baidu.com
 0.0.0.0	baisser.science
@@ -29269,6 +29272,7 @@
 0.0.0.0	cdn.comparemetrics.com
 0.0.0.0	cdn.complexmedianetwork.com
 0.0.0.0	cdn.connatix.com
+0.0.0.0	cdn.constafun.com
 0.0.0.0	cdn.contentadserver.com
 0.0.0.0	cdn.content.exoticads.com
 0.0.0.0	cdn.contentspread.net
@@ -29403,6 +29407,7 @@
 0.0.0.0	cdn.hgdat.com
 0.0.0.0	cdn-highwinds.unityads.unity3d.com
 0.0.0.0	cdn.hiido.cn
+0.0.0.0	cdn.holdlads.com
 0.0.0.0	cdn.hyperpromote.com
 0.0.0.0	cdn.iasrv.com
 0.0.0.0	cdn-i.dmdentertainment.com
@@ -29598,6 +29603,7 @@
 0.0.0.0	cdn.vlexokrako.com
 0.0.0.0	cdn.voscast.com
 0.0.0.0	cdn.w55c.net
+0.0.0.0	cdn.westbaud.com
 0.0.0.0	cdn.wg.uproxx.com
 0.0.0.0	cdn.widgets.webengage.com
 0.0.0.0	cdn.wigetmedia.com
@@ -38833,6 +38839,7 @@
 0.0.0.0	helpint.mywebsearch.com
 0.0.0.0	helpmedb.com
 0.0.0.0	helpmedownload.com
+0.0.0.0	helpmymacfaster.club
 0.0.0.0	help.mysearch.com
 0.0.0.0	help.qualaroo.com
 0.0.0.0	hentaicounter.com
@@ -55168,6 +55175,7 @@
 0.0.0.0	test.mlmwebtracker.com
 0.0.0.0	test.palmbeachpost.cimedia.com
 0.0.0.0	testpc24.profitableads.online
+0.0.0.0	testpconly12.prepare2upvideosafesystem4setnow.online
 0.0.0.0	test.reporo.net
 0.0.0.0	test.scorecardresearch.com
 0.0.0.0	test-script.dotmetrics.net
@@ -58152,6 +58160,7 @@
 0.0.0.0	vermontteddybear.112.2o7.net
 0.0.0.0	vernoblisk.com
 0.0.0.0	veronica-moore.us
+0.0.0.0	versionsupport.set2updatenowsafesystemset4now.info
 0.0.0.0	vertadnet.com
 0.0.0.0	vertical-leap.co.uk
 0.0.0.0	vertical-stats.huffpost.com
@@ -69046,6 +69055,7 @@
 0.0.0.0	zk9.zeroredirect1.com
 0.0.0.0	zkic.com
 0.0.0.0	zk.zeroredirect1.com
+0.0.0.0	zl1.bravo-deg.com
 0.0.0.0	zlothonline.info
 0.0.0.0	zl.zeroredirect1.com
 0.0.0.0	zm1.zeroredirect5.com
