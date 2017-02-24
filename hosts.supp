@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Feb 24 02:30:19 +03 2017
-# Total number of blocked hosts are: 69140
+# Ad blocking hosts generated Sat Feb 25 02:30:17 +03 2017
+# Total number of blocked hosts are: 69139
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -20545,7 +20545,6 @@
 0.0.0.0	ads.pitchforkmedia.com
 0.0.0.0	ads.pittsburghlive.com
 0.0.0.0	ads.pixiq.com
-0.0.0.0	ads.pkr.com
 0.0.0.0	ads.place1.com
 0.0.0.0	ads.placester.net
 0.0.0.0	ads.planet49.com
@@ -49837,7 +49836,6 @@
 0.0.0.0	raneevahijab.id
 0.0.0.0	rankchamp.de
 0.0.0.0	ranker.springboardplatform.com
-0.0.0.0	rankingchart.de
 0.0.0.0	ranking-charts.de
 0.0.0.0	ranking-hits.de
 0.0.0.0	ranking-id.de
@@ -56728,6 +56726,7 @@
 0.0.0.0	traffdaq.com
 0.0.0.0	traffic4you.de
 0.0.0.0	traffic.acwebconnecting.com
+0.0.0.0	trafficadept.com
 0.0.0.0	trafficads.com
 0.0.0.0	trafficads.s3-website-us-west-1.amazonaws.com
 0.0.0.0	traffic.adwitty.com
