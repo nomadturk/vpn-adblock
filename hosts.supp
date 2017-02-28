@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Feb 28 02:30:16 +03 2017
-# Total number of blocked hosts are: 69139
+# Ad blocking hosts generated Wed Mar 1 02:30:16 +03 2017
+# Total number of blocked hosts are: 69141
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -44025,6 +44025,7 @@
 0.0.0.0	mediavisor.doubleclick.com
 0.0.0.0	mediavisor.doubleclick.net
 0.0.0.0	media.viwii.net
+0.0.0.0	mediawhirl.net
 0.0.0.0	mediax.angloinfo.com
 0.0.0.0	media.xxxnavy.com
 0.0.0.0	media.yesmessenger.com
@@ -66527,6 +66528,7 @@
 0.0.0.0	www.mediasheva.com
 0.0.0.0	www.mediatraffic.com
 0.0.0.0	www.media-vertex.com
+0.0.0.0	www.mediawhirl.net
 0.0.0.0	www.medical-offer.com
 0.0.0.0	www.medical-research-books.com
 0.0.0.0	www.medical-rewardpath.com
