@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Mar 2 02:30:17 +03 2017
-# Total number of blocked hosts are: 69142
+# Ad blocking hosts generated Fri Mar 3 02:30:20 +03 2017
+# Total number of blocked hosts are: 69144
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -32681,6 +32681,7 @@
 0.0.0.0	cpx.acloudweb.com
 0.0.0.0	cpxadroit.com
 0.0.0.0	cpxcenter.com
+0.0.0.0	cpxdeliv.com
 0.0.0.0	cpx.go2cloud.org
 0.0.0.0	cpx.golem.de
 0.0.0.0	cpxinteractive.com
@@ -37731,6 +37732,7 @@
 0.0.0.0	genuine.microsoft.com
 0.0.0.0	geo2.adobe.com
 0.0.0.0	geoaddicted.net
+0.0.0.0	geoads.com
 0.0.0.0	geoads.eurorevenue.com
 0.0.0.0	geoads.osdn.com
 0.0.0.0	geo.api.qualaroo.com
