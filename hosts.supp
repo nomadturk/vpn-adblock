@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Mar 10 02:30:16 +03 2017
-# Total number of blocked hosts are: 69268
+# Ad blocking hosts generated Sat Mar 11 02:30:17 +03 2017
+# Total number of blocked hosts are: 69266
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -3797,7 +3797,6 @@
 0.0.0.0	ad97.hpg.com.br
 0.0.0.0	ad97m.adk2.co
 0.0.0.0	ad97.paycount.com
-0.0.0.0	ad.980x.com
 0.0.0.0	ad98.hpg.com.br
 0.0.0.0	ad98m.adk2.co
 0.0.0.0	ad98.paycount.com
@@ -44551,6 +44550,7 @@
 0.0.0.0	microsoftoffice.112.2o7.net
 0.0.0.0	microsoft-sql-server.wp-club.net
 0.0.0.0	microsoftsto.112.2o7.net
+0.0.0.0	microsoftsupport.com-support0206.info
 0.0.0.0	microsoftuk.122.2o7.net
 0.0.0.0	microsoft-watch.us.intellitxt.com
 0.0.0.0	microsoftwga.112.2o7.net
@@ -48122,7 +48122,6 @@
 0.0.0.0	performercenter.livejasmin.com
 0.0.0.0	perf.overture.com
 0.0.0.0	perfspot.crwdcntrl.net
-0.0.0.0	perf.weborama.fr
 0.0.0.0	permissionmedia.com
 0.0.0.0	perpro18-ue1b.ml314.com
 0.0.0.0	p.errorception.com
@@ -69242,7 +69241,6 @@
 0.0.0.0	zulumob.go2cloud.org
 0.0.0.0	zu.zeroredirect1.com
 0.0.0.0	zuzzer5.com
-0.0.0.0	zv1.november-lax.com
 0.0.0.0	zviframe.biz
 0.0.0.0	zv.zeroredirect1.com
 0.0.0.0	z.wackshack.net
