@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat Mar 11 02:30:17 +03 2017
-# Total number of blocked hosts are: 69266
+# Ad blocking hosts generated Sun Mar 12 02:30:15 +03 2017
+# Total number of blocked hosts are: 69269
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -33339,6 +33339,7 @@
 0.0.0.0	d8rk54i4mohrb.cloudfront.net
 0.0.0.0	d8.zedo.com
 0.0.0.0	d9ae99824.se
+0.0.0.0	d9ae99824.se[server down?]
 0.0.0.0	d9b05-pgfb01xj76ljh8o4sg3f.hop.clickbank.net
 0.0.0.0	d9d0e0.r.axf8.net
 0.0.0.0	d9iwc.voluumtrk.com
@@ -54026,6 +54027,7 @@
 0.0.0.0	stats.ign.com
 0.0.0.0	stats.ilius.net
 0.0.0.0	stats.ilsemedia.nl
+0.0.0.0	stats.ilsemedia.nl[server down?]
 0.0.0.0	stat.simba.taobao.com
 0.0.0.0	stats.immense.net
 0.0.0.0	stats.inciteminds.com
@@ -69135,6 +69137,7 @@
 0.0.0.0	zfm.oewabox.at
 0.0.0.0	zfotos.fromru.su
 0.0.0.0	zf.zeroredirect1.com
+0.0.0.0	z.gameslivetv.com
 0.0.0.0	zgsysz.com
 0.0.0.0	zg.zeroredirect1.com
 0.0.0.0	zh1.zeroredirect11.com
