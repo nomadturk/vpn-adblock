@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun Mar 12 02:30:15 +03 2017
-# Total number of blocked hosts are: 69269
+# Ad blocking hosts generated Mon Mar 13 02:30:18 +03 2017
+# Total number of blocked hosts are: 69271
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -18878,6 +18878,7 @@
 0.0.0.0	ads.dfiles.ru
 0.0.0.0	ads.dgonn.com
 0.0.0.0	ads.dhakatribune.com
+0.0.0.0	ads.diamonds
 0.0.0.0	ads.dichtbij.adhese.com
 0.0.0.0	ads.didactic.ro
 0.0.0.0	ads.digitalacre.com
@@ -57055,6 +57056,7 @@
 0.0.0.0	trk02.gtrk.info
 0.0.0.0	trk14.logger.co.kr
 0.0.0.0	trk.1cpa.ru
+0.0.0.0	trk1.opanw.com
 0.0.0.0	trk2it4.com
 0.0.0.0	trk4.com
 0.0.0.0	trk.ablogica.com
