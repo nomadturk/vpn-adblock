@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Mar 14 02:30:19 +03 2017
-# Total number of blocked hosts are: 69288
+# Ad blocking hosts generated Wed Mar 15 02:30:14 +03 2017
+# Total number of blocked hosts are: 69290
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -30464,6 +30464,7 @@
 0.0.0.0	clientconfig.passport.net
 0.0.0.0	client.download-sponsor.de
 0.0.0.0	client.everlinks.net
+0.0.0.0	clientmetrics-pa.googleapis.com
 0.0.0.0	client.roiadtracker.com
 0.0.0.0	clients.adventmedia.net
 0.0.0.0	clients.advertising.com
@@ -33344,7 +33345,6 @@
 0.0.0.0	d8rk54i4mohrb.cloudfront.net
 0.0.0.0	d8.zedo.com
 0.0.0.0	d9ae99824.se
-0.0.0.0	d9ae99824.se[server down?]
 0.0.0.0	d9b05-pgfb01xj76ljh8o4sg3f.hop.clickbank.net
 0.0.0.0	d9d0e0.r.axf8.net
 0.0.0.0	d9iwc.voluumtrk.com
@@ -49040,6 +49040,7 @@
 0.0.0.0	privatamateure.com
 0.0.0.0	privatecash.com
 0.0.0.0	private.hotelcesenaticobooking.info
+0.0.0.0	privatkunden.datapipe9271.com
 0.0.0.0	privitize.com
 0.0.0.0	privoy.doublepimp.com
 0.0.0.0	prizee.com
@@ -53305,6 +53306,7 @@
 0.0.0.0	s.skimresources.com
 0.0.0.0	ssl1.fra.vmsn.de
 0.0.0.0	ssl3.adhost.com
+0.0.0.0	ssl-6582datamanager.de
 0.0.0.0	sslad.adcash.com
 0.0.0.0	ssl.clickbank.net
 0.0.0.0	ssl-compass.oewabox.at
