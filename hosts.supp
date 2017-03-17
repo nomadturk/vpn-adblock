@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Mar 17 02:30:16 +03 2017
-# Total number of blocked hosts are: 69288
+# Ad blocking hosts generated Sat Mar 18 02:30:15 +03 2017
+# Total number of blocked hosts are: 69290
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -23805,6 +23805,7 @@
 0.0.0.0	applebarq.com
 0.0.0.0	apple.com.clean-virus-mac.com
 0.0.0.0	apple.com-onlinesupport.host
+0.0.0.0	apple.com-onlinesupport.site
 0.0.0.0	apple.com-safetyalert.com
 0.0.0.0	apple.com-----scanner.club
 0.0.0.0	apple.com-scan-virus-detected.com
@@ -49316,6 +49317,7 @@
 0.0.0.0	pr-static.empflix.com
 0.0.0.0	prstatics.com
 0.0.0.0	prstats.postrelease.com
+0.0.0.0	pr-ten.de
 0.0.0.0	prv3h.voluumtrk.com
 0.0.0.0	prwidgets.com
 0.0.0.0	prx.freecj.com
