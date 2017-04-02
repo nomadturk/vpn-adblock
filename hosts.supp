@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun Apr 2 02:30:18 +03 2017
-# Total number of blocked hosts are: 69303
+# Ad blocking hosts generated Mon Apr 3 02:30:15 +03 2017
+# Total number of blocked hosts are: 69305
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -1132,6 +1132,7 @@
 0.0.0.0	2sksk.voluumtrk.com
 0.0.0.0	2snaps.us.intellitxt.com
 0.0.0.0	2snla.voluumtrk.com
+0.0.0.0	2.speedknow.co
 0.0.0.0	2spyware.us.intellitxt.com
 0.0.0.0	2ttb4.voluumtrk.com
 0.0.0.0	2usdj.voluumtrk.com
@@ -66989,6 +66990,7 @@
 0.0.0.0	www.nu26.com
 0.0.0.0	www.nubijlage.nl
 0.0.0.0	www.nutabuse.com
+0.0.0.0	www.nutaku.com
 0.0.0.0	www.nutten-verzeichnis.cxa.de
 0.0.0.0	www.nuvon.com
 0.0.0.0	www.nvtrak.com
