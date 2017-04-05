@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Apr 5 02:30:16 +03 2017
-# Total number of blocked hosts are: 69309
+# Ad blocking hosts generated Thu Apr 6 02:30:14 +03 2017
+# Total number of blocked hosts are: 69310
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -55430,6 +55430,7 @@
 0.0.0.0	thebosh.us.intellitxt.com
 0.0.0.0	thebrighttag.com
 0.0.0.0	thebugs.ws
+0.0.0.0	thebuzz.today
 0.0.0.0	thecarconnection.us.intellitxt.com
 0.0.0.0	thecelebritycafe.us.intellitxt.com
 0.0.0.0	theclickmagnets.go2cloud.org
