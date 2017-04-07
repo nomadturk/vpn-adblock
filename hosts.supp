@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Apr 7 02:30:16 +03 2017
-# Total number of blocked hosts are: 69311
+# Ad blocking hosts generated Sat Apr 8 02:30:14 +03 2017
+# Total number of blocked hosts are: 69310
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -32726,7 +32726,6 @@
 0.0.0.0	cpvadvertise.com
 0.0.0.0	cpv.popxml.com
 0.0.0.0	cpx.acloudweb.com
-0.0.0.0	cpxadroit.com
 0.0.0.0	cpxcenter.com
 0.0.0.0	cpxdeliv.com
 0.0.0.0	cpx.go2cloud.org
