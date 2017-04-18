@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Apr 18 02:30:16 +03 2017
-# Total number of blocked hosts are: 69241
+# Ad blocking hosts generated Wed Apr 19 02:30:18 +03 2017
+# Total number of blocked hosts are: 69240
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -52759,7 +52759,6 @@
 0.0.0.0	smartabouthealth.us.intellitxt.com
 0.0.0.0	smartad.mercadolibre.com.ar
 0.0.0.0	smartad.mercadolivre.com.br
-0.0.0.0	smartadserver
 0.0.0.0	smartadserver.com
 0.0.0.0	smartadv.ru
 0.0.0.0	smart.allocine.fr
