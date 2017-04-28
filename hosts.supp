@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Apr 28 02:30:15 +03 2017
+# Ad blocking hosts generated Sat Apr 29 02:30:15 +03 2017
 # Total number of blocked hosts are: 69233
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -47822,6 +47822,7 @@
 0.0.0.0	parradoodle.bravejournal.com
 0.0.0.0	parse.ly
 0.0.0.0	parsely.com
+0.0.0.0	parse.ly.invalid
 0.0.0.0	parserworld.info
 0.0.0.0	parship.122.2o7.net
 0.0.0.0	parship.co.uk
@@ -57876,7 +57877,6 @@
 0.0.0.0	update.51edm.net
 0.0.0.0	updateauto.preparevideosafesystem4unow.site
 0.0.0.0	updateauto.preparevideosafesystem4unow.space
-0.0.0.0	updated.com
 0.0.0.0	updatehere.ultimatesetnewfreeallsoftupgradesystems.pw
 0.0.0.0	update.hiconversion.com
 0.0.0.0	update-java.kit.net
