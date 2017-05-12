@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri May 12 02:30:14 +03 2017
+# Ad blocking hosts generated Sat May 13 02:30:13 +03 2017
 # Total number of blocked hosts are: 69260
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -594,6 +594,7 @@
 0.0.0.0	1it.cqcounter.com
 0.0.0.0	1jo.cqcounter.com
 0.0.0.0	1k7uk.voluumtrk.com
+0.0.0.0	1kdailyprofit.biz
 0.0.0.0	1m1mage.tr553.com
 0.0.0.0	1man1jar.org
 0.0.0.0	1man2needles.com
@@ -21456,7 +21457,6 @@
 0.0.0.0	ads.win.rs
 0.0.0.0	ads.winsite.com
 0.0.0.0	ads.winvite.com
-0.0.0.0	adswitcher.com
 0.0.0.0	adswizz.com
 0.0.0.0	ads.wlcnet.com
 0.0.0.0	ads.wnd.com
@@ -55449,7 +55449,6 @@
 0.0.0.0	the.mtree.com
 0.0.0.0	themusicnetwork.co.uk
 0.0.0.0	theoads.com
-0.0.0.0	theoads.com.
 0.0.0.0	theodosium.com
 0.0.0.0	theonenetwork.us.intellitxt.com
 0.0.0.0	thepaparazzis.us.intellitxt.com
@@ -56456,6 +56455,7 @@
 0.0.0.0	tracking.opencandy.com.s3.amazonaws.com
 0.0.0.0	tracking.opienetwork.com
 0.0.0.0	tracking.optimatic.com
+0.0.0.0	tracking.orixa-media.com
 0.0.0.0	tracking.paymentfindermail.net
 0.0.0.0	tracking.pennystockpicks.net
 0.0.0.0	tracking.percentmobile.com
