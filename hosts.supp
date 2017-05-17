@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed May 17 02:30:14 +03 2017
-# Total number of blocked hosts are: 69318
+# Ad blocking hosts generated Thu May 18 02:30:15 +03 2017
+# Total number of blocked hosts are: 69323
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -23421,6 +23421,7 @@
 0.0.0.0	antoinette-hanlon.us
 0.0.0.0	antoinette-meisner.us
 0.0.0.0	antventure.com
+0.0.0.0	antyweb.push-ad.com
 0.0.0.0	an.worldbaseballclassic.com
 0.0.0.0	anxiety.1.p2l.info
 0.0.0.0	an.yandex.ru
@@ -40149,6 +40150,7 @@
 0.0.0.0	img.adverticum.net
 0.0.0.0	img.adzs.nl
 0.0.0.0	img.alcoholsoftcdn.com
+0.0.0.0	img.alibaba.com
 0.0.0.0	img.atdmt.com
 0.0.0.0	img.avatraffic.com
 0.0.0.0	img.babcdn.com
@@ -49080,6 +49082,7 @@
 0.0.0.0	prizee.com
 0.0.0.0	prizemachine.games.iwon.com
 0.0.0.0	prizes.co.uk
+0.0.0.0	prizestohandle.club 
 0.0.0.0	prjcq.com
 0.0.0.0	prkhg.voluumtrk.com
 0.0.0.0	prm.europacash.com
@@ -49641,6 +49644,7 @@
 0.0.0.0	purgrobi.com
 0.0.0.0	purredheanb.online
 0.0.0.0	purryowl.com
+0.0.0.0	push-ad.com
 0.0.0.0	push.appsgeyser.com
 0.0.0.0	push.cdnads.com
 0.0.0.0	push.poptm.com
@@ -66784,6 +66788,7 @@
 0.0.0.0	www.mmnetwork.mobi
 0.0.0.0	www.mmo123.co
 0.0.0.0	www.mmotraffic.com
+0.0.0.0	www.mmstat.com
 0.0.0.0	www.mmtracking.com
 0.0.0.0	www.mmtrkmc.com
 0.0.0.0	www.mnetads.com
