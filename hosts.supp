@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed May 24 02:30:16 +03 2017
-# Total number of blocked hosts are: 69324
+# Ad blocking hosts generated Thu May 25 02:30:16 +03 2017
+# Total number of blocked hosts are: 69329
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -1984,6 +1984,7 @@
 0.0.0.0	a.autoexpress.co.uk
 0.0.0.0	aa.voice2page.com
 0.0.0.0	aax.amazon-adsystem.com
+0.0.0.0	aax-cpm.amazon-adsystem.com
 0.0.0.0	aax-eu.amazon-adsystem.com
 0.0.0.0	aax-eu-rtb.amazon-adsystem.com
 0.0.0.0	aax-fe.amazon-adsystem.com
@@ -23388,6 +23389,7 @@
 0.0.0.0	anonymousads.com
 0.0.0.0	anonymousstats.keefox.org
 0.0.0.0	anorak.uk.intellitxt.com
+0.0.0.0	anouslab.cmail20.com
 0.0.0.0	anpqt.voluumtrk.com
 0.0.0.0	an.pxl.ace.advertising.com
 0.0.0.0	an-retargeting.awsotherlevels.com
@@ -47198,6 +47200,7 @@
 0.0.0.0	on.linkexchange.com
 0.0.0.0	onlinsport.2cnt.net
 0.0.0.0	only2date.com
+0.0.0.0	only.best-games.today
 0.0.0.0	onlypreteens.com
 0.0.0.0	onlysix.co.uk
 0.0.0.0	only-valium.go.to
@@ -57960,6 +57963,7 @@
 0.0.0.0	update.onescan.co.kr
 0.0.0.0	update.privdog.com
 0.0.0.0	updates.desktop.ak-networks.com
+0.0.0.0	update.theplacetoupdating.pw
 0.0.0.0	updo.nl
 0.0.0.0	upi.112.2o7.net
 0.0.0.0	upi.us.intellitxt.com
@@ -65120,6 +65124,7 @@
 0.0.0.0	www.coreglead.co.uk
 0.0.0.0	www.coremetrics.com
 0.0.0.0	www.corinne-gump.us
+0.0.0.0	www.cornomase.win
 0.0.0.0	www.corrie-mchale.us
 0.0.0.0	www.corrine-scroggins.us
 0.0.0.0	www.cortesidesign.com
