@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Jun 7 02:30:16 +03 2017
-# Total number of blocked hosts are: 69351
+# Ad blocking hosts generated Thu Jun 8 02:30:18 +03 2017
+# Total number of blocked hosts are: 69386
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -369,6 +369,8 @@
 0.0.0.0	123-tracker.com
 0.0.0.0	123webmarketing.com
 0.0.0.0	124.6.87.194.dynamic.dol.ru
+0.0.0.0	125.252.224.90
+0.0.0.0	125.252.224.91
 0.0.0.0	125.6.87.194.dynamic.dol.ru
 0.0.0.0	1262.hittail.com
 0.0.0.0	126.6.87.194.dynamic.dol.ru
@@ -1236,6 +1238,8 @@
 0.0.0.0	3cnce854.com
 0.0.0.0	3d05q.voluumtrk.com
 0.0.0.0	3dc265e90c6d9fa3cc0c-3f982316dc17e6e99fe1b47483239d63.r95.cf2.rackcdn.com
+0.0.0.0	3dns-2.adobe.com
+0.0.0.0	3dns-3.adobe.com
 0.0.0.0	3dots.co.il
 0.0.0.0	3ds.ero-advertising.com
 0.0.0.0	3dstats.com
@@ -2348,6 +2352,10 @@
 0.0.0.0	actionscript.us.intellitxt.com
 0.0.0.0	actionsplash.com
 0.0.0.0	actionteaser.ru
+0.0.0.0	activate.adobe.com
+0.0.0.0	activate-sea.adobe.com
+0.0.0.0	activate-sjc0.adobe.com
+0.0.0.0	activate.wip3.adobe.com
 0.0.0.0	active-advertising.com
 0.0.0.0	activeagent.at
 0.0.0.0	activeapps.go2cloud.org
@@ -15814,6 +15822,7 @@
 0.0.0.0	adedy.com
 0.0.0.0	adee.hit.gemius.pl
 0.0.0.0	ad.eg.doubleclick.net
+0.0.0.0	ad.eglenced.com
 0.0.0.0	ad.egloos.com
 0.0.0.0	ad.e-kolay.net
 0.0.0.0	ad.ekonomikticaret.com
@@ -17400,8 +17409,13 @@
 0.0.0.0	adnxs.revsci.net
 0.0.0.0	ad.nz.doubleclick.net
 0.0.0.0	adn.zone-telechargement.com
+0.0.0.0	adobe.activate.com
 0.0.0.0	adobe.demdex.net
+0.0.0.0	adobe-dns-2.adobe.com
+0.0.0.0	adobe-dns-3.adobe.com
+0.0.0.0	adobe-dns.adobe.com
 0.0.0.0	adobee.com
+0.0.0.0	adobeereg.com
 0.0.0.0	adobeflashupdate14.com
 0.0.0.0	adobemcspb.b.sc.omtrdc.net
 0.0.0.0	adobe.tt.omtrdc.net
@@ -17588,6 +17602,7 @@
 0.0.0.0	ad.rekket.com
 0.0.0.0	ad.reklamport.com
 0.0.0.0	ad.reklamstore.com
+0.0.0.0	ad.reklam.xyz
 0.0.0.0	ad.re-markable00.re-markable.net
 0.0.0.0	adremedy.com
 0.0.0.0	adremote.pathfinder.com
@@ -18548,6 +18563,7 @@
 0.0.0.0	ads.betanews.com
 0.0.0.0	ads.betfair.com
 0.0.0.0	ads.betfair.com.au
+0.0.0.0	adsbetkoy.com
 0.0.0.0	ads.betsafe.com
 0.0.0.0	ads.betternetworker.com
 0.0.0.0	ads.betweendigital.com
@@ -22321,6 +22337,7 @@
 0.0.0.0	aff2.gittigidiyor.com
 0.0.0.0	aff3.gittigidiyor.com
 0.0.0.0	aff4.gittigidiyor.com
+0.0.0.0	affadds.tipbet.com
 0.0.0.0	aff.adland.co.il
 0.0.0.0	aff.adsurve.com
 0.0.0.0	aff.adventory.com
@@ -22469,6 +22486,7 @@
 0.0.0.0	affiliates.deluxepass.com
 0.0.0.0	affiliates.digitalriver.com
 0.0.0.0	affiliates.eblastengine.com
+0.0.0.0	affiliateserver.hangikredi.com
 0.0.0.0	affiliates.esellerate.net
 0.0.0.0	affiliates.galapartners.co.uk
 0.0.0.0	affiliates.genealogybank.com
@@ -26186,6 +26204,7 @@
 0.0.0.0	beta.superstats.com
 0.0.0.0	betatest.adition.com
 0.0.0.0	bet-at-home.com
+0.0.0.0	betburdaaffiliates.com
 0.0.0.0	betclic.com
 0.0.0.0	betcollect.247realmedia.com
 0.0.0.0	bet.demdex.net
@@ -26585,6 +26604,7 @@
 0.0.0.0	bonnie-schrecengost.us
 0.0.0.0	bontril.1.p2l.info
 0.0.0.0	bontril.ourtablets.com
+0.0.0.0	bonus.baymavi3.com
 0.0.0.0	BonusCashh.com
 0.0.0.0	boogu.barginginfrance.net
 0.0.0.0	bookclub-offer.com
@@ -35513,6 +35533,8 @@
 0.0.0.0	eqx.smartadserver.com
 0.0.0.0	ercva.com
 0.0.0.0	erectile.byethost33.com
+0.0.0.0	ereg.adobe.com
+0.0.0.0	ereg.wip3.adobe.com
 0.0.0.0	eremedia.112.2o7.net
 0.0.0.0	erendri.com
 0.0.0.0	ericka-riffle.us
@@ -37788,6 +37810,7 @@
 0.0.0.0	gen-hydrocodone.polybuild.ru
 0.0.0.0	genmay.us.intellitxt.com
 0.0.0.0	genorithm.com
+0.0.0.0	genuine.microsoft.com
 0.0.0.0	geo2.adobe.com
 0.0.0.0	geoaddicted.net
 0.0.0.0	geoads.com
@@ -39145,6 +39168,7 @@
 0.0.0.0	hk9dl.voluumtrk.com
 0.0.0.0	hk.adserver.yahoo.com
 0.0.0.0	hkik.ru
+0.0.0.0	hl2rcv.adobe.com
 0.0.0.0	hlamedia.adk2x.com
 0.0.0.0	hlcc.ca
 0.0.0.0	hld.jmp9.com
@@ -45064,6 +45088,7 @@
 0.0.0.0	mozo-widgets.f2.com.au
 0.0.0.0	mp3playersource.com
 0.0.0.0	mp.5.p2l.info
+0.0.0.0	mpa.one.microsoft.com
 0.0.0.0	mp.apmebf.com
 0.0.0.0	mpartner.googleadservices.com
 0.0.0.0	mp.clicksor.net
@@ -47009,6 +47034,7 @@
 0.0.0.0	oixssp-lab.net
 0.0.0.0	oixssp.net
 0.0.0.0	oixssp-rubyem.net
+0.0.0.0	oixssp-stage.net
 0.0.0.0	oix-stage.net
 0.0.0.0	oj.likewut.net
 0.0.0.0	ojolink.com
@@ -47263,6 +47289,7 @@
 0.0.0.0	opendownloadmanager.com
 0.0.0.0	openinternetexchange.com
 0.0.0.0	openinternetexchange.net
+0.0.0.0	openinternetexchange.org
 0.0.0.0	openload.info
 0.0.0.0	openmarket.com
 0.0.0.0	open.mkt1397.com
@@ -48991,6 +49018,7 @@
 0.0.0.0	pr.20min.es
 0.0.0.0	pr.5.p2l.info
 0.0.0.0	p.raasnet.com
+0.0.0.0	practivate.adobe.com
 0.0.0.0	pracuj.adocean.pl
 0.0.0.0	pracuj.hit.gemius.pl
 0.0.0.0	pradakomechanicals.com
@@ -50326,7 +50354,10 @@
 0.0.0.0	rek2.tascatlasa.com
 0.0.0.0	rek.adtotal.pl
 0.0.0.0	reklam-1.com
+0.0.0.0	reklam7.com
+0.0.0.0	reklam9.net
 0.0.0.0	reklama.botevgrad.com
+0.0.0.0	reklamaction.com
 0.0.0.0	reklamagaci.com
 0.0.0.0	reklama.internet.cz
 0.0.0.0	reklama.mironet.cz
@@ -52813,6 +52844,7 @@
 0.0.0.0	slowmac.tech
 0.0.0.0	sl-retargeting.adsonar.com
 0.0.0.0	sls.go2cloud.org
+0.0.0.0	sls.microsoft.com
 0.0.0.0	sltravelcom.112.2o7.net
 0.0.0.0	s.luxadv.com
 0.0.0.0	sm1.sitemeter.com
@@ -63203,6 +63235,7 @@
 0.0.0.0	winteryield.jmp9.com
 0.0.0.0	wintotal.de.intellitxt.com
 0.0.0.0	wintricksbanner.googlepages.com
+0.0.0.0	wip3.adobe.com
 0.0.0.0	wiregirl.us.intellitxt.com
 0.0.0.0	wirelessforumsorg.skimlinks.com
 0.0.0.0	wirelessforums.us.intellitxt.com
@@ -63531,6 +63564,7 @@
 0.0.0.0	wweconsumer.112.2o7.net
 0.0.0.0	wwecorp2.112.2o7.net
 0.0.0.0	ww-eu.steelhousemedia.com
+0.0.0.0	wwis-dubc1-vip60.adobe.com
 0.0.0.0	wwm.adspirit.de
 0.0.0.0	wws.ero-advertising.com
 0.0.0.0	wwtdd.tags.crwdcntrl.net
@@ -64139,6 +64173,7 @@
 0.0.0.0	www.adnxs1.com
 0.0.0.0	www.adnxs.com
 0.0.0.0	www.adobee.com
+0.0.0.0	www.adobeereg.com
 0.0.0.0	www.adobetag.com
 0.0.0.0	www.adobur.com
 0.0.0.0	www.adocean.pl
