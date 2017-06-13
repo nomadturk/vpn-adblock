@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Jun 13 02:30:16 +03 2017
-# Total number of blocked hosts are: 69388
+# Ad blocking hosts generated Wed Jun 14 02:30:15 +03 2017
+# Total number of blocked hosts are: 69389
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -45066,6 +45066,7 @@
 0.0.0.0	motortrend.us.intellitxt.com
 0.0.0.0	motorvis.ivwbox.de
 0.0.0.0	motorward.us.intellitxt.com
+0.0.0.0	motosal.net
 0.0.0.0	motradon.ivwbox.de
 0.0.0.0	mottnow.adk2x.com
 0.0.0.0	mouads.com
