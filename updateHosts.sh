@@ -17,8 +17,7 @@ curl -ksS https://raw.githubusercontent.com/nomadturk/vpn-adblock/master/hosts-s
 curl -ksS https://adaway.org/hosts.txt >> $temphosts1
 curl -ksS http://www.malwaredomainlist.com/hostslist/hosts.txt >> $temphosts1
 curl -ksS http://hosts-file.net/ad_servers.txt >> $temphosts1
-curl -ksS https://github.com/nomadturk/hosts/raw/master/data/Turkish/hosts >> $temphosts1
-curl -ksS https://github.com/nomadturk/hosts/raw/master/data/nomad/hosts  >> $temphosts1
+curl -ksS https://raw.githubusercontent.com/nomadturk/vpn-adblock/master/hosts-sources/nomad/hosts  >> $temphosts1
 
 
 # Do some work on the file:
