@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Jun 26 02:30:15 +03 2017
-# Total number of blocked hosts are: 69310
+# Ad blocking hosts generated Tue Jun 27 02:30:20 +03 2017
+# Total number of blocked hosts are: 69311
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -58448,6 +58448,7 @@
 0.0.0.0	video.dmtracker.com
 0.0.0.0	videoegg.adbureau.net
 0.0.0.0	videoegg.com
+0.0.0.0	video.entertaintastic.com
 0.0.0.0	video.flashtalking.com
 0.0.0.0	videoflyover.com
 0.0.0.0	videofun.me
