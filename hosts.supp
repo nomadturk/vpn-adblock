@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Jun 27 02:30:20 +03 2017
-# Total number of blocked hosts are: 69311
+# Ad blocking hosts generated Wed Jun 28 02:30:19 +03 2017
+# Total number of blocked hosts are: 69312
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -23782,6 +23782,7 @@
 0.0.0.0	apple.com-supportcenter.website
 0.0.0.0	apple.com------support.host
 0.0.0.0	apple.com.virus-mac.com
+0.0.0.0	apple.com-webbrowsing-security.bid
 0.0.0.0	appledaily.apx.appier.net
 0.0.0.0	appleglobal.112.2o7.net
 0.0.0.0	appleitl.rewards-bonanza-2.com
