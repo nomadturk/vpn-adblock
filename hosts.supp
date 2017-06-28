@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Jun 28 02:30:19 +03 2017
-# Total number of blocked hosts are: 69312
+# Ad blocking hosts generated Thu Jun 29 02:30:17 +03 2017
+# Total number of blocked hosts are: 69313
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -56894,6 +56894,7 @@
 0.0.0.0	traffic.adwitty.com
 0.0.0.0	traffic.adxprts.com
 0.0.0.0	traffic.alexa.com
+0.0.0.0	trafficbalancerouting.com
 0.0.0.0	traffic.bannerator.com
 0.0.0.0	trafficbee.com
 0.0.0.0	traffic.bokecc.com
