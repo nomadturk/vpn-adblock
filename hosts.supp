@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Jun 30 02:30:14 +03 2017
-# Total number of blocked hosts are: 69308
+# Ad blocking hosts generated Sat Jul 1 02:30:16 +03 2017
+# Total number of blocked hosts are: 69305
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -20307,7 +20307,6 @@
 0.0.0.0	ads.neowin.net
 0.0.0.0	ads.nerve.com
 0.0.0.0	ads.netbul.com
-0.0.0.0	ads.netclusive.de
 0.0.0.0	ads.netcommunities.com
 0.0.0.0	ads.netcraft.com
 0.0.0.0	ads.nethaber.com
@@ -23783,6 +23782,7 @@
 0.0.0.0	apple.com------support.host
 0.0.0.0	apple.com.virus-mac.com
 0.0.0.0	apple.com-webbrowsing-security.bid
+0.0.0.0	apple.com-webbrowsing-security.download
 0.0.0.0	appledaily.apx.appier.net
 0.0.0.0	appleglobal.112.2o7.net
 0.0.0.0	appleitl.rewards-bonanza-2.com
@@ -35682,7 +35682,6 @@
 0.0.0.0	euroad1.advantage.as
 0.0.0.0	euroathleticgreens.go2cloud.org
 0.0.0.0	euroclick.com
-0.0.0.0	euro-linkindex.de
 0.0.0.0	europe-academy.net
 0.0.0.0	europe.adserver.yahoo.com
 0.0.0.0	europol.europe.eu.france.id647744160-2176514326.h5841.com
@@ -48998,7 +48997,6 @@
 0.0.0.0	premium.mookie1.com
 0.0.0.0	premium.naturalnews.tv
 0.0.0.0	premiumnetwork.com
-0.0.0.0	premium-offers.com
 0.0.0.0	premiumproductsonline.com
 0.0.0.0	premium-reward-club.com
 0.0.0.0	premiumtrack01.webtrekk.net
@@ -50232,7 +50230,6 @@
 0.0.0.0	redtube.yoshatia.com
 0.0.0.0	reduxads.valuead.com
 0.0.0.0	reduxmedia.com
-0.0.0.0	reduxmediagroup.com
 0.0.0.0	redvase.bravenet.com
 0.0.0.0	redvertisment.com
 0.0.0.0	red.yourdailyoffers.co.uk
@@ -54192,7 +54189,6 @@
 0.0.0.0	stats.street-jeni.us
 0.0.0.0	stats.style.com
 0.0.0.0	stats.styletechnology.me
-0.0.0.0	stats.suite101.com
 0.0.0.0	stats.superstats.com
 0.0.0.0	stats.superstats.de
 0.0.0.0	stats.superstats.nl
@@ -63031,6 +63027,7 @@
 0.0.0.0	whoisonline.net
 0.0.0.0	who.knows.com
 0.0.0.0	wholebodyresearch.go2cloud.org
+0.0.0.0	wholesaletraffic.info
 0.0.0.0	w.homes.yahoo.net
 0.0.0.0	whometrics.net
 0.0.0.0	whos.amung.us
