@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Jul 5 02:30:14 +03 2017
-# Total number of blocked hosts are: 69309
+# Ad blocking hosts generated Thu Jul 6 02:30:17 +03 2017
+# Total number of blocked hosts are: 69307
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -42685,7 +42685,6 @@
 0.0.0.0	logs6.xiti.com
 0.0.0.0	logs8.xiti.com
 0.0.0.0	logs.aiya.com.cn
-0.0.0.0	logs.cafewell.com
 0.0.0.0	logs.comics.com
 0.0.0.0	logs.dashlane.com
 0.0.0.0	logs.eresmas.com
@@ -58433,7 +58432,6 @@
 0.0.0.0	videoads.theonion.com
 0.0.0.0	video.begun.ru
 0.0.0.0	videobox.com
-0.0.0.0	videobug.net
 0.0.0.0	video.cld.startappexchange.com
 0.0.0.0	videoclick.ru
 0.0.0.0	videocodezone.us.intellitxt.com
