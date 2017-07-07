@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Jul 7 02:30:14 +03 2017
+# Ad blocking hosts generated Sat Jul 8 02:30:17 +03 2017
 # Total number of blocked hosts are: 69331
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -21595,6 +21595,7 @@
 0.0.0.0	adtoll.com
 0.0.0.0	adtology1.com
 0.0.0.0	adtology3.com
+0.0.0.0	adtology.com
 0.0.0.0	adtoma.com
 0.0.0.0	ad.tom.com
 0.0.0.0	ad.tomshardware.com
@@ -49344,7 +49345,6 @@
 0.0.0.0	pr.realvu.net
 0.0.0.0	prscripts.com
 0.0.0.0	prsitecheck.com
-0.0.0.0	pr-star.de
 0.0.0.0	pr-static.empflix.com
 0.0.0.0	prstatics.com
 0.0.0.0	prstats.postrelease.com
