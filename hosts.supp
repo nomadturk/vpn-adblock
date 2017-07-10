@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Jul 10 02:30:17 +03 2017
+# Ad blocking hosts generated Tue Jul 11 02:30:16 +03 2017
 # Total number of blocked hosts are: 69332
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -47946,7 +47946,6 @@
 0.0.0.0	partners.priceline.com
 0.0.0.0	partners.realgirlsmedia.com
 0.0.0.0	partners.rochen.com
-0.0.0.0	partners.salesforce.com
 0.0.0.0	partners.sportingbet.com.au
 0.0.0.0	partners.sprintrade.com
 0.0.0.0	partner.stellenanzeigen.de
@@ -57198,6 +57197,7 @@
 0.0.0.0	truongton.net
 0.0.0.0	trupanion.go2cloud.org
 0.0.0.0	trusearch.net
+0.0.0.0	trustaffs.com
 0.0.0.0	trustedads.adtrustmedia.com
 0.0.0.0	trustedadserver.com
 0.0.0.0	trustedads.org
