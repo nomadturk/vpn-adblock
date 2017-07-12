@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Jul 12 02:30:15 +03 2017
-# Total number of blocked hosts are: 69333
+# Ad blocking hosts generated Thu Jul 13 02:30:17 +03 2017
+# Total number of blocked hosts are: 69335
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -18893,6 +18893,7 @@
 0.0.0.0	ads.doctors.co.il
 0.0.0.0	ads.doktoronline.no
 0.0.0.0	ads.domainbg.com
+0.0.0.0	ads.domain.com
 0.0.0.0	ads.domainoptions.net
 0.0.0.0	ads.domeus.com
 0.0.0.0	ads.dontpanicmedia.com
@@ -54186,6 +54187,7 @@
 0.0.0.0	stats.scholastic.com
 0.0.0.0	stats.searchles.com
 0.0.0.0	stats.searchsight.com
+0.0.0.0	stats.self.com
 0.0.0.0	stats.sextracker.com
 0.0.0.0	stats.sharenet.co.za
 0.0.0.0	stats.shopify.com
