@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Jul 13 02:30:17 +03 2017
-# Total number of blocked hosts are: 69335
+# Ad blocking hosts generated Fri Jul 14 02:30:15 +03 2017
+# Total number of blocked hosts are: 69336
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -42593,6 +42593,7 @@
 0.0.0.0	logger-06.vty.dailymotion.com
 0.0.0.0	logger.cash-media.de
 0.0.0.0	logger.co.kr
+0.0.0.0	logger.snackly.co
 0.0.0.0	logger.sociablelabs.com
 0.0.0.0	logger.tlvmedia.com
 0.0.0.0	logger.virgul.com
