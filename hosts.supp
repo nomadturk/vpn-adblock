@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Jul 14 02:30:15 +03 2017
-# Total number of blocked hosts are: 69336
+# Ad blocking hosts generated Sat Jul 15 02:30:16 +03 2017
+# Total number of blocked hosts are: 69333
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -4199,7 +4199,6 @@
 0.0.0.0	addbtest.timesink.com
 0.0.0.0	ad-dc2.adtech.de
 0.0.0.0	ad.dc2.adtech.de
-0.0.0.0	addealing.com
 0.0.0.0	addebris.link
 0.0.0.0	ad.dedicatedmedia.com
 0.0.0.0	ad.de.doubleclick.net
@@ -19182,7 +19181,6 @@
 0.0.0.0	adserver.banneradministration.com
 0.0.0.0	adserver.barrapunto.com
 0.0.0.0	adserverb.conjelco.com
-0.0.0.0	adserver.beggarspromo.com
 0.0.0.0	adserver.betandwin.de
 0.0.0.0	adserver.billiger-surfen.de
 0.0.0.0	adserver.billiger-telefonieren.de
@@ -68977,7 +68975,6 @@
 0.0.0.0	y.moatads.com
 0.0.0.0	y.net-games.co.il
 0.0.0.0	yoclub.waphall.com
-0.0.0.0	yoc.mobi
 0.0.0.0	yoc-performance.com
 0.0.0.0	yoda.cybereps.com
 0.0.0.0	yodleeinc.tt.omtrdc.net
