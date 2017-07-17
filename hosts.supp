@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Jul 17 02:30:14 +03 2017
-# Total number of blocked hosts are: 69334
+# Ad blocking hosts generated Tue Jul 18 02:30:18 +03 2017
+# Total number of blocked hosts are: 69337
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -34647,6 +34647,7 @@
 0.0.0.0	dynamic.exaccess.ru
 0.0.0.0	dynamic.fmpub.net
 0.0.0.0	dynamic.woolik.com
+0.0.0.0	dynamicyield.com
 0.0.0.0	dync.c.appier.net
 0.0.0.0	dyn.emetriq.de
 0.0.0.0	dyn.loolav.space
@@ -54127,6 +54128,7 @@
 0.0.0.0	stats.matomy.com
 0.0.0.0	stats.maximumcash.com
 0.0.0.0	stats.media.onet.pl
+0.0.0.0	stats.merriam-webster.com
 0.0.0.0	stats.metacount.com
 0.0.0.0	stats.mezzobit.com
 0.0.0.0	stats.mf.cz
@@ -58456,6 +58458,7 @@
 0.0.0.0	videoads.theonion.com
 0.0.0.0	video.begun.ru
 0.0.0.0	videobox.com
+0.0.0.0	video.buzzintersection.com
 0.0.0.0	video.cld.startappexchange.com
 0.0.0.0	videoclick.ru
 0.0.0.0	videocodezone.us.intellitxt.com
