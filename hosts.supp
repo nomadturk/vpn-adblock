@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Jul 28 02:30:14 +03 2017
-# Total number of blocked hosts are: 69336
+# Ad blocking hosts generated Sat Jul 29 02:30:15 +03 2017
+# Total number of blocked hosts are: 69335
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -25150,7 +25150,6 @@
 0.0.0.0	banner.fairpoker.com
 0.0.0.0	bannerfarm.ace.advertising.com
 0.0.0.0	banner-farm.com
-0.0.0.0	banner.featuredusers.com
 0.0.0.0	banner.finn.no
 0.0.0.0	banner.finzoom.ro
 0.0.0.0	bannerflow.com
