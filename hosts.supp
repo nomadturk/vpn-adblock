@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Aug 3 02:30:16 +03 2017
-# Total number of blocked hosts are: 69349
+# Ad blocking hosts generated Fri Aug 4 02:30:14 +03 2017
+# Total number of blocked hosts are: 69348
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -34650,7 +34650,6 @@
 0.0.0.0	dynamic.exaccess.ru
 0.0.0.0	dynamic.fmpub.net
 0.0.0.0	dynamic.woolik.com
-0.0.0.0	dynamicyield.com
 0.0.0.0	dync.c.appier.net
 0.0.0.0	dyn.emetriq.de
 0.0.0.0	dyn.loolav.space
