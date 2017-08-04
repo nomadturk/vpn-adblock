@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Aug 4 02:30:14 +03 2017
-# Total number of blocked hosts are: 69348
+# Ad blocking hosts generated Sat Aug 5 02:30:14 +03 2017
+# Total number of blocked hosts are: 69349
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -30471,6 +30471,7 @@
 0.0.0.0	client.tahono.com
 0.0.0.0	client-verify.adtricity.com
 0.0.0.0	clik2008.popunder.ru
+0.0.0.0	cliksolution.com
 0.0.0.0	cli.linksynergy.com
 0.0.0.0	clipfish.ivwbox.de
 0.0.0.0	clips.coolerads.com
@@ -36371,7 +36372,6 @@
 0.0.0.0	filtertest.2cnt.net
 0.0.0.0	fim.122.2o7.net
 0.0.0.0	fim.adnxs.com
-0.0.0.0	fimc.net
 0.0.0.0	fimserve.askmen.com
 0.0.0.0	fimserve.com
 0.0.0.0	fimserve.ign.com
@@ -49027,6 +49027,7 @@
 0.0.0.0	premium.mookie1.com
 0.0.0.0	premium.naturalnews.tv
 0.0.0.0	premiumnetwork.com
+0.0.0.0	premium-offers.com
 0.0.0.0	premiumproductsonline.com
 0.0.0.0	premium-reward-club.com
 0.0.0.0	premiumtrack01.webtrekk.net
@@ -49357,6 +49358,7 @@
 0.0.0.0	pr.realvu.net
 0.0.0.0	prscripts.com
 0.0.0.0	prsitecheck.com
+0.0.0.0	pr-star.de
 0.0.0.0	pr-static.empflix.com
 0.0.0.0	prstatics.com
 0.0.0.0	prstats.postrelease.com
@@ -58097,7 +58099,6 @@
 0.0.0.0	uslbtest.cedexis.com
 0.0.0.0	us.m1.yimg.com
 0.0.0.0	us.marketgid.com
-0.0.0.0	usmsad.tom.com
 0.0.0.0	us.n1.yimg.com
 0.0.0.0	usnews.122.2o7.net
 0.0.0.0	us-nj-e10.traffictradinghub.com
