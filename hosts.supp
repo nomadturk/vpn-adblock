@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Aug 10 02:30:15 +03 2017
-# Total number of blocked hosts are: 69429
+# Ad blocking hosts generated Fri Aug 11 02:30:16 +03 2017
+# Total number of blocked hosts are: 69445
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -2386,6 +2386,7 @@
 0.0.0.0	acuityads.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	a.custompc.co.uk
+0.0.0.0	acuty1adsrv.com
 0.0.0.0	acvs.mediaonenetwork.net
 0.0.0.0	acvsrv.mediaonenetwork.net
 0.0.0.0	acxiom.com
@@ -16916,6 +16917,7 @@
 0.0.0.0	adinch.com
 0.0.0.0	ad-incisive.grapeshot.co.uk
 0.0.0.0	adincl.gopher.com
+0.0.0.0	adincube.com
 0.0.0.0	ad.incurads.info
 0.0.0.0	ad-indicator.com
 0.0.0.0	adindigo.com
@@ -17591,6 +17593,7 @@
 0.0.0.0	ad.realist.gen.tr
 0.0.0.0	ad.realmcdn.net
 0.0.0.0	ad.realmedia.co.kr
+0.0.0.0	adreclaim.com
 0.0.0.0	adrecreate.com
 0.0.0.0	ad.recursosgratis.com
 0.0.0.0	ad.reduxmedia.com
@@ -23413,6 +23416,7 @@
 0.0.0.0	antyweb.push-ad.com
 0.0.0.0	an.worldbaseballclassic.com
 0.0.0.0	anxiety.1.p2l.info
+0.0.0.0	anxiousapples.com
 0.0.0.0	an.yandex.ru
 0.0.0.0	anycast.fw.adsafeprotected.com
 0.0.0.0	anycast.pixel.adsafeprotected.com
@@ -24481,6 +24485,7 @@
 0.0.0.0	avsads.com
 0.0.0.0	a.vserv.mobi
 0.0.0.0	avt.hit.gemius.pl
+0.0.0.0	avzadsrv.com
 0.0.0.0	a.walla.co.il
 0.0.0.0	awaps.yandex.ru
 0.0.0.0	award.sitekeuring.net
@@ -26571,6 +26576,7 @@
 0.0.0.0	boerseon.ivwbox.de
 0.0.0.0	bofa.demdex.net
 0.0.0.0	boh00.voluumtrk.com
+0.0.0.0	boilingbeetle.com
 0.0.0.0	boingdragon.com
 0.0.0.0	b.oix.com
 0.0.0.0	b.oix.net
@@ -26723,6 +26729,7 @@
 0.0.0.0	brandsurveypanel.com
 0.0.0.0	branovate.com
 0.0.0.0	BRApolice.com
+0.0.0.0	brassrule.com
 0.0.0.0	brataudit-offloader.2cnt.net
 0.0.0.0	bratro-a.2cnt.net
 0.0.0.0	bratro-s.2cnt.net
@@ -26792,6 +26799,7 @@
 0.0.0.0	b.rmgserving.com
 0.0.0.0	br.naked.com
 0.0.0.0	brnys.netmng.com
+0.0.0.0	broadboundary.com
 0.0.0.0	broadcaster.streamate.com
 0.0.0.0	broadcastpc.tv
 0.0.0.0	broadcast.piximedia.fr
@@ -29915,6 +29923,7 @@
 0.0.0.0	chgwyndham.112.2o7.net
 0.0.0.0	chi2only.outbrain.com
 0.0.0.0	chicagosuntimes.122.2o7.net
+0.0.0.0	chiefcurrent.com
 0.0.0.0	chillout.real.com
 0.0.0.0	chinaads.net
 0.0.0.0	chinacache.cedexis.com
@@ -37449,6 +37458,7 @@
 0.0.0.0	fullstory.com
 0.0.0.0	funchill.com
 0.0.0.0	functional-business.com
+0.0.0.0	functionalclam.com
 0.0.0.0	fundownloads102.com
 0.0.0.0	fun-e-cards.com
 0.0.0.0	fungamesmobile.com
@@ -38134,6 +38144,7 @@
 0.0.0.0	gifttracker.com
 0.0.0.0	gifttree.track4.com
 0.0.0.0	gigwise.us.intellitxt.com
+0.0.0.0	gigya.com
 0.0.0.0	gili-lankanfushi-com.b.appier.net
 0.0.0.0	gillian-boissonneault.us
 0.0.0.0	gillian-leavens.us
@@ -45544,6 +45555,7 @@
 0.0.0.0	mytogolinks.com
 0.0.0.0	mytop-in.net
 0.0.0.0	my.trackjs.com
+0.0.0.0	mytrafficads.com
 0.0.0.0	mytrafficbuilder.info
 0.0.0.0	mytraf.info
 0.0.0.0	mytraf.ru
@@ -48729,6 +48741,7 @@
 0.0.0.0	play.leadzu.com
 0.0.0.0	playlink.pl
 0.0.0.0	playminigolf.com
+0.0.0.0	playmobileads.com
 0.0.0.0	playnow.guru
 0.0.0.0	play-poker-free.forsearch.net
 0.0.0.0	playtime.tubemogul.com
@@ -55419,6 +55432,7 @@
 0.0.0.0	testing01.con.local.vmsn.de
 0.0.0.0	testing02.bob.local.vmsn.de
 0.0.0.0	testing02.con.local.vmsn.de
+0.0.0.0	test.invalid
 0.0.0.0	test.iovation.com
 0.0.0.0	test.ishvara-yoga.com
 0.0.0.0	test.ivwbox.de
@@ -58007,6 +58021,7 @@
 0.0.0.0	universityherald.us.intellitxt.com
 0.0.0.0	university-online.petrovka.info
 0.0.0.0	unknown.counsellor.gov.cn
+0.0.0.0	unknowntray.com
 0.0.0.0	unk.vver.kiae.rr
 0.0.0.0	unlck.net
 0.0.0.0	unlim-app.tk
@@ -63460,6 +63475,7 @@
 0.0.0.0	ws-ea.amazon-adsystem.com
 0.0.0.0	ws-eu.amazon-adsystem.com
 0.0.0.0	wsg.abbp1.pw
+0.0.0.0	ws-gateway.com
 0.0.0.0	w.sharethis.com
 0.0.0.0	wsi1.surf-town.net
 0.0.0.0	ws.monzta.pet
