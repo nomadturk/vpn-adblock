@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun Aug 13 02:30:15 +03 2017
+# Ad blocking hosts generated Mon Aug 14 02:30:15 +03 2017
 # Total number of blocked hosts are: 69550
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -38182,7 +38182,7 @@
 0.0.0.0	gifttracker.com
 0.0.0.0	gifttree.track4.com
 0.0.0.0	gigwise.us.intellitxt.com
-0.0.0.0	gigya.com
+0.0.0.0	gigya.com.invalid
 0.0.0.0	gili-lankanfushi-com.b.appier.net
 0.0.0.0	gillian-boissonneault.us
 0.0.0.0	gillian-leavens.us
