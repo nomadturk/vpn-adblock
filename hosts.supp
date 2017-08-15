@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Aug 15 02:30:14 +03 2017
-# Total number of blocked hosts are: 69563
+# Ad blocking hosts generated Wed Aug 16 02:30:14 +03 2017
+# Total number of blocked hosts are: 69565
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -1792,6 +1792,7 @@
 0.0.0.0	9c1f917.se
 0.0.0.0	9c4e-159e-38f6-08ea.reporo.net
 0.0.0.0	9cc85d.se
+0.0.0.0	9cd76b4462bb.com
 0.0.0.0	9cfa-356e-ec76-7adf.reporo.net
 0.0.0.0	9ctyz.voluumtrk.com
 0.0.0.0	9d060c.r.axf8.net
@@ -26183,6 +26184,7 @@
 0.0.0.0	bestoffers.activeshopper.com
 0.0.0.0	bestorican.com
 0.0.0.0	best-pr.info
+0.0.0.0	bestreview.site
 0.0.0.0	best-search.cc
 0.0.0.0	bestsearch.com
 0.0.0.0	bestsearch.net
