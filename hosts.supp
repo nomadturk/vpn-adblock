@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Aug 18 02:30:14 +03 2017
-# Total number of blocked hosts are: 69565
+# Ad blocking hosts generated Sat Aug 19 02:30:16 +03 2017
+# Total number of blocked hosts are: 69568
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -23743,6 +23743,7 @@
 0.0.0.0	aporg.112.2o7.net
 0.0.0.0	a.postrelease.com
 0.0.0.0	app2.letmacwork.world
+0.0.0.0	app2.letslowbefast.life
 0.0.0.0	app2.salesmanago.pl
 0.0.0.0	app2.vinsight.de
 0.0.0.0	app3.letmacwork.world
@@ -23759,6 +23760,7 @@
 0.0.0.0	app-abm.marketo.com
 0.0.0.0	app-abq.marketo.com
 0.0.0.0	app.activetrail.com
+0.0.0.0	app.adblockhyper.us
 0.0.0.0	app.adjust.io
 0.0.0.0	app.adsbrook.com
 0.0.0.0	appads.com
@@ -36059,6 +36061,7 @@
 0.0.0.0	f15.smaato.net
 0.0.0.0	f16.smaato.net
 0.0.0.0	f17.smaato.net
+0.0.0.0	f18085.privacy4browsers.com
 0.0.0.0	f18.smaato.net
 0.0.0.0	f19.smaato.net
 0.0.0.0	f1bwg.voluumtrk.com
@@ -36459,7 +36462,6 @@
 0.0.0.0	filtertest.2cnt.net
 0.0.0.0	fim.122.2o7.net
 0.0.0.0	fim.adnxs.com
-0.0.0.0	fimc.net
 0.0.0.0	fimserve.askmen.com
 0.0.0.0	fimserve.com
 0.0.0.0	fimserve.ign.com
@@ -50407,6 +50409,7 @@
 0.0.0.0	redir.widdit.com
 0.0.0.0	reditions.net
 0.0.0.0	redmas.com
+0.0.0.0	redonetype.com
 0.0.0.0	redrct.site
 0.0.0.0	redroomnetwork.com
 0.0.0.0	redsheriff.com
