@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat Aug 19 02:30:16 +03 2017
-# Total number of blocked hosts are: 69568
+# Ad blocking hosts generated Sun Aug 20 02:30:14 +03 2017
+# Total number of blocked hosts are: 69567
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -53562,7 +53562,6 @@
 0.0.0.0	ssl.mousestats.com
 0.0.0.0	ssl-msn.oewabox.at
 0.0.0.0	ssl-munchkin.marketo.net
-0.0.0.0	ssl-nl.persgroep.edgekey.net
 0.0.0.0	ssl-offloader.2cnt.net
 0.0.0.0	ssl.siteimprove.com
 0.0.0.0	ssl-sl-retargeting.adsonar.com
