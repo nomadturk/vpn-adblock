@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat Sep 2 02:30:12 +03 2017
-# Total number of blocked hosts are: 69580
+# Ad blocking hosts generated Sun Sep 3 02:30:13 +03 2017
+# Total number of blocked hosts are: 69582
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -32741,6 +32741,7 @@
 0.0.0.0	cp.intl.match.com
 0.0.0.0	cpix.daserste.de
 0.0.0.0	cplpro.go2cloud.org
+0.0.0.0	cpm10.com
 0.0.0.0	cpm1.affiz.net
 0.0.0.0	cpm2.admob.com
 0.0.0.0	cpm.admob.com
@@ -38656,6 +38657,7 @@
 0.0.0.0	gr8.com
 0.0.0.0	gr8nk.voluumtrk.com
 0.0.0.0	grabbit-rabbit.com
+0.0.0.0	grabify.link
 0.0.0.0	grab.nastydollars.com
 0.0.0.0	grabtrk.com
 0.0.0.0	grace-hansley.us
