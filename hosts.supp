@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun Sep 3 02:30:13 +03 2017
-# Total number of blocked hosts are: 69582
+# Ad blocking hosts generated Mon Sep 4 02:30:13 +03 2017
+# Total number of blocked hosts are: 69583
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -57998,6 +57998,7 @@
 0.0.0.0	ucoxa.work
 0.0.0.0	ucoz.spotsniper.ru
 0.0.0.0	ucstat.baidu.com
+0.0.0.0	u.cubeupload.com
 0.0.0.0	udac.se
 0.0.0.0	udarem.com
 0.0.0.0	udc.msn.com
