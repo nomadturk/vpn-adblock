@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Sep 5 02:30:13 +03 2017
-# Total number of blocked hosts are: 69583
+# Ad blocking hosts generated Wed Sep 6 02:30:16 +03 2017
+# Total number of blocked hosts are: 69584
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -36051,6 +36051,7 @@
 0.0.0.0	ezw0z.voluumtrk.com
 0.0.0.0	f03.smaato.net
 0.0.0.0	f04.smaato.net
+0.0.0.0	f05098.privacy4browsers.com
 0.0.0.0	f05.smaato.net
 0.0.0.0	f06.smaato.net
 0.0.0.0	f07.smaato.net
