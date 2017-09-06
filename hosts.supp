@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Sep 6 02:30:16 +03 2017
-# Total number of blocked hosts are: 69584
+# Ad blocking hosts generated Thu Sep 7 02:30:14 +03 2017
+# Total number of blocked hosts are: 69596
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -475,6 +475,7 @@
 0.0.0.0	1696908298.rsc.cdn77.org
 0.0.0.0	16.ptp22.com
 0.0.0.0	16qul.voluumtrk.com
+0.0.0.0	17003124.xyz
 0.0.0.0	1703.ic-live.com
 0.0.0.0	170.6.87.194.dynamic.dol.ru
 0.0.0.0	1707489.r.msn.com
@@ -34315,6 +34316,7 @@
 0.0.0.0	dmpnetwork.go2cloud.org
 0.0.0.0	dmp.springserve.com
 0.0.0.0	dmp.theadex.com
+0.0.0.0	dmp.vihub.ru
 0.0.0.0	dmros.ysm.yahoo.com
 0.0.0.0	dms.netmng.com
 0.0.0.0	dmtracker.com
@@ -35800,6 +35802,7 @@
 0.0.0.0	euro-vertrieb.com
 0.0.0.0	eu-sonar.sociomantic.com
 0.0.0.0	eusta.de
+0.0.0.0	eu.track.digitaladsystems.com
 0.0.0.0	eu-u.openx.net
 0.0.0.0	euus7.voluumtrk.com
 0.0.0.0	eu.webprodcdn.com
@@ -36244,6 +36247,7 @@
 0.0.0.0	fastlane.rubiconproject.com
 0.0.0.0	fast.lenovo.demdex.net
 0.0.0.0	fastlinkfinder.com
+0.0.0.0	fast-lost4tmz.world
 0.0.0.0	fastly.bench.cedexis.com
 0.0.0.0	fast-mac-upp.com
 0.0.0.0	fast.marthastewart.demdex.net
@@ -38467,6 +38471,7 @@
 0.0.0.0	go.padstm.com
 0.0.0.0	go.pardot.com
 0.0.0.0	gopath2.xyz
+0.0.0.0	goplayz.com
 0.0.0.0	go.pl.bbelements.com
 0.0.0.0	go.pol.bbelements.com
 0.0.0.0	go.promojet.ru
@@ -43769,6 +43774,7 @@
 0.0.0.0	m.astrokolik.com
 0.0.0.0	mata.ero-advertising.com
 0.0.0.0	match.admailtiser.com
+0.0.0.0	match.ads.betweendigital.com
 0.0.0.0	match.adsrvr.org
 0.0.0.0	match.basebanner.com
 0.0.0.0	matchbin-assets.s3.amazonaws.com
@@ -54625,6 +54631,7 @@
 0.0.0.0	st.sageanalyst.net
 0.0.0.0	st.shinobi.jp
 0.0.0.0	st.smartredirect.de
+0.0.0.0	st.targetix.net
 0.0.0.0	sttc.affiliate.hu
 0.0.0.0	st.top100.ru
 0.0.0.0	stts.rbc.ru
@@ -54909,8 +54916,11 @@
 0.0.0.0	sync.adkernel.com
 0.0.0.0	sync.apnx.zenoviaexchange.com
 0.0.0.0	sync.atomex.net
+0.0.0.0	sync.audtd.com
 0.0.0.0	sync.cmedia.s3.amazonaws.com
+0.0.0.0	sync.credebat.com
 0.0.0.0	sync.darikweb.com
+0.0.0.0	sync-eu.exe.bid
 0.0.0.0	sync.go.sonobi.com
 0.0.0.0	synchrobox.adswizz.com
 0.0.0.0	synchroscript.adswizz.com
@@ -54923,6 +54933,7 @@
 0.0.0.0	sync.search.spotxchange.com
 0.0.0.0	sync.smarttds.ru
 0.0.0.0	sync.teads.tv
+0.0.0.0	sync.upravel.com
 0.0.0.0	sync.zenoviaexchange.com
 0.0.0.0	syndicated.mondominishows.com
 0.0.0.0	syndicate.payloadz.com
@@ -56056,6 +56067,7 @@
 0.0.0.0	tools.bongacash.com
 0.0.0.0	tools.gfcash.com
 0.0.0.0	tools.hitbox.com
+0.0.0.0	toolsins.com
 0.0.0.0	tools.ip2location.com
 0.0.0.0	tools.kissmetrics.com
 0.0.0.0	tools.mobpartner.mobi
