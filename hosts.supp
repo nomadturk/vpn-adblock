@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Sep 11 02:30:15 +03 2017
-# Total number of blocked hosts are: 69597
+# Ad blocking hosts generated Tue Sep 12 02:30:15 +03 2017
+# Total number of blocked hosts are: 69599
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -23750,6 +23750,7 @@
 0.0.0.0	app3.letmacwork.world
 0.0.0.0	app3.rutarget.ru
 0.0.0.0	app3.vinsight.de
+0.0.0.0	app4.letslowbefast.life
 0.0.0.0	app4.letslowbefast.site
 0.0.0.0	app4.letslowbefast.today
 0.0.0.0	app4us.info
@@ -36062,6 +36063,7 @@
 0.0.0.0	f09.smaato.net
 0.0.0.0	f0nuq.voluumtrk.com
 0.0.0.0	f10.smaato.net
+0.0.0.0	f11098.privacy4browsers.com
 0.0.0.0	f11.smaato.net
 0.0.0.0	f12.smaato.net
 0.0.0.0	f13.smaato.net
