@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Sep 13 02:30:14 +03 2017
-# Total number of blocked hosts are: 69600
+# Ad blocking hosts generated Thu Sep 14 02:30:14 +03 2017
+# Total number of blocked hosts are: 69623
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -17187,6 +17187,7 @@
 0.0.0.0	admarketplace.net
 0.0.0.0	admarkt.marktplaats.nl
 0.0.0.0	ad.marsmediachannels.com
+0.0.0.0	admarsx.com
 0.0.0.0	admarvel.com
 0.0.0.0	admarvel.s3.amazonaws.com
 0.0.0.0	admaster.candela.com.au
@@ -17377,6 +17378,7 @@
 0.0.0.0	adnetwork.net.vn
 0.0.0.0	adnetwork.nextgen.net
 0.0.0.0	adnetworkperformance.com
+0.0.0.0	adnetworkperformance.compopcash.net
 0.0.0.0	adnetwork.rovicorp.com
 0.0.0.0	adnet.worldreviewer.com
 0.0.0.0	adnetxchange.com
@@ -17740,6 +17742,7 @@
 0.0.0.0	ads12.hpg.com.br
 0.0.0.0	ads12.hyperbanner.net
 0.0.0.0	ads12.udc.advance.net
+0.0.0.0	ads13000.cpmoz.com
 0.0.0.0	ads130.hpg.com.br
 0.0.0.0	ads131.hpg.com.br
 0.0.0.0	ads132.hpg.com.br
@@ -17841,6 +17844,7 @@
 0.0.0.0	ads19.focalink.com
 0.0.0.0	ads19.hpg.com.br
 0.0.0.0	ads1.activeagent.at
+0.0.0.0	ads1a.depositfiles.com
 0.0.0.0	ads1.ad-flow.com
 0.0.0.0	ads1.admedia.ro
 0.0.0.0	ads1.advance.de
@@ -18439,6 +18443,7 @@
 0.0.0.0	ads.aintitcool.com
 0.0.0.0	ads.airamericaradio.com
 0.0.0.0	ads.airpush.com
+0.0.0.0	ads-a.juicyads.com
 0.0.0.0	ads.akademika.bg
 0.0.0.0	ads.ak.facebook.com
 0.0.0.0	ads.ak.facebook.com.edgesuite.net
@@ -18452,6 +18457,7 @@
 0.0.0.0	ads.allsites.com
 0.0.0.0	ads.allvatar.com
 0.0.0.0	ads.allvertical.com
+0.0.0.0	ads.almasdarnews.com
 0.0.0.0	ads.alphaporno.com
 0.0.0.0	ads.alt.com
 0.0.0.0	adsalvo.com
@@ -18559,6 +18565,7 @@
 0.0.0.0	ads.baz.ch
 0.0.0.0	ad.sbb.bg
 0.0.0.0	ads.bbcworld.com
+0.0.0.0	adsbb.dfiles.eu
 0.0.0.0	ads.bcnewsgroup.com
 0.0.0.0	ads.bcsyndication.com
 0.0.0.0	ads.be2hand.com
@@ -21494,11 +21501,13 @@
 0.0.0.0	ads.xxxbunker.com
 0.0.0.0	ads.xxxfair.com
 0.0.0.0	adsxxxtraff.com
+0.0.0.0	adsxyz.com
 0.0.0.0	ads.y-0.net
 0.0.0.0	ads.yadro.ru
 0.0.0.0	ads.yahoo.com
 0.0.0.0	ads.yam.com
 0.0.0.0	ads.yankscash.com
+0.0.0.0	ads.yap.yahoo.com
 0.0.0.0	ads.yashi.com
 0.0.0.0	ads.yazzle.net
 0.0.0.0	ads.yeshanews.com
@@ -22088,6 +22097,7 @@
 0.0.0.0	adv.medicine.bg
 0.0.0.0	adv.medscape.com
 0.0.0.0	adv.merlin.co.il
+0.0.0.0	adv-mydarkness.ggcorp.me
 0.0.0.0	adv.netinfo.bg
 0.0.0.0	adv.neto.net.il
 0.0.0.0	adv.netshelter.net
@@ -23068,6 +23078,7 @@
 0.0.0.0	ams17.ib.adnxs.com
 0.0.0.0	ams18.ib.adnxs.com
 0.0.0.0	ams19.ib.adnxs.com
+0.0.0.0	ams1-ib.adnxs.com
 0.0.0.0	ams1.ib.adnxs.com
 0.0.0.0	ams1.mobile.adnxs.com
 0.0.0.0	ams20.ib.adnxs.com
@@ -26237,6 +26248,7 @@
 0.0.0.0	betting.betfair.com
 0.0.0.0	betting-online.petrovka.info
 0.0.0.0	betty-cendejas.us
+0.0.0.0	bevo-eu-west-1.adsnative.com
 0.0.0.0	bevo.go2cloud.org
 0.0.0.0	bextra.ourtablets.com
 0.0.0.0	bextra-store.shengen.ru
@@ -29247,6 +29259,7 @@
 0.0.0.0	cdn.adscpm.net
 0.0.0.0	cdn.adservingsolutionsinc.com
 0.0.0.0	cdn.adshexa.com
+0.0.0.0	cdn.adskeeper.co.uk
 0.0.0.0	cdn.ads.ookla.com
 0.0.0.0	cdn.adspirit.de
 0.0.0.0	cdn.adsrv247.com
@@ -29255,6 +29268,7 @@
 0.0.0.0	cdn.adstract.com
 0.0.0.0	cdn.adtrace.org
 0.0.0.0	cdn.adtradr.com
+0.0.0.0	cdn.adtrue.com
 0.0.0.0	cdn.adual.net
 0.0.0.0	cdn.adultforce.com
 0.0.0.0	cdn.advanseads.com
@@ -33568,6 +33582,8 @@
 0.0.0.0	data-ero-advertising.com
 0.0.0.0	data-eroadvertising.com
 0.0.0.0	data.ero-advertising.com
+0.0.0.0	data.eroadvertising.com
+0.0.0.0	data-failover.eroadvertising.com
 0.0.0.0	data.fanfinityapp.com
 0.0.0.0	data.flurry.com
 0.0.0.0	data.gametree.tw
@@ -36264,6 +36280,7 @@
 0.0.0.0	fastonlinefinder.com
 0.0.0.0	fastonlineusers.com
 0.0.0.0	fast.philly.demdex.net
+0.0.0.0	fastpopunder.com
 0.0.0.0	fast.postmedia.demdex.net
 0.0.0.0	fast.px.demdex.net
 0.0.0.0	fast.qantas.demdex.net
@@ -36903,6 +36920,7 @@
 0.0.0.0	fra198.ib.adnxs.com
 0.0.0.0	fra199.ib.adnxs.com
 0.0.0.0	fra19.ib.adnxs.com
+0.0.0.0	fra1-ib.adnxs.com
 0.0.0.0	fra1.ib.adnxs.com
 0.0.0.0	fra1.mobile.adnxs.com
 0.0.0.0	fra200.ib.adnxs.com
@@ -44162,6 +44180,7 @@
 0.0.0.0	media.hasoffers.com
 0.0.0.0	media.hauptbruch.de
 0.0.0.0	mediahorizons.com
+0.0.0.0	media.hw.adxpansion.com
 0.0.0.0	media.intelia.it
 0.0.0.0	media.justad.mobi
 0.0.0.0	media.l3.cdn.adbucks.com
@@ -45929,6 +45948,7 @@
 0.0.0.0	net.49479.9362.302br.net
 0.0.0.0	net.57222.9406.302br.net
 0.0.0.0	net.57240.9406.302br.net
+0.0.0.0	netadclick.com
 0.0.0.0	netads.hotwired.com
 0.0.0.0	netadsloc.com
 0.0.0.0	netadsrv.iworld.com
@@ -50287,6 +50307,7 @@
 0.0.0.0	rdstat.tanx.com
 0.0.0.0	rd.yahoo.com
 0.0.0.0	reachjunction.com
+0.0.0.0	reactads.cdn.adglare.net
 0.0.0.0	reactads.com
 0.0.0.0	reactads.engine.adglare.net
 0.0.0.0	reactx.com
@@ -53279,6 +53300,7 @@
 0.0.0.0	spaces.ero-advertising.com
 0.0.0.0	spaces.slimspots.com
 0.0.0.0	space.us.intellitxt.com
+0.0.0.0	sp.adbrn.com
 0.0.0.0	spade.twitch.tv
 0.0.0.0	spad.i-mobile.co.jp
 0.0.0.0	spads.yamx.com
@@ -58540,6 +58562,7 @@
 0.0.0.0	vbadbg.hit.gemius.pl
 0.0.0.0	vbbg.adocean.pl
 0.0.0.0	v.bsvideos.com
+0.0.0.0	vcdn.adnxs.com
 0.0.0.0	v.chartboost.com
 0.0.0.0	vcipo.info
 0.0.0.0	vclick.adbrite.com
