@@ -1,7 +1,8 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Sep 15 02:30:14 +03 2017
-# Total number of blocked hosts are: 69625
+# Ad blocking hosts generated Sat Sep 16 02:30:13 +03 2017
+# Total number of blocked hosts are: 69611
+0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -442,7 +443,6 @@
 0.0.0.0	158.6.87.194.dynamic.dol.ru
 0.0.0.0	159.6.87.194.dynamic.dol.ru
 0.0.0.0	15minadlt.hit.gemius.pl
-0.0.0.0	15minlt.adocean.pl
 0.0.0.0	15.ptp22.com
 0.0.0.0	15qhn.voluumtrk.com
 0.0.0.0	15view.atdmt.com.319.6000.302br.net
@@ -17050,7 +17050,6 @@
 0.0.0.0	ad.jp.ap.valu.com
 0.0.0.0	ad.jp.ap.valuecommerce.com
 0.0.0.0	ad.jp.doubleclick.net
-0.0.0.0	ad-js.chip.de
 0.0.0.0	adjug.com
 0.0.0.0	ad.jugem.jp
 0.0.0.0	adjuggler.com
@@ -18113,7 +18112,6 @@
 0.0.0.0	ads3.haber3.com
 0.0.0.0	ads3.hpg.com.br
 0.0.0.0	ads3.ihaberadserver.com
-0.0.0.0	ads3.ipon.lt
 0.0.0.0	ads3.jubii.dk
 0.0.0.0	ads3.kompasads.com
 0.0.0.0	ads3.mocean.mobi
@@ -18177,6 +18175,7 @@
 0.0.0.0	ads54.hpg.com.br
 0.0.0.0	ads55.hpg.com.br
 0.0.0.0	ads56.hpg.com.br
+0.0.0.0	ads56-us-east.stickyadstv.com
 0.0.0.0	ads57.hpg.com.br
 0.0.0.0	ads58.hpg.com.br
 0.0.0.0	ads59.hpg.com.br
@@ -24338,6 +24337,7 @@
 0.0.0.0	atspace.de.intellitxt.com
 0.0.0.0	ats.tumri.net
 0.0.0.0	attadworks.turn.com
+0.0.0.0	attawala.com.sa
 0.0.0.0	atticwicket.com
 0.0.0.0	a.ttinline.com
 0.0.0.0	attirer.science
@@ -24722,7 +24722,6 @@
 0.0.0.0	bam-3.nr-data.net
 0.0.0.0	bam-4.nr-data.net
 0.0.0.0	bam-5.nr-data.net
-0.0.0.0	bambergerkennanchitinous.com.abbp2.pw
 0.0.0.0	bam.nr-data.net
 0.0.0.0	bam-pilot.iovation.com
 0.0.0.0	ban3ers.ero-advertising.com
@@ -28179,7 +28178,6 @@
 0.0.0.0	buchde02.webtrekk.net
 0.0.0.0	bucketsofbanners.com
 0.0.0.0	bucksense.go2cloud.org
-0.0.0.0	buddies.funbuddyicons.com
 0.0.0.0	budgetedbauer.com
 0.0.0.0	budsinc.com
 0.0.0.0	buffalogoesout.com
@@ -29648,7 +29646,6 @@
 0.0.0.0	cdn.teads.tv
 0.0.0.0	cdn.teamskeetimages.com
 0.0.0.0	cdn.technoratimedia.com
-0.0.0.0	cdntest.gand.de
 0.0.0.0	cdn.thetorntv.com
 0.0.0.0	cdn.theturboforums.com
 0.0.0.0	cdn.tinypass.com
@@ -29997,6 +29994,7 @@
 0.0.0.0	chsplantsales.co.uk
 0.0.0.0	chtatic.appspot.com
 0.0.0.0	chuknu.sokrati.com
+0.0.0.0	chukskel.ddns.net
 0.0.0.0	chumtv.122.2o7.net
 0.0.0.0	ci22.actonsoftware.com
 0.0.0.0	ci23.actonsoftware.com
@@ -33830,7 +33828,6 @@
 0.0.0.0	dedicatedmedia.com
 0.0.0.0	deepcom.com
 0.0.0.0	def.5.p2l.info
-0.0.0.0	defender-win-status-report.info
 0.0.0.0	definitelyfind.com
 0.0.0.0	defshop01.webtrekk.net
 0.0.0.0	de.grmtech.net
@@ -34094,6 +34091,7 @@
 0.0.0.0	diana-buchheit.us
 0.0.0.0	dianepiette.co.uk
 0.0.0.0	dianna-gannon.us
+0.0.0.0	dianomi.com
 0.0.0.0	dianomioffers.co.uk
 0.0.0.0	diapi.webgains.com
 0.0.0.0	diaryofagameaddict.com
@@ -34130,7 +34128,6 @@
 0.0.0.0	digibrand.go2cloud.org
 0.0.0.0	digikulture-d.openx.net
 0.0.0.0	diginet.112.2o7.net
-0.0.0.0	diginet.adocean.pl
 0.0.0.0	digi-net.com
 0.0.0.0	diginetlt.hit.gemius.pl
 0.0.0.0	digistats.westjet.com
@@ -34146,7 +34143,6 @@
 0.0.0.0	digitalmediaonline.us.intellitxt.com
 0.0.0.0	digitalmediawire.us.intellitxt.com
 0.0.0.0	digitalone.go2cloud.org
-0.0.0.0	digitalriver.com
 0.0.0.0	digitalsalesmedia.go2cloud.org
 0.0.0.0	digitaltrends-d.openx.net
 0.0.0.0	digitaltrends.us.intellitxt.com
@@ -34521,14 +34517,12 @@
 0.0.0.0	downloadapps.tech
 0.0.0.0	download-archiver.ru
 0.0.0.0	downloadcdn.com
-0.0.0.0	download.cdn.downloadquick.net
 0.0.0.0	download.cdn.sharelive.net
 0.0.0.0	download.cdn.torchbrowser.com
 0.0.0.0	do-wn-lo-ad.com
 0.0.0.0	downloadcounter.de
 0.0.0.0	download.downloadquick.net
 0.0.0.0	download.filmfanatic.com
-0.0.0.0	download.funwebproducts.com
 0.0.0.0	download.grandcloud.cn
 0.0.0.0	download.hitbox.com
 0.0.0.0	download.installnow.mobi
@@ -36060,6 +36054,7 @@
 0.0.0.0	e.zeroredirect1.com
 0.0.0.0	e.zeroredirect.com
 0.0.0.0	ezgds.112.2o7.net
+0.0.0.0	ezpa.ga
 0.0.0.0	ez-polls.superstats.com
 0.0.0.0	ezpolls.superstats.com
 0.0.0.0	ez-poll.superstats.com
@@ -36319,7 +36314,6 @@
 0.0.0.0	f.blogads.com
 0.0.0.0	fb-nym.adnxs.com
 0.0.0.0	fbokvk.com.justclick.ru
-0.0.0.0	fb-promotions.com
 0.0.0.0	fbtrack.webtrekk.net
 0.0.0.0	fbtrk.com
 0.0.0.0	fb.umeng.com
@@ -36456,9 +36450,7 @@
 0.0.0.0	filedudes.us.intellitxt.com
 0.0.0.0	file.ipinyou.com.cn
 0.0.0.0	fileloadr.com
-0.0.0.0	files4.downloadnet1188.com
 0.0.0.0	files4.securedownload01.com
-0.0.0.0	files5.downloadnet1188.com
 0.0.0.0	files5.securedownload01.com
 0.0.0.0	files.adbrite.com
 0.0.0.0	files.adspdbl.com
@@ -36701,6 +36693,7 @@
 0.0.0.0	fodder.qq.com
 0.0.0.0	fodder.tc.qq.com
 0.0.0.0	foi8q.voluumtrk.com
+0.0.0.0	fojasoftwareaudio.ignorelist.com
 0.0.0.0	folkd.put.omnimon.de
 0.0.0.0	following-technology.com
 0.0.0.0	followup.adlandpro.com
@@ -39289,6 +39282,7 @@
 0.0.0.0	hlgsolutions.go2cloud.org
 0.0.0.0	h.live.com
 0.0.0.0	hlok.qertewrt.com
+0.0.0.0	hlookehab.top
 0.0.0.0	hlrke.voluumtrk.com
 0.0.0.0	hlt6o.voluumtrk.com
 0.0.0.0	hlu9tseh.men
@@ -42950,6 +42944,7 @@
 0.0.0.0	lohud.us.intellitxt.com
 0.0.0.0	lokalavisendk.nuggad.net
 0.0.0.0	lokhlp.com
+0.0.0.0	lokpanels.info
 0.0.0.0	lolfun.com
 0.0.0.0	lolhello.com
 0.0.0.0	lo.ljkeefeco.com
@@ -43529,6 +43524,7 @@
 0.0.0.0	m.adx.bg
 0.0.0.0	maeas.voluumtrk.com
 0.0.0.0	maedge.com
+0.0.0.0	mafian222.myftp.org
 0.0.0.0	magazines.sp1.convertro.com
 0.0.0.0	magdalena-pollak.us
 0.0.0.0	magentanews.com
@@ -46961,7 +46957,6 @@
 0.0.0.0	oas-fr.video.on.nytimes.com
 0.0.0.0	oas.greensboro.com
 0.0.0.0	oas.guardian.co.uk
-0.0.0.0	oas.guardiannews.com
 0.0.0.0	oas.heise.de
 0.0.0.0	oas.hitbox.com
 0.0.0.0	oas.ibnlive.com
@@ -46997,7 +46992,6 @@
 0.0.0.0	oassis.zmh.zope.com
 0.0.0.0	oas.startribune.com
 0.0.0.0	oas.stv.tv
-0.0.0.0	oas.theguardian.com
 0.0.0.0	oas.tidningsnatet.se
 0.0.0.0	oas.toronto.com
 0.0.0.0	oas.trustnet.com
@@ -47138,7 +47132,6 @@
 0.0.0.0	ohlone.vizu.com
 0.0.0.0	ohmydating.com
 0.0.0.0	ohtulehtadee.hit.gemius.pl
-0.0.0.0	ohtulehtee.adocean.pl
 0.0.0.0	ohtuleht.spring-tns.net
 0.0.0.0	oi2cz.voluumtrk.com
 0.0.0.0	o.ibg.bg
@@ -48574,7 +48567,6 @@
 0.0.0.0	pigment-adv.co.il
 0.0.0.0	pigra.csheaven.com
 0.0.0.0	pigredoben12.sytes.net
-0.0.0.0	pillscash.com
 0.0.0.0	pilltabletsrxbargain.net
 0.0.0.0	pilmedia.ads.visionweb.no
 0.0.0.0	p.imgur.com
@@ -49556,7 +49548,6 @@
 0.0.0.0	pr-static.empflix.com
 0.0.0.0	prstatics.com
 0.0.0.0	prstats.postrelease.com
-0.0.0.0	pr-ten.de
 0.0.0.0	prv3h.voluumtrk.com
 0.0.0.0	prwidgets.com
 0.0.0.0	prx.freecj.com
@@ -49816,7 +49807,6 @@
 0.0.0.0	pulharktheherald.112.2o7.net
 0.0.0.0	pulkauaiworld.112.2o7.net
 0.0.0.0	pulpantagraph.112.2o7.net
-0.0.0.0	pulse360.com
 0.0.0.0	pulsepoint.com
 0.0.0.0	pulsetv.com
 0.0.0.0	pulsix.com
@@ -50359,6 +50349,7 @@
 0.0.0.0	realtime.services.disqus.com
 0.0.0.0	realtouchbannerwidget.aebn.net
 0.0.0.0	realtracker.com
+0.0.0.0	realwire123.ddns.net
 0.0.0.0	rebecca-smythe.us
 0.0.0.0	rebellionmedia.rotator.hadj7.adjuggler.net
 0.0.0.0	reboot.sitescout.com
@@ -51335,7 +51326,6 @@
 0.0.0.0	s1.edipresse.adocean.pl
 0.0.0.0	s1freehdsportzappcom.maynemyltf.netdna-cdn.com
 0.0.0.0	s1.freehostedscripts.net
-0.0.0.0	s1.gojobsru.adocean.pl
 0.0.0.0	s1.gratkapl.adocean.pl
 0.0.0.0	s1hdflash-playercom.maynemyltf.netdna-cdn.com
 0.0.0.0	s1.hit.stat24.com
@@ -51998,7 +51988,6 @@
 0.0.0.0	searchingresult.com
 0.0.0.0	searchinquire.com
 0.0.0.0	search.ipromote.com
-0.0.0.0	search.iwon.com
 0.0.0.0	search.jayde.com
 0.0.0.0	search.keywordblocks.com
 0.0.0.0	searchlinear.com
@@ -53267,6 +53256,7 @@
 0.0.0.0	sonia-pantoja.us
 0.0.0.0	sonia-wedge.us
 0.0.0.0	sonja-rascon.us
+0.0.0.0	sonobi.com
 0.0.0.0	sonya-howland.us
 0.0.0.0	sonychina.112.2o7.net
 0.0.0.0	sonycomputerentertai.tt.omtrdc.net
@@ -58714,7 +58704,6 @@
 0.0.0.0	vice-ads.s3.amazonaws.com
 0.0.0.0	vicecom.ivwbox.de
 0.0.0.0	vice-d.openx.net
-0.0.0.0	vice-web-statics-cdn.vice.com
 0.0.0.0	vicodin-online.petrovka.info
 0.0.0.0	vicodin-store.shengen.ru
 0.0.0.0	vicodin.t-amo.net
@@ -66059,7 +66048,6 @@
 0.0.0.0	www.full-edition.info
 0.0.0.0	www.fullqurandownload.com
 0.0.0.0	www.fulltraffic.net
-0.0.0.0	www.funbuddyicons.com
 0.0.0.0	www.fun-hits.de
 0.0.0.0	www.funklicks.com
 0.0.0.0	www.fun.lbn.ru
@@ -66069,7 +66057,6 @@
 0.0.0.0	www.funstun.com
 0.0.0.0	www.funtopliste.de
 0.0.0.0	www.fun-town.com
-0.0.0.0	www.funwebproducts.com
 0.0.0.0	www.furnitureulimited.com
 0.0.0.0	www.fusespot.com
 0.0.0.0	www.fusestats.com
@@ -68291,7 +68278,6 @@
 0.0.0.0	www.the-counter.net
 0.0.0.0	www.thedatesafe.com
 0.0.0.0	www.the-discount-store.com
-0.0.0.0	www.thedownloadpremiumfree36.com
 0.0.0.0	www.theexgirlfriends.com
 0.0.0.0	www.thefreepremiummy15.com
 0.0.0.0	www.thehitsusa.com
