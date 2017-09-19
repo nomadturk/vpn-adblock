@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Sep 19 02:30:14 +03 2017
-# Total number of blocked hosts are: 69612
+# Ad blocking hosts generated Wed Sep 20 02:30:13 +03 2017
+# Total number of blocked hosts are: 69624
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -23753,17 +23753,27 @@
 0.0.0.0	apopt.hbmediapro.com
 0.0.0.0	aporg.112.2o7.net
 0.0.0.0	a.postrelease.com
+0.0.0.0	app1.letitbefaster.life
+0.0.0.0	app1.letitbefaster.website
+0.0.0.0	app2.letitbefaster.life
+0.0.0.0	app2.letitbefaster.website
 0.0.0.0	app2.letmacwork.world
 0.0.0.0	app2.letslowbefast.life
 0.0.0.0	app2.salesmanago.pl
 0.0.0.0	app2.vinsight.de
+0.0.0.0	app3.letitbefaster.life
+0.0.0.0	app3.letitbefaster.website
 0.0.0.0	app3.letmacwork.world
 0.0.0.0	app3.rutarget.ru
 0.0.0.0	app3.vinsight.de
+0.0.0.0	app4.letitbefaster.life
+0.0.0.0	app4.letitbefaster.website
 0.0.0.0	app4.letslowbefast.life
 0.0.0.0	app4.letslowbefast.site
 0.0.0.0	app4.letslowbefast.today
 0.0.0.0	app4us.info
+0.0.0.0	app5.letitbefaster.life
+0.0.0.0	app5.letitbefaster.website
 0.0.0.0	app-ab02.marketo.com
 0.0.0.0	app-ab03.marketo.com
 0.0.0.0	app-ab04.marketo.com
@@ -48342,6 +48352,7 @@
 0.0.0.0	perfect-privacy.postaffiliatepro.com
 0.0.0.0	perfiliate.com
 0.0.0.0	perf.mmstat.com
+0.0.0.0	performanceadexchange.com
 0.0.0.0	performance.affiliaxe.com
 0.0.0.0	performancerevenue.com
 0.0.0.0	performancerevenues.com
@@ -49034,6 +49045,7 @@
 0.0.0.0	pop.performancerevenues.com
 0.0.0.0	pop.pptw.org
 0.0.0.0	pop.redirect.adsjudo.com
+0.0.0.0	pop.revimedia.com
 0.0.0.0	popsci.com.122.2o7.net
 0.0.0.0	pops.ero-advertising.com
 0.0.0.0	pops.freeze.com
