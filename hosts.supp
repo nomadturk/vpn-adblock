@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Sep 20 02:30:13 +03 2017
-# Total number of blocked hosts are: 69624
+# Ad blocking hosts generated Thu Sep 21 02:30:15 +03 2017
+# Total number of blocked hosts are: 69625
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -39027,6 +39027,7 @@
 0.0.0.0	helium.us.intellitxt.com
 0.0.0.0	hellen-baca.us
 0.0.0.0	hellen-behr.us
+0.0.0.0	hellobar.com
 0.0.0.0	hellomagazine.uk.intellitxt.com
 0.0.0.0	hello.myfonts.net
 0.0.0.0	hello.sexer.com
