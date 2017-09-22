@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Sep 22 02:30:13 +03 2017
-# Total number of blocked hosts are: 69628
+# Ad blocking hosts generated Sat Sep 23 02:30:15 +03 2017
+# Total number of blocked hosts are: 69623
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -19887,7 +19887,6 @@
 0.0.0.0	ad.shop.tbn.ru
 0.0.0.0	ads.hornymatches.com
 0.0.0.0	ads.hornypharaoh.com
-0.0.0.0	ads.horsehero.com
 0.0.0.0	ads.horyzon-media.com
 0.0.0.0	adshost1.com
 0.0.0.0	adshost2.com
@@ -22271,12 +22270,14 @@
 0.0.0.0	ad.yourmedia.com
 0.0.0.0	ad.yoyo.pl
 0.0.0.0	ad-yt-bfp.doubleclick.net
+0.0.0.0	adz2you.com
 0.0.0.0	ad.z5x.net
 0.0.0.0	ad.za.doubleclick.net
 0.0.0.0	adz.afterdawn.net
 0.0.0.0	ad.zaman.com
 0.0.0.0	ad.zaman.com.tr
 0.0.0.0	ad.zanox.com
+0.0.0.0	adzbazar.com
 0.0.0.0	ad.zencudo.co.uk
 0.0.0.0	adzerk.net
 0.0.0.0	adzerk.s3.amazonaws.com
@@ -24347,7 +24348,6 @@
 0.0.0.0	atspace.de.intellitxt.com
 0.0.0.0	ats.tumri.net
 0.0.0.0	attadworks.turn.com
-0.0.0.0	attawala.com.sa
 0.0.0.0	atticwicket.com
 0.0.0.0	a.ttinline.com
 0.0.0.0	attirer.science
@@ -30005,7 +30005,6 @@
 0.0.0.0	chsplantsales.co.uk
 0.0.0.0	chtatic.appspot.com
 0.0.0.0	chuknu.sokrati.com
-0.0.0.0	chukskel.ddns.net
 0.0.0.0	chumtv.122.2o7.net
 0.0.0.0	ci22.actonsoftware.com
 0.0.0.0	ci23.actonsoftware.com
@@ -30550,6 +30549,7 @@
 0.0.0.0	client.tahono.com
 0.0.0.0	client-verify.adtricity.com
 0.0.0.0	clik2008.popunder.ru
+0.0.0.0	clikerz.net
 0.0.0.0	cliksolution.com
 0.0.0.0	cli.linksynergy.com
 0.0.0.0	clipfish.ivwbox.de
@@ -36065,7 +36065,6 @@
 0.0.0.0	e.zeroredirect1.com
 0.0.0.0	e.zeroredirect.com
 0.0.0.0	ezgds.112.2o7.net
-0.0.0.0	ezpa.ga
 0.0.0.0	ez-polls.superstats.com
 0.0.0.0	ezpolls.superstats.com
 0.0.0.0	ez-poll.superstats.com
@@ -36704,7 +36703,6 @@
 0.0.0.0	fodder.qq.com
 0.0.0.0	fodder.tc.qq.com
 0.0.0.0	foi8q.voluumtrk.com
-0.0.0.0	fojasoftwareaudio.ignorelist.com
 0.0.0.0	folkd.put.omnimon.de
 0.0.0.0	following-technology.com
 0.0.0.0	followup.adlandpro.com
@@ -39295,7 +39293,6 @@
 0.0.0.0	hlgsolutions.go2cloud.org
 0.0.0.0	h.live.com
 0.0.0.0	hlok.qertewrt.com
-0.0.0.0	hlookehab.top
 0.0.0.0	hlrke.voluumtrk.com
 0.0.0.0	hlt6o.voluumtrk.com
 0.0.0.0	hlu9tseh.men
@@ -42957,7 +42954,6 @@
 0.0.0.0	lohud.us.intellitxt.com
 0.0.0.0	lokalavisendk.nuggad.net
 0.0.0.0	lokhlp.com
-0.0.0.0	lokpanels.info
 0.0.0.0	lolfun.com
 0.0.0.0	lolhello.com
 0.0.0.0	lo.ljkeefeco.com
@@ -43537,7 +43533,6 @@
 0.0.0.0	m.adx.bg
 0.0.0.0	maeas.voluumtrk.com
 0.0.0.0	maedge.com
-0.0.0.0	mafian222.myftp.org
 0.0.0.0	magazines.sp1.convertro.com
 0.0.0.0	magdalena-pollak.us
 0.0.0.0	magentanews.com
@@ -50364,7 +50359,6 @@
 0.0.0.0	realtime.services.disqus.com
 0.0.0.0	realtouchbannerwidget.aebn.net
 0.0.0.0	realtracker.com
-0.0.0.0	realwire123.ddns.net
 0.0.0.0	rebecca-smythe.us
 0.0.0.0	rebellionmedia.rotator.hadj7.adjuggler.net
 0.0.0.0	reboot.sitescout.com
@@ -58135,6 +58129,7 @@
 0.0.0.0	ulic.baidu.com
 0.0.0.0	ulock.it
 0.0.0.0	ultimacash.go2cloud.org
+0.0.0.0	ultimateclixx.com
 0.0.0.0	ultimatecounter.com
 0.0.0.0	ultimatefashiongifts.com
 0.0.0.0	ultimategracelessness.info
