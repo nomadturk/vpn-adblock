@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat Sep 23 02:30:15 +03 2017
-# Total number of blocked hosts are: 69623
+# Ad blocking hosts generated Sun Sep 24 02:30:16 +03 2017
+# Total number of blocked hosts are: 69624
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -41755,6 +41755,7 @@
 0.0.0.0	keystat.com
 0.0.0.0	keytarget.adnet.lt
 0.0.0.0	keyupgrade.stableupdate.space
+0.0.0.0	keyupgrade.thecentral2updating.bid
 0.0.0.0	keyways.pt
 0.0.0.0	keywordblocks.com
 0.0.0.0	keyword.daumdn.com
