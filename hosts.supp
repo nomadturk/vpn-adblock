@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Sep 28 02:30:27 +03 2017
-# Total number of blocked hosts are: 69651
+# Ad blocking hosts generated Fri Sep 29 02:30:13 +03 2017
+# Total number of blocked hosts are: 69656
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -323,6 +323,7 @@
 0.0.0.0	118d654612df63bc8395-aecfeaabe29a34ea9a877711ec6d8aed.r37.cf2.rackcdn.com
 0.0.0.0	119.6.87.194.dynamic.dol.ru
 0.0.0.0	119xpg.go2cloud.org
+0.0.0.0	1-1ads.com
 0.0.0.0	11.ptp22.com
 0.0.0.0	11.rtstats.com
 0.0.0.0	11zz.com
@@ -26405,6 +26406,7 @@
 0.0.0.0	bitcast-a.v1.iad1.bitgravity.com
 0.0.0.0	bitcast-d.bitgravity.com
 0.0.0.0	bitcoinadvertisers.com
+0.0.0.0	bitcoinplus.com
 0.0.0.0	bit.do
 0.0.0.0	bit.ehow.com
 0.0.0.0	bi-three.wooga.com
@@ -30943,6 +30945,7 @@
 0.0.0.0	coffeol.com
 0.0.0.0	cogtree.com
 0.0.0.0	cohortdigital.go2cloud.org
+0.0.0.0	coin-hive.com
 0.0.0.0	coinurl.com
 0.0.0.0	coinvisitor.com
 0.0.0.0	c.oix.com
@@ -41077,6 +41080,7 @@
 0.0.0.0	i.zeroredirect1.com
 0.0.0.0	i.zeroredirect2.com
 0.0.0.0	i.zeroredirect.com
+0.0.0.0	izeselet.hu
 0.0.0.0	izitracking.izimailing.com
 0.0.0.0	i.zugo.com
 0.0.0.0	izzonet.go2cloud.org
@@ -42544,6 +42548,7 @@
 0.0.0.0	livecams.nl
 0.0.0.0	live.chartboost.com
 0.0.0.0	livechat.s3.amazonaws.com
+0.0.0.0	livecheck.theperfectsystoupdating.date
 0.0.0.0	livecounter.dk
 0.0.0.0	livedealcom.112.2o7.net
 0.0.0.0	livedelivery.com
