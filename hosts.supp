@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Sep 29 02:30:13 +03 2017
-# Total number of blocked hosts are: 69656
+# Ad blocking hosts generated Sat Sep 30 02:30:13 +03 2017
+# Total number of blocked hosts are: 69657
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -1028,6 +1028,7 @@
 0.0.0.0	24pm-affiliation.com
 0.0.0.0	24ratownik.hit.gemius.pl
 0.0.0.0	24trk.com
+0.0.0.0	24upgradecheck.thesteadysystemforupgrades.download
 0.0.0.0	24wrestling.us.intellitxt.com
 0.0.0.0	24x7adservice.com
 0.0.0.0	24x7.soliday.org
