@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Oct 4 02:30:13 +03 2017
-# Total number of blocked hosts are: 69675
+# Ad blocking hosts generated Wed Oct 4 23:07:44 +03 2017
+# Total number of blocked hosts are: 69677
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -16584,6 +16584,7 @@
 0.0.0.0	ad.f1cd.ru
 0.0.0.0	adfacten.go2cloud.org
 0.0.0.0	adfactor.nl
+0.0.0.0	adfactor.nl.invalid
 0.0.0.0	adfactory88.com
 0.0.0.0	ad.family.go.com
 0.0.0.0	adfarm1.adition.com
@@ -53252,6 +53253,7 @@
 0.0.0.0	softonic.us.intellitxt.com
 0.0.0.0	softpedia.uk.intellitxt.com
 0.0.0.0	softpedia.us.intellitxt.com
+0.0.0.0	softreadynow.thebigforeverupgrade.review
 0.0.0.0	softreadynow.thespaceupdatespcandmac.info
 0.0.0.0	softwarepiset.com
 0.0.0.0	softwares.timesink.com
