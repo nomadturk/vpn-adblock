@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat Oct 7 02:30:14 +03 2017
-# Total number of blocked hosts are: 69678
+# Ad blocking hosts generated Sun Oct 8 02:30:13 +03 2017
+# Total number of blocked hosts are: 69681
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -356,6 +356,7 @@
 0.0.0.0	123.duba.net
 0.0.0.0	123.fluxads.com
 0.0.0.0	123found.com
+0.0.0.0	123freeavatars.com
 0.0.0.0	123go.com
 0.0.0.0	123greetings.com
 0.0.0.0	123.ichkoche.at
@@ -16559,6 +16560,7 @@
 0.0.0.0	adex.adchakra.net
 0.0.0.0	adex.admailtiser.com
 0.0.0.0	adexce.net
+0.0.0.0	adexchangegate.com
 0.0.0.0	adexchange.guru
 0.0.0.0	adexchangeperformance.com
 0.0.0.0	adexchangeprediction.com
@@ -53370,6 +53372,7 @@
 0.0.0.0	spd.pointroll.com
 0.0.0.0	spe.atdmt.com
 0.0.0.0	specialgiftrewards.com
+0.0.0.0	specially4u.net
 0.0.0.0	specialoffers.aol.com
 0.0.0.0	specialonlinegifts.com
 0.0.0.0	specials-rewardpath.com
