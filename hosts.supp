@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Oct 11 02:30:12 +03 2017
-# Total number of blocked hosts are: 69696
+# Ad blocking hosts generated Thu Oct 12 02:30:12 +03 2017
+# Total number of blocked hosts are: 69699
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -30960,6 +30960,7 @@
 0.0.0.0	cogtree.com
 0.0.0.0	cohortdigital.go2cloud.org
 0.0.0.0	coin-hive.com
+0.0.0.0	coinhive.com
 0.0.0.0	coinurl.com
 0.0.0.0	coinvisitor.com
 0.0.0.0	c.oix.com
@@ -33963,6 +33964,7 @@
 0.0.0.0	deliv.lexpress.fr
 0.0.0.0	dellinc.tt.omtrdc.net
 0.0.0.0	deloo.de
+0.0.0.0	deloton.com
 0.0.0.0	delta210.rtb.appier.net
 0.0.0.0	delta223.homestead.com
 0.0.0.0	delta244.rtb.appier.net
@@ -47479,6 +47481,7 @@
 0.0.0.0	openload.info
 0.0.0.0	openmarket.com
 0.0.0.0	open.mkt1397.com
+0.0.0.0	open.oneplus.net
 0.0.0.0	openoverflow.com
 0.0.0.0	opensharecount.com
 0.0.0.0	opensoftwareupdate.com
