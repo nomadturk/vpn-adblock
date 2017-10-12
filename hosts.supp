@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Oct 12 02:30:12 +03 2017
-# Total number of blocked hosts are: 69699
+# Ad blocking hosts generated Fri Oct 13 02:30:12 +03 2017
+# Total number of blocked hosts are: 69701
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -30570,7 +30570,6 @@
 0.0.0.0	clipfish.ivwbox.de
 0.0.0.0	clips.coolerads.com
 0.0.0.0	clipserv.adclip.com
-0.0.0.0	cliqz.com
 0.0.0.0	clit10.sextracker.com
 0.0.0.0	clit11.sextracker.com
 0.0.0.0	clit120.outster.com
@@ -34168,6 +34167,7 @@
 0.0.0.0	digistats.westjet.com
 0.0.0.0	digital4adro.hit.gemius.pl
 0.0.0.0	digital4ro.adocean.pl
+0.0.0.0	digital-ads.s3.amazonaws.com
 0.0.0.0	digitaladvisor.go2cloud.org
 0.0.0.0	digital-cable-descrambler.planet-high-heels.com
 0.0.0.0	digital.datalabusa.com
@@ -41644,6 +41644,7 @@
 0.0.0.0	jvz9.com
 0.0.0.0	jvzoo.com
 0.0.0.0	jwebbsense.cjt1.net
+0.0.0.0	jwljj.adsb4track.com
 0.0.0.0	jwner.voluumtrk.com
 0.0.0.0	jwpltx.com
 0.0.0.0	jxliu.com
@@ -66685,6 +66686,7 @@
 0.0.0.0	www.jvz8.com
 0.0.0.0	www.jvz9.com
 0.0.0.0	www.jvzoo.com
+0.0.0.0	www.jwljj.adsb4track.com
 0.0.0.0	www.jxliu.com
 0.0.0.0	www.jzigsobgsmxdmr.bid
 0.0.0.0	www.kaaza-legal.de
