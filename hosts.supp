@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun Oct 22 02:30:14 +03 2017
-# Total number of blocked hosts are: 69727
+# Ad blocking hosts generated Mon Oct 23 02:30:15 +03 2017
+# Total number of blocked hosts are: 69732
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -444,6 +444,7 @@
 0.0.0.0	157-events.olark.com
 0.0.0.0	158.6.87.194.dynamic.dol.ru
 0.0.0.0	159.6.87.194.dynamic.dol.ru
+0.0.0.0	15cen.redirectvoluum.com
 0.0.0.0	15minadlt.hit.gemius.pl
 0.0.0.0	15.ptp22.com
 0.0.0.0	15qhn.voluumtrk.com
@@ -36395,6 +36396,7 @@
 0.0.0.0	feedads.g.doubleclick.net
 0.0.0.0	feedads.googleadservices.com
 0.0.0.0	feed.afy11.net
+0.0.0.0	feedbackcensus.com
 0.0.0.0	feedbackexplorer.com
 0.0.0.0	feedback.microsoft-hohm.com
 0.0.0.0	feedbackresearch.com
@@ -64760,6 +64762,7 @@
 0.0.0.0	www.airbornehydrography.com
 0.0.0.0	www.airpush.com
 0.0.0.0	www.airsonett.se
+0.0.0.0	www.ajalis.com
 0.0.0.0	www.akoneplatit.sk
 0.0.0.0	www.alanna-annunziata.us
 0.0.0.0	www.albiondrugs.com
@@ -66163,6 +66166,7 @@
 0.0.0.0	www.fxcounters.com
 0.0.0.0	www.fxstyle.net
 0.0.0.0	www.gabia.com
+0.0.0.0	www.gacatl.com
 0.0.0.0	www.galileounaluna.com
 0.0.0.0	www.gallerytrafficservice.com
 0.0.0.0	www.gameadexchange.com
@@ -66516,6 +66520,7 @@
 0.0.0.0	www.imagerieduroc.com
 0.0.0.0	www.imagine-inc.com
 0.0.0.0	www.i.matheranalytics.com
+0.0.0.0	www.imcounting.com
 0.0.0.0	www.imgclck.com
 0.0.0.0	www.imiclk.com
 0.0.0.0	wwwimlive.com
