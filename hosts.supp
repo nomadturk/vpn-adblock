@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Oct 24 02:30:16 +03 2017
-# Total number of blocked hosts are: 69733
+# Ad blocking hosts generated Wed Oct 25 02:30:15 +03 2017
+# Total number of blocked hosts are: 69739
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -16733,6 +16733,8 @@
 0.0.0.0	adforce.ru
 0.0.0.0	adforgames.com
 0.0.0.0	adform.com
+0.0.0.0	adformdsp.net
+0.0.0.0	adform.net
 0.0.0.0	adfornepal.com
 0.0.0.0	ad.fout.jp
 0.0.0.0	ad.foxnetworks.com
@@ -23840,6 +23842,7 @@
 0.0.0.0	app.kissmetrics.com
 0.0.0.0	applab-sdk.amazon.com
 0.0.0.0	applebarq.com
+0.0.0.0	apple.com-analysis-safety-antimalware-support.accountant
 0.0.0.0	apple.com.clean-virus-mac.com
 0.0.0.0	apple.com-internet-security-review.info
 0.0.0.0	apple.com-internet-security-review.review
@@ -40857,6 +40860,7 @@
 0.0.0.0	inze5.voluumtrk.com
 0.0.0.0	in.zog.link
 0.0.0.0	ioads.ero-advertising.com
+0.0.0.0	ioam.de
 0.0.0.0	iocdn.coremetrics.com
 0.0.0.0	i.offerx.co.uk
 0.0.0.0	ioit.iovation.com
@@ -41067,6 +41071,7 @@
 0.0.0.0	ivory.vnunet.com
 0.0.0.0	ivox.socratos.net
 0.0.0.0	ivqva.voluumtrk.com
+0.0.0.0	ivwbox.de
 0.0.0.0	ivw.discover-outdoor.de
 0.0.0.0	ivw.dumontreise.de
 0.0.0.0	ivwextern.prosieben.de
@@ -49444,6 +49449,7 @@
 0.0.0.0	promo.badoink.com
 0.0.0.0	promo.begun.ru
 0.0.0.0	promobenef.com
+0.0.0.0	promo.betcity.net
 0.0.0.0	promo.blackcrush.com
 0.0.0.0	promo.bluesq.com
 0.0.0.0	promo.bongacash.com
