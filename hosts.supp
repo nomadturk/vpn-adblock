@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Oct 25 02:30:15 +03 2017
-# Total number of blocked hosts are: 69739
+# Ad blocking hosts generated Thu Oct 26 02:30:14 +03 2017
+# Total number of blocked hosts are: 69740
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -3220,6 +3220,7 @@
 0.0.0.0	ad2.tr.mediainter.net
 0.0.0.0	ad2.turn.com
 0.0.0.0	ad2up.com
+0.0.0.0	ad2.xrea.com
 0.0.0.0	ad2.yam.com
 0.0.0.0	ad2.yam.com.tw
 0.0.0.0	ad2.zapmedya.com
@@ -3410,6 +3411,7 @@
 0.0.0.0	ad3.sbs.co.kr
 0.0.0.0	ad3.sina.com.cn
 0.0.0.0	ad3.speedbit.com
+0.0.0.0	ad3.xrea.com
 0.0.0.0	ad400m.adk2.co
 0.0.0.0	ad401m.adk2.co
 0.0.0.0	ad402m.adk2.co
@@ -69238,7 +69240,6 @@
 0.0.0.0	xpostmail.com
 0.0.0.0	xq1.net
 0.0.0.0	xratedtracking.com
-0.0.0.0	xrea.com
 0.0.0.0	xrevtrk.com
 0.0.0.0	xr.h4ck.la
 0.0.0.0	x-road.co.kr
