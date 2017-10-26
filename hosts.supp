@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Oct 26 02:30:14 +03 2017
-# Total number of blocked hosts are: 69740
+# Ad blocking hosts generated Fri Oct 27 02:30:16 +03 2017
+# Total number of blocked hosts are: 69741
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -23854,6 +23854,7 @@
 0.0.0.0	apple.com--------scanner.bid
 0.0.0.0	apple.com-----scanner.club
 0.0.0.0	apple.com-scan-virus-detected.com
+0.0.0.0	apple.com-security-desktop-antimalware-support.download
 0.0.0.0	apple.com-store.me
 0.0.0.0	apple.com-supportcenter.pro
 0.0.0.0	apple.com-supportcenter.website
@@ -31318,6 +31319,7 @@
 0.0.0.0	convoad.technoratimedia.com.24236.9068.302br.net
 0.0.0.0	convusmp.admailtiser.com
 0.0.0.0	cookex.amp.yahoo.com
+0.0.0.0	cookieanalyze.info
 0.0.0.0	cookiecontainer.blox.pl
 0.0.0.0	cookie.disneylandparis.com
 0.0.0.0	cookie.fdih.dk
@@ -36528,6 +36530,7 @@
 0.0.0.0	filter.adsparkmedia.net
 0.0.0.0	filter.adxfactory.com
 0.0.0.0	filter.eclickz.com
+0.0.0.0	filter.mediacpc.com
 0.0.0.0	filter.online-adnetwork.com
 0.0.0.0	filter.onwardclick.com
 0.0.0.0	filtertest.2cnt.net
@@ -39436,7 +39439,6 @@
 0.0.0.0	honarkhabar.com
 0.0.0.0	honarkhaneh.net
 0.0.0.0	hondahookup.us.intellitxt.com
-0.0.0.0	honeybadger.io
 0.0.0.0	hongkiat.us.intellitxt.com
 0.0.0.0	hongkongdisneyland-com.b.appier.net
 0.0.0.0	h.online-metrix.net
@@ -41523,7 +41525,6 @@
 0.0.0.0	js.geoads.com
 0.0.0.0	js.goods.redtram.com
 0.0.0.0	js.himediads.com
-0.0.0.0	js.honeybadger.io
 0.0.0.0	js.hotkeys.com
 0.0.0.0	js.hotlog.ru
 0.0.0.0	js.hs-analytics.net
@@ -41885,7 +41886,6 @@
 0.0.0.0	kitchen-island.mensk.us
 0.0.0.0	kithrup.matchlogic.com
 0.0.0.0	kitsjim.com
-0.0.0.0	kiwifarms.net
 0.0.0.0	kixer.com
 0.0.0.0	kizash.com
 0.0.0.0	kjolj.voluumtrk.com
@@ -48586,6 +48586,7 @@
 0.0.0.0	photos6.pop6.com
 0.0.0.0	photos7.pop6.com
 0.0.0.0	photos8.pop6.com
+0.0.0.0	photoscape.ch
 0.0.0.0	photos.daily-deals.analoganalytics.com
 0.0.0.0	photoshop-master.org
 0.0.0.0	photos.pop6.com
