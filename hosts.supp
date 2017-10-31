@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Oct 31 02:30:12 +03 2017
-# Total number of blocked hosts are: 69763
+# Ad blocking hosts generated Wed Nov 1 02:30:19 +03 2017
+# Total number of blocked hosts are: 69765
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -495,6 +495,7 @@
 0.0.0.0	178.6.87.194.dynamic.dol.ru
 0.0.0.0	179.6.87.194.dynamic.dol.ru
 0.0.0.0	17b4-7817-18f7-3abd.reporo.net
+0.0.0.0	17k.originalsafteyredir.com
 0.0.0.0	17oez.voluumtrk.com
 0.0.0.0	17.ptp22.com
 0.0.0.0	1800inkfarm.go2cloud.org
@@ -63953,6 +63954,7 @@
 0.0.0.0	www15.ad.tomshardware.com
 0.0.0.0	www.160tracker.com
 0.0.0.0	www17.glam.com
+0.0.0.0	www.17k.originalsafteyredir.com
 0.0.0.0	www17-orig.glam.com
 0.0.0.0	www.1800banners.com
 0.0.0.0	www.18access.com
