@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Nov 6 02:30:13 +03 2017
-# Total number of blocked hosts are: 69772
+# Ad blocking hosts generated Tue Nov 7 02:30:22 +03 2017
+# Total number of blocked hosts are: 69788
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -2062,6 +2062,7 @@
 0.0.0.0	abo.libertysurf.fr
 0.0.0.0	a.boom.ro
 0.0.0.0	abo.prismamediadigital.com
+0.0.0.0	abourselfi.com
 0.0.0.0	aboutads.info
 0.0.0.0	aboutads.quantcast.com
 0.0.0.0	about.elicitapp.com
@@ -23395,6 +23396,7 @@
 0.0.0.0	anime.jlist.com
 0.0.0.0	anioffers.com
 0.0.0.0	anita-fey.us
+0.0.0.0	a-nj.1rx.io
 0.0.0.0	ankieta-online.pl
 0.0.0.0	anklets.shengen.ru
 0.0.0.0	anlt.dnsdynamic.com
@@ -23415,6 +23417,7 @@
 0.0.0.0	annuncio.com.do
 0.0.0.0	anon.doubleclick.speedera.net
 0.0.0.0	anonymousads.com
+0.0.0.0	anonymousdemographics.com
 0.0.0.0	anonymousstats.keefox.org
 0.0.0.0	anorak.uk.intellitxt.com
 0.0.0.0	anouslab.cmail20.com
@@ -23778,15 +23781,18 @@
 0.0.0.0	app1.letitbefaster.life
 0.0.0.0	app1.letitbefaster.website
 0.0.0.0	app1.letmacworkfaster.site
+0.0.0.0	app1.letslowbefast.site
 0.0.0.0	app2.letitbefaster.life
 0.0.0.0	app2.letitbefaster.website
 0.0.0.0	app2.letmacwork.world
 0.0.0.0	app2.letslowbefast.life
+0.0.0.0	app2.letslowbefast.site
 0.0.0.0	app2.salesmanago.pl
 0.0.0.0	app2.vinsight.de
 0.0.0.0	app3.letitbefaster.life
 0.0.0.0	app3.letitbefaster.website
 0.0.0.0	app3.letmacwork.world
+0.0.0.0	app3.letslowbefast.site
 0.0.0.0	app3.rutarget.ru
 0.0.0.0	app3.vinsight.de
 0.0.0.0	app4com.bestgrade4update.trade
@@ -23798,6 +23804,7 @@
 0.0.0.0	app4us.info
 0.0.0.0	app5.letitbefaster.life
 0.0.0.0	app5.letitbefaster.website
+0.0.0.0	app5.letslowbefast.site
 0.0.0.0	app-ab02.marketo.com
 0.0.0.0	app-ab03.marketo.com
 0.0.0.0	app-ab04.marketo.com
@@ -23963,6 +23970,7 @@
 0.0.0.0	app.yieldify.com
 0.0.0.0	appzzzarehere.com
 0.0.0.0	ap.read.mediation.pns.ap.orangeads.fr
+0.0.0.0	a.predictvideo.com
 0.0.0.0	a.press24.mk
 0.0.0.0	april-blackburn.us
 0.0.0.0	april-leclaire.us
@@ -29974,6 +29982,7 @@
 0.0.0.0	checkstat.net
 0.0.0.0	checkstat.nl
 0.0.0.0	check.tamobi.net
+0.0.0.0	check.thealwaysnewandfreeupdating.stream
 0.0.0.0	checktraf.com
 0.0.0.0	checkupgrade24.thebigforeverupgrades.space
 0.0.0.0	chefkoch01.webtrekk.net
@@ -31318,6 +31327,7 @@
 0.0.0.0	conversion-tracker.com
 0.0.0.0	convertglobal.s3.amazonaws.com
 0.0.0.0	convertro.com
+0.0.0.0	convnjmp.basebanner.com
 0.0.0.0	convoad.technoratimedia.com.21929.9047.302br.net
 0.0.0.0	convoad.technoratimedia.com.22787.9068.302br.net
 0.0.0.0	convoad.technoratimedia.com.22788.9068.302br.net
@@ -42301,6 +42311,7 @@
 0.0.0.0	letmefind.co
 0.0.0.0	letsfinder.com
 0.0.0.0	letsgodigital.uk.intellitxt.com
+0.0.0.0	letslowbefast.site
 0.0.0.0	letsrun.us.intellitxt.com
 0.0.0.0	letssearch.com
 0.0.0.0	lettre.research-int.fr
@@ -44451,6 +44462,7 @@
 0.0.0.0	messagent.duvalguillaume.com
 0.0.0.0	messagent.sanomadigital.nl
 0.0.0.0	messagia.adcentric.proximi-t.com
+0.0.0.0	messardu.com
 0.0.0.0	me-ssl.effectivemeasure.net
 0.0.0.0	mesterads.com
 0.0.0.0	mesurer.ovh
@@ -46140,6 +46152,7 @@
 0.0.0.0	newbe122.homestead.com
 0.0.0.0	newbestsellers.justclick.ru
 0.0.0.0	newbie.com
+0.0.0.0	newbritmoneymethod.com
 0.0.0.0	newbrowse.livehelper.com
 0.0.0.0	newbs.hutz.co.il
 0.0.0.0	newbuzz-collection-1925855828.us-east-1.elb.amazonaws.com
@@ -51522,6 +51535,7 @@
 0.0.0.0	s383.meetrics.net
 0.0.0.0	s38.cnzz.com
 0.0.0.0	s38.sitemeter.com
+0.0.0.0	s-39.predictvideo.com
 0.0.0.0	s39.sitemeter.com
 0.0.0.0	s3.adbers.com
 0.0.0.0	s3.addthis.com
@@ -55045,6 +55059,7 @@
 0.0.0.0	sync.apnx.zenoviaexchange.com
 0.0.0.0	sync.atomex.net
 0.0.0.0	sync.audtd.com
+0.0.0.0	sync.bfmio.com
 0.0.0.0	sync.cmedia.s3.amazonaws.com
 0.0.0.0	sync.credebat.com
 0.0.0.0	sync.darikweb.com
@@ -57281,6 +57296,7 @@
 0.0.0.0	trafficads.s3-website-us-west-1.amazonaws.com
 0.0.0.0	traffic.adwitty.com
 0.0.0.0	traffic.adxprts.com
+0.0.0.0	traffic.adxprtz.com
 0.0.0.0	traffic.alexa.com
 0.0.0.0	trafficbalancerouting.com
 0.0.0.0	traffic.bannerator.com
