@@ -14,36 +14,6 @@
 #--------------------------------------------------------------------
 
 
-#block wga
-0.0.0.0 mpa.one.microsoft.com
-0.0.0.0 sls.microsoft.com
-0.0.0.0 genuine.microsoft.com
-
-# Blocking Adobe Activation servers 
-
-0.0.0.0 ereg.adobe.com
-0.0.0.0 wip3.adobe.com
-0.0.0.0 hl2rcv.adobe.com
-0.0.0.0 activate.adobe.com
-0.0.0.0 practivate.adobe.com
-0.0.0.0 ereg.wip3.adobe.com
-0.0.0.0 activate.wip3.adobe.com
-0.0.0.0 3dns-3.adobe.com
-0.0.0.0 3dns-2.adobe.com
-0.0.0.0 adobe-dns.adobe.com
-0.0.0.0 adobe-dns-2.adobe.com
-0.0.0.0 adobe-dns-3.adobe.com
-0.0.0.0 activate-sea.adobe.com
-0.0.0.0 wwis-dubc1-vip60.adobe.com
-0.0.0.0 activate-sjc0.adobe.com
-0.0.0.0 adobeereg.com
-0.0.0.0 adobe.activate.com
-0.0.0.0 www.adobeereg.com
-0.0.0.0 125.252.224.90
-0.0.0.0 125.252.224.91
-
-
-
 # Blocking Rules for Phorm, Adobur.com and Gezinti.com tracking sites. 
 # These are mainly used by the biggest ISP in Turkey.
 0.0.0.0 oix.com
