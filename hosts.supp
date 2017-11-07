@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Nov 7 02:30:22 +03 2017
-# Total number of blocked hosts are: 69788
+# Ad blocking hosts generated Wed Nov 8 02:30:19 +03 2017
+# Total number of blocked hosts are: 69768
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -369,8 +369,6 @@
 0.0.0.0	123-tracker.com
 0.0.0.0	123webmarketing.com
 0.0.0.0	124.6.87.194.dynamic.dol.ru
-0.0.0.0	125.252.224.90
-0.0.0.0	125.252.224.91
 0.0.0.0	125.6.87.194.dynamic.dol.ru
 0.0.0.0	1262.hittail.com
 0.0.0.0	126.6.87.194.dynamic.dol.ru
@@ -1241,8 +1239,6 @@
 0.0.0.0	3cnce854.com
 0.0.0.0	3d05q.voluumtrk.com
 0.0.0.0	3dc265e90c6d9fa3cc0c-3f982316dc17e6e99fe1b47483239d63.r95.cf2.rackcdn.com
-0.0.0.0	3dns-2.adobe.com
-0.0.0.0	3dns-3.adobe.com
 0.0.0.0	3dots.co.il
 0.0.0.0	3ds.ero-advertising.com
 0.0.0.0	3dstats.com
@@ -2371,10 +2367,6 @@
 0.0.0.0	actionscript.us.intellitxt.com
 0.0.0.0	actionsplash.com
 0.0.0.0	actionteaser.ru
-0.0.0.0	activate.adobe.com
-0.0.0.0	activate-sea.adobe.com
-0.0.0.0	activate-sjc0.adobe.com
-0.0.0.0	activate.wip3.adobe.com
 0.0.0.0	active-advertising.com
 0.0.0.0	activeagent.at
 0.0.0.0	activeapps.go2cloud.org
@@ -17432,13 +17424,8 @@
 0.0.0.0	adnxs.revsci.net
 0.0.0.0	ad.nz.doubleclick.net
 0.0.0.0	adn.zone-telechargement.com
-0.0.0.0	adobe.activate.com
 0.0.0.0	adobe.demdex.net
-0.0.0.0	adobe-dns-2.adobe.com
-0.0.0.0	adobe-dns-3.adobe.com
-0.0.0.0	adobe-dns.adobe.com
 0.0.0.0	adobee.com
-0.0.0.0	adobeereg.com
 0.0.0.0	adobeflashupdate14.com
 0.0.0.0	adobemcspb.b.sc.omtrdc.net
 0.0.0.0	adobe.tt.omtrdc.net
@@ -17516,6 +17503,7 @@
 0.0.0.0	ad.pchome.com.tw
 0.0.0.0	adp.cplaza.ne.jp
 0.0.0.0	ad.pe.doubleclick.net
+0.0.0.0	adpenguin.biz
 0.0.0.0	ad.pensamedia.org
 0.0.0.0	adpepper.dk
 0.0.0.0	adpepper.nl
@@ -35691,8 +35679,6 @@
 0.0.0.0	eratrf.com
 0.0.0.0	ercva.com
 0.0.0.0	erectile.byethost33.com
-0.0.0.0	ereg.adobe.com
-0.0.0.0	ereg.wip3.adobe.com
 0.0.0.0	eremedia.112.2o7.net
 0.0.0.0	erendri.com
 0.0.0.0	ericka-riffle.us
@@ -37987,7 +37973,6 @@
 0.0.0.0	gen-hydrocodone.polybuild.ru
 0.0.0.0	genmay.us.intellitxt.com
 0.0.0.0	genorithm.com
-0.0.0.0	genuine.microsoft.com
 0.0.0.0	geo2.adobe.com
 0.0.0.0	geoaddicted.net
 0.0.0.0	geoads.com
@@ -39353,7 +39338,6 @@
 0.0.0.0	hk9dl.voluumtrk.com
 0.0.0.0	hk.adserver.yahoo.com
 0.0.0.0	hkik.ru
-0.0.0.0	hl2rcv.adobe.com
 0.0.0.0	hlamedia.adk2x.com
 0.0.0.0	hlcc.ca
 0.0.0.0	hld.jmp9.com
@@ -45322,7 +45306,6 @@
 0.0.0.0	mozo-widgets.f2.com.au
 0.0.0.0	mp3playersource.com
 0.0.0.0	mp.5.p2l.info
-0.0.0.0	mpa.one.microsoft.com
 0.0.0.0	mp.apmebf.com
 0.0.0.0	mpartner.googleadservices.com
 0.0.0.0	mp.clicksor.net
@@ -49279,7 +49262,6 @@
 0.0.0.0	pr.5.p2l.info
 0.0.0.0	p.raasnet.com
 0.0.0.0	practicetoothpaste.com
-0.0.0.0	practivate.adobe.com
 0.0.0.0	pracuj.adocean.pl
 0.0.0.0	pracuj.hit.gemius.pl
 0.0.0.0	pradakomechanicals.com
@@ -53128,7 +53110,6 @@
 0.0.0.0	slowmac.tech
 0.0.0.0	sl-retargeting.adsonar.com
 0.0.0.0	sls.go2cloud.org
-0.0.0.0	sls.microsoft.com
 0.0.0.0	slt.hit.gemius.pl
 0.0.0.0	sltravelcom.112.2o7.net
 0.0.0.0	s.luxadv.com
@@ -54873,6 +54854,7 @@
 0.0.0.0	supercars.us.intellitxt.com
 0.0.0.0	superclix.de
 0.0.0.0	superegler.net
+0.0.0.0	superfastcdn.com
 0.0.0.0	superficial.crwdcntrl.net
 0.0.0.0	superficialsink.com
 0.0.0.0	superfish.com
@@ -58714,6 +58696,7 @@
 0.0.0.0	veille-referencement.com
 0.0.0.0	veksi.barginginfrance.net
 0.0.0.0	velismedia.go2cloud.org
+0.0.0.0	velocecdn.com
 0.0.0.0	velocity.go2cloud.org
 0.0.0.0	velti.com
 0.0.0.0	v.emedia.cn
@@ -63588,7 +63571,6 @@
 0.0.0.0	winteryield.jmp9.com
 0.0.0.0	wintotal.de.intellitxt.com
 0.0.0.0	wintricksbanner.googlepages.com
-0.0.0.0	wip3.adobe.com
 0.0.0.0	wiregirl.us.intellitxt.com
 0.0.0.0	wirelessforumsorg.skimlinks.com
 0.0.0.0	wirelessforums.us.intellitxt.com
@@ -63920,7 +63902,6 @@
 0.0.0.0	wweconsumer.112.2o7.net
 0.0.0.0	wwecorp2.112.2o7.net
 0.0.0.0	ww-eu.steelhousemedia.com
-0.0.0.0	wwis-dubc1-vip60.adobe.com
 0.0.0.0	wwm.adspirit.de
 0.0.0.0	wws.ero-advertising.com
 0.0.0.0	wwtdd.tags.crwdcntrl.net
@@ -64532,7 +64513,6 @@
 0.0.0.0	www.adnxs1.com
 0.0.0.0	www.adnxs.com
 0.0.0.0	www.adobee.com
-0.0.0.0	www.adobeereg.com
 0.0.0.0	www.adobetag.com
 0.0.0.0	www.adobur.com
 0.0.0.0	www.adocean.pl
