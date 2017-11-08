@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Nov 8 02:30:19 +03 2017
-# Total number of blocked hosts are: 69768
+# Ad blocking hosts generated Thu Nov 9 02:30:18 +03 2017
+# Total number of blocked hosts are: 69772
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -1005,6 +1005,7 @@
 0.0.0.0	2449650414.log.optimizely.com
 0.0.0.0	245.bitterstrawberry.com
 0.0.0.0	2463678.fls.doubleclick.net
+0.0.0.0	2468.go2cloud.org
 0.0.0.0	24725.hittail.com
 0.0.0.0	247590.r.axf8.net
 0.0.0.0	247adbiz.net
@@ -3185,6 +3186,7 @@
 0.0.0.0	ad2.fivecdm.com
 0.0.0.0	ad2flash.com
 0.0.0.0	ad2games.com
+0.0.0.0	ad2games.com.invalid
 0.0.0.0	ad2.gammae.com
 0.0.0.0	ad2.hotel.com
 0.0.0.0	ad2.hotels.com
@@ -23406,6 +23408,7 @@
 0.0.0.0	anon.doubleclick.speedera.net
 0.0.0.0	anonymousads.com
 0.0.0.0	anonymousdemographics.com
+0.0.0.0	anonymous-net.com
 0.0.0.0	anonymousstats.keefox.org
 0.0.0.0	anorak.uk.intellitxt.com
 0.0.0.0	anouslab.cmail20.com
@@ -49605,6 +49608,7 @@
 0.0.0.0	protection.VApolice.com
 0.0.0.0	protection.VIpolice.com
 0.0.0.0	protect-x.com
+0.0.0.0	protect-your-privacy.net
 0.0.0.0	protexting.com
 0.0.0.0	protizer.ru
 0.0.0.0	protonix.shengen.ru
