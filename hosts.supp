@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Nov 17 02:30:19 +03 2017
-# Total number of blocked hosts are: 69814
+# Ad blocking hosts generated Sat Nov 18 02:30:55 +03 2017
+# Total number of blocked hosts are: 69819
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -2356,7 +2356,6 @@
 0.0.0.0	acs.agent.56.com
 0.0.0.0	acs.agent.v-56.com
 0.0.0.0	acspaces.ero-advertising.com
-0.0.0.0	acsseo.com
 0.0.0.0	a.ctasnet.com
 0.0.0.0	actforvictory.112.2o7.net
 0.0.0.0	actionads.go2cloud.org
@@ -47839,6 +47838,7 @@
 0.0.0.0	owebmoney.ru
 0.0.0.0	owha.vancouverco.com
 0.0.0.0	owlonl.ivwbox.de
+0.0.0.0	owneriq.net
 0.0.0.0	owzdu.voluumtrk.com
 0.0.0.0	ox2.sterta.pl
 0.0.0.0	ox.ac.onthehub.com
@@ -49495,7 +49495,6 @@
 0.0.0.0	pro.marinsm.com
 0.0.0.0	prom.ecato.net
 0.0.0.0	promo1.c-rewards.com
-0.0.0.0	promo1.webcams.nl
 0.0.0.0	promo2.c-rewards.com
 0.0.0.0	promo3.c-rewards.com
 0.0.0.0	promo4.c-rewards.com
@@ -50541,6 +50540,7 @@
 0.0.0.0	redir.adap.tv
 0.0.0.0	redir.adsonar.com
 0.0.0.0	redir.aitrkng.com
+0.0.0.0	redir.bebi.com
 0.0.0.0	redirect1.vip.store.yahoo.com
 0.0.0.0	redirect2719.ws
 0.0.0.0	redirect.advertising.se
@@ -53199,6 +53199,7 @@
 0.0.0.0	smartinit.webads.nl
 0.0.0.0	smart-ip.net
 0.0.0.0	smartlog.ru
+0.0.0.0	smartlook.com
 0.0.0.0	smartmediamarketing.go2cloud.org
 0.0.0.0	smartmoney.112.2o7.net
 0.0.0.0	smart.montiera.com
@@ -53234,6 +53235,7 @@
 0.0.0.0	smetrics.southwest.com
 0.0.0.0	smetrics.starwoodhotels.com
 0.0.0.0	smetrics.toptenreviews.com
+0.0.0.0	smetrics.walgreens.com
 0.0.0.0	smetrics.yellowbook.com
 0.0.0.0	smfgroup.cjb.net
 0.0.0.0	smf.spring-tns.net
@@ -58489,6 +58491,8 @@
 0.0.0.0	user-disp.tidaltv.com
 0.0.0.0	userlog.synapseip.tv
 0.0.0.0	username1.link
+0.0.0.0	userreplay.com
+0.0.0.0	userreplay.net
 0.0.0.0	users16.jabry.com
 0.0.0.0	users173.lolipop.jp
 0.0.0.0	users.effectivebrand.com
@@ -69444,6 +69448,7 @@
 0.0.0.0	ying.hitbox.com
 0.0.0.0	yj.moatads.com
 0.0.0.0	y.jmp9.com
+0.0.0.0	yldbt.com
 0.0.0.0	yllix.com
 0.0.0.0	ylpzt.juzojossai.net
 0.0.0.0	ylu7k4i2o7.s.ad6media.fr
