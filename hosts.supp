@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Nov 24 02:30:14 +03 2017
+# Ad blocking hosts generated Sat Nov 25 02:30:15 +03 2017
 # Total number of blocked hosts are: 69824
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
@@ -2356,6 +2356,7 @@
 0.0.0.0	acs.agent.56.com
 0.0.0.0	acs.agent.v-56.com
 0.0.0.0	acspaces.ero-advertising.com
+0.0.0.0	acsseo.com
 0.0.0.0	a.ctasnet.com
 0.0.0.0	actforvictory.112.2o7.net
 0.0.0.0	actionads.go2cloud.org
@@ -17653,6 +17654,7 @@
 0.0.0.0	ad-rotator.com
 0.0.0.0	adrotator.com
 0.0.0.0	adrotator.se
+0.0.0.0	adrotic.girlonthenet.com
 0.0.0.0	ad.rs.doubleclick.net
 0.0.0.0	adrs.hit.gemius.pl
 0.0.0.0	adrspain.go2cloud.org
@@ -38889,7 +38891,6 @@
 0.0.0.0	guru3d.us.intellitxt.com
 0.0.0.0	guruads.de
 0.0.0.0	guru.sitescout.netdna-cdn.com
-0.0.0.0	gus.host
 0.0.0.0	gutefrage.de.intellitxt.com
 0.0.0.0	guterrat.ivwbox.de
 0.0.0.0	guyism.us.intellitxt.com
@@ -42032,7 +42033,6 @@
 0.0.0.0	k.streamrail.com
 0.0.0.0	kszmp.voluumtrk.com
 0.0.0.0	kt4.kliptracker.com
-0.0.0.0	kt-g.de
 0.0.0.0	ktmoh.voluumtrk.com
 0.0.0.0	ktrackdata.com
 0.0.0.0	kt.tns-gallup.dk
@@ -52692,7 +52692,6 @@
 0.0.0.0	seu.cleverreach.com
 0.0.0.0	sevenoneintermedia.112.2o7.net
 0.0.0.0	seventynine.go2cloud.org
-0.0.0.0	sexadvertentiesite.nl
 0.0.0.0	sexcount.de
 0.0.0.0	sexcounter.com
 0.0.0.0	sexinyourcity.com
@@ -58381,6 +58380,7 @@
 0.0.0.0	update.51edm.net
 0.0.0.0	updateauto.preparevideosafesystem4unow.site
 0.0.0.0	updateauto.preparevideosafesystem4unow.space
+0.0.0.0	updated.com
 0.0.0.0	updatehere.ultimatesetnewfreeallsoftupgradesystems.pw
 0.0.0.0	update.hiconversion.com
 0.0.0.0	update-java.kit.net
