@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Nov 28 02:30:25 +03 2017
-# Total number of blocked hosts are: 69901
+# Ad blocking hosts generated Wed Nov 29 02:30:23 +03 2017
+# Total number of blocked hosts are: 69913
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -63829,8 +63829,13 @@
 0.0.0.0	ws03.home.sapo.pt
 0.0.0.0	ws04.do.nu
 0.0.0.0	ws04.home.sapo.pt
+0.0.0.0	ws05.crypto-loot.com
 0.0.0.0	ws05.home.sapo.pt
+0.0.0.0	ws06.crypto-loot.com
 0.0.0.0	ws06.home.sapo.pt
+0.0.0.0	ws07.crypto-loot.com
+0.0.0.0	ws08.crypto-loot.com
+0.0.0.0	ws09.crypto-loot.com
 0.0.0.0	ws10.surf-town.net
 0.0.0.0	ws11.surf-town.net
 0.0.0.0	ws12.surf-town.net
@@ -63845,8 +63850,11 @@
 0.0.0.0	ws20.surf-town.net
 0.0.0.0	ws21.surf-town.net
 0.0.0.0	ws22.surf-town.net
+0.0.0.0	ws23.crypto-loot.com
 0.0.0.0	ws23.surf-town.net
+0.0.0.0	ws24.crypto-loot.com
 0.0.0.0	ws24.surf-town.net
+0.0.0.0	ws25.crypto-loot.com
 0.0.0.0	ws25.surf-town.net
 0.0.0.0	ws26.surf-town.net
 0.0.0.0	ws27.surf-town.net
@@ -63854,7 +63862,11 @@
 0.0.0.0	ws29.surf-town.net
 0.0.0.0	ws2.surf-town.net
 0.0.0.0	ws3.surf-town.net
+0.0.0.0	ws42.crypto-loot.com
+0.0.0.0	ws48.crypto-loot.com
+0.0.0.0	ws49.crypto-loot.com
 0.0.0.0	ws4.surf-town.net
+0.0.0.0	ws50.crypto-loot.com
 0.0.0.0	ws5.surf-town.net
 0.0.0.0	ws6.surf-town.net
 0.0.0.0	ws7.surf-town.net
