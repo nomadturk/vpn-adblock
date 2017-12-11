@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Dec 11 02:30:22 +03 2017
-# Total number of blocked hosts are: 69312
+# Ad blocking hosts generated Tue Dec 12 02:30:26 +03 2017
+# Total number of blocked hosts are: 69317
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -24469,6 +24469,7 @@
 0.0.0.0	avidtrak.com
 0.0.0.0	a.visadd.com
 0.0.0.0	a.visualrevenue.com
+0.0.0.0	avocet.io
 0.0.0.0	avoir.science
 0.0.0.0	avokka.com
 0.0.0.0	avon.112.2o7.net
@@ -32745,6 +32746,7 @@
 0.0.0.0	cpxinteractive.com
 0.0.0.0	cpxl.golem.de
 0.0.0.0	cpxmobile.go2cloud.org
+0.0.0.0	cpx.to
 0.0.0.0	cp.yuiop.trade
 0.0.0.0	cp.yuiout.online
 0.0.0.0	cqcounter.com
@@ -45218,6 +45220,7 @@
 0.0.0.0	mtrc1.digital-metric.com
 0.0.0.0	mtrcs.popcap.com
 0.0.0.0	mtrcs.redhat.com
+0.0.0.0	mtrcs.samba.tv
 0.0.0.0	mtree.com
 0.0.0.0	m.tribalfusion.com
 0.0.0.0	mtrics.cdc.gov
@@ -54626,6 +54629,7 @@
 0.0.0.0	switch6.hitbox.com
 0.0.0.0	switch8.hitbox.com
 0.0.0.0	switch9.hitbox.com
+0.0.0.0	switchadhub.com
 0.0.0.0	switch.atdmt.com
 0.0.0.0	switch.atdmt.net
 0.0.0.0	switch.d-agency.net
@@ -69264,6 +69268,7 @@
 0.0.0.0	zous.szm.sk
 0.0.0.0	zo.zeroredirect1.com
 0.0.0.0	zp.zeroredirect1.com
+0.0.0.0	zqtk.net
 0.0.0.0	zq.zeroredirect1.com
 0.0.0.0	zr0.net
 0.0.0.0	zr.zeroredirect1.com
