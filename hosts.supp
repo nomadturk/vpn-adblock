@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Dec 14 02:30:19 +03 2017
-# Total number of blocked hosts are: 69393
+# Ad blocking hosts generated Fri Dec 15 02:30:16 +03 2017
+# Total number of blocked hosts are: 69410
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -1904,6 +1904,7 @@
 0.0.0.0	a722-a332-7273-9e88.reporo.net
 0.0.0.0	a76.p.f.qz3.net
 0.0.0.0	a796faee-7163-4757-a34f-e5b48cada4cb.statcamp.net
+0.0.0.0	a7cleaner.com
 0.0.0.0	a7shd.realshieldlinked.com
 0.0.0.0	a7.suntimes.com
 0.0.0.0	a885.ac-images.myspacecdn.com
@@ -17246,6 +17247,7 @@
 0.0.0.0	admin.digitalacre.com
 0.0.0.0	admin.download-sponsor.de
 0.0.0.0	adminec1.hitbox.com
+0.0.0.0	ad-miner.com
 0.0.0.0	admin.fhserve.com
 0.0.0.0	admin.hotkeys.com
 0.0.0.0	admin.iesnare.com
@@ -30576,6 +30578,8 @@
 0.0.0.0	c.lomadee.com
 0.0.0.0	closeoutproductsreview.com
 0.0.0.0	cloud.cashtrafic.info
+0.0.0.0	cloudcoins.biz
+0.0.0.0	cloudcoins.co
 0.0.0.0	cloudcrown.com
 0.0.0.0	cloudfront.cedexis.com
 0.0.0.0	cloudfront-dsa-eu.cedexis.com
@@ -32713,6 +32717,7 @@
 0.0.0.0	cplpro.go2cloud.org
 0.0.0.0	cpm10.com
 0.0.0.0	cpm1.affiz.net
+0.0.0.0	cpm20.com
 0.0.0.0	cpm2.admob.com
 0.0.0.0	cpm.admob.com
 0.0.0.0	cpm.adspine.com
@@ -35811,6 +35816,7 @@
 0.0.0.0	ev.ib-ibi.com
 0.0.0.0	eviboli576.o-f.com
 0.0.0.0	evidencecleanergold.com
+0.0.0.0	evidon.com
 0.0.0.0	evilbeetgossip.us.intellitxt.com
 0.0.0.0	eviltracker.net
 0.0.0.0	evisitcs2.com
@@ -36396,6 +36402,7 @@
 0.0.0.0	filetarget.net
 0.0.0.0	filmboxlive.go2cloud.org
 0.0.0.0	filmdrunk.us.intellitxt.com
+0.0.0.0	filmes-hd.com
 0.0.0.0	filmfanatic.com
 0.0.0.0	filmforcedvd.ign.us.intellitxt.com
 0.0.0.0	filmrepo.ivwbox.de
@@ -44870,6 +44877,7 @@
 0.0.0.0	mobileapptracking.com
 0.0.0.0	mobile.banzai.it
 0.0.0.0	mobile.Banzai.it
+0.0.0.0	mobile.bet.pt
 0.0.0.0	mobile.bitterstrawberry.org
 0.0.0.0	mobile.biz.daum.net
 0.0.0.0	mobileburn.us.intellitxt.com
@@ -47831,6 +47839,7 @@
 0.0.0.0	pagead.topobiavi.com
 0.0.0.0	pagecount.com
 0.0.0.0	pagefair.com
+0.0.0.0	pagefair.net
 0.0.0.0	pagepeel.ero-advertising.com
 0.0.0.0	pagepeels.sexmoney.com
 0.0.0.0	pagerank4you.com
@@ -49133,6 +49142,7 @@
 0.0.0.0	private.hotelcesenaticobooking.info
 0.0.0.0	privatkunden.datapipe9271.com
 0.0.0.0	privitize.com
+0.0.0.0	privy.com
 0.0.0.0	prizee.com
 0.0.0.0	prizemachine.games.iwon.com
 0.0.0.0	prizes.co.uk
@@ -49450,9 +49460,11 @@
 0.0.0.0	pt000127.unica.com
 0.0.0.0	pt200204.unica.com
 0.0.0.0	pt21na.com
+0.0.0.0	pt5.titans-gel.net
 0.0.0.0	pt7ma.voluumtrk.com
 0.0.0.0	ptads.sv.publicus.com
 0.0.0.0	p.tanx.com
+0.0.0.0	pt.beststreams.club
 0.0.0.0	pt.crossmediaservices.com
 0.0.0.0	ptest.webtrekk.net
 0.0.0.0	ptewh.iptvdeals.com
@@ -49697,6 +49709,7 @@
 0.0.0.0	push.cdnads.com
 0.0.0.0	pushengage.com
 0.0.0.0	push.poptm.com
+0.0.0.0	pussl22.com
 0.0.0.0	putbid.net
 0.0.0.0	pu.trafficshop.com
 0.0.0.0	puush.in
@@ -51342,6 +51355,7 @@
 0.0.0.0	s76.cnzz.com
 0.0.0.0	s7.adaces.ero-advertising.com
 0.0.0.0	s7.addthis.com
+0.0.0.0	s7clean.com
 0.0.0.0	s7.cnzz.com
 0.0.0.0	s7.shinystat.com
 0.0.0.0	s80.cnzz.com
@@ -52443,6 +52457,7 @@
 0.0.0.0	share.pluso.ru
 0.0.0.0	sharepointads.com
 0.0.0.0	share-server.com
+0.0.0.0	sharethrough.com
 0.0.0.0	shari-baskerville.us
 0.0.0.0	shari-leggett.us
 0.0.0.0	shari-spinner.us
@@ -55683,6 +55698,7 @@
 0.0.0.0	titanads5.com
 0.0.0.0	titan.advertserve.com
 0.0.0.0	titangate-d.openx.net
+0.0.0.0	titan-gel-extra.com
 0.0.0.0	title.mximg.com
 0.0.0.0	titon.info
 0.0.0.0	ti.tradetracker.net
@@ -56583,6 +56599,7 @@
 0.0.0.0	track.iwfueh.us
 0.0.0.0	track.jbtrax.net
 0.0.0.0	track.jerkednetwork.com
+0.0.0.0	trackjs.com
 0.0.0.0	track.juno.com
 0.0.0.0	track.justcloud.com
 0.0.0.0	track.justdoing.biz
