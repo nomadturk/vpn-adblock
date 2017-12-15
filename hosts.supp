@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Dec 15 02:30:16 +03 2017
-# Total number of blocked hosts are: 69410
+# Ad blocking hosts generated Sat Dec 16 02:30:20 +03 2017
+# Total number of blocked hosts are: 69412
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -17184,6 +17184,7 @@
 0.0.0.0	ad.mbn.bb.ru
 0.0.0.0	admd.yam.com
 0.0.0.0	ad.media6degrees.com
+0.0.0.0	ad.mediaadserver.com
 0.0.0.0	admedia.com
 0.0.0.0	admedia.expedia.com
 0.0.0.0	ad.mediaplex.com
@@ -18529,7 +18530,6 @@
 0.0.0.0	ads.bcsyndication.com
 0.0.0.0	ads.be2hand.com
 0.0.0.0	ads.beeb.com
-0.0.0.0	ads.beenetworks.net
 0.0.0.0	ads.befan.it
 0.0.0.0	ads.beliefnet.com
 0.0.0.0	ads.belointeractive.com
@@ -23056,7 +23056,6 @@
 0.0.0.0	amz.steamprices.com
 0.0.0.0	an.adhood.com
 0.0.0.0	anad.tacoda.net
-0.0.0.0	anahtars.com
 0.0.0.0	analxxxclipsyjh.dnset.com
 0.0.0.0	analy.qq.com
 0.0.0.0	analysis.fc2.com
@@ -34686,6 +34685,7 @@
 0.0.0.0	dynamic.cannedbanners.com
 0.0.0.0	dynamic.exaccess.ru
 0.0.0.0	dynamic.fmpub.net
+0.0.0.0	dynamic.mediaadserver.com
 0.0.0.0	dynamic.woolik.com
 0.0.0.0	dync.c.appier.net
 0.0.0.0	dyn.emetriq.de
@@ -39449,7 +39449,6 @@
 0.0.0.0	htmlcenter.us.intellitxt.com
 0.0.0.0	html.centralmediaserver.com
 0.0.0.0	htmlcounter.com
-0.0.0.0	htmlhubing.xyz
 0.0.0.0	html-images.realnetworks.com
 0.0.0.0	html.overture.com
 0.0.0.0	htmlwww.youfck.com
@@ -48220,6 +48219,7 @@
 0.0.0.0	perf.overture.com
 0.0.0.0	perfspot.crwdcntrl.net
 0.0.0.0	permissionmedia.com
+0.0.0.0	permutive.com
 0.0.0.0	perpro18-ue1b.ml314.com
 0.0.0.0	p.errorception.com
 0.0.0.0	persevered.com
@@ -53469,6 +53469,7 @@
 0.0.0.0	s.speednetwork2.com
 0.0.0.0	ssp.lkqd.net
 0.0.0.0	ssprings.rotator.hadj7.adjuggler.net
+0.0.0.0	ssp.sellads.me
 0.0.0.0	ssp.streamrail.net
 0.0.0.0	ssp.videostat.com
 0.0.0.0	ssp.virool.com
@@ -58480,6 +58481,7 @@
 0.0.0.0	vidego.multicastmedia.com
 0.0.0.0	video1.adprimemedia.com
 0.0.0.0	video.adaptv.advertising.com
+0.0.0.0	videoadex.com
 0.0.0.0	video-ad-stats.googlesyndication.com
 0.0.0.0	videoads.theonion.com
 0.0.0.0	video.begun.ru
