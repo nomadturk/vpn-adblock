@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Dec 21 02:30:14 +03 2017
-# Total number of blocked hosts are: 69418
+# Ad blocking hosts generated Fri Dec 22 02:30:28 +03 2017
+# Total number of blocked hosts are: 69419
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -29670,6 +29670,7 @@
 0.0.0.0	cdn.yottos.com
 0.0.0.0	cdn.yourtopoffers.info
 0.0.0.0	cdn.ywxi.net
+0.0.0.0	cdn.zarget.com
 0.0.0.0	cdn.zerezas.com
 0.0.0.0	cdn.zeusclicks.com
 0.0.0.0	cdn.ziffstatic.com
