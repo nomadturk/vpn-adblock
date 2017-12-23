@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat Dec 23 02:30:18 +03 2017
-# Total number of blocked hosts are: 69419
+# Ad blocking hosts generated Sun Dec 24 02:30:14 +03 2017
+# Total number of blocked hosts are: 69420
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -19520,6 +19520,7 @@
 0.0.0.0	adserving.mediatrafficreports.com
 0.0.0.0	adserving.muppetism.com
 0.0.0.0	adservingnetwork.com
+0.0.0.0	adserving.pro
 0.0.0.0	adserving.supreme.clicksor.com
 0.0.0.0	adserving.trafficsupplier.net
 0.0.0.0	adserving.unibet.com
@@ -64188,6 +64189,7 @@
 0.0.0.0	www.adserverplus.com
 0.0.0.0	www.adserver.ugo.nl
 0.0.0.0	www.adserverxxl.de
+0.0.0.0	www.adserving.pro
 0.0.0.0	www.adservone.com
 0.0.0.0	www.adservtech.com
 0.0.0.0	www.adshiftmedia.com
@@ -69338,7 +69340,6 @@
 0.0.0.0	zm.zeroredirect1.com
 0.0.0.0	zn0cjgsju6439lcsd-microsoft.siteintercept.qualtrics.com
 0.0.0.0	zn_0xssfnnsxmogd01-cbs.siteintercept.qualtrics.com
-0.0.0.0	zn_4slwdofs4ykbmhc-espn.siteintercept.qualtrics.com
 0.0.0.0	zn87b2gchqlbyp0jn-viacom.siteintercept.qualtrics.com
 0.0.0.0	zn_9nquvazst1xipkt-cbs.siteintercept.qualtrics.com
 0.0.0.0	z-na.amazon-adsystem.com
