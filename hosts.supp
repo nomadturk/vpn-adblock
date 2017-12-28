@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Dec 28 02:30:16 +03 2017
-# Total number of blocked hosts are: 69506
+# Ad blocking hosts generated Fri Dec 29 02:30:24 +03 2017
+# Total number of blocked hosts are: 69508
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -29118,6 +29118,7 @@
 0.0.0.0	cdn1ht.traffichaus.com
 0.0.0.0	cdn1.inner-active.mobi
 0.0.0.0	cdn1.kovla.com
+0.0.0.0	cdn1.minestat.biz
 0.0.0.0	cdn1.psdvault.com
 0.0.0.0	cdn1-ref.landing.comcontent.net
 0.0.0.0	cdn1.reporo.net
@@ -29148,6 +29149,7 @@
 0.0.0.0	cdn2.emediate.eu
 0.0.0.0	cdn2.lockerdome.com
 0.0.0.0	cdn2.maxiget.com
+0.0.0.0	cdn2.minestat.biz
 0.0.0.0	cdn2.mobile.contentdef.com
 0.0.0.0	cdn2.optimizely.com
 0.0.0.0	cdn2-ref.landing.comcontent.net
