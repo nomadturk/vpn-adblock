@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Dec 29 02:30:24 +03 2017
-# Total number of blocked hosts are: 69508
+# Ad blocking hosts generated Sat Dec 30 02:30:15 +03 2017
+# Total number of blocked hosts are: 69522
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -399,6 +399,7 @@
 0.0.0.0	140.6.87.194.dynamic.dol.ru
 0.0.0.0	140cc.v.fwmrm.net
 0.0.0.0	140proof.com
+0.0.0.0	14119276be0852.com
 0.0.0.0	1412173.fls.doubleclick.net
 0.0.0.0	141.6.87.194.dynamic.dol.ru
 0.0.0.0	141aa.voluumtrk.com
@@ -2347,7 +2348,6 @@
 0.0.0.0	acs.agent.56.com
 0.0.0.0	acs.agent.v-56.com
 0.0.0.0	acspaces.ero-advertising.com
-0.0.0.0	acsseo.com
 0.0.0.0	acs.xpanama.net
 0.0.0.0	a.ctasnet.com
 0.0.0.0	actforvictory.112.2o7.net
@@ -22363,7 +22363,6 @@
 0.0.0.0	affiliate.mercola.com
 0.0.0.0	affiliatemg.com
 0.0.0.0	affiliate.mlntracker.com
-0.0.0.0	affiliate.mogs.com
 0.0.0.0	affiliatemunch.go2cloud.org
 0.0.0.0	affiliate.mymall.bg
 0.0.0.0	affiliatenetmedia.go2cloud.org
@@ -33723,6 +33722,7 @@
 0.0.0.0	dcs.wtlive.com
 0.0.0.0	dctracking.com
 0.0.0.0	dc.tremormedia.com
+0.0.0.0	dcw.1592878.com
 0.0.0.0	dc.webtrends.com
 0.0.0.0	dc.widespace.com
 0.0.0.0	d.dc121677.com
@@ -33918,6 +33918,7 @@
 0.0.0.0	demo57.247realmedia.com
 0.0.0.0	demo.adsender.us
 0.0.0.0	demo.advertising.com
+0.0.0.0	demo.cj.com
 0.0.0.0	demo.idg.com.au
 0.0.0.0	demo.kissmetrics.com
 0.0.0.0	demonews.us.intellitxt.com
@@ -40888,6 +40889,7 @@
 0.0.0.0	itrack19.com
 0.0.0.0	itrackerpro.com
 0.0.0.0	itrack.it
+0.0.0.0	itrafficcontrol.com
 0.0.0.0	itrckr.com
 0.0.0.0	itreviews.uk.intellitxt.com
 0.0.0.0	i.trkjmp.com
@@ -44222,6 +44224,7 @@
 0.0.0.0	member.clicksor.com
 0.0.0.0	members2.hookup.com
 0.0.0.0	members.applifier.com
+0.0.0.0	members.cj.com
 0.0.0.0	members.commissionmonster.com
 0.0.0.0	memberservicesinc.122.2o7.net
 0.0.0.0	members.homecareersearch.com
@@ -53496,6 +53499,7 @@
 0.0.0.0	ssl-msn.oewabox.at
 0.0.0.0	ssl-munchkin.marketo.net
 0.0.0.0	ssl-offloader.2cnt.net
+0.0.0.0	ssl.safepoollink.com
 0.0.0.0	ssl.siteimprove.com
 0.0.0.0	ssl-sl-retargeting.adsonar.com
 0.0.0.0	ssl-static.vinsight.de
@@ -55815,6 +55819,7 @@
 0.0.0.0	t.menepe.com
 0.0.0.0	tmgdigital.go2cloud.org
 0.0.0.0	tmgr.ccmbg.com
+0.0.0.0	t.ml00.net
 0.0.0.0	t.mobilediva.com
 0.0.0.0	tmobile-us.inq.com
 0.0.0.0	t.mobitrk.com
@@ -57134,6 +57139,7 @@
 0.0.0.0	trck.illimeet.com
 0.0.0.0	trck.meexy.com
 0.0.0.0	trck.sixt.com
+0.0.0.0	trcktm.net
 0.0.0.0	tr.cloud-media.fr
 0.0.0.0	tr.contextweb.com
 0.0.0.0	trc.smtrcplatform.it
@@ -57207,6 +57213,7 @@
 0.0.0.0	trk.adbutter.net
 0.0.0.0	trk.adtrkaa.com
 0.0.0.0	trkag1.com
+0.0.0.0	trk.airproof.party
 0.0.0.0	trk.alskeip.com
 0.0.0.0	trk.anchtrk.com
 0.0.0.0	trk.apperol.com
@@ -57248,6 +57255,7 @@
 0.0.0.0	trk.vaultrk.com
 0.0.0.0	trk.vidible.tv
 0.0.0.0	trk.vindicosuite.com
+0.0.0.0	trk.wdacashtrk.com
 0.0.0.0	trk.yadomedia.com
 0.0.0.0	trkzen.com
 0.0.0.0	tr-metrics.loomia.com
@@ -62329,6 +62337,7 @@
 0.0.0.0	vtot.proxy.aol.com
 0.0.0.0	vtracking.in.com
 0.0.0.0	vtrack.larvtrk.com
+0.0.0.0	vtrack.wdavtrk.com
 0.0.0.0	vtrtl.de
 0.0.0.0	vu.adschoom.com
 0.0.0.0	vulcan.doublepimp.com
@@ -63586,6 +63595,7 @@
 0.0.0.0	wwb.hitbox.com
 0.0.0.0	wwbtads.com
 0.0.0.0	wwc.hitbox.com
+0.0.0.0	ww.cj.com
 0.0.0.0	wwd.hitbox.com
 0.0.0.0	wweconsumer.112.2o7.net
 0.0.0.0	wwecorp2.112.2o7.net
@@ -65012,6 +65022,7 @@
 0.0.0.0	www.cityredirect.com
 0.0.0.0	www.cityviplink.com
 0.0.0.0	www.civicscience.com
+0.0.0.0	www.cj.com
 0.0.0.0	www.cjsab.com
 0.0.0.0	www.cktagalongs.com
 0.0.0.0	www.cktrk.net
@@ -65346,6 +65357,7 @@
 0.0.0.0	www.dayna-cadet.us
 0.0.0.0	www.dburl.us
 0.0.0.0	www.dctracking.com
+0.0.0.0	www.dcw.1592878.com
 0.0.0.0	www.dealcent.com
 0.0.0.0	www.dealofadayonline.com
 0.0.0.0	www.dealsfor.me
@@ -68272,6 +68284,7 @@
 0.0.0.0	www.traveller-offer.com
 0.0.0.0	www.traveller-offer.net
 0.0.0.0	www.travelncs.com
+0.0.0.0	www.trcktm.net
 0.0.0.0	www.treeloot.com
 0.0.0.0	www.trendcounter.com
 0.0.0.0	www.trendnews.com
@@ -68469,6 +68482,7 @@
 0.0.0.0	www.wapplanet.org
 0.0.0.0	www.watch24.com
 0.0.0.0	www.watchlivestream.me.uk
+0.0.0.0	wwww.cj.com
 0.0.0.0	www.wct.link
 0.0.0.0	www.wdm29.com
 0.0.0.0	www.webabrufe.de
