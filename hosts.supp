@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Jan 2 02:30:13 +03 2018
-# Total number of blocked hosts are: 69526
+# Ad blocking hosts generated Wed Jan 3 02:30:20 +03 2018
+# Total number of blocked hosts are: 69525
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -55345,7 +55345,6 @@
 0.0.0.0	telekom01.webtrekk.net
 0.0.0.0	telekom02.webtrekk.net
 0.0.0.0	telemetry.appex.bing.net
-0.0.0.0	telemetry.appex.bing.net:443
 0.0.0.0	telemetry.microsoft.com
 0.0.0.0	telemetry.soundcloud.com
 0.0.0.0	telemetry.urs.microsoft.com
