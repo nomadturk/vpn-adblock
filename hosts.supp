@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Jan 3 02:30:20 +03 2018
-# Total number of blocked hosts are: 69525
+# Ad blocking hosts generated Thu Jan 4 02:30:35 +03 2018
+# Total number of blocked hosts are: 69546
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -2027,6 +2027,7 @@
 0.0.0.0	abc.hearst.co.uk
 0.0.0.0	abcjmp.com
 0.0.0.0	abc.limaction.com
+0.0.0.0	abclnks.com
 0.0.0.0	abcnews.footprint.net
 0.0.0.0	abcno.nuggad.net
 0.0.0.0	abcstats.com
@@ -22526,6 +22527,7 @@
 0.0.0.0	aff.optionyard.com
 0.0.0.0	afform.co.uk
 0.0.0.0	affpartners.com
+0.0.0.0	affpool.com
 0.0.0.0	aff.primaryads.com
 0.0.0.0	aff.promodeals.nl
 0.0.0.0	aff.publicdisgrace.com
@@ -24347,6 +24349,7 @@
 0.0.0.0	audi-club.ru
 0.0.0.0	audience2media.com
 0.0.0.0	audience360.dpmsrv.com
+0.0.0.0	audienceinsights.com
 0.0.0.0	audience.powerlinks.com
 0.0.0.0	audio.de.intellitxt.com
 0.0.0.0	audiode.ivwbox.de
@@ -26123,6 +26126,7 @@
 0.0.0.0	begun.ru
 0.0.0.0	behacdn.ksmobile.net
 0.0.0.0	behance.vo.llnwd.net
+0.0.0.0	behavioralengine.com
 0.0.0.0	beiersdorf.122.2o7.net
 0.0.0.0	bei.nuggad.net
 0.0.0.0	bekleidet.digidip.net
@@ -26357,6 +26361,8 @@
 0.0.0.0	binaryperform.go2cloud.org
 0.0.0.0	b.inbox.lv
 0.0.0.0	bin.clearspring.com
+0.0.0.0	bindedge.com
+0.0.0.0	bindfast.com
 0.0.0.0	bingads.com
 0.0.0.0	binglee-com-au.b.appier.net
 0.0.0.0	bingocabin.com
@@ -29607,7 +29613,6 @@
 0.0.0.0	cdn.superloofy.com
 0.0.0.0	cdn.suthome.com
 0.0.0.0	cdn.syn.verticalacuity.com
-0.0.0.0	cdn.tabnak.ir
 0.0.0.0	cdn.taboola.com
 0.0.0.0	cdn.taboolasyndication.com
 0.0.0.0	cdn.tagcommander.com
@@ -30137,6 +30142,7 @@
 0.0.0.0	c.latam.msn.com
 0.0.0.0	clcbench.chi.cedexis.com
 0.0.0.0	clcbench.slc.cedexis.com
+0.0.0.0	clckcloud.com
 0.0.0.0	clckme.com
 0.0.0.0	clck.ru
 0.0.0.0	clck.webteaser.ru
@@ -30579,6 +30585,7 @@
 0.0.0.0	clk.recreativ.ru
 0.0.0.0	clk.relestar.com
 0.0.0.0	clkrev.com
+0.0.0.0	clkrtrkr.com
 0.0.0.0	clksite.com
 0.0.0.0	clk.solocpm.com
 0.0.0.0	clkstat.qihoo.com
@@ -33101,6 +33108,7 @@
 0.0.0.0	custom.mobpartner.mobi
 0.0.0.0	customsboysint.com
 0.0.0.0	custom.serving-sys.com
+0.0.0.0	customtrck.com
 0.0.0.0	custom-wrs.api.responsys.net
 0.0.0.0	cutecushion.com
 0.0.0.0	cutestuf.com
@@ -34181,6 +34189,7 @@
 0.0.0.0	diseaseless.com
 0.0.0.0	di-se.c.richmetrics.com
 0.0.0.0	dis.eu.criteo.com
+0.0.0.0	diskager.com
 0.0.0.0	disney.2cnt.net
 0.0.0.0	dis.ny.us.criteo.com
 0.0.0.0	dispatch.admixer.co.kr
@@ -36025,6 +36034,7 @@
 0.0.0.0	eztexting.com
 0.0.0.0	ezthemes.ezthemes.com
 0.0.0.0	eztracks.us.intellitxt.com
+0.0.0.0	eztrck.com
 0.0.0.0	ezula.com
 0.0.0.0	ezw0z.voluumtrk.com
 0.0.0.0	f03.smaato.net
@@ -41495,6 +41505,7 @@
 0.0.0.0	justredirect24.com
 0.0.0.0	justrelevant.com
 0.0.0.0	justsaywow.com
+0.0.0.0	justtrck.com
 0.0.0.0	justwebads.com
 0.0.0.0	justwtchaffiliatecom.ipage.com
 0.0.0.0	jutiagroup.us.intellitxt.com
@@ -43610,6 +43621,7 @@
 0.0.0.0	mari-stamp.us
 0.0.0.0	marjorie-baehr.us
 0.0.0.0	market2.the-adult-company.com
+0.0.0.0	marketaff.com
 0.0.0.0	marketbrowser.com
 0.0.0.0	market-buster.com
 0.0.0.0	marketconnect.go2cloud.org
@@ -44790,6 +44802,7 @@
 0.0.0.0	mktg-offer.com
 0.0.0.0	mkto-c0059.com
 0.0.0.0	mkto-k0029.com
+0.0.0.0	mktrkr.com
 0.0.0.0	ml314.com
 0.0.0.0	ml8m.com
 0.0.0.0	mlarmani.122.2o7.net
@@ -46004,6 +46017,7 @@
 0.0.0.0	nextmag.apx.appier.net
 0.0.0.0	nextoptim.com
 0.0.0.0	nextround.us.intellitxt.com
+0.0.0.0	nexttrk.com
 0.0.0.0	nexusads.adspirit.de
 0.0.0.0	nexus.adspirit.de
 0.0.0.0	nexus.ensighten.com
@@ -48264,6 +48278,7 @@
 0.0.0.0	performancerevenue.com
 0.0.0.0	performancerevenues.com
 0.0.0.0	performances.bestofmedia.com
+0.0.0.0	performancetrck.com
 0.0.0.0	performancing.com
 0.0.0.0	performercenter.livejasmin.com
 0.0.0.0	perf.overture.com
@@ -49955,6 +49970,7 @@
 0.0.0.0	quickpwn.us.intellitxt.com
 0.0.0.0	quicksandear.com
 0.0.0.0	quickstartstore.go2cloud.org
+0.0.0.0	quicktrck.com
 0.0.0.0	quickupdateserv.com
 0.0.0.0	quigo.com
 0.0.0.0	quik2link.com
@@ -51679,6 +51695,7 @@
 0.0.0.0	sclick.baidu.com
 0.0.0.0	s.clicktale.net
 0.0.0.0	s.click.taobao.com
+0.0.0.0	sclk.org
 0.0.0.0	scnt.rambler.ru
 0.0.0.0	scomcluster.cxense.com
 0.0.0.0	scootloor.com
@@ -52675,6 +52692,7 @@
 0.0.0.0	simpleads.net
 0.0.0.0	simplehitcounter.com
 0.0.0.0	simpleonlinemedia.go2cloud.org
+0.0.0.0	simpletrck.com
 0.0.0.0	simpli.fi
 0.0.0.0	simplisticnose.com
 0.0.0.0	simplyfwd.com
@@ -56679,7 +56697,6 @@
 0.0.0.0	track.iwfueh.us
 0.0.0.0	track.jbtrax.net
 0.0.0.0	track.jerkednetwork.com
-0.0.0.0	trackjs.com
 0.0.0.0	track.juno.com
 0.0.0.0	track.justcloud.com
 0.0.0.0	track.justdoing.biz
@@ -57134,11 +57151,13 @@
 0.0.0.0	tr.bigpoint.com
 0.0.0.0	tr.bt.matrixspa.it
 0.0.0.0	tr.buzzlogic.com
+0.0.0.0	trckaction.com
 0.0.0.0	trck.addiliate.com
 0.0.0.0	trck.destidyll.com
 0.0.0.0	trck.dlpo.jp
 0.0.0.0	trck.illimeet.com
 0.0.0.0	trck.meexy.com
+0.0.0.0	trcko.com
 0.0.0.0	trck.sixt.com
 0.0.0.0	trcktm.net
 0.0.0.0	tr.cloud-media.fr
@@ -57243,6 +57262,7 @@
 0.0.0.0	trkmydomain.com
 0.0.0.0	trk.obix.pro
 0.0.0.0	trk.pswec.com
+0.0.0.0	trkrpoint.com
 0.0.0.0	trk.rrcpm.com
 0.0.0.0	trk.sele.co
 0.0.0.0	trksst.com
@@ -69486,6 +69506,7 @@
 0.0.0.0	zsc.scmspain.com
 0.0.0.0	zs.dhl.de
 0.0.0.0	zs.ffshrine.org
+0.0.0.0	zsisk.com
 0.0.0.0	zs.zeroredirect1.com
 0.0.0.0	zt.1rx.io
 0.0.0.0	z.times.lv
