@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Jan 9 02:30:38 +03 2018
-# Total number of blocked hosts are: 69549
+# Ad blocking hosts generated Wed Jan 10 02:30:24 +03 2018
+# Total number of blocked hosts are: 69548
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -63301,7 +63301,6 @@
 0.0.0.0	wmg.112.2o7.net
 0.0.0.0	wmgmulti.112.2o7.net
 0.0.0.0	wm-goldenclick.ru
-0.0.0.0	wmirk.ru
 0.0.0.0	w.mlv-cdn.com
 0.0.0.0	wm.maxysearch.info
 0.0.0.0	wm.mtree.com
