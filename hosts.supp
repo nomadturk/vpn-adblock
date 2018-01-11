@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Jan 11 02:30:16 +03 2018
-# Total number of blocked hosts are: 69548
+# Ad blocking hosts generated Fri Jan 12 02:30:20 +03 2018
+# Total number of blocked hosts are: 69550
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -17158,6 +17158,7 @@
 0.0.0.0	adman.se
 0.0.0.0	adman_test.go2cloud.org
 0.0.0.0	admantic.ru
+0.0.0.0	admantx.com
 0.0.0.0	admarket.cz
 0.0.0.0	admarket.entireweb.com
 0.0.0.0	admarketplace.com
@@ -33145,6 +33146,7 @@
 0.0.0.0	cx.atdmt.com
 0.0.0.0	c.xbox.com
 0.0.0.0	cxdigitalmedia.com
+0.0.0.0	cxense.com
 0.0.0.0	cxoadfarm.dyndns.info
 0.0.0.0	c.x.oanda.com
 0.0.0.0	cxociocom.112.2o7.net
