@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Jan 12 02:30:20 +03 2018
-# Total number of blocked hosts are: 69550
+# Ad blocking hosts generated Sat Jan 13 02:30:23 +03 2018
+# Total number of blocked hosts are: 69551
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -22365,6 +22365,7 @@
 0.0.0.0	affiliate.mercola.com
 0.0.0.0	affiliatemg.com
 0.0.0.0	affiliate.mlntracker.com
+0.0.0.0	affiliate.mogs.com
 0.0.0.0	affiliatemunch.go2cloud.org
 0.0.0.0	affiliate.mymall.bg
 0.0.0.0	affiliatenetmedia.go2cloud.org
@@ -39812,7 +39813,6 @@
 0.0.0.0	idm.us.intellitxt.com
 0.0.0.0	idontlikeyouinthatway.us.intellitxt.com
 0.0.0.0	idpix.media6degrees.com
-0.0.0.0	idregie.com
 0.0.0.0	idritracker.com
 0.0.0.0	idspaces.ero-advertising.com
 0.0.0.0	idsync.rlcdn.com
@@ -49283,7 +49283,6 @@
 0.0.0.0	progressive.lp.mydas.mobi
 0.0.0.0	pro.hit.gemius.pl
 0.0.0.0	pro.hit.stat24.com
-0.0.0.0	pro.i-doctor.co.kr
 0.0.0.0	pro.ip-api.com
 0.0.0.0	project2.realtracker.com
 0.0.0.0	projectcounter.org
@@ -52512,6 +52511,7 @@
 0.0.0.0	sh4sure-images.adbureau.net
 0.0.0.0	sh.adingo.jp
 0.0.0.0	shadu.duba.net
+0.0.0.0	shafou.com
 0.0.0.0	shakesea.com
 0.0.0.0	shakytaste.com
 0.0.0.0	shallownation.us.intellitxt.com
@@ -67793,6 +67793,7 @@
 0.0.0.0	www.sfippa.com
 0.0.0.0	www.sgiz.mobi
 0.0.0.0	www.sgizmo.com
+0.0.0.0	www.shafou.com
 0.0.0.0	www.shannon-eaglin.us
 0.0.0.0	www.shantel-newberry.us
 0.0.0.0	www.shantel-poulin.us
