@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Jan 15 02:30:16 +03 2018
-# Total number of blocked hosts are: 69554
+# Ad blocking hosts generated Tue Jan 16 02:30:16 +03 2018
+# Total number of blocked hosts are: 69559
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -21073,6 +21073,7 @@
 0.0.0.0	ads.tackyworld.com
 0.0.0.0	ad-staff.com
 0.0.0.0	adstage-analytics.herokuapp.com
+0.0.0.0	adstage.io
 0.0.0.0	ads.taggify.net
 0.0.0.0	ads.tagword.com
 0.0.0.0	ads.tahono.com
@@ -24322,6 +24323,7 @@
 0.0.0.0	attirer.science
 0.0.0.0	atti.velti.com
 0.0.0.0	attrack.ientrynetwork.net
+0.0.0.0	attributiontracker.com
 0.0.0.0	attributiontrackingga.googlecode.com
 0.0.0.0	attribution.webmarketing123.com
 0.0.0.0	attservicesinc.tt.omtrdc.net
@@ -29863,6 +29865,7 @@
 0.0.0.0	charging-technology.com
 0.0.0.0	charlizetheron.1stOK.com
 0.0.0.0	charmedno1.com
+0.0.0.0	charmflirt.com
 0.0.0.0	charmstroy.info
 0.0.0.0	chartaca.com.s3.amazonaws.com
 0.0.0.0	chart.advinion.com
@@ -45986,6 +45989,7 @@
 0.0.0.0	newsoxy.us.intellitxt.com
 0.0.0.0	newspaperarchive.go2cloud.org
 0.0.0.0	newsquestdigitalmedia.122.2o7.net
+0.0.0.0	newsreport.com-alerts.info
 0.0.0.0	newssourceoftoday.com
 0.0.0.0	newstarads.com
 0.0.0.0	newsterminalvelocity.com
@@ -65853,6 +65857,7 @@
 0.0.0.0	www.freerotator.com
 0.0.0.0	www.freeshoppingprovider.com
 0.0.0.0	www.freeshoppingsource.com
+0.0.0.0	www.freespinwinner.win
 0.0.0.0	www.freestats.com
 0.0.0.0	www.freestats.tv
 0.0.0.0	www.freestats.ws
