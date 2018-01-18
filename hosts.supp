@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Jan 18 02:30:16 +03 2018
-# Total number of blocked hosts are: 69596
+# Ad blocking hosts generated Fri Jan 19 02:30:30 +03 2018
+# Total number of blocked hosts are: 69597
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -47831,7 +47831,6 @@
 0.0.0.0	oxybe.com
 0.0.0.0	o.yieldsquare.com
 0.0.0.0	oylkc.voluumtrk.com
-0.0.0.0	oyster.ws
 0.0.0.0	oyvir.voluumtrk.com
 0.0.0.0	o.zedo.com
 0.0.0.0	o.zeroredirect1.com
@@ -63056,6 +63055,7 @@
 0.0.0.0	webtracking.touchclarity.com
 0.0.0.0	webtrack.jwgrant.co.uk
 0.0.0.0	web-track.telekom-dienste.de
+0.0.0.0	webtracky.com
 0.0.0.0	webtrafficllc.co
 0.0.0.0	webtraffic.se
 0.0.0.0	webtraffic.ttinet.com
@@ -63204,6 +63204,7 @@
 0.0.0.0	wibiya-june-new-log.conduit-data.com
 0.0.0.0	wicked-media.net
 0.0.0.0	w.ic.tynt.com
+0.0.0.0	widdit.com
 0.0.0.0	widespace.com
 0.0.0.0	widget3.linkwithin.com
 0.0.0.0	widget5.linkwithin.com
