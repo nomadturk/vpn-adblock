@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun Jan 21 02:30:15 +03 2018
-# Total number of blocked hosts are: 69599
+# Ad blocking hosts generated Mon Jan 22 02:30:14 +03 2018
+# Total number of blocked hosts are: 69601
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -1246,6 +1246,7 @@
 0.0.0.0	3gupload.112.2o7.net
 0.0.0.0	3guys1hammer.ws
 0.0.0.0	3hfag.voluumtrk.com
+0.0.0.0	3lift.com
 0.0.0.0	3m56h.voluumtrk.com
 0.0.0.0	3ps.go.com
 0.0.0.0	3.ptp22.com
@@ -55753,6 +55754,7 @@
 0.0.0.0	tiads.time.com
 0.0.0.0	tiads.timeinc.net
 0.0.0.0	tiana-carlin.us
+0.0.0.0	tia.timeinc.net
 0.0.0.0	ticket20.tripod.com
 0.0.0.0	ticket.adition.com
 0.0.0.0	ticks2.bugsense.com
@@ -62308,7 +62310,6 @@
 0.0.0.0	vmn.net
 0.0.0.0	v.movad.de
 0.0.0.0	vmp.boldchat.com
-0.0.0.0	vms.boldchat.com
 0.0.0.0	vmss.boldchat.com
 0.0.0.0	vn.grab-credit4u.com
 0.0.0.0	vnu.eu-adcenter.net
@@ -62749,6 +62750,7 @@
 0.0.0.0	watchever.bild.de
 0.0.0.0	watchfree.flv.in
 0.0.0.0	watch-free.stream-online.net
+0.0.0.0	watchingthat.com
 0.0.0.0	watchlivestream.me.uk
 0.0.0.0	watch.stream4know.com
 0.0.0.0	w.atdmt.com.1000.302br.net
