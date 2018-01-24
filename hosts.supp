@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Jan 24 02:30:15 +03 2018
-# Total number of blocked hosts are: 69609
+# Ad blocking hosts generated Thu Jan 25 02:30:15 +03 2018
+# Total number of blocked hosts are: 69594
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -336,8 +336,6 @@
 0.0.0.0	122.6.87.194.dynamic.dol.ru
 0.0.0.0	122807155757.c.mystat-in.net
 0.0.0.0	122907224924.c.mystat-in.net
-0.0.0.0	123456.center
-0.0.0.0	123456.click
 0.0.0.0	123.6.87.194.dynamic.dol.ru
 0.0.0.0	1239.9014.302br.net
 0.0.0.0	123ads.nl
@@ -28823,7 +28821,6 @@
 0.0.0.0	can.you.shut.the.fuck.up.at.bnex.com
 0.0.0.0	c.anytrx.com
 0.0.0.0	c.aol.com
-0.0.0.0	ca.origin.startappservice.com
 0.0.0.0	cap1ss.xp1.ru4.com
 0.0.0.0	capacitly.com
 0.0.0.0	capath.com
@@ -34135,6 +34132,7 @@
 0.0.0.0	digitalmediaonline.us.intellitxt.com
 0.0.0.0	digitalmediawire.us.intellitxt.com
 0.0.0.0	digitalmerkat.com
+0.0.0.0	digitalngo.com
 0.0.0.0	digitalone.go2cloud.org
 0.0.0.0	digitalsalesmedia.go2cloud.org
 0.0.0.0	digitaltrends-d.openx.net
@@ -35549,6 +35547,7 @@
 0.0.0.0	enquisite.com
 0.0.0.0	enrichment.moportals.com
 0.0.0.0	enscl.com
+0.0.0.0	ensighten.com
 0.0.0.0	e.nspmotion.com
 0.0.0.0	ensyp.voluumtrk.com
 0.0.0.0	entercasino.com
@@ -45628,27 +45627,14 @@
 0.0.0.0	n51.adshostnet.com
 0.0.0.0	n52.adshostnet.com
 0.0.0.0	n60adserv.com
-0.0.0.0	n61adserv.com
-0.0.0.0	n62adserv.com
 0.0.0.0	n63adserv.com
 0.0.0.0	n64adserv.com
 0.0.0.0	n65adserv.com
-0.0.0.0	n66adserv.com
-0.0.0.0	n67adserv.com
-0.0.0.0	n68adserv.com
 0.0.0.0	n69adserv.com
 0.0.0.0	n69.com
 0.0.0.0	n6.adshostnet.com
-0.0.0.0	n70adserv.com
-0.0.0.0	n71adserv.com
 0.0.0.0	n72adserv.com
 0.0.0.0	n72.adshostnet.com
-0.0.0.0	n73adserv.com
-0.0.0.0	n74adserv.com
-0.0.0.0	n75adserv.com
-0.0.0.0	n76adserv.com
-0.0.0.0	n77adserv.com
-0.0.0.0	n78adserv.com
 0.0.0.0	n79adserv.com
 0.0.0.0	n7.adshostnet.com
 0.0.0.0	n7yk4.voluumtrk.com
@@ -52530,7 +52516,6 @@
 0.0.0.0	sg.geo.p.xpanama.net
 0.0.0.0	sgiz.mobi
 0.0.0.0	sgmedia.adspirit.net
-0.0.0.0	sg.origin.startappservice.com
 0.0.0.0	sg.p.xpanama.net
 0.0.0.0	sgs001.adtech.de
 0.0.0.0	sgs001.adtech.fr
@@ -56256,7 +56241,6 @@
 0.0.0.0	track.bannerbridge.net
 0.0.0.0	trackbar.go2cloud.org
 0.0.0.0	trackbar.navigator.web.de
-0.0.0.0	track.bestoffertime.com
 0.0.0.0	track.bidtrk.com
 0.0.0.0	track.bigbrandpromotions.com
 0.0.0.0	track.blamads.com
@@ -65483,6 +65467,7 @@
 0.0.0.0	www.diffusionpub.com
 0.0.0.0	www.digiaquascr.com
 0.0.0.0	www.digimedia.com
+0.0.0.0	www.digitalngo.com
 0.0.0.0	www.digits.com
 0.0.0.0	www.dihitt.com
 0.0.0.0	www.dimpact.co.il
