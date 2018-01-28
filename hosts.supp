@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun Jan 28 02:30:16 +03 2018
-# Total number of blocked hosts are: 69606
+# Ad blocking hosts generated Mon Jan 29 02:30:15 +03 2018
+# Total number of blocked hosts are: 69608
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -43739,6 +43739,7 @@
 0.0.0.0	match.xg4ken.com
 0.0.0.0	material.mediav.com
 0.0.0.0	mathenea.com
+0.0.0.0	matheranalytics.com
 0.0.0.0	mathtag.com
 0.0.0.0	ma.tinyflashlight.com
 0.0.0.0	matomy.adk2.co
@@ -53203,6 +53204,7 @@
 0.0.0.0	somethingnice.hc0.me
 0.0.0.0	somni.holidaycheck.com
 0.0.0.0	somni.holidaycheck.de
+0.0.0.0	somniture.stuff.co.nz
 0.0.0.0	somniture.theglobeandmail.com
 0.0.0.0	somnoy.com
 0.0.0.0	somt.honda.com
