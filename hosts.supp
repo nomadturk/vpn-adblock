@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Jan 31 02:30:15 +03 2018
-# Total number of blocked hosts are: 69276
+# Ad blocking hosts generated Thu Feb 1 02:30:15 +03 2018
+# Total number of blocked hosts are: 69279
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -31057,6 +31057,7 @@
 0.0.0.0	content.acc-hd.de
 0.0.0.0	content.ad
 0.0.0.0	content.ad20.net
+0.0.0.0	content-ad.com
 0.0.0.0	content.ad-flow.com
 0.0.0.0	content.adprofile.net
 0.0.0.0	content.adriver.ru
@@ -56889,6 +56890,7 @@
 0.0.0.0	trax.prostrax.com
 0.0.0.0	tray-e-ex.tekblue.net
 0.0.0.0	tray-w-ex.tekblue.net
+0.0.0.0	trbas.com
 0.0.0.0	tr.bigpoint.com
 0.0.0.0	tr.bt.matrixspa.it
 0.0.0.0	tr.buzzlogic.com
@@ -64933,6 +64935,7 @@
 0.0.0.0	www.consumer-org.com
 0.0.0.0	www.contador-de-visitas.com
 0.0.0.0	www.contaxe.com
+0.0.0.0	www.content-ad.com
 0.0.0.0	www.content.applift.com
 0.0.0.0	www.contentlockingnetworks.com
 0.0.0.0	www.c-on-text.com
