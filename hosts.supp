@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Feb 1 02:30:15 +03 2018
-# Total number of blocked hosts are: 69279
+# Ad blocking hosts generated Fri Feb 2 02:30:15 +03 2018
+# Total number of blocked hosts are: 69281
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -23968,6 +23968,7 @@
 0.0.0.0	arroyomedia.go2cloud.org
 0.0.0.0	arsconsole.global-intermedia.com
 0.0.0.0	ars.couphole.com
+0.0.0.0	art19.com
 0.0.0.0	art-archiv.ru
 0.0.0.0	artcomix.com
 0.0.0.0	arthritis.atspace.com
@@ -33198,6 +33199,7 @@
 0.0.0.0	d2bw638ufki166.cloudfront.net
 0.0.0.0	d2c8v52ll5s99u.cloudfront.net
 0.0.0.0	d2cgumzzqhgmdu.cloudfront.net
+0.0.0.0	d2cmedia.ca
 0.0.0.0	d2d2lbvq8xirbs.cloudfront.net
 0.0.0.0	d2dq2ahtl5zl1z.cloudfront.net
 0.0.0.0	d2gatte9o95jao.cloudfront.net
@@ -39293,7 +39295,6 @@
 0.0.0.0	hr.adocean.pl
 0.0.0.0	hrdcvn.com.vn
 0.0.0.0	hrdya.voluumtrk.com
-0.0.0.0	href.li
 0.0.0.0	hr-engine.xclaimwords.net
 0.0.0.0	hrgde.adocean.pl
 0.0.0.0	hr.hit.gemius.pl
@@ -46959,7 +46960,6 @@
 0.0.0.0	one.123counters.com
 0.0.0.0	oneandonlynetwork.com
 0.0.0.0	one.cam4ads.com
-0.0.0.0	oneclickcash.com
 0.0.0.0	onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0	onedrive-onerm-events-primary-cus.servicebus.windows.net
 0.0.0.0	onefeed.co.uk
@@ -68495,6 +68495,7 @@
 0.0.0.0	www.zombo.com
 0.0.0.0	www.zoomovies.org
 0.0.0.0	www.ztrack.net
+0.0.0.0	www.ztrack.pw
 0.0.0.0	www.zxtrace.com
 0.0.0.0	www.zytpirwai.net
 0.0.0.0	www.zyxyfy.com
@@ -69244,6 +69245,7 @@
 0.0.0.0	zt.1rx.io
 0.0.0.0	z.times.lv
 0.0.0.0	ztrack.net
+0.0.0.0	ztrack.pw
 0.0.0.0	ztrf.net
 0.0.0.0	zt.tim-taxi.com
 0.0.0.0	zt.zeroredirect1.com
