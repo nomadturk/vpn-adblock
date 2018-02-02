@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Feb 2 02:30:15 +03 2018
-# Total number of blocked hosts are: 69281
+# Ad blocking hosts generated Sat Feb 3 02:30:15 +03 2018
+# Total number of blocked hosts are: 69280
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -4043,7 +4043,6 @@
 0.0.0.0	adbureau.ru
 0.0.0.0	ad.burstdirectads.com
 0.0.0.0	adbutler.com
-0.0.0.0	adbutler.de
 0.0.0.0	adbuyer2.lycos.com
 0.0.0.0	adbuyer3.lycos.com
 0.0.0.0	adbuyer.com
@@ -19804,6 +19803,7 @@
 0.0.0.0	ad.shop.tbn.ru
 0.0.0.0	ads.hornymatches.com
 0.0.0.0	ads.hornypharaoh.com
+0.0.0.0	ads.horsehero.com
 0.0.0.0	ads.horyzon-media.com
 0.0.0.0	adshost1.com
 0.0.0.0	adshost2.com
@@ -56890,7 +56890,6 @@
 0.0.0.0	trax.prostrax.com
 0.0.0.0	tray-e-ex.tekblue.net
 0.0.0.0	tray-w-ex.tekblue.net
-0.0.0.0	trbas.com
 0.0.0.0	tr.bigpoint.com
 0.0.0.0	tr.bt.matrixspa.it
 0.0.0.0	tr.buzzlogic.com
