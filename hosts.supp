@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Feb 5 02:30:16 +03 2018
-# Total number of blocked hosts are: 69284
+# Ad blocking hosts generated Tue Feb 6 02:30:15 +03 2018
+# Total number of blocked hosts are: 69285
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -45647,6 +45647,7 @@
 0.0.0.0	net.e-viral.com
 0.0.0.0	netezines.advertising.com
 0.0.0.0	net-filter.com
+0.0.0.0	netflix.apple-green.net
 0.0.0.0	netflow.go2cloud.org
 0.0.0.0	net-france.com
 0.0.0.0	netfuerza.com
