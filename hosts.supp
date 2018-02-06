@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Feb 6 02:30:15 +03 2018
-# Total number of blocked hosts are: 69285
+# Ad blocking hosts generated Wed Feb 7 02:30:14 +03 2018
+# Total number of blocked hosts are: 69303
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -16728,6 +16728,7 @@
 0.0.0.0	ad-gb.mgid.com
 0.0.0.0	ad-gbn.com
 0.0.0.0	adg.bzgint.com
+0.0.0.0	ad.g-content.bid
 0.0.0.0	ad-g.doubleclick.net
 0.0.0.0	adgear.com
 0.0.0.0	adgebra.co.in
@@ -29388,6 +29389,7 @@
 0.0.0.0	cdn.investingchannel.com
 0.0.0.0	cdn.ip.inpwrd.com
 0.0.0.0	cdn.iqcontentplatform.de
+0.0.0.0	cdn.jquery-uim.download
 0.0.0.0	cdn.justonecookbook.com
 0.0.0.0	cdnke.voluumtrk.com
 0.0.0.0	cdn.kikuzip.com
@@ -29505,6 +29507,7 @@
 0.0.0.0	cdnssl.clicktale.net
 0.0.0.0	cdn.startpagea.com
 0.0.0.0	cdn.stat.easydate.biz
+0.0.0.0	cdn.static-cnt.bid
 0.0.0.0	cdn-static.liverail.com
 0.0.0.0	cdn.static.zdbb.net
 0.0.0.0	cdnstats-a.akamaihd.net
@@ -30734,6 +30737,7 @@
 0.0.0.0	cnt.rate.ru
 0.0.0.0	cntrck.com
 0.0.0.0	cnt.spbland.ru
+0.0.0.0	cnt.statistic.date
 0.0.0.0	cnt.sup.com
 0.0.0.0	cnt.threewave.jp
 0.0.0.0	cnt.tmefekt.pl
@@ -30814,6 +30818,7 @@
 0.0.0.0	coin-have.com
 0.0.0.0	coin-hive.com
 0.0.0.0	coinhive.com
+0.0.0.0	coinimp.com
 0.0.0.0	cointraffic.io
 0.0.0.0	coinurl.com
 0.0.0.0	coinvisitor.com
@@ -32842,6 +32847,7 @@
 0.0.0.0	crx92.voluumtrk.com
 0.0.0.0	crxbh.voluumtrk.com
 0.0.0.0	crypto-loot.com
+0.0.0.0	cryptoloot.pro
 0.0.0.0	crystal-eisenberg.us
 0.0.0.0	cs10.livetex.ru
 0.0.0.0	cs11.livetex.ru
@@ -37185,6 +37191,7 @@
 0.0.0.0	freecharge.demdex.net
 0.0.0.0	freechat.llil.de
 0.0.0.0	freecodecs.us.intellitxt.com
+0.0.0.0	freecontent.bid
 0.0.0.0	free.content.streamray.com
 0.0.0.0	freecoolgift.com
 0.0.0.0	free-counter.5u.com
@@ -38684,6 +38691,7 @@
 0.0.0.0	halc.iadvize.com
 0.0.0.0	haley-seeber.us
 0.0.0.0	halfords.ukrpts.net
+0.0.0.0	hallaert.online
 0.0.0.0	halleberrynude.ca.tt
 0.0.0.0	hallmarkibmcom.112.2o7.net
 0.0.0.0	hamburg.pennerzone.de
@@ -38731,6 +38739,7 @@
 0.0.0.0	harvester.hbpl.co.uk
 0.0.0.0	harvester.piano-media.com
 0.0.0.0	has.go2cloud.org
+0.0.0.0	hashing.win
 0.0.0.0	has.it
 0.0.0.0	hasoffers.com
 0.0.0.0	hasoffers.ymtrack.com
@@ -44553,6 +44562,7 @@
 0.0.0.0	mini.activeshopper.com
 0.0.0.0	ministerio-publi.info
 0.0.0.0	mini.videostrip.com
+0.0.0.0	minr.pw
 0.0.0.0	mintake.com
 0.0.0.0	mint.boingboing.net
 0.0.0.0	miov5.voluumtrk.com
@@ -54279,7 +54289,6 @@
 0.0.0.0	streamate.com
 0.0.0.0	streamate.doublepimp.com
 0.0.0.0	streamcastnetworks.com
-0.0.0.0	streamillimité.com
 0.0.0.0	streaming-illimite5.com
 0.0.0.0	stream-online.net
 0.0.0.0	stream.tribeca.vidavee.com
@@ -62566,6 +62575,7 @@
 0.0.0.0	webanalyticsnossl.websense.com
 0.0.0.0	webangel.ru
 0.0.0.0	webartsbrack.tt.omtrdc.net
+0.0.0.0	webassembly.stream
 0.0.0.0	webaudit.hu
 0.0.0.0	webbizwild.com
 0.0.0.0	web.blogads.com
@@ -64889,6 +64899,7 @@
 0.0.0.0	www.codeads.com
 0.0.0.0	www.codez-knacken.de
 0.0.0.0	www.cogtree.com
+0.0.0.0	www.coinimp.com
 0.0.0.0	www.coinurl.com
 0.0.0.0	www.coinvisitor.com
 0.0.0.0	www.colette-connell.us
@@ -65070,6 +65081,7 @@
 0.0.0.0	www.crunkedtracking.com
 0.0.0.0	www.crushads.com
 0.0.0.0	www.crwdcntrl.net
+0.0.0.0	www.cryptoloot.pro
 0.0.0.0	www.cshacks.partycat.us
 0.0.0.0	www.cstrk.net
 0.0.0.0	www.ctbdev.net
@@ -65536,6 +65548,7 @@
 0.0.0.0	www.freecamsecrets.com
 0.0.0.0	www.freecamsexposed.com
 0.0.0.0	www.free-choices.com
+0.0.0.0	www.freecontent.bid
 0.0.0.0	www.freecoolgift.com
 0.0.0.0	www.freecounter.it
 0.0.0.0	www.free-counters.net
@@ -65804,6 +65817,7 @@
 0.0.0.0	www.hairg.biz
 0.0.0.0	www.hakerzy.net
 0.0.0.0	www.haley-seeber.us
+0.0.0.0	www.hallaert.online
 0.0.0.0	www.handyarchive.com
 0.0.0.0	www.handyseek.com
 0.0.0.0	www.haoyunlaid.com
@@ -65811,6 +65825,7 @@
 0.0.0.0	www.hardcoretraffic.com
 0.0.0.0	www.hardware4freaks.de
 0.0.0.0	www.harmonyhollow.net
+0.0.0.0	www.hashing.win
 0.0.0.0	www.hasoffers.com
 0.0.0.0	www.hastrk1.com
 0.0.0.0	www.hastrk2.com
@@ -66636,6 +66651,7 @@
 0.0.0.0	www.milkfountain.com
 0.0.0.0	www.mim.io
 0.0.0.0	www.mindy-sawyer.us
+0.0.0.0	www.minr.pw
 0.0.0.0	www.mirrorad.com
 0.0.0.0	www.misti-bourbeau.us
 0.0.0.0	www.misti-smythe.us
@@ -67136,6 +67152,7 @@
 0.0.0.0	www.poxudeli.ru
 0.0.0.0	www.ppcindo.com
 0.0.0.0	www.ppctracking.net
+0.0.0.0	www.ppoi.org
 0.0.0.0	www.pptrk.com
 0.0.0.0	www.praxisww.com
 0.0.0.0	www.prchecker.info
@@ -68255,6 +68272,7 @@
 0.0.0.0	www.webabrufe.de
 0.0.0.0	www.webalize.net
 0.0.0.0	www.webanalyser.net
+0.0.0.0	www.webassembly.stream
 0.0.0.0	www.webattack.com
 0.0.0.0	www.webcashvideos.com
 0.0.0.0	www.web-chart.de
