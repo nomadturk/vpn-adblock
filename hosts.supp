@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Feb 8 02:30:16 +03 2018
-# Total number of blocked hosts are: 69303
+# Ad blocking hosts generated Fri Feb 9 02:30:16 +03 2018
+# Total number of blocked hosts are: 69306
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -19505,7 +19505,6 @@
 0.0.0.0	adserv.mywebtimes.com
 0.0.0.0	adserv.net
 0.0.0.0	adservone.com
-0.0.0.0	adservpi.com
 0.0.0.0	adserv.pitchforkmedia.com
 0.0.0.0	adserv.postbulletin.com
 0.0.0.0	adserv.qconline.com
@@ -21240,7 +21239,6 @@
 0.0.0.0	ads.videofen.com
 0.0.0.0	ads.videohub.tv
 0.0.0.0	ads.videoslots.com
-0.0.0.0	ads.videostrip.com-prizes-giveaway.online
 0.0.0.0	ads.videosz.com
 0.0.0.0	adsvids.com
 0.0.0.0	adsvidsdouble.com
@@ -37200,7 +37198,6 @@
 0.0.0.0	freecountersnow.com
 0.0.0.0	free-crochet-pattern.com
 0.0.0.0	freedailydownload.com
-0.0.0.0	freedatarecharge.com
 0.0.0.0	freedesignerhandbagreviews.com
 0.0.0.0	freedinnersource.com
 0.0.0.0	freedownloadcenter.uk.intellitxt.com
@@ -38103,6 +38100,7 @@
 0.0.0.0	globaltrack.com
 0.0.0.0	globalwebads.com
 0.0.0.0	global.ymtrack.com
+0.0.0.0	global.ymtracking.com
 0.0.0.0	globe7.com
 0.0.0.0	globel.co.uk
 0.0.0.0	globirank.com
@@ -38157,7 +38155,9 @@
 0.0.0.0	gntbcstwzzm.112.2o7.net
 0.0.0.0	go27.net
 0.0.0.0	go2cloud.org
+0.0.0.0	go2funz.com
 0.0.0.0	go2.hit.gemius.pl
+0.0.0.0	go2linkfast.com
 0.0.0.0	go2.trekaklik.com
 0.0.0.0	go2web20.net
 0.0.0.0	go34down.com
@@ -38305,6 +38305,7 @@
 0.0.0.0	go.padstm.com
 0.0.0.0	go.pardot.com
 0.0.0.0	gopath2.xyz
+0.0.0.0	go.playmmogames.com
 0.0.0.0	goplayz.com
 0.0.0.0	go.pl.bbelements.com
 0.0.0.0	go.pol.bbelements.com
@@ -38352,12 +38353,12 @@
 0.0.0.0	go.theadsnet.com
 0.0.0.0	gotlaughs.com
 0.0.0.0	gotoast.com
+0.0.0.0	goto.myfunbreak.com
 0.0.0.0	goto.mystreamdelivery.xyz
 0.0.0.0	gotoo.com
 0.0.0.0	goto.trafficmultiplier.com
 0.0.0.0	go.toutapp.com
 0.0.0.0	go.trackgold.net
-0.0.0.0	go.tracking222.site
 0.0.0.0	go.tracksz.co
 0.0.0.0	go.trafficshop.com
 0.0.0.0	go.trkreward.com
@@ -39788,6 +39789,7 @@
 0.0.0.0	illustriousoatmeal.com
 0.0.0.0	i-lookup.com
 0.0.0.0	iloopmobile.com
+0.0.0.0	ilovecookies.co
 0.0.0.0	ilovemobi.com
 0.0.0.0	ilumigrafias.adriancugar.com
 0.0.0.0	ilu.troughtheend.com
@@ -42227,7 +42229,6 @@
 0.0.0.0	linktrack.bravenet.com
 0.0.0.0	linktracker.angelfire.com
 0.0.0.0	linktrackerinc.go2cloud.org
-0.0.0.0	link.trackscity.com
 0.0.0.0	link.transibase.fr
 0.0.0.0	link.transiblue.fr
 0.0.0.0	link.transibox.fr
@@ -46018,6 +46019,7 @@
 0.0.0.0	nordette.3.p2l.info
 0.0.0.0	nordette.4.p2l.info
 0.0.0.0	nordiccountry.cz
+0.0.0.0	normalexchange.com
 0.0.0.0	norma-simental.us
 0.0.0.0	nortelcom.112.2o7.net
 0.0.0.0	northjersey.112.2o7.net
@@ -48593,6 +48595,7 @@
 0.0.0.0	pl.betclic.com
 0.0.0.0	pldev.112.2o7.net
 0.0.0.0	pleasedontslaymy.download
+0.0.0.0	pleasewaitlonger.com
 0.0.0.0	plemedia.com
 0.0.0.0	plemx.com
 0.0.0.0	plenews.net
@@ -50143,7 +50146,6 @@
 0.0.0.0	redirectingat.com
 0.0.0.0	redirecting.ws
 0.0.0.0	redirect.la.idealab.com
-0.0.0.0	redirect.leadstracker.net
 0.0.0.0	redirect.linksummary.com
 0.0.0.0	re-directme.com
 0.0.0.0	redirect.mobpartner.mobi
@@ -50549,6 +50551,7 @@
 0.0.0.0	rlcxi.voluumtrk.com
 0.0.0.0	r.leadzuaf.com
 0.0.0.0	r.leadzu.com
+0.0.0.0	r.leadzupc.com
 0.0.0.0	rleeden.myby.co.uk
 0.0.0.0	rle.ru
 0.0.0.0	r.letsw.com
@@ -52263,6 +52266,7 @@
 0.0.0.0	sftp.barb.2cnt.net
 0.0.0.0	sftp.clickability.com
 0.0.0.0	sftrack.searchforce.net
+0.0.0.0	sftwrads.com
 0.0.0.0	sf.vserv.mobi
 0.0.0.0	sfw.adsafeprotected.com
 0.0.0.0	s.fxtimg.com
@@ -53274,7 +53278,6 @@
 0.0.0.0	ssh.kissmetrics.com
 0.0.0.0	s.shopify.com
 0.0.0.0	sshowads.pubmatic.com
-0.0.0.0	sshtunnel.at
 0.0.0.0	ssi.go2cloud.org
 0.0.0.0	s.skimresources.com
 0.0.0.0	ssl3.adhost.com
@@ -55913,6 +55916,7 @@
 0.0.0.0	traci-sirianni.us
 0.0.0.0	traci-towery.us
 0.0.0.0	track.007cpa.com
+0.0.0.0	track112.com
 0.0.0.0	track12.offersbymail.com
 0.0.0.0	track.12trackway.com
 0.0.0.0	track1.breakmedia.com
@@ -56659,7 +56663,6 @@
 0.0.0.0	track.send.microad.jp
 0.0.0.0	track.seorate.ru
 0.0.0.0	track.sexchangegirl.com
-0.0.0.0	track.sharktrkr.xyz
 0.0.0.0	track.shop2market.com
 0.0.0.0	track.sitetag.us
 0.0.0.0	tracksitetraffic1.com
@@ -57724,7 +57727,6 @@
 0.0.0.0	ukrfarms.com.ua
 0.0.0.0	ukrpts.net
 0.0.0.0	uk.sitestat.com
-0.0.0.0	uk.static.planet49.com
 0.0.0.0	uktc.ijento.com
 0.0.0.0	uktvandroid.2cnt.net
 0.0.0.0	uktvdotcom.2cnt.net
@@ -64803,7 +64805,6 @@
 0.0.0.0	www.clashmediausa.com
 0.0.0.0	www.classifieds1000.com
 0.0.0.0	www.clck.ru
-0.0.0.0	www.clcktrough.com
 0.0.0.0	www.clddt.com
 0.0.0.0	www.clear-reports.com
 0.0.0.0	www.clear-request.com
@@ -64860,6 +64861,7 @@
 0.0.0.0	www.clicktracksolutions.com
 0.0.0.0	www.clicktraffix.com
 0.0.0.0	www.clicktripz.com
+0.0.0.0	www.clicktrough.com
 0.0.0.0	www.clickvalidator.net
 0.0.0.0	www.clickv.com
 0.0.0.0	www.clickwinks.com
@@ -66001,6 +66003,7 @@
 0.0.0.0	www.ijacko.net
 0.0.0.0	www.ilgm-deals.com
 0.0.0.0	www.ilovecheating.com
+0.0.0.0	www.ilovecookies.co
 0.0.0.0	www.ilovemobi.com
 0.0.0.0	www.imads.ero-advertising.com
 0.0.0.0	www.imageers.com
@@ -66416,7 +66419,6 @@
 0.0.0.0	www.ljteas.com
 0.0.0.0	www.lkqd.net
 0.0.0.0	www.lldiettracker.com
-0.0.0.0	www.llnwd.net
 0.0.0.0	www.lloogg.com
 0.0.0.0	www.lmlttrack.com
 0.0.0.0	www.lm-pk.com
@@ -67102,6 +67104,7 @@
 0.0.0.0	www.platinscience.com
 0.0.0.0	www.platinumbucks.com
 0.0.0.0	www.pleasedontslaymy.download
+0.0.0.0	www.pleasewaitlonger.com
 0.0.0.0	www.plocia.com
 0.0.0.0	www.plug-media.com
 0.0.0.0	www.plus500.com
@@ -67716,7 +67719,6 @@
 0.0.0.0	www.srver110.xyz
 0.0.0.0	www.srvpub.com
 0.0.0.0	www.ssangyong.co.il
-0.0.0.0	www.ssl-cd.com
 0.0.0.0	www.stacia-jose.us
 0.0.0.0	www.stacia-ware.us
 0.0.0.0	www.stamplive.com
@@ -67991,6 +67993,7 @@
 0.0.0.0	www.tracc.it
 0.0.0.0	www.tracemyip.org
 0.0.0.0	www.traci-sirianni.us
+0.0.0.0	www.track112.com
 0.0.0.0	www.track2cash.com
 0.0.0.0	www.track4.com
 0.0.0.0	www.trackadvertising.net
