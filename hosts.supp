@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Feb 9 02:30:16 +03 2018
-# Total number of blocked hosts are: 69306
+# Ad blocking hosts generated Sat Feb 10 02:30:15 +03 2018
+# Total number of blocked hosts are: 69312
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -434,6 +434,7 @@
 0.0.0.0	157-events.olark.com
 0.0.0.0	158.6.87.194.dynamic.dol.ru
 0.0.0.0	159.6.87.194.dynamic.dol.ru
+0.0.0.0	15.basebanner.com
 0.0.0.0	15cen.redirectvoluum.com
 0.0.0.0	15minadlt.hit.gemius.pl
 0.0.0.0	15.ptp22.com
@@ -40236,6 +40237,7 @@
 0.0.0.0	import.globalsources.com
 0.0.0.0	imp.partner2profit.com
 0.0.0.0	imppl.tradedoubler.com
+0.0.0.0	imprammp.taboola.com
 0.0.0.0	imprese.cz
 0.0.0.0	impressionaffiliate.com
 0.0.0.0	impressionaffiliate.mobi
@@ -52760,6 +52762,7 @@
 0.0.0.0	smartmediamarketing.go2cloud.org
 0.0.0.0	smartmoney.112.2o7.net
 0.0.0.0	smart.montiera.com
+0.0.0.0	smartoffer.site
 0.0.0.0	smart-scripts.com
 0.0.0.0	smartshare.lgtvsdp.com
 0.0.0.0	smartstats.com
@@ -58397,6 +58400,8 @@
 0.0.0.0	vidilife.crwdcntrl.net
 0.0.0.0	vidnet.us.intellitxt.com
 0.0.0.0	vidora.com
+0.0.0.0	vidstatb.taboola.com
+0.0.0.0	vidstat.taboola.com
 0.0.0.0	vidzur.com
 0.0.0.0	view4cash.de
 0.0.0.0	viewablemedia.net
@@ -62861,6 +62866,7 @@
 0.0.0.0	wetyt.tourstogo.us
 0.0.0.0	wewillrocknow.com
 0.0.0.0	w.extreme-dm.com
+0.0.0.0	wf.basebanner.com
 0.0.0.0	wfnetwork.go2cloud.org
 0.0.0.0	wfoto.front.ru
 0.0.0.0	wfpscripts.webspectator.com
