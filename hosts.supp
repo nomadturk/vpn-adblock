@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Feb 12 02:30:13 +03 2018
-# Total number of blocked hosts are: 69312
+# Ad blocking hosts generated Tue Feb 13 02:30:17 +03 2018
+# Total number of blocked hosts are: 69317
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -41250,6 +41250,9 @@
 0.0.0.0	js.hotkeys.com
 0.0.0.0	js.hotlog.ru
 0.0.0.0	js.hs-analytics.net
+0.0.0.0	js.hscollectedforms.net
+0.0.0.0	js.hsleadflows.net
+0.0.0.0	js.hs-scripts.com
 0.0.0.0	js.hubspot.com
 0.0.0.0	js.indexww.com
 0.0.0.0	js.juicyads.com
@@ -56841,6 +56844,7 @@
 0.0.0.0	traffic.shareaholic.com
 0.0.0.0	trafficshop.com
 0.0.0.0	trafficspaces.net
+0.0.0.0	traffic.spot.im
 0.0.0.0	traffic-stats.streamsolutions.co.uk
 0.0.0.0	trafficstrategies.com
 0.0.0.0	traffic-supremacy.com
@@ -67708,6 +67712,7 @@
 0.0.0.0	www.sports-offer.com
 0.0.0.0	www.sports-offer.net
 0.0.0.0	www.sports-premiumblvd.com
+0.0.0.0	www.spot.im
 0.0.0.0	www.spotsniper.ru
 0.0.0.0	www.springboardplatform.com
 0.0.0.0	www.spris.com
