@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Feb 14 02:30:19 +03 2018
-# Total number of blocked hosts are: 69293
+# Ad blocking hosts generated Thu Feb 15 02:30:14 +03 2018
+# Total number of blocked hosts are: 69306
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -16733,6 +16733,7 @@
 0.0.0.0	ad-g.doubleclick.net
 0.0.0.0	adgear.com
 0.0.0.0	adgebra.co.in
+0.0.0.0	adgebra.in
 0.0.0.0	adgenie.co.uk
 0.0.0.0	adgent007.com
 0.0.0.0	adgeo.163.com
@@ -23421,6 +23422,7 @@
 0.0.0.0	aolwpnscom.122.2o7.net
 0.0.0.0	aolwpnswhatsnew.112.2o7.net
 0.0.0.0	aolyedda.122.2o7.net
+0.0.0.0	a.o.nf
 0.0.0.0	aonx6.voluumtrk.com
 0.0.0.0	a.openinternetexchange.com
 0.0.0.0	a.optinmonster.com
@@ -24026,6 +24028,7 @@
 0.0.0.0	a-scrip.org
 0.0.0.0	asd.tynt.com
 0.0.0.0	as.ebz.io
+0.0.0.0	ase.clmbtech.com
 0.0.0.0	a.senolati.com
 0.0.0.0	aserve.directorym.com
 0.0.0.0	as.eu.angsrvr.com
@@ -28611,6 +28614,7 @@
 0.0.0.0	c.ad6media.fr
 0.0.0.0	cadaver.org
 0.0.0.0	cad.chosun.com
+0.0.0.0	cade.clmbtech.com
 0.0.0.0	c.adfirmative.com
 0.0.0.0	c.adforgeinc.com
 0.0.0.0	cadillacforums.us.intellitxt.com
@@ -28777,6 +28781,7 @@
 0.0.0.0	cas.clickability.com
 0.0.0.0	cas.criteo.com
 0.0.0.0	cas.criteo.com.68099.9533.302br.net
+0.0.0.0	case.clmbtech.com
 0.0.0.0	casey-fifer.us
 0.0.0.0	cash4banner.de
 0.0.0.0	cash4creatives.com
@@ -40698,6 +40703,7 @@
 0.0.0.0	i.sbitinbsjs.info
 0.0.0.0	is.casalemedia.com
 0.0.0.0	isearch.shopathome.com
+0.0.0.0	ise.clmbtech.com
 0.0.0.0	i.securecontactinfo.com
 0.0.0.0	i.serves.live
 0.0.0.0	isg01.casalemedia.com
@@ -43482,7 +43488,6 @@
 0.0.0.0	marketing.nyi.net
 0.0.0.0	marketing.openoffice.org
 0.0.0.0	marketing.osijek031.com
-0.0.0.0	marketingprofs.com
 0.0.0.0	marketing-rewardpath.com
 0.0.0.0	marketingsecrets.com
 0.0.0.0	marketingsolutions.yahoo.com
@@ -45828,6 +45833,7 @@
 0.0.0.0	nextgenstats.com
 0.0.0.0	nextlevel.com
 0.0.0.0	nextmag.apx.appier.net
+0.0.0.0	nextmillennium.liqwid.net
 0.0.0.0	nextoptim.com
 0.0.0.0	nextround.us.intellitxt.com
 0.0.0.0	nexttrk.com
@@ -47297,6 +47303,8 @@
 0.0.0.0	orgibiz.com
 0.0.0.0	origer.info
 0.0.0.0	origin2.adsdk.com
+0.0.0.0	originade.clmbtech.com
+0.0.0.0	originadessl.clmbtech.com
 0.0.0.0	origin.chron.com
 0.0.0.0	origin.privoy.doublepimp.com
 0.0.0.0	origin-tracking.trulia.com
@@ -50076,6 +50084,7 @@
 0.0.0.0	reboot.sitescout.com
 0.0.0.0	rebtelnetworks.112.2o7.net
 0.0.0.0	rec3.prosieben.de
+0.0.0.0	recade.clmbtech.com
 0.0.0.0	receive.inplay.scanscout.com
 0.0.0.0	receptiveink.com
 0.0.0.0	recipegoldmine.us.intellitxt.com
@@ -53574,6 +53583,7 @@
 0.0.0.0	static.clicktorrent.info
 0.0.0.0	static.clicktripz.com
 0.0.0.0	static.clixsense.com
+0.0.0.0	static.clmbtech.com
 0.0.0.0	static.contactme.com
 0.0.0.0	static.contentabc.com
 0.0.0.0	static.cpalead.com
@@ -55590,6 +55600,7 @@
 0.0.0.0	tmgdigital.go2cloud.org
 0.0.0.0	tmgr.ccmbg.com
 0.0.0.0	t.ml00.net
+0.0.0.0	tml.clmbtech.com
 0.0.0.0	t.mobilediva.com
 0.0.0.0	tmobile-us.inq.com
 0.0.0.0	t.mobitrk.com
@@ -56990,6 +57001,7 @@
 0.0.0.0	trk.bluetrackmedia.com
 0.0.0.0	trk.cetrk.com
 0.0.0.0	trkclk.net
+0.0.0.0	trk.clmbtech.com
 0.0.0.0	trk-conceptaffi.aprism.me
 0.0.0.0	trk.cpainfinity.com
 0.0.0.0	trkcpamedia.com
@@ -63903,6 +63915,8 @@
 0.0.0.0	www.adgalax.com
 0.0.0.0	www.adgatemedia.com
 0.0.0.0	www.adgear.com
+0.0.0.0	www.adgebra.co.in
+0.0.0.0	www.adgebra.in
 0.0.0.0	www.adgitize.com
 0.0.0.0	www.ad-groups.com
 0.0.0.0	www.adgroups.com
@@ -66521,7 +66535,6 @@
 0.0.0.0	www.marketgid.com
 0.0.0.0	www.marketing.com.ar
 0.0.0.0	www.marketing-internet.com
-0.0.0.0	www.marketingprofs.com
 0.0.0.0	www.marketing-rewardpath.com
 0.0.0.0	www.marketingsecrets.com
 0.0.0.0	www.marketingtips.com
