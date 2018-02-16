@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Feb 16 02:30:19 +03 2018
-# Total number of blocked hosts are: 69306
+# Ad blocking hosts generated Sat Feb 17 02:30:14 +03 2018
+# Total number of blocked hosts are: 69304
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -28250,7 +28250,6 @@
 0.0.0.0	buzzonclick.com
 0.0.0.0	buzzreferrals.go2cloud.org
 0.0.0.0	bvalit.justclick.ru
-0.0.0.0	bvalphaserver.com
 0.0.0.0	b.vghd.com
 0.0.0.0	b.vimeocdn.com
 0.0.0.0	bvoau.voluumtrk.com
@@ -29690,6 +29689,7 @@
 0.0.0.0	cerebral.typn.com
 0.0.0.0	certified-email.com
 0.0.0.0	certifiedwinners.info
+0.0.0.0	certifiedwinners.today
 0.0.0.0	certify.alexametrics.com
 0.0.0.0	ceskarepublika.net
 0.0.0.0	ceskydomov.alias.ngs.modry.cz
@@ -49910,7 +49910,6 @@
 0.0.0.0	ranking-liste.de
 0.0.0.0	rankingscout.com
 0.0.0.0	rankingscout.org
-0.0.0.0	ranking-street.de
 0.0.0.0	rank-master.com
 0.0.0.0	rank-master.de
 0.0.0.0	rankmytattoos.us.intellitxt.com
@@ -54039,7 +54038,6 @@
 0.0.0.0	stats.millanusa.com
 0.0.0.0	stats.mirror.co.uk
 0.0.0.0	stats.mirrorfootball.co.uk
-0.0.0.0	stats.multiup.org
 0.0.0.0	stats.mvilivestats.com
 0.0.0.0	stats.nascar.com
 0.0.0.0	stats.net
