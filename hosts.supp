@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Feb 23 02:30:17 +03 2018
-# Total number of blocked hosts are: 70916
+# Ad blocking hosts generated Sat Feb 24 02:30:21 +03 2018
+# Total number of blocked hosts are: 70926
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -18825,7 +18825,6 @@
 0.0.0.0	ads.dfiles.ru
 0.0.0.0	ads.dgonn.com
 0.0.0.0	ads.dhakatribune.com
-0.0.0.0	ads.diamonds
 0.0.0.0	ads.dichtbij.adhese.com
 0.0.0.0	ads.digitalacre.com
 0.0.0.0	ads.digitalalchemy.tv
@@ -21987,6 +21986,7 @@
 0.0.0.0	adv.netinfo.bg
 0.0.0.0	adv.neto.net.il
 0.0.0.0	adv.netshelter.net
+0.0.0.0	advnet.xyz
 0.0.0.0	adv.nexthardware.com
 0.0.0.0	adv.noblepoker.com
 0.0.0.0	advnstrdm541231c0esprod.122.2o7.net
@@ -22092,7 +22092,6 @@
 0.0.0.0	ad.wsod.com
 0.0.0.0	ad.www.net.cn
 0.0.0.0	ad.wz.cz
-0.0.0.0	adx1.com
 0.0.0.0	adx2.chip.de
 0.0.0.0	adx.adform.net
 0.0.0.0	adx.adnxs.com
@@ -26008,6 +26007,7 @@
 0.0.0.0	bc.marfeel.com
 0.0.0.0	bcmediagroup.com
 0.0.0.0	bcm.itv.com
+0.0.0.0	bcnmonetize.go2affise.com
 0.0.0.0	b.codeonclick.com
 0.0.0.0	b.collective-media.net
 0.0.0.0	b.computerworlduk.com
@@ -28942,7 +28942,6 @@
 0.0.0.0	casper.sp1.convertro.com
 0.0.0.0	cas.pxl.ace.advertising.com
 0.0.0.0	cassandra-klima.us
-0.0.0.0	casterist.info
 0.0.0.0	casting.openv.com
 0.0.0.0	castingshow-news.de.intellitxt.com
 0.0.0.0	cast.ra.icast.cn
@@ -36457,6 +36456,7 @@
 0.0.0.0	fedex.tt.omtrdc.net
 0.0.0.0	fedsit.com
 0.0.0.0	feed2allnow.me
+0.0.0.0	feed.2makeyourday.press
 0.0.0.0	feed3.hype-ads.com
 0.0.0.0	feedads.g.doubleclick.net
 0.0.0.0	feedads.googleadservices.com
@@ -36884,6 +36884,7 @@
 0.0.0.0	fourthgate.org
 0.0.0.0	fourthgearmedia.go2cloud.org
 0.0.0.0	foxamw.112.2o7.net
+0.0.0.0	foxarmedia.com
 0.0.0.0	foxcom.112.2o7.net
 0.0.0.0	foxcounter.com
 0.0.0.0	foxgloveslyukq.download
@@ -42244,6 +42245,7 @@
 0.0.0.0	latest-369538.ahtamsu.ru
 0.0.0.0	latest-460050.ebeda.info
 0.0.0.0	latest-461069.dochyedu.info
+0.0.0.0	latest-470741.takyake.ru
 0.0.0.0	latestsearch.website
 0.0.0.0	latin3.directtrack.com
 0.0.0.0	latinoreview.us.intellitxt.com
@@ -45776,6 +45778,7 @@
 0.0.0.0	mymediadownloadsthirtytwo.com
 0.0.0.0	my.media-servers.net
 0.0.0.0	my.mobfox.com
+0.0.0.0	mymoneymakingapp.com
 0.0.0.0	my.mystreamdelivery.xyz
 0.0.0.0	myns-v1.websys.aol.com
 0.0.0.0	myoffertracking.com
@@ -50472,6 +50475,7 @@
 0.0.0.0	ra.revolvermaps.com
 0.0.0.0	ras.doubleclick.net
 0.0.0.0	rasedbdhczr.download
+0.0.0.0	rasius.pro
 0.0.0.0	raskrutka.ucoz.com
 0.0.0.0	rasml.voluumtrk.com
 0.0.0.0	rasmussenreports.us.intellitxt.com
@@ -52923,6 +52927,7 @@
 0.0.0.0	shari-leggett.us
 0.0.0.0	shari-spinner.us
 0.0.0.0	shauna-lefevre.us
+0.0.0.0	shawinternets.com
 0.0.0.0	shawnewspapers.112.2o7.net
 0.0.0.0	shayla-haygood.us
 0.0.0.0	sh.creativcdn.net
@@ -54223,7 +54228,6 @@
 0.0.0.0	staticd.cdn.industrybrains.com
 0.0.0.0	static.dcoengine.com
 0.0.0.0	static.digidip.net
-0.0.0.0	static.directrev.com
 0.0.0.0	static.doubleclick.com
 0.0.0.0	static.doubleclick.net
 0.0.0.0	static.doubleclick.net.12022.9038.302br.net
@@ -55481,6 +55485,7 @@
 0.0.0.0	t-ak.hulu.com
 0.0.0.0	taking-technology.com
 0.0.0.0	takru.com
+0.0.0.0	takyake.ru
 0.0.0.0	talesoftheslayer.bravejournal.com
 0.0.0.0	taletela.us.intellitxt.com
 0.0.0.0	talkaxis.com
@@ -64944,6 +64949,7 @@
 0.0.0.0	www.adviews-sponsor.de
 0.0.0.0	www.ad-visor.com
 0.0.0.0	www.advm10.com
+0.0.0.0	www.advnet.xyz
 0.0.0.0	www.advolution.de
 0.0.0.0	www.advombat.ru
 0.0.0.0	www.advserver.xyz
@@ -66549,6 +66555,7 @@
 0.0.0.0	www.fossilisedboxbkshj.download
 0.0.0.0	www.fossilisesgcjrfazlr.download
 0.0.0.0	www.fotoidea.com
+0.0.0.0	www.foxarmedia.com
 0.0.0.0	www.foxcounter.com
 0.0.0.0	www.foxgloveslyukq.download
 0.0.0.0	www.foy4a.trackvoluum.com
@@ -68634,6 +68641,7 @@
 0.0.0.0	www.rapidcounter.com
 0.0.0.0	www.rapleaf.com
 0.0.0.0	www.rasedbdhczr.download
+0.0.0.0	www.rasius.pro
 0.0.0.0	www.ravel-rewardpath.com
 0.0.0.0	www.raygun.io
 0.0.0.0	www.rbmut.science
@@ -69268,6 +69276,7 @@
 0.0.0.0	www.tagclearbits.com
 0.0.0.0	www.taggstar.com
 0.0.0.0	www.tagjunction.com
+0.0.0.0	www.takyake.ru
 0.0.0.0	www.talentbroker.net
 0.0.0.0	www.talia-mettler.us
 0.0.0.0	www.talkingdata.com
@@ -70367,6 +70376,7 @@
 0.0.0.0	xml.click9.com
 0.0.0.0	xml.clickredirection.com
 0.0.0.0	xml.explorads.com
+0.0.0.0	xml.ezmob.com
 0.0.0.0	xml.fusionxml.com
 0.0.0.0	xmlheads.com
 0.0.0.0	xml.ioam.de
