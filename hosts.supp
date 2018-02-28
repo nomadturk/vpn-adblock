@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Feb 28 02:30:14 +03 2018
+# Ad blocking hosts generated Thu Mar 1 02:30:16 +03 2018
 # Total number of blocked hosts are: 71082
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -30572,7 +30572,6 @@
 0.0.0.0	clien.info
 0.0.0.0	clien.net
 0.0.0.0	client.cobrowser.net
-0.0.0.0	clientconfig.passport.net
 0.0.0.0	client.download-sponsor.de
 0.0.0.0	client.everlinks.net
 0.0.0.0	clientmetrics-pa.googleapis.com
@@ -46069,6 +46068,7 @@
 0.0.0.0	nativead.tech
 0.0.0.0	nativeadx.net
 0.0.0.0	native.ai
+0.0.0.0	nativeroll.tv
 0.0.0.0	native.sharethrough.com
 0.0.0.0	nativitystones.go2cloud.org
 0.0.0.0	na.tns-cs.net
