@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat Mar 3 02:30:16 +03 2018
-# Total number of blocked hosts are: 71072
+# Ad blocking hosts generated Sun Mar 4 02:30:16 +03 2018
+# Total number of blocked hosts are: 71071
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -23033,7 +23033,6 @@
 0.0.0.0	ams.addflow.ru
 0.0.0.0	amscdn.btrll.com
 0.0.0.0	a.msclickrdr.com
-0.0.0.0	a-msedge.net
 0.0.0.0	ams.toxity.biz
 0.0.0.0	amtracking01.com
 0.0.0.0	amtracking.go2cloud.org
@@ -45573,7 +45572,6 @@
 0.0.0.0	msdbb1.surf-town.net
 0.0.0.0	msdbb2.surf-town.net
 0.0.0.0	msdbi1.surf-town.net
-0.0.0.0	msedge.net
 0.0.0.0	m.servebom.com
 0.0.0.0	mseuppremain.112.2o7.net
 0.0.0.0	mseupwinxpfam.112.2o7.net
@@ -63907,6 +63905,7 @@
 0.0.0.0	wireless.ign.us.intellitxt.com
 0.0.0.0	wirtvlg.oewabox.at
 0.0.0.0	wisemen.go2cloud.org
+0.0.0.0	wisepops.com
 0.0.0.0	wisewire.com
 0.0.0.0	wissende.122.2o7.net
 0.0.0.0	wisti.adulte3g.com
