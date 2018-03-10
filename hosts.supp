@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Mar 9 02:30:19 +03 2018
-# Total number of blocked hosts are: 68391
+# Ad blocking hosts generated Sun Mar 11 02:30:15 +03 2018
+# Total number of blocked hosts are: 68393
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -19514,7 +19514,6 @@
 0.0.0.0	ads.greenvilleonline.com
 0.0.0.0	ads.grindinggears.com
 0.0.0.0	ads.grokads.com
-0.0.0.0	ads.groundspeak.com
 0.0.0.0	ads.groupcommerce.com
 0.0.0.0	adsgroup.qq.com
 0.0.0.0	ads.grupozeta.es
@@ -30299,6 +30298,7 @@
 0.0.0.0	content.exoticads.com
 0.0.0.0	content.integral-marketing.com
 0.0.0.0	content.ipro.com
+0.0.0.0	content.jwplatform.com
 0.0.0.0	content.linkoffers.net
 0.0.0.0	content.livesportmedia.eu
 0.0.0.0	content.liveuniverse.com
@@ -48565,6 +48565,7 @@
 0.0.0.0	rdsa2012.com
 0.0.0.0	rd.sslmediaserver.com
 0.0.0.0	rdstat.tanx.com
+0.0.0.0	reacherinst.com
 0.0.0.0	reachjunction.com
 0.0.0.0	reactads.cdn.adglare.net
 0.0.0.0	reactads.com
@@ -51754,6 +51755,7 @@
 0.0.0.0	ssl-msn.oewabox.at
 0.0.0.0	ssl-munchkin.marketo.net
 0.0.0.0	ssl-offloader.2cnt.net
+0.0.0.0	ssl.p.jwpcdn.com
 0.0.0.0	ssl.safepoollink.com
 0.0.0.0	ssl.siteimprove.com
 0.0.0.0	ssl-sl-retargeting.adsonar.com
@@ -56089,6 +56091,7 @@
 0.0.0.0	update.theplacetoupdating.pw
 0.0.0.0	updatewinrar.ru
 0.0.0.0	updo.nl
+0.0.0.0	upgradeget.thegreatforupdatesafemove.download
 0.0.0.0	upgradenote.enterbestforupdating.bid
 0.0.0.0	upgrowsxdeyxj.download
 0.0.0.0	upi.112.2o7.net
@@ -68364,7 +68367,6 @@
 0.0.0.0	zumeno.com
 0.0.0.0	zu.zeroredirect1.com
 0.0.0.0	zuzzer5.com
-0.0.0.0	zv1.november-lax.com
 0.0.0.0	zviframe.biz
 0.0.0.0	zv.zeroredirect1.com
 0.0.0.0	zww.ero-advertising.com
