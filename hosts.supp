@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Mar 15 02:30:52 +03 2018
-# Total number of blocked hosts are: 67836
+# Ad blocking hosts generated Fri Mar 16 02:30:20 +03 2018
+# Total number of blocked hosts are: 67846
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -23306,6 +23306,7 @@
 0.0.0.0	app.medyanetads.com
 0.0.0.0	app.mlcampaignru.com
 0.0.0.0	app.mlnewsletterru.com
+0.0.0.0	app.monetizze.com.br
 0.0.0.0	appmpire.go2affise.com
 0.0.0.0	app.mysafeurl.com
 0.0.0.0	appnexus.com
@@ -24062,6 +24063,7 @@
 0.0.0.0	b3.toparcadehits.com
 0.0.0.0	b3-uk.mookie1.com
 0.0.0.0	b3-uk.mookie1.com.63430.9488.302br.net
+0.0.0.0	b400393baba7cd476a3.com
 0.0.0.0	b4psads.com
 0.0.0.0	b4.rivalgaming.com
 0.0.0.0	b4.toparcadehits.com
@@ -33482,6 +33484,7 @@
 0.0.0.0	download.filmfanatic.com
 0.0.0.0	download.grandcloud.cn
 0.0.0.0	download.hitbox.com
+0.0.0.0	download.inboxace.com
 0.0.0.0	downloadmpplayer.com
 0.0.0.0	download.pchubs.com
 0.0.0.0	download.realtimegaming.com
@@ -36571,6 +36574,7 @@
 0.0.0.0	gamesites200.com
 0.0.0.0	gamesitestop100.com
 0.0.0.0	gamesradar.us.intellitxt.com
+0.0.0.0	games.superappbox.com
 0.0.0.0	games-toys-bonuspath.com
 0.0.0.0	games-toys-free.com
 0.0.0.0	games-toys-rewardpath.com
@@ -43858,6 +43862,7 @@
 0.0.0.0	musiccounter.ru
 0.0.0.0	music.ign.us.intellitxt.com
 0.0.0.0	musicmembersarea.com
+0.0.0.0	music.myappzcenter.com
 0.0.0.0	musikzoo.com
 0.0.0.0	mustangevolution.us.intellitxt.com
 0.0.0.0	muv.famousintactswitch.com
@@ -44433,6 +44438,7 @@
 0.0.0.0	newsok.112.2o7.net
 0.0.0.0	newsoxy.us.intellitxt.com
 0.0.0.0	newspaperarchive.go2cloud.org
+0.0.0.0	newsprofin.com
 0.0.0.0	newsquestdigitalmedia.122.2o7.net
 0.0.0.0	newsreport.com-alerts.info
 0.0.0.0	newsroomsolsnkww.download
@@ -44466,6 +44472,7 @@
 0.0.0.0	nextel-ringtone.spb.su
 0.0.0.0	nextgenstats.com
 0.0.0.0	nextlevel.com
+0.0.0.0	nextlnk2.com
 0.0.0.0	nextmag.apx.appier.net
 0.0.0.0	nextmillennium.liqwid.net
 0.0.0.0	nextoptim.com
@@ -46230,6 +46237,7 @@
 0.0.0.0	p1.tcr111.tynt.com
 0.0.0.0	p1.tcr21.tynt.com
 0.0.0.0	p1tre.emv3.com
+0.0.0.0	p232207.mybestmv.com
 0.0.0.0	p2408.adskape.ru
 0.0.0.0	p2-aahhyknavsj2m-wtnlrzkba6lht33q-if-v6exp3-v4.metric.gstatic.com
 0.0.0.0	p2.adhitzads.com
@@ -47704,6 +47712,7 @@
 0.0.0.0	promotions.betfred.com
 0.0.0.0	promotion.shirtinator.net
 0.0.0.0	promotions.iasbet.com
+0.0.0.0	promotions.sportingbet.com
 0.0.0.0	promotions.yahoo.com
 0.0.0.0	promotools3.globalmailer.com
 0.0.0.0	promotools4.globalmailer.com
@@ -54306,6 +54315,7 @@
 0.0.0.0	trackcmp.net
 0.0.0.0	track.collegeboard.com
 0.0.0.0	track.construclique.com
+0.0.0.0	track.contently.com
 0.0.0.0	track.cracked.com
 0.0.0.0	track.createsend.com
 0.0.0.0	track.customer.io
