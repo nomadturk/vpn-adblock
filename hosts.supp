@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Mar 16 02:30:20 +03 2018
-# Total number of blocked hosts are: 67846
+# Ad blocking hosts generated Sat Mar 17 02:30:15 +03 2018
+# Total number of blocked hosts are: 67850
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -22033,6 +22033,7 @@
 0.0.0.0	affiliates.powweb.com
 0.0.0.0	affiliates.quintura.com
 0.0.0.0	affiliates.reunion.com
+0.0.0.0	affiliates.rozetka.com.ua
 0.0.0.0	affiliates.spark.net
 0.0.0.0	affiliates.streamray.com
 0.0.0.0	affiliates.thelotter.com
@@ -36509,6 +36510,7 @@
 0.0.0.0	gabsmash.us.intellitxt.com
 0.0.0.0	gaby.hit.gemius.pl
 0.0.0.0	ga.canoe.ca
+0.0.0.0	ga.clearbit.com
 0.0.0.0	gacz.hit.gemius.pl
 0.0.0.0	gadcreatives.glam.com
 0.0.0.0	gadgeteer.pdamart.com
@@ -39531,7 +39533,6 @@
 0.0.0.0	interactive.forthnet.gr
 0.0.0.0	interactivepartners.go2cloud.org
 0.0.0.0	interchangecorporation.122.2o7.net
-0.0.0.0	intercom.com
 0.0.0.0	intergi.com
 0.0.0.0	interhyp02.webtrekk.net
 0.0.0.0	interia.adsearch.adkontekst.pl
@@ -41497,7 +41498,6 @@
 0.0.0.0	longtraffic.com
 0.0.0.0	lon.telefonica.bench.cedexis.com
 0.0.0.0	look2me.com
-0.0.0.0	looker.com
 0.0.0.0	lookest.win
 0.0.0.0	looksa.com
 0.0.0.0	looksmartcollect.247realmedia.com
@@ -45676,6 +45676,7 @@
 0.0.0.0	on.nimp.org
 0.0.0.0	onocollect.247realmedia.com
 0.0.0.0	onrio.com.br
+0.0.0.0	onscroll.com
 0.0.0.0	onshj.voluumtrk.com
 0.0.0.0	ontheflix.us.intellitxt.com
 0.0.0.0	onvis.ivwbox.de
@@ -48455,6 +48456,7 @@
 0.0.0.0	ranking-links.de
 0.0.0.0	ranking-liste.de
 0.0.0.0	rankingscout.com
+0.0.0.0	ranking-street.de
 0.0.0.0	rank-master.com
 0.0.0.0	rank-master.de
 0.0.0.0	rankmytattoos.us.intellitxt.com
@@ -50823,6 +50825,7 @@
 0.0.0.0	sher.index.hu
 0.0.0.0	sherkatkonandeh.com
 0.0.0.0	sherkhundi.com
+0.0.0.0	shermore.info
 0.0.0.0	shfr.hernando.com
 0.0.0.0	shield.sitelock.com
 0.0.0.0	shiltirs.com
@@ -61183,6 +61186,7 @@
 0.0.0.0	widget.getsatisfaction.com
 0.0.0.0	widget.hypercomments.com
 0.0.0.0	widget.imshopping.com
+0.0.0.0	widget.intercom.io
 0.0.0.0	widget.marktjagd.de
 0.0.0.0	widget.nativly.com
 0.0.0.0	widget.perfectmarket.com
