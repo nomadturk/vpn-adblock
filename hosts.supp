@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Mar 21 02:30:20 +03 2018
-# Total number of blocked hosts are: 67860
+# Ad blocking hosts generated Thu Mar 22 02:30:15 +03 2018
+# Total number of blocked hosts are: 67863
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -19988,6 +19988,7 @@
 0.0.0.0	adsnative.com
 0.0.0.0	ads.nativeinstruments.de
 0.0.0.0	ads.ncm.com
+0.0.0.0	ads.ndtv1.com
 0.0.0.0	ads.neg.bg
 0.0.0.0	ads.neoseeker.com
 0.0.0.0	ads.neowin.net
@@ -29830,6 +29831,7 @@
 0.0.0.0	cmi.netseer.com
 0.0.0.0	cmllk1.info
 0.0.0.0	cm.l.qq.com
+0.0.0.0	cml.sad.ukrd.com
 0.0.0.0	cm.marketgid.com
 0.0.0.0	cm.mgid.com
 0.0.0.0	cm.myway.com
@@ -46394,6 +46396,7 @@
 0.0.0.0	paritycube.go2cloud.org
 0.0.0.0	park.above.com
 0.0.0.0	parkcloud.dynadot.com
+0.0.0.0	parketsy.pro
 0.0.0.0	parkingcrew.net
 0.0.0.0	parking.dmtracker.com
 0.0.0.0	parking.parklogic.com
