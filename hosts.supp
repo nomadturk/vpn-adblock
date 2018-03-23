@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Mar 23 02:30:18 +03 2018
-# Total number of blocked hosts are: 67731
+# Ad blocking hosts generated Sat Mar 24 02:30:15 +03 2018
+# Total number of blocked hosts are: 67729
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -29714,7 +29714,6 @@
 0.0.0.0	clk.flmsecure.com
 0.0.0.0	clk.im
 0.0.0.0	clk.jmp9.com
-0.0.0.0	clk.konflab.com
 0.0.0.0	clk.madisonlogic.com
 0.0.0.0	clk.members.fling.com
 0.0.0.0	clkmg.com
@@ -30367,7 +30366,6 @@
 0.0.0.0	conversions.rts.doublepimp.com
 0.0.0.0	convertglobal.s3.amazonaws.com
 0.0.0.0	convertro.com
-0.0.0.0	conviva.com
 0.0.0.0	convnjmp.basebanner.com
 0.0.0.0	convoad.technoratimedia.com.21929.9047.302br.net
 0.0.0.0	convoad.technoratimedia.com.22787.9068.302br.net
@@ -30375,6 +30373,7 @@
 0.0.0.0	convoad.technoratimedia.com.24234.9068.302br.net
 0.0.0.0	convoad.technoratimedia.com.24235.9068.302br.net
 0.0.0.0	convoad.technoratimedia.com.24236.9068.302br.net
+0.0.0.0	convrse.media
 0.0.0.0	convusmp.admailtiser.com
 0.0.0.0	cookieanalyze.info
 0.0.0.0	cookiecontainer.blox.pl
@@ -37561,6 +37560,7 @@
 0.0.0.0	graffix.adition.com
 0.0.0.0	grafix.xxxcounter.com
 0.0.0.0	grafstat.ro
+0.0.0.0	grahamdigital.com
 0.0.0.0	gramashgbbjqbzy.download
 0.0.0.0	grammarly.go2cloud.org
 0.0.0.0	granite.bnex.com
@@ -43495,7 +43495,6 @@
 0.0.0.0	mobscan.info
 0.0.0.0	mobsonic.go2affise.com
 0.0.0.0	mobstac.com
-0.0.0.0	mob.system-onlline.com
 0.0.0.0	mobtions.go2affise.com
 0.0.0.0	mobularity.com
 0.0.0.0	mobvid.mobi
@@ -61197,7 +61196,6 @@
 0.0.0.0	widget.getsatisfaction.com
 0.0.0.0	widget.hypercomments.com
 0.0.0.0	widget.imshopping.com
-0.0.0.0	widget.intercom.io
 0.0.0.0	widget.marktjagd.de
 0.0.0.0	widget.nativly.com
 0.0.0.0	widget.perfectmarket.com
