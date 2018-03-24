@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat Mar 24 02:30:15 +03 2018
-# Total number of blocked hosts are: 67729
+# Ad blocking hosts generated Sun Mar 25 02:30:19 +03 2018
+# Total number of blocked hosts are: 67752
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -1154,6 +1154,7 @@
 0.0.0.0	332645.r.axf8.net
 0.0.0.0	33526.9243.302br.net
 0.0.0.0	33.6.87.194.dynamic.dol.ru
+0.0.0.0	33across.com
 0.0.0.0	33across-d.openx.net
 0.0.0.0	33b.b33r.net
 0.0.0.0	33qx.secoptim.com
@@ -3521,7 +3522,9 @@
 0.0.0.0	ad4.lbn.ru
 0.0.0.0	ad4.liverail.com
 0.0.0.0	ad4m.adk2.co
+0.0.0.0	ad4mat.com
 0.0.0.0	ad4mat.de
+0.0.0.0	ad4mat.net
 0.0.0.0	ad4me.net
 0.0.0.0	ad4.netshelter.net
 0.0.0.0	ad4partners.com
@@ -20418,6 +20421,7 @@
 0.0.0.0	ads.profitsdeluxe.com
 0.0.0.0	ads.profootballtalk.com
 0.0.0.0	ads.program3.com
+0.0.0.0	ads.programattik.com
 0.0.0.0	ads.pro-market.net
 0.0.0.0	ads.pro-market.net.edgesuite.net
 0.0.0.0	ads.propertycasualty360.com
@@ -21874,6 +21878,7 @@
 0.0.0.0	affcloud.go2cloud.org
 0.0.0.0	affddl.automotive.com
 0.0.0.0	aff.devicebondage.com
+0.0.0.0	affec.tv
 0.0.0.0	aff.eteachergroup.com
 0.0.0.0	aff.foxtab.com
 0.0.0.0	aff.gittigidiyor.com
@@ -33615,6 +33620,7 @@
 0.0.0.0	dsparking.com
 0.0.0.0	dsp.bnmla.com
 0.0.0.0	dspcluster.adfarm1.adition.com
+0.0.0.0	dsp.io
 0.0.0.0	dsply.com
 0.0.0.0	dsp.xapads.com
 0.0.0.0	ds.serving-sys.com
@@ -33969,6 +33975,7 @@
 0.0.0.0	ectestlampsplus1.112.2o7.net
 0.0.0.0	ectropionqybhnovh.download
 0.0.0.0	ec.tynt.com
+0.0.0.0	edaa.eu
 0.0.0.0	ed.at.is13.de
 0.0.0.0	ed.at.thamaster.de
 0.0.0.0	eddamedia.linkpulse.com
@@ -34363,6 +34370,7 @@
 0.0.0.0	emediate.dk
 0.0.0.0	emediate.eu
 0.0.0.0	emediate.se
+0.0.0.0	emerse.com
 0.0.0.0	emeza-ch01.webtrekk.net
 0.0.0.0	emeza-com01.webtrekk.net
 0.0.0.0	emeza-de01.webtrekk.net
@@ -39530,6 +39538,8 @@
 0.0.0.0	intelli-tracker.com
 0.0.0.0	intellitxt.com
 0.0.0.0	intensedigital.adk2x.com
+0.0.0.0	intentmedia.com
+0.0.0.0	intentmedia.net
 0.0.0.0	interac.refund-canada.com
 0.0.0.0	interactivearea.ru
 0.0.0.0	interactive-assets.s3.amazonaws.com
@@ -40862,6 +40872,7 @@
 0.0.0.0	leadmobi.en.alibaba.com
 0.0.0.0	leadparadise.go2cloud.org
 0.0.0.0	leadperformanceltd.go2cloud.org
+0.0.0.0	leadplace.fr
 0.0.0.0	lead.program3.com
 0.0.0.0	leadpub.com
 0.0.0.0	leads.383media.com
@@ -43584,6 +43595,7 @@
 0.0.0.0	moodoo.com.cn
 0.0.0.0	moodoocrv.com.cn
 0.0.0.0	moo.go2cloud.org
+0.0.0.0	mookie1.com
 0.0.0.0	moo.sitescout.com
 0.0.0.0	m.openv.tv
 0.0.0.0	mopub.com
@@ -48053,6 +48065,7 @@
 0.0.0.0	publicidad.elmundo.es
 0.0.0.0	publicidad.entelchile.net
 0.0.0.0	publicidades.redtotalonline.com
+0.0.0.0	publicidees.com
 0.0.0.0	publicis.adcentriconline.com
 0.0.0.0	publicizedrtgtvj.download
 0.0.0.0	public.porn.fr
@@ -49161,6 +49174,7 @@
 0.0.0.0	ro.bbelements.com
 0.0.0.0	robotreplay.com
 0.0.0.0	robtopol.in
+0.0.0.0	rockabox.co
 0.0.0.0	rockdirt.us.intellitxt.com
 0.0.0.0	rocketfuel.com
 0.0.0.0	rockoneinnovations.go2cloud.org
@@ -53513,6 +53527,7 @@
 0.0.0.0	telkku.spring-tns.net
 0.0.0.0	telstra.imrworldwide.com
 0.0.0.0	te.mcall.com
+0.0.0.0	temelio.com
 0.0.0.0	te.mgnetwork.com
 0.0.0.0	temp.adzerver.com
 0.0.0.0	temperersgelvhakyk.download
@@ -53663,6 +53678,7 @@
 0.0.0.0	th-cdn.effectivemeasure.net
 0.0.0.0	thcextractor.com
 0.0.0.0	thcvaporizer.com
+0.0.0.0	theadex.com
 0.0.0.0	theadhost.com
 0.0.0.0	theads.me
 0.0.0.0	theadvertiser.us.intellitxt.com
@@ -53830,6 +53846,7 @@
 0.0.0.0	ticket20.tripod.com
 0.0.0.0	ticks2.bugsense.com
 0.0.0.0	tidalkqbvnxk.download
+0.0.0.0	tidaltv.com
 0.0.0.0	tidbit.co.in
 0.0.0.0	tidbitlhztnnx.download
 0.0.0.0	tidbitscom.skimlinks.com
@@ -55483,6 +55500,7 @@
 0.0.0.0	tunmedia.tns-cs.net
 0.0.0.0	tuno.nuggad.net
 0.0.0.0	t.update.moatads.com
+0.0.0.0	turboadv.com
 0.0.0.0	turdgasm.com
 0.0.0.0	turncoatsuxica.download
 0.0.0.0	turn.com
@@ -55551,6 +55569,7 @@
 0.0.0.0	twsg21x6-22dcca05c0915aa0dad0a07273e7a3c5015ddc6d-am1.d.aa.online-metrix.net
 0.0.0.0	twx.2mdn.net
 0.0.0.0	twx.doubleclick.net
+0.0.0.0	twyn.com
 0.0.0.0	tx2.ru
 0.0.0.0	tx.5.p2l.info
 0.0.0.0	txads.buzzcity.com
@@ -56030,6 +56049,7 @@
 0.0.0.0	undefined.it
 0.0.0.0	undefined.vindicosuite.com
 0.0.0.0	underclick.ru
+0.0.0.0	undertone.com
 0.0.0.0	undertonenetworks.com
 0.0.0.0	unfairnesstxucdbqiz.download
 0.0.0.0	unfamedooxpcktdb.download
@@ -60291,6 +60311,7 @@
 0.0.0.0	vmix.adbureau.net
 0.0.0.0	vml-127.com
 0.0.0.0	vml1.s3.amazonaws.com
+0.0.0.0	vmmpxl.com
 0.0.0.0	vmn.net
 0.0.0.0	v.movad.de
 0.0.0.0	vmp.boldchat.com
@@ -61521,6 +61542,7 @@
 0.0.0.0	wt01.webtrekk.net
 0.0.0.0	wt10.haote.com
 0.0.0.0	wta.ero-advertising.com
+0.0.0.0	wt-eu02.net
 0.0.0.0	wtlive.com
 0.0.0.0	wtnj.worldnow.com
 0.0.0.0	wt.o.nytimes.com
@@ -67731,4 +67753,5 @@
 0.0.0.0	zzptzdhugavot.review
 0.0.0.0	zzz.clickbank.net
 0.0.0.0	zz.zeroredirect1.com
+0.0.0.0	zzzrtrcm2.com
 #</local-data>
