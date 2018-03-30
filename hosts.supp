@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Mar 30 02:30:20 +03 2018
-# Total number of blocked hosts are: 67762
+# Ad blocking hosts generated Sat Mar 31 02:30:14 +03 2018
+# Total number of blocked hosts are: 67777
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -2369,6 +2369,7 @@
 0.0.0.0	ac.ybinst8.ec.yimg.com
 0.0.0.0	ac.ybinst9.ec.yimg.com
 0.0.0.0	acyclovir.1.p2l.info
+0.0.0.0	ad
 0.0.0.0	ad001.ru
 0.0.0.0	ad00.hpg.com.br
 0.0.0.0	ad00.paycount.com
@@ -18183,6 +18184,7 @@
 0.0.0.0	ads.adsag.com
 0.0.0.0	ads.adsbookie.com
 0.0.0.0	ads.adsconsumer.com
+0.0.0.0	ads-adseast.yldbt.com
 0.0.0.0	ads.adsfirefly.com
 0.0.0.0	ads.adshareware.net
 0.0.0.0	ads.adsinimages.com
@@ -19073,6 +19075,7 @@
 0.0.0.0	adserver-images.adikteev.com
 0.0.0.0	adserver.infinit.net
 0.0.0.0	adserver.infotiger.com
+0.0.0.0	adserver.intentiq.com
 0.0.0.0	adserver.interfree.it
 0.0.0.0	adserver.inwind.it
 0.0.0.0	adserver.ip-phone-forum.de
@@ -19271,6 +19274,8 @@
 0.0.0.0	adservicedomain.info
 0.0.0.0	adservice.everyone.com
 0.0.0.0	adservice.everyone.net
+0.0.0.0	adservice.google.ca
+0.0.0.0	adservice.google.com
 0.0.0.0	adservices.google.com
 0.0.0.0	adservices.picadmedia.com
 0.0.0.0	adservicestats.com
@@ -23100,6 +23105,7 @@
 0.0.0.0	api.infinario.com
 0.0.0.0	api.innomdc.com
 0.0.0.0	api.intensifier.de
+0.0.0.0	api.intentiq.com
 0.0.0.0	api.inwemo.com
 0.0.0.0	api.iperceptions.com
 0.0.0.0	api.ipinfodb.com
@@ -28683,6 +28689,7 @@
 0.0.0.0	cdn.funnel.naturaltracking.com
 0.0.0.0	cdn.gameadvert.com
 0.0.0.0	cdn.geni.us
+0.0.0.0	cdn.getsmartcontent.com
 0.0.0.0	cdn-gl.imrworldwide.com
 0.0.0.0	cdn.go.arbo.bbelements.com
 0.0.0.0	cdn.go.arbopl.bbelements.com
@@ -33512,6 +33519,7 @@
 0.0.0.0	down.mykings.pw
 0.0.0.0	down.unadnet.com.cn
 0.0.0.0	do.you.uh.yahoo.at.bnex.com
+0.0.0.0	dp1.33across.com
 0.0.0.0	dp2.specificclick.net
 0.0.0.0	dp51h10v6ggpa.cloudfront.net
 0.0.0.0	dpbolvw.net
@@ -34775,6 +34783,7 @@
 0.0.0.0	events.foreseeresults.com
 0.0.0.0	events.jotform.com
 0.0.0.0	events.kalooga.com
+0.0.0.0	events.kiosked.com
 0.0.0.0	events.olark.com
 0.0.0.0	events.realgravity.com
 0.0.0.0	events.redditmedia.com
@@ -36535,6 +36544,7 @@
 0.0.0.0	gadnet.hit.gemius.pl
 0.0.0.0	g.adnxs.com
 0.0.0.0	g.adspeed.net
+0.0.0.0	gads.pubmatic.com
 0.0.0.0	gads.ru
 0.0.0.0	gae.caspion.com
 0.0.0.0	gaee.hit.gemius.pl
@@ -39040,6 +39050,7 @@
 0.0.0.0	imarker.com
 0.0.0.0	imarker.ru
 0.0.0.0	imarketservices.com
+0.0.0.0	imasdk.googleapis.com
 0.0.0.0	imatmobile.com
 0.0.0.0	im.b2a2c700.a80886f.ads.a4cdn.contentabc.com
 0.0.0.0	im.b2a2c700.e8cace3.ads.a4cdn.contentabc.com
@@ -48320,6 +48331,7 @@
 0.0.0.0	qualityclickcontrol.com
 0.0.0.0	qualitylegion.com
 0.0.0.0	qualityporn.biz
+0.0.0.0	quantcast584928381.s.moatpixel.com
 0.0.0.0	quantcast.com
 0.0.0.0	quantcount.com
 0.0.0.0	quantserve.com
@@ -48366,6 +48378,7 @@
 0.0.0.0	qwiklnk.com
 0.0.0.0	qwwqb.voluumtrk.com
 0.0.0.0	qxj3b.voluumtrk.com
+0.0.0.0	qxxru.linknotification.com
 0.0.0.0	qy.corrmedic.ru
 0.0.0.0	qyrix.go2cloud.org
 0.0.0.0	q.zeroredirect1.com
@@ -53010,6 +53023,7 @@
 0.0.0.0	synchroscript.deliveryengine.adswizz.com
 0.0.0.0	sync.mathtag.com
 0.0.0.0	sync.monarchads.com
+0.0.0.0	sync.pulseradius.com
 0.0.0.0	sync.rhythmxchange.com
 0.0.0.0	sync.richmetrics.com
 0.0.0.0	sync.search.spotxchange.com
@@ -53954,6 +53968,7 @@
 0.0.0.0	t.locpub.com
 0.0.0.0	tlvmedia.adk2.co
 0.0.0.0	tlvmedia.com
+0.0.0.0	tlx.3lift.com
 0.0.0.0	tmarket.tripod.com
 0.0.0.0	tmcnet.us.intellitxt.com
 0.0.0.0	t.mdn2015x1.com
@@ -54009,7 +54024,6 @@
 0.0.0.0	todayads.com
 0.0.0.0	todayresearch.com
 0.0.0.0	todayshow.us.intellitxt.com
-0.0.0.0	toddscarwash.com
 0.0.0.0	t-oewa.2cnt.net
 0.0.0.0	toggo.ivwbox.de
 0.0.0.0	toi3.ivwbox.de
@@ -61166,6 +61180,7 @@
 0.0.0.0	whaleads.com
 0.0.0.0	whatifholdings.go2cloud.org
 0.0.0.0	whatinteryield.jmp9.com
+0.0.0.0	whatishotnow.net
 0.0.0.0	whatismyip.akamai.com
 0.0.0.0	whatrunswhere.go2cloud.org
 0.0.0.0	whatseek.com
