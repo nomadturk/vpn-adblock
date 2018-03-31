@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat Mar 31 02:30:14 +03 2018
+# Ad blocking hosts generated Sun Apr 1 02:30:29 +03 2018
 # Total number of blocked hosts are: 67777
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -28817,7 +28817,6 @@
 0.0.0.0	cdn.search.aol.com
 0.0.0.0	cdn.segment.com
 0.0.0.0	cdn.segment.io
-0.0.0.0	cdns.gigya.com
 0.0.0.0	cdn.shoppingminds.net
 0.0.0.0	cdn.shorte.st
 0.0.0.0	cdn.siftscience.com
@@ -42627,6 +42626,7 @@
 0.0.0.0	media.exchange-it.com
 0.0.0.0	media.fairlink.ru
 0.0.0.0	media.fastclick.net
+0.0.0.0	mediafaze.com
 0.0.0.0	media.fc2.com
 0.0.0.0	media-fire.org
 0.0.0.0	media.flixfacts.com
