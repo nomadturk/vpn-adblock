@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Apr 4 02:30:15 +03 2018
-# Total number of blocked hosts are: 67778
+# Ad blocking hosts generated Thu Apr 5 02:30:16 +03 2018
+# Total number of blocked hosts are: 67795
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -1893,6 +1893,7 @@
 0.0.0.0	a9shd.realshieldlinked.com
 0.0.0.0	aa.adfarm1.adition.com
 0.0.0.0	aaa.dv0.info
+0.0.0.0	aa.agkn.com
 0.0.0.0	a.abnad.net
 0.0.0.0	a.abv.bg
 0.0.0.0	aa.connextra.com
@@ -18229,6 +18230,7 @@
 0.0.0.0	ads.affelix.com
 0.0.0.0	ads.affiliateclub.com
 0.0.0.0	ads.affiliates.match.com
+0.0.0.0	ads.affiliates-spinit.com
 0.0.0.0	adsafiliados.com.br
 0.0.0.0	ads.afixi.com
 0.0.0.0	ads.afraccess.com
@@ -19379,6 +19381,7 @@
 0.0.0.0	ads.fark.com
 0.0.0.0	ads.fashionsupreme.co.uk
 0.0.0.0	adsfast.com
+0.0.0.0	ads.fasttrack-ignite.com
 0.0.0.0	ads.faxo.com
 0.0.0.0	ads.fayettevillenc.com
 0.0.0.0	ads.fcnet.de
@@ -19487,6 +19490,7 @@
 0.0.0.0	ads.genericlink.com
 0.0.0.0	ads.geoads.net
 0.0.0.0	ads.germanfriendfinder.com
+0.0.0.0	ads.getlucky.com
 0.0.0.0	ads.gettools.com
 0.0.0.0	ads.gfy.com
 0.0.0.0	ads.ghettotube.com
@@ -19727,6 +19731,7 @@
 0.0.0.0	ads.jinkads.com
 0.0.0.0	ads.jiwire.com
 0.0.0.0	ads.jlisting.jp
+0.0.0.0	ads.joaffs.com
 0.0.0.0	ads.jobclicks.net
 0.0.0.0	ads.jobsite.co.uk
 0.0.0.0	ads.joemonster.org
@@ -19746,6 +19751,7 @@
 0.0.0.0	ads.jwtt3.com
 0.0.0.0	adsk2.co
 0.0.0.0	ads.ka6tata.com
+0.0.0.0	ads.kabooaffiliates.com
 0.0.0.0	ads.kaktuz.net
 0.0.0.0	ads.kaldata.com
 0.0.0.0	ads.kanal3.bg
@@ -19782,6 +19788,7 @@
 0.0.0.0	ads.lacoctelera.com
 0.0.0.0	ads.lanistaads.com
 0.0.0.0	ads.laptop.bg
+0.0.0.0	ads.larryaffiliates.com
 0.0.0.0	ad.slashgear.com
 0.0.0.0	ads.lawnsite.com
 0.0.0.0	ads.layer-ad.org
@@ -19921,6 +19928,7 @@
 0.0.0.0	ads.mnium.org
 0.0.0.0	ads.mobclix.com
 0.0.0.0	ads.mobgold.com
+0.0.0.0	ads.mobilautomaten.com
 0.0.0.0	ads.mobiledia.com
 0.0.0.0	ads.mobilefuse.net
 0.0.0.0	ads.mobilemarketer.com
@@ -20730,6 +20738,7 @@
 0.0.0.0	ads.sumotorrent.sx
 0.0.0.0	ads.sun.com
 0.0.0.0	ads.sunjournal.com
+0.0.0.0	ads.suomiautomaatti.com
 0.0.0.0	ads.sup.com
 0.0.0.0	ads.superonline.com
 0.0.0.0	ads.supplyframe.com
@@ -27636,6 +27645,7 @@
 0.0.0.0	buysub.com
 0.0.0.0	buy-tamiflu.asian-flu-vaccine.com
 0.0.0.0	buy.thetrackr.com
+0.0.0.0	buy.tinypass.com
 0.0.0.0	buytraf.ru
 0.0.0.0	buy-ultram-online.iscool.nl
 0.0.0.0	buy-valium-cheap-valium-online.com
@@ -34912,6 +34922,7 @@
 0.0.0.0	expedia8.112.2o7.net
 0.0.0.0	expedia.ca.112.2o7.net
 0.0.0.0	experianservicescorp.122.2o7.net
+0.0.0.0	experience.tinypass.com
 0.0.0.0	experteerads.com
 0.0.0.0	expertland.net
 0.0.0.0	expert-offers.com
@@ -46315,6 +46326,7 @@
 0.0.0.0	pa.advertising.veeseo.com
 0.0.0.0	pacan.gofreedom.info
 0.0.0.0	p.ace.advertising.com
+0.0.0.0	pacificnet.xyz
 0.0.0.0	pacific-poker.e-online-poker-4u.net
 0.0.0.0	paclitor.com
 0.0.0.0	pacman.gkgar.com
@@ -48677,9 +48689,12 @@
 0.0.0.0	recommendedpreview.com
 0.0.0.0	recommender.scarabresearch.com
 0.0.0.0	record.affiliatelounge.com
+0.0.0.0	record.affiliates.karjalakasino.com
+0.0.0.0	record.bonniergaming.com
 0.0.0.0	record.commissionlounge.com
 0.0.0.0	recordeaglecom.112.2o7.net
 0.0.0.0	recorded-email.com
+0.0.0.0	record.mrwin.com
 0.0.0.0	recordnetcom.112.2o7.net
 0.0.0.0	recordonlinecom.112.2o7.net
 0.0.0.0	rec.quartic.pl
@@ -54469,6 +54484,7 @@
 0.0.0.0	tracker.peerclick.io
 0.0.0.0	tracker.pinnaclesports.com
 0.0.0.0	tracker.plan2.net
+0.0.0.0	tracker-pm2.spilleren.com
 0.0.0.0	tracker.promosvc.com
 0.0.0.0	tracker.promovalue.us
 0.0.0.0	tracker.realclearpolitics.com
@@ -61189,6 +61205,7 @@
 0.0.0.0	whave.iptvdeals.com
 0.0.0.0	whentheyopened.com
 0.0.0.0	whenu.com
+0.0.0.0	whenupgrade.yourmainsourceforcontentprepared.win
 0.0.0.0	whenvideoup.thebigandfreesystemupdate.website
 0.0.0.0	whenvideoup.thebigandfreesystemupdating.date
 0.0.0.0	whereuntomzrpo.download
