@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Apr 11 02:30:13 +03 2018
+# Ad blocking hosts generated Thu Apr 12 02:30:12 +03 2018
 # Total number of blocked hosts are: 67798
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -23269,6 +23269,7 @@
 0.0.0.0	appdev.addthis.com
 0.0.0.0	appdog.com
 0.0.0.0	app.elicitapp.com
+0.0.0.0	appetencyelain.com
 0.0.0.0	appfixing.space
 0.0.0.0	appflood.com
 0.0.0.0	appflood.go2cloud.org
@@ -41108,7 +41109,6 @@
 0.0.0.0	linuxpark.adtech.de
 0.0.0.0	linuxpark.adtech.fr
 0.0.0.0	linuxpark.adtech.us
-0.0.0.0	liones.nl
 0.0.0.0	lionstracking.com
 0.0.0.0	liportal.oewabox.at
 0.0.0.0	li.pxl.ace.advertising.com
@@ -42073,6 +42073,7 @@
 0.0.0.0	maedge.com
 0.0.0.0	magazines.sp1.convertro.com
 0.0.0.0	magentanews.com
+0.0.0.0	magicads.nl
 0.0.0.0	magicfuture.go2cloud.org
 0.0.0.0	magicmail.co.nz
 0.0.0.0	magicmail.createsend.com
@@ -46295,6 +46296,7 @@
 0.0.0.0	p2-n3zurhre4jjvk-can5rb2f2a4urcxh-if-v6exp3-v4.metric.gstatic.com
 0.0.0.0	p2p.adv.vz.ru
 0.0.0.0	p2tre.emv3.com
+0.0.0.0	p2.wncit.com
 0.0.0.0	p30839.clksite.com
 0.0.0.0	p30download.ads.saba-e.com
 0.0.0.0	p30gp.voluumtrk.com
@@ -52120,7 +52122,6 @@
 0.0.0.0	static.exaccess.ru
 0.0.0.0	static.exoclick.com
 0.0.0.0	static.exosrv.com
-0.0.0.0	static.fastpic.ru
 0.0.0.0	static.firehunt.com
 0.0.0.0	static.firstmobilecash.com
 0.0.0.0	static.fleshlight.com
@@ -61167,7 +61168,6 @@
 0.0.0.0	werbung.mediaplex.com
 0.0.0.0	werbung.meteoxpress.com
 0.0.0.0	werbung.xfind.de
-0.0.0.0	werkenbijliones.nl
 0.0.0.0	wes.df.telemetry.microsoft.com
 0.0.0.0	wesell.co.il
 0.0.0.0	west.05tz2e9.com
@@ -62560,6 +62560,7 @@
 0.0.0.0	www.apparel-offer.com
 0.0.0.0	www.apparitorvlipqjiz.download
 0.0.0.0	www.app-authority.com
+0.0.0.0	www.appetencyelain.com
 0.0.0.0	www.appfindr.org
 0.0.0.0	www.appflood.com
 0.0.0.0	www.appfoxes.com
@@ -64785,7 +64786,6 @@
 0.0.0.0	www.linkxchanger.info
 0.0.0.0	www.linkybank.com
 0.0.0.0	www.linkz.com
-0.0.0.0	www.liones.nl
 0.0.0.0	www.liqwid.net
 0.0.0.0	www.listbot.com
 0.0.0.0	www.listenloop.com
@@ -64878,6 +64878,7 @@
 0.0.0.0	www.madmimi.com
 0.0.0.0	www.madnet.ru
 0.0.0.0	www.magentanews.com
+0.0.0.0	www.magicads.nl
 0.0.0.0	www.magicmail.co.nz
 0.0.0.0	www.mahuaswcspi.download
 0.0.0.0	www.mailchimp.com
@@ -66794,7 +66795,6 @@
 0.0.0.0	www.welkingmkscrmgc.download
 0.0.0.0	www.wellsfarg0-onllne.net
 0.0.0.0	www.weownthetraffic.com
-0.0.0.0	www.werkenbijliones.nl
 0.0.0.0	www.wesell.co.il
 0.0.0.0	www.westernereoednyj.download
 0.0.0.0	www.westreclameadvies.nl
