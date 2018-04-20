@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Apr 20 02:30:12 +03 2018
-# Total number of blocked hosts are: 67739
+# Ad blocking hosts generated Sat Apr 21 02:30:13 +03 2018
+# Total number of blocked hosts are: 67745
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -19277,6 +19277,7 @@
 0.0.0.0	adservice.everyone.net
 0.0.0.0	adservice.google.ca
 0.0.0.0	adservice.google.com
+0.0.0.0	adservice.google.com.au
 0.0.0.0	adservices.google.com
 0.0.0.0	adservices.picadmedia.com
 0.0.0.0	adservicestats.com
@@ -19546,7 +19547,6 @@
 0.0.0.0	ads.hamptonroads.com
 0.0.0.0	ads.hamtonroads.com
 0.0.0.0	ads.happyidiots.nl
-0.0.0.0	ads.hardwaresecrets.com
 0.0.0.0	ads.hardwarezone.com
 0.0.0.0	adsharenetwork.com
 0.0.0.0	ad.sharethis.com
@@ -22725,6 +22725,7 @@
 0.0.0.0	analytics.popsci.com
 0.0.0.0	analytics-prod-ingress.bricknet.com
 0.0.0.0	analytics.prx.org
+0.0.0.0	analytics.publitas.com
 0.0.0.0	analytics.query.yahoo.com
 0.0.0.0	analytics.radiatemedia.com
 0.0.0.0	analytics.rechtslupe.org
@@ -25677,7 +25678,6 @@
 0.0.0.0	bidsystem.adknowledge.com
 0.0.0.0	bidsystem.com
 0.0.0.0	bidtraffic.com
-0.0.0.0	bidtrk.com
 0.0.0.0	bidvertiser.com
 0.0.0.0	bielertb.wemfbox.ch
 0.0.0.0	b.ifmnwi.club
@@ -26201,6 +26201,7 @@
 0.0.0.0	b.skinstore.com
 0.0.0.0	b.sli-spark.com
 0.0.0.0	bs-meta.yandex.ru
+0.0.0.0	bsnj.eyeblaster.akadns.net
 0.0.0.0	bspixel.bidsystem.com
 0.0.0.0	bsrv.adohana.com
 0.0.0.0	bs.serving-sys.com
@@ -29332,6 +29333,7 @@
 0.0.0.0	cl.cnn.com
 0.0.0.0	clddt.com
 0.0.0.0	cld.edg.startappservice.com
+0.0.0.0	cldsecure.info
 0.0.0.0	cleanchain.net
 0.0.0.0	cleangamemedia.go2cloud.org
 0.0.0.0	cleaningformac.com
@@ -33652,6 +33654,7 @@
 0.0.0.0	dtm.advertising.com
 0.0.0.0	d-track.send.microadinc.com
 0.0.0.0	d-track.send.microad.jp
+0.0.0.0	dtrck.xyz
 0.0.0.0	dts.akamai.startappexchange.com
 0.0.0.0	dt.scanscout.com
 0.0.0.0	dt.sellpoint.net
@@ -48606,6 +48609,7 @@
 0.0.0.0	re.adroll.com
 0.0.0.0	readserver.cachefly.net
 0.0.0.0	readserver.net
+0.0.0.0	readyupdate.thelatestmostreadytocontentgetnowfast.top
 0.0.0.0	reagroup.122.2o7.net
 0.0.0.0	realads.realmedia.com
 0.0.0.0	realaudio.cimedia.net
@@ -63028,6 +63032,7 @@
 0.0.0.0	www.classifieds1000.com
 0.0.0.0	www.classroomchvpagg.download
 0.0.0.0	www.clck.ru
+0.0.0.0	www.cldsecure.info
 0.0.0.0	www.clear-reports.com
 0.0.0.0	www.clear-request.com
 0.0.0.0	www.clearspring.com
@@ -63488,6 +63493,7 @@
 0.0.0.0	www.dsosvbpuhw.download
 0.0.0.0	www.dsply.com
 0.0.0.0	www.dt1blog.com
+0.0.0.0	www.dtrck.xyz
 0.0.0.0	www.duba.net
 0.0.0.0	www.dumbfoundrurjldk.download
 0.0.0.0	www.dumedia.ru
