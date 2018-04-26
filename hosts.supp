@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Apr 26 02:30:13 +03 2018
-# Total number of blocked hosts are: 67747
+# Ad blocking hosts generated Fri Apr 27 02:30:13 +03 2018
+# Total number of blocked hosts are: 67748
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -56377,6 +56377,7 @@
 0.0.0.0	uzotarak.com
 0.0.0.0	v0.extreme-dm.com
 0.0.0.0	v0.stat.ku6.com
+0.0.0.0	v10.vortex-win.data.microsoft.com
 0.0.0.0	v10.xmlsearch.miva.com
 0.0.0.0	v16.56.com
 0.0.0.0	v1.cnzz.com
