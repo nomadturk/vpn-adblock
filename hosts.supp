@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri May 4 02:30:13 +03 2018
-# Total number of blocked hosts are: 67746
+# Ad blocking hosts generated Sun May 6 02:30:13 +03 2018
+# Total number of blocked hosts are: 67749
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -28775,6 +28775,7 @@
 0.0.0.0	cdn.oas-c17.adnxs.com
 0.0.0.0	cdn.oggifinogi.com
 0.0.0.0	cdn.onescreen.net
+0.0.0.0	cdn.onesignal.com
 0.0.0.0	cdn.onlinecountdowns.com
 0.0.0.0	cdn.onscroll.com
 0.0.0.0	cdn.opensubcontent.com
@@ -48480,6 +48481,7 @@
 0.0.0.0	rankingscout.com
 0.0.0.0	ranking-street.de
 0.0.0.0	rank-master.com
+0.0.0.0	rank-master.de
 0.0.0.0	rankmytattoos.us.intellitxt.com
 0.0.0.0	ranks.boardtracker.com
 0.0.0.0	ranks.com
@@ -54094,6 +54096,7 @@
 0.0.0.0	topbinaryaffiliates.ck-cdn.com
 0.0.0.0	topbrandrewards.com
 0.0.0.0	topbucks.com
+0.0.0.0	top-casting-termine.de
 0.0.0.0	top.chebra.lt
 0.0.0.0	topconsumergifts.com
 0.0.0.0	top.c-stat.eu
