@@ -1,7 +1,8 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri May 11 02:30:12 +03 2018
-# Total number of blocked hosts are: 67772
+# Ad blocking hosts generated Sat May 12 02:30:11 +03 2018
+# Total number of blocked hosts are: 67771
+0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -21535,7 +21536,6 @@
 0.0.0.0	advertising.gammae.com
 0.0.0.0	advertising.gfxartist.com
 0.0.0.0	advertising.goldseek.com
-0.0.0.0	advertising.guildlaunch.net
 0.0.0.0	advertising.hardwarezone.com
 0.0.0.0	advertising.hiasys.com
 0.0.0.0	advertising.ie
@@ -28228,7 +28228,6 @@
 0.0.0.0	casino-gambling-online.searchservice.info
 0.0.0.0	casinogames.com
 0.0.0.0	casino-online.100gal.net
-0.0.0.0	casinopays.com
 0.0.0.0	casinorewards.com
 0.0.0.0	casinotraffic.com
 0.0.0.0	casinotreasure.com
@@ -29141,6 +29140,7 @@
 0.0.0.0	chgwyndham.112.2o7.net
 0.0.0.0	chi2only.outbrain.com
 0.0.0.0	chicagosuntimes.122.2o7.net
+0.0.0.0	chiefcurrent.com
 0.0.0.0	chillinessfjnvbh.download
 0.0.0.0	chillout.real.com
 0.0.0.0	chinacache.cedexis.com
@@ -35633,7 +35633,6 @@
 0.0.0.0	fomentingbuutbsdi.download
 0.0.0.0	fondazioneciampi.org
 0.0.0.0	fondprof.oewabox.at
-0.0.0.0	fonecta.leiki.com
 0.0.0.0	foo.cosmocode.de
 0.0.0.0	food-drink-bonuspath.com
 0.0.0.0	food-drink-rewardpath.com
@@ -54168,7 +54167,6 @@
 0.0.0.0	top-site-list.com
 0.0.0.0	topsite.lv
 0.0.0.0	topsites.blogflux.com
-0.0.0.0	topsites.com.br
 0.0.0.0	topsky.go2cloud.org
 0.0.0.0	topsocialite.us.intellitxt.com
 0.0.0.0	topspeed.us.intellitxt.com
@@ -61611,6 +61609,7 @@
 0.0.0.0	ww14.smartadserver.com
 0.0.0.0	ww150.smartadserver.com
 0.0.0.0	ww1510.smartadserver.com
+0.0.0.0	ww1.contaprime.com
 0.0.0.0	ww1.hitbox.com
 0.0.0.0	ww1.searchhelper.com
 0.0.0.0	ww1.smartadserver.com
