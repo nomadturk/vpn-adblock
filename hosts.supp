@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat May 12 02:30:11 +03 2018
-# Total number of blocked hosts are: 67771
+# Ad blocking hosts generated Sun May 13 02:30:12 +03 2018
+# Total number of blocked hosts are: 67772
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -51427,6 +51427,7 @@
 0.0.0.0	softlayer.d1.sc.omtrdc.net
 0.0.0.0	softlayertechnologie.tt.omtrdc.net
 0.0.0.0	softlinkers.popunder.ru
+0.0.0.0	softnewready.systemgeneratorofbrandnewcontent.date
 0.0.0.0	softonic.112.2o7.net
 0.0.0.0	softonic-analytics.net
 0.0.0.0	softonic.com
