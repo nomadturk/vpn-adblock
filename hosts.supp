@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue May 15 02:30:13 +03 2018
-# Total number of blocked hosts are: 67767
+# Ad blocking hosts generated Wed May 16 02:30:13 +03 2018
+# Total number of blocked hosts are: 67768
 0.0.0.0
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -19284,6 +19284,7 @@
 0.0.0.0	adservice.google.ca
 0.0.0.0	adservice.google.com
 0.0.0.0	adservice.google.com.au
+0.0.0.0	adservice.google.nl
 0.0.0.0	adservices.google.com
 0.0.0.0	adservices.picadmedia.com
 0.0.0.0	adservicestats.com
