@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Cum May 25 02:30:19 +03 2018
-# Total number of blocked hosts are: 67788
+# Ad blocking hosts generated Cts May 26 02:30:14 +03 2018
+# Total number of blocked hosts are: 67786
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -16865,7 +16865,6 @@
 0.0.0.0	ad.it.chilinext.com
 0.0.0.0	ad.it.doubleclick.net
 0.0.0.0	adition.com
-0.0.0.0	adition.de
 0.0.0.0	adition.net
 0.0.0.0	aditmedia.go2affise.com
 0.0.0.0	aditor.go2cloud.org
@@ -19267,7 +19266,6 @@
 0.0.0.0	adserve.splicetoday.com
 0.0.0.0	ad.serve-sys.com
 0.0.0.0	adserve.viaarena.com
-0.0.0.0	adserv.evo-x.de
 0.0.0.0	adserv.exxxit.com
 0.0.0.0	adserv.floppybank.com
 0.0.0.0	adserv.free6.com
@@ -20826,7 +20824,6 @@
 0.0.0.0	ads.today.com
 0.0.0.0	adstogo.com
 0.0.0.0	adstome.com
-0.0.0.0	ads.t-online.de
 0.0.0.0	ads.top500.org
 0.0.0.0	ads.top-banners.com
 0.0.0.0	ads.top.bg
@@ -36617,7 +36614,6 @@
 0.0.0.0	gamesiteads.com
 0.0.0.0	gamesites100.net
 0.0.0.0	gamesites200.com
-0.0.0.0	gamesitestop100.com
 0.0.0.0	gamesradar.us.intellitxt.com
 0.0.0.0	games.superappbox.com
 0.0.0.0	games-toys-bonuspath.com
@@ -37375,6 +37371,7 @@
 0.0.0.0	goody-garage.com
 0.0.0.0	goo.freelogs.com
 0.0.0.0	googfle.com
+0.0.0.0	googleadapis.l.google.com
 0.0.0.0	googleads2.g.doubleclick.net
 0.0.0.0	googleads4.g.doubleclick.net
 0.0.0.0	googleadservices.com
@@ -37684,6 +37681,7 @@
 0.0.0.0	gspro.hit.gemius.pl
 0.0.0.0	gs.spylog.ru
 0.0.0.0	gs.statcounter.com
+0.0.0.0	gstaticadssl.l.google.com
 0.0.0.0	gsujb.voluumtrk.com
 0.0.0.0	gtag.yieldoptimizer.com
 0.0.0.0	gtb19.acecounter.com
