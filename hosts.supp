@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Pzt May 28 02:30:12 +03 2018
+# Ad blocking hosts generated Sal May 29 02:30:15 +03 2018
 # Total number of blocked hosts are: 67786
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -35682,6 +35682,7 @@
 0.0.0.0	foroushi.net
 0.0.0.0	forskning.tns-cs.net
 0.0.0.0	forter.com
+0.0.0.0	fortpush.com
 0.0.0.0	fortunecity.us.intellitxt.com
 0.0.0.0	forum.adspaces.ero-advertising.com
 0.0.0.0	forumcomm-d.openx.net
@@ -37681,7 +37682,6 @@
 0.0.0.0	gspro.hit.gemius.pl
 0.0.0.0	gs.spylog.ru
 0.0.0.0	gs.statcounter.com
-0.0.0.0	gstaticadssl.l.google.com
 0.0.0.0	gsujb.voluumtrk.com
 0.0.0.0	gtag.yieldoptimizer.com
 0.0.0.0	gtb19.acecounter.com
