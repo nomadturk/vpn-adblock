@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Cum Haz 1 02:30:15 +03 2018
-# Total number of blocked hosts are: 67786
+# Ad blocking hosts generated Cts Haz 2 02:30:14 +03 2018
+# Total number of blocked hosts are: 67784
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -16865,6 +16865,7 @@
 0.0.0.0	ad.it.chilinext.com
 0.0.0.0	ad.it.doubleclick.net
 0.0.0.0	adition.com
+0.0.0.0	adition.de
 0.0.0.0	adition.net
 0.0.0.0	aditmedia.go2affise.com
 0.0.0.0	aditor.go2cloud.org
@@ -32252,7 +32253,6 @@
 0.0.0.0	cyberclick.net
 0.0.0.0	cyberdefender.122.2o7.net
 0.0.0.0	cyber-incentives.com
-0.0.0.0	cybermonitor.com
 0.0.0.0	cyberscat.com
 0.0.0.0	cybertown.ru
 0.0.0.0	cyberwavemedia.com
@@ -51065,7 +51065,6 @@
 0.0.0.0	site-submit.com.ua
 0.0.0.0	sitetagger.co.uk
 0.0.0.0	sitetracker.com
-0.0.0.0	siteverification.online
 0.0.0.0	s.ivillage.us.intellitxt.com
 0.0.0.0	si.wemfbox.ch
 0.0.0.0	sixapart.adbureau.net
@@ -55107,7 +55106,6 @@
 0.0.0.0	traffic.adxprts.com
 0.0.0.0	traffic.adxprtz.com
 0.0.0.0	traffic.alexa.com
-0.0.0.0	trafficbalancerouting.com
 0.0.0.0	traffic.bannerator.com
 0.0.0.0	trafficbee.com
 0.0.0.0	traffic.bokecc.com
