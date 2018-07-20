@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Jul 20 02:30:14 +03 2018
-# Total number of blocked hosts are: 58074
+# Ad blocking hosts generated Sat Jul 21 02:30:56 +03 2018
+# Total number of blocked hosts are: 58073
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -16098,7 +16098,6 @@
 0.0.0.0	ad.extrabanner.com
 0.0.0.0	ad.ezcybersearch.com
 0.0.0.0	ad.ezmob.com
-0.0.0.0	ad.f1cd.ru
 0.0.0.0	adfacten.go2cloud.org
 0.0.0.0	adfactory88.com
 0.0.0.0	ad.family.go.com
@@ -19758,7 +19757,6 @@
 0.0.0.0	adtrack.voicestar.com
 0.0.0.0	adtrade.net
 0.0.0.0	adtrade.ro
-0.0.0.0	adtrading.de
 0.0.0.0	adtradradservices.com
 0.0.0.0	adtradr.com
 0.0.0.0	ad.trafficgate.net
@@ -43411,6 +43409,7 @@
 0.0.0.0	saemark.is
 0.0.0.0	sa.entireweb.com
 0.0.0.0	safaribooks.112.2o7.net
+0.0.0.0	safarids.com
 0.0.0.0	safe-es.imrworldwide.com
 0.0.0.0	safelinking.net
 0.0.0.0	safelinktracker.com
