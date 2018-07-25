@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Jul 25 02:30:11 +03 2018
-# Total number of blocked hosts are: 58073
+# Ad blocking hosts generated Thu Jul 26 02:30:13 +03 2018
+# Total number of blocked hosts are: 58075
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -21479,6 +21479,7 @@
 0.0.0.0	app.adjust.io
 0.0.0.0	app.adsbrook.com
 0.0.0.0	appads.com
+0.0.0.0	app-analytics.snapchat.com
 0.0.0.0	appapi.inspsearchapi.com
 0.0.0.0	app.app-authority.com
 0.0.0.0	app.appsflyer.com
@@ -43526,6 +43527,7 @@
 0.0.0.0	sc-a-lbs.focalink.com
 0.0.0.0	scambiobanner.altervista.org
 0.0.0.0	scambiobanner.aruba.it
+0.0.0.0	sc-analytics.appspot.com
 0.0.0.0	scaner-do.tk
 0.0.0.0	scaner-figy.tk
 0.0.0.0	scaner-file.tk
