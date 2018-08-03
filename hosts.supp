@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Aug 3 02:30:16 +03 2018
-# Total number of blocked hosts are: 58073
+# Ad blocking hosts generated Sat Aug 4 02:30:14 +03 2018
+# Total number of blocked hosts are: 58072
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -25884,7 +25884,6 @@
 0.0.0.0	cbjs.baidu.com
 0.0.0.0	cblevt.com
 0.0.0.0	cbm02.webtrekk.net
-0.0.0.0	cbmall.com
 0.0.0.0	cb.mdnhinc.com
 0.0.0.0	cbmsn.112.2o7.net
 0.0.0.0	cbn.tbn.ru
@@ -27180,6 +27179,7 @@
 0.0.0.0	c.mobpartner.mobi
 0.0.0.0	cmp.112.2o7.net
 0.0.0.0	cmpdotnetjunkiescom.112.2o7.net
+0.0.0.0	cmp.entertainmentcrave.com
 0.0.0.0	cmpglobalvista.112.2o7.net
 0.0.0.0	cmp.us.intellitxt.com
 0.0.0.0	cms2.net
@@ -32011,6 +32011,7 @@
 0.0.0.0	filmforcedvd.ign.us.intellitxt.com
 0.0.0.0	filmstew.us.intellitxt.com
 0.0.0.0	filmthreat.us.intellitxt.com
+0.0.0.0	filter.adexchangemedia.xyz
 0.0.0.0	filter.adsparkmedia.net
 0.0.0.0	filter.adxfactory.com
 0.0.0.0	filter.eclickz.com
@@ -33505,7 +33506,6 @@
 0.0.0.0	go.by
 0.0.0.0	goclick.com
 0.0.0.0	go.clickhoptk.com
-0.0.0.0	go-clicks.de
 0.0.0.0	go.clicktrackopt.com
 0.0.0.0	gocm.c.appier.net
 0.0.0.0	go.coxds.com
@@ -34723,7 +34723,6 @@
 0.0.0.0	id.allegisgroup.com
 0.0.0.0	id-cdn.effectivemeasure.net
 0.0.0.0	___id___.c.mystat-in.net
-0.0.0.0	idcounter.com
 0.0.0.0	iddiction.com
 0.0.0.0	identads.com
 0.0.0.0	ideoclick.com
@@ -43721,7 +43720,6 @@
 0.0.0.0	search.effectivebrand.com
 0.0.0.0	searchesinteractive.com
 0.0.0.0	search.etargetnet.com
-0.0.0.0	searchfeast.com
 0.0.0.0	searchfwding.com
 0.0.0.0	searchignited.com
 0.0.0.0	search-images.com
@@ -44613,7 +44611,6 @@
 0.0.0.0	smoothedqwcpw.download
 0.0.0.0	smoothscrollapp.com
 0.0.0.0	s.motads.com
-0.0.0.0	smowtion.com
 0.0.0.0	smp.adviva.net
 0.0.0.0	smpopmech.112.2o7.net
 0.0.0.0	smp.specificmedia.com
@@ -52985,6 +52982,7 @@
 0.0.0.0	webtrendslive.com
 0.0.0.0	webtrends.org
 0.0.0.0	webtrends.randallpub.com
+0.0.0.0	webtrends.telegraph.co.uk
 0.0.0.0	webtrends.thisis.co.uk
 0.0.0.0	webtrening.justclick.ru
 0.0.0.0	webts.adac.de
@@ -58006,6 +58004,7 @@
 0.0.0.0	zk.zeroredirect1.com
 0.0.0.0	zl.zeroredirect1.com
 0.0.0.0	zm1.zeroredirect5.com
+0.0.0.0	zm232.com
 0.0.0.0	zmedia.com
 0.0.0.0	z.moatads.com
 0.0.0.0	zm.zeroredirect1.com
