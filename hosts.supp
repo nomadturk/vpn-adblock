@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun Aug 5 02:30:12 +03 2018
-# Total number of blocked hosts are: 58072
+# Ad blocking hosts generated Mon Aug 6 02:30:12 +03 2018
+# Total number of blocked hosts are: 58075
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -16442,6 +16442,7 @@
 0.0.0.0	adjustnetwork.com
 0.0.0.0	adk2ads.tictacti.com
 0.0.0.0	adk2cdn.cpmrocket.com
+0.0.0.0	adk2.co
 0.0.0.0	adk2.com
 0.0.0.0	adkaramba.go2cloud.org
 0.0.0.0	ad.kataweb.it
@@ -25337,6 +25338,7 @@
 0.0.0.0	bullz-eye.us.intellitxt.com
 0.0.0.0	bumerang.hurriyet.com.tr
 0.0.0.0	bumerangshowsites.hurriyet.com.tr
+0.0.0.0	bumpberam.pro
 0.0.0.0	bumpshack.us.intellitxt.com
 0.0.0.0	bunchofads.com
 0.0.0.0	bundle-geoip.herokuapp.com
@@ -37123,6 +37125,7 @@
 0.0.0.0	lvs.truehits.in.th
 0.0.0.0	lvtxg.voluumtrk.com
 0.0.0.0	lw1.cdmediaworld.com
+0.0.0.0	lwfjd.today
 0.0.0.0	lwfmc.voluumtrk.com
 0.0.0.0	lwken.com
 0.0.0.0	lxa6d.voluumtrk.com
