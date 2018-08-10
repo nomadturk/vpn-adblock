@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Aug 10 02:30:14 +03 2018
+# Ad blocking hosts generated Sat Aug 11 02:30:12 +03 2018
 # Total number of blocked hosts are: 58077
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -18893,7 +18893,6 @@
 0.0.0.0	ads.pennet.com
 0.0.0.0	ads.pennlive.com
 0.0.0.0	ads.pennnet.com
-0.0.0.0	ads.penny-arcade.com
 0.0.0.0	ads.people-group.net
 0.0.0.0	ads.peoplespharmacy.com
 0.0.0.0	ads.periodistadigital.com
@@ -35248,6 +35247,7 @@
 0.0.0.0	in.11zz.com
 0.0.0.0	in3.zog.link
 0.0.0.0	in4.zog.link
+0.0.0.0	inaccused.com
 0.0.0.0	in.adserver.yahoo.com
 0.0.0.0	inapi.posst.co
 0.0.0.0	in-appadvertising.com
