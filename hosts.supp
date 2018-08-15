@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Aug 15 02:30:12 +03 2018
-# Total number of blocked hosts are: 58079
+# Ad blocking hosts generated Thu Aug 16 02:30:11 +03 2018
+# Total number of blocked hosts are: 58082
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -36942,6 +36942,7 @@
 0.0.0.0	logs.naukri.com
 0.0.0.0	logs.nodejs.org
 0.0.0.0	logs.ovh.net
+0.0.0.0	logs.roku.com
 0.0.0.0	logs.sexy-parade.com
 0.0.0.0	logs.sofaware.com
 0.0.0.0	logstat.caixin.com
@@ -47136,6 +47137,7 @@
 0.0.0.0	tracker.timesgroup.com
 0.0.0.0	tracker.trackerbox.com
 0.0.0.0	trackertracker.com
+0.0.0.0	tracker.trackerfix.com
 0.0.0.0	tracker.tradedoubler.com
 0.0.0.0	tracker.truehits.in.th
 0.0.0.0	tracker.truehits.net
@@ -48362,6 +48364,7 @@
 0.0.0.0	um.eqads.com
 0.0.0.0	u.moatads.com
 0.0.0.0	u.mobpartner.mobi
+0.0.0.0	umprow.com
 0.0.0.0	ums.adtech.de
 0.0.0.0	ums.adtechus.com
 0.0.0.0	um.simpli.fi
