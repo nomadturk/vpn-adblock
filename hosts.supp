@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Aug 16 02:30:11 +03 2018
-# Total number of blocked hosts are: 58082
+# Ad blocking hosts generated Fri Aug 17 02:30:14 +03 2018
+# Total number of blocked hosts are: 58085
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -23460,6 +23460,7 @@
 0.0.0.0	beastasuum.a.ssl.fastly.net
 0.0.0.0	beautyden.us.intellitxt.com
 0.0.0.0	beautysafari.com
+0.0.0.0	bebi.com
 0.0.0.0	bebo.crwdcntrl.net
 0.0.0.0	bebsz.voluumtrk.com
 0.0.0.0	becausebabes.go2cloud.org
@@ -36884,6 +36885,7 @@
 0.0.0.0	log.kuwo.cn
 0.0.0.0	loglady.publicbroadcasting.net
 0.0.0.0	logliberation.xiti.com
+0.0.0.0	log.logrocket.io
 0.0.0.0	log.mmstat.com
 0.0.0.0	log.netgeography.net
 0.0.0.0	log.newsvine.com
@@ -36913,7 +36915,6 @@
 0.0.0.0	log.pinterest.com
 0.0.0.0	logp.xiti.com
 0.0.0.0	log.quora.com
-0.0.0.0	logrocket.com
 0.0.0.0	logs-01.loggly.com
 0.0.0.0	logs1122.xiti.com
 0.0.0.0	logs1125.xiti.com
@@ -36939,6 +36940,7 @@
 0.0.0.0	logs.infoaxe.com
 0.0.0.0	logs.libuv.org
 0.0.0.0	logs.loggly.com
+0.0.0.0	logs.logrocket.com
 0.0.0.0	logs.naukri.com
 0.0.0.0	logs.nodejs.org
 0.0.0.0	logs.ovh.net
@@ -57821,6 +57823,7 @@
 0.0.0.0	ylu7k4i2o7.s.ad6media.fr
 0.0.0.0	ym.adnxs.com
 0.0.0.0	ym.bannerconnect.net
+0.0.0.0	ymetrica1.com
 0.0.0.0	y.moatads.com
 0.0.0.0	y.net-games.co.il
 0.0.0.0	yoclub.waphall.com
