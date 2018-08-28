@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Aug 28 02:30:14 +03 2018
-# Total number of blocked hosts are: 58080
+# Ad blocking hosts generated Wed Aug 29 02:30:11 +03 2018
+# Total number of blocked hosts are: 58081
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -26489,6 +26489,7 @@
 0.0.0.0	ceskarepublika.net
 0.0.0.0	ceskydomov.alias.ngs.modry.cz
 0.0.0.0	cetrk.com
+0.0.0.0	c.evidon.com
 0.0.0.0	c-evt.moatads.com
 0.0.0.0	cf33b.voluumtrk.com
 0.0.0.0	c.f5mtrack.com
