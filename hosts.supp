@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Aug 29 02:30:11 +03 2018
-# Total number of blocked hosts are: 58081
+# Ad blocking hosts generated Thu Aug 30 02:30:11 +03 2018
+# Total number of blocked hosts are: 58083
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -40856,6 +40856,7 @@
 0.0.0.0	pgcxe.voluumtrk.com
 0.0.0.0	pgdb1.surf-town.net
 0.0.0.0	pgdbb1.surf-town.net
+0.0.0.0	pgl.example
 0.0.0.0	pgmediaserve.com
 0.0.0.0	pgmopcongruity.review
 0.0.0.0	pgpartner.com
@@ -41015,6 +41016,7 @@
 0.0.0.0	pi.pardot.com
 0.0.0.0	pipedream.wistia.com
 0.0.0.0	pipeschannels.com
+0.0.0.0	pippio.com
 0.0.0.0	piranho.com
 0.0.0.0	piranho.de
 0.0.0.0	piratinviaggio.digidip.net
