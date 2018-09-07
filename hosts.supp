@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Sep 7 02:30:14 +03 2018
+# Ad blocking hosts generated Sat Sep 8 02:30:13 +03 2018
 # Total number of blocked hosts are: 58088
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -17498,6 +17498,7 @@
 0.0.0.0	ads.allotraffic.com
 0.0.0.0	ads.allrecipes.com
 0.0.0.0	ads.allsites.com
+0.0.0.0	ads.allvatar.com
 0.0.0.0	ads.alphaporno.com
 0.0.0.0	ads.alt.com
 0.0.0.0	adsalvo.com
@@ -33520,7 +33521,7 @@
 0.0.0.0	go.by
 0.0.0.0	goclick.com
 0.0.0.0	go.clickhoptk.com
-0.0.0.0	go.clicktrackopt.com
+0.0.0.0	go-clicks.de
 0.0.0.0	gocm.c.appier.net
 0.0.0.0	go.coxds.com
 0.0.0.0	go.cz.bbelements.com
@@ -37611,6 +37612,7 @@
 0.0.0.0	media-delivery.armorgames.com
 0.0.0.0	mediadomain.com
 0.0.0.0	media.doublepimp.com
+0.0.0.0	mediadvertising.ro
 0.0.0.0	media-d.vpptechnologies.com
 0.0.0.0	media.easyads.bg
 0.0.0.0	media.email-match.com
@@ -44166,7 +44168,6 @@
 0.0.0.0	sextube2.bitterstrawberry.com
 0.0.0.0	sexy.fling.com
 0.0.0.0	sexyoilwrestling.com
-0.0.0.0	sexystat.com
 0.0.0.0	sexyster.tk
 0.0.0.0	sexzoznamka.eu
 0.0.0.0	seznam.hit.gemius.pl
@@ -47702,6 +47703,7 @@
 0.0.0.0	trkclk.net
 0.0.0.0	trk.clmbtech.com
 0.0.0.0	trkcpamedia.com
+0.0.0.0	trk.dsllgal.com
 0.0.0.0	trk.dsv2trk.com
 0.0.0.0	trkem.com
 0.0.0.0	trk.enecto.com
@@ -52542,7 +52544,6 @@
 0.0.0.0	vural-electronic.com
 0.0.0.0	vu.veoxa.com
 0.0.0.0	v.velaro.com
-0.0.0.0	vviii.ru
 0.0.0.0	v.visitweb.com
 0.0.0.0	v.vomedia.tv
 0.0.0.0	vvps.ws
@@ -52686,7 +52687,6 @@
 0.0.0.0	wallstreetprep.go2cloud.org
 0.0.0.0	walmart.112.2o7.net
 0.0.0.0	walmartcom.112.2o7.net
-0.0.0.0	walmartsavingscatcher.com
 0.0.0.0	wam-ads.sitescout.com
 0.0.0.0	wa.metro.co.uk
 0.0.0.0	wamfebdvsabotier.review
