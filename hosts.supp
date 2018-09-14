@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Sep 14 02:30:13 +03 2018
-# Total number of blocked hosts are: 58088
+# Ad blocking hosts generated Sat Sep 15 02:30:16 +03 2018
+# Total number of blocked hosts are: 58085
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -37354,7 +37354,6 @@
 0.0.0.0	marinermarketing.112.2o7.net
 0.0.0.0	market2.the-adult-company.com
 0.0.0.0	marketbrowser.com
-0.0.0.0	market-buster.com
 0.0.0.0	marketconnect.go2cloud.org
 0.0.0.0	marketgid.com
 0.0.0.0	markethealth.go2cloud.org
@@ -37612,7 +37611,6 @@
 0.0.0.0	media-delivery.armorgames.com
 0.0.0.0	mediadomain.com
 0.0.0.0	media.doublepimp.com
-0.0.0.0	mediadvertising.ro
 0.0.0.0	media-d.vpptechnologies.com
 0.0.0.0	media.easyads.bg
 0.0.0.0	media.email-match.com
@@ -47145,7 +47143,6 @@
 0.0.0.0	tracker.timesgroup.com
 0.0.0.0	tracker.trackerbox.com
 0.0.0.0	trackertracker.com
-0.0.0.0	tracker.trackerfix.com
 0.0.0.0	tracker.tradedoubler.com
 0.0.0.0	tracker.truehits.in.th
 0.0.0.0	tracker.truehits.net
