@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Sep 28 02:30:15 +03 2018
-# Total number of blocked hosts are: 58077
+# Ad blocking hosts generated Sat Sep 29 02:30:15 +03 2018
+# Total number of blocked hosts are: 58075
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -17499,7 +17499,6 @@
 0.0.0.0	ads.allotraffic.com
 0.0.0.0	ads.allrecipes.com
 0.0.0.0	ads.allsites.com
-0.0.0.0	ads.allvatar.com
 0.0.0.0	ads.alphaporno.com
 0.0.0.0	ads.alt.com
 0.0.0.0	adsalvo.com
@@ -46818,7 +46817,6 @@
 0.0.0.0	top100-images.rambler.ru
 0.0.0.0	top100.mafia.ru
 0.0.0.0	top100.rambler.ru
-0.0.0.0	top123.ro
 0.0.0.0	top1.list.ru
 0.0.0.0	top20.com
 0.0.0.0	top20free.com
