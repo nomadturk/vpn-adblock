@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Oct 5 02:31:21 +03 2018
-# Total number of blocked hosts are: 57955
+# Ad blocking hosts generated Sat Oct 6 02:30:11 +03 2018
+# Total number of blocked hosts are: 57953
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -330,7 +330,6 @@
 0.0.0.0	123counts.com
 0.0.0.0	123.dominoad.com
 0.0.0.0	123.duba.net
-0.0.0.0	123found.com
 0.0.0.0	123freeavatars.com
 0.0.0.0	123go.com
 0.0.0.0	123.ichkoche.at
@@ -16737,7 +16736,6 @@
 0.0.0.0	ado.icorp.ro
 0.0.0.0	ado.internet.cz
 0.0.0.0	adolent.go2cloud.org
-0.0.0.0	ad.onad.eu
 0.0.0.0	adonads.com
 0.0.0.0	adonion.com
 0.0.0.0	adonis.go2cloud.org
@@ -17494,6 +17492,7 @@
 0.0.0.0	ads.allotraffic.com
 0.0.0.0	ads.allrecipes.com
 0.0.0.0	ads.allsites.com
+0.0.0.0	ads.allvatar.com
 0.0.0.0	ads.alphaporno.com
 0.0.0.0	ads.alt.com
 0.0.0.0	adsalvo.com
@@ -44771,7 +44770,6 @@
 0.0.0.0	spyhunter-download.s3.amazonaws.com
 0.0.0.0	spyingjplnda.download
 0.0.0.0	spykemedia.go2cloud.org
-0.0.0.0	spykemediatrack.co
 0.0.0.0	spykemediatrack.com
 0.0.0.0	spykit.110mb.com
 0.0.0.0	spylog.com
