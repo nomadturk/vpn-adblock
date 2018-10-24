@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Oct 24 02:30:14 +03 2018
-# Total number of blocked hosts are: 57921
+# Ad blocking hosts generated Thu Oct 25 02:30:12 +03 2018
+# Total number of blocked hosts are: 57920
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -23361,7 +23361,6 @@
 0.0.0.0	b.chartboost.com
 0.0.0.0	bc.marfeel.com
 0.0.0.0	bcmediagroup.com
-0.0.0.0	bcnmonetize.go2affise.com
 0.0.0.0	b.codeonclick.com
 0.0.0.0	b.computerworlduk.com
 0.0.0.0	bcp.crwdcntrl.net
@@ -30726,7 +30725,6 @@
 0.0.0.0	easyscopes.net
 0.0.0.0	easyspace.com
 0.0.0.0	eatingwell.us.intellitxt.com
-0.0.0.0	eatthis.com
 0.0.0.0	eat-travel.apx.appier.net
 0.0.0.0	ea.zebestof.com
 0.0.0.0	eb0ej.voluumtrk.com
@@ -33605,6 +33603,7 @@
 0.0.0.0	gotoo.com
 0.0.0.0	go.toutapp.com
 0.0.0.0	go.trackgold.net
+0.0.0.0	gotrack.static500.com
 0.0.0.0	go.tracksz.co
 0.0.0.0	go.trafficshop.com
 0.0.0.0	gottabemobile.us.intellitxt.com
