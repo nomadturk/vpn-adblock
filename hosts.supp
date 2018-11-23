@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Nov 23 02:30:13 +03 2018
-# Total number of blocked hosts are: 58247
+# Ad blocking hosts generated Sat Nov 24 02:30:13 +03 2018
+# Total number of blocked hosts are: 58243
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -1511,7 +1511,6 @@
 0.0.0.0	7jftl.voluumtrk.com
 0.0.0.0	7jjrd.voluumtrk.com
 0.0.0.0	7lfu6.voluumtrk.com
-0.0.0.0	7mu36somt5.com
 0.0.0.0	7ntrp.voluumtrk.com
 0.0.0.0	7.ptp22.com
 0.0.0.0	7qkuf.voluumtrk.com
@@ -1686,7 +1685,6 @@
 0.0.0.0	a03.korrelate.net
 0.0.0.0	a04.korrelate.net
 0.0.0.0	a05.korrelate.net
-0.0.0.0	a.0day.kiev.ua
 0.0.0.0	a0irt.voluumtrk.com
 0.0.0.0	a10.reflexcash.com
 0.0.0.0	a10shd.realshieldlinked.com
@@ -18441,7 +18439,6 @@
 0.0.0.0	ads.heyu.net
 0.0.0.0	ads.heyzap.com
 0.0.0.0	ads.hicomm.bg
-0.0.0.0	ads.hideyourarms.com
 0.0.0.0	adshiftmedia.com
 0.0.0.0	ads.highdefdigest.com
 0.0.0.0	ads.hitbox.com
@@ -33439,7 +33436,6 @@
 0.0.0.0	getstatistics.se
 0.0.0.0	get.superstats.com
 0.0.0.0	get.whitesmoke.com
-0.0.0.0	getwisdom.io
 0.0.0.0	geverons.justclick.ru
 0.0.0.0	gevfh.voluumtrk2.com
 0.0.0.0	gezinti.com
@@ -47000,6 +46996,7 @@
 0.0.0.0	top50.co.uk
 0.0.0.0	top6.list.ru
 0.0.0.0	top90.ro
+0.0.0.0	topacity.info
 0.0.0.0	top.addfreestats.com
 0.0.0.0	topads.ero-advertising.com
 0.0.0.0	topads.rrstar.com
@@ -54386,7 +54383,6 @@
 0.0.0.0	www.banner-exchange.nl
 0.0.0.0	www.bannerforge.com
 0.0.0.0	www.bannergratis.it
-0.0.0.0	www.banner-link.com.br
 0.0.0.0	www.bannermanagement.nl
 0.0.0.0	www.bannerpromotion.it
 0.0.0.0	www.bannerpro.tk
