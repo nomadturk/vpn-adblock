@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Nov 27 02:30:16 +03 2018
+# Ad blocking hosts generated Wed Nov 28 02:30:14 +03 2018
 # Total number of blocked hosts are: 58243
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -31291,7 +31291,6 @@
 0.0.0.0	engine.xclaimwords.net
 0.0.0.0	englobingoopmzqu.download
 0.0.0.0	eng.trkcnv.com
-0.0.0.0	enhance.com
 0.0.0.0	enigma.kissmetrics.com
 0.0.0.0	enio.justclick.ru
 0.0.0.0	eniro.d3.sc.omtrdc.net
@@ -57169,6 +57168,7 @@
 0.0.0.0	www.trackvoluum.com
 0.0.0.0	www.trackyourstats.com
 0.0.0.0	www.tradeadexchange.com
+0.0.0.0	www.tradedoubler.com
 0.0.0.0	www.tradetraffic.com
 0.0.0.0	www.trading.dianomi.com
 0.0.0.0	www.traffdaq.com
