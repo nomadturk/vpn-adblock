@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Dec 4 02:30:14 +03 2018
-# Total number of blocked hosts are: 58239
+# Ad blocking hosts generated Wed Dec 5 02:30:10 +03 2018
+# Total number of blocked hosts are: 58241
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -26925,6 +26925,7 @@
 0.0.0.0	click.loudgames.com
 0.0.0.0	clickmarks.com
 0.0.0.0	clickmedia.ro
+0.0.0.0	clickmetertracking.com
 0.0.0.0	click.mmosite.com
 0.0.0.0	click.mobtimizer.com
 0.0.0.0	clickmonsters.com
@@ -54671,6 +54672,7 @@
 0.0.0.0	www.clickice.com
 0.0.0.0	www.clickmanage.com
 0.0.0.0	www.clickmeter.com
+0.0.0.0	www.clickmetertracking.com
 0.0.0.0	www.clickon.co.il
 0.0.0.0	www.clickpapa.com
 0.0.0.0	www.clickriver.com
