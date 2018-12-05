@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Dec 5 02:30:10 +03 2018
-# Total number of blocked hosts are: 58241
+# Ad blocking hosts generated Thu Dec 6 02:30:12 +03 2018
+# Total number of blocked hosts are: 58242
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -33435,6 +33435,7 @@
 0.0.0.0	getstatistics.se
 0.0.0.0	get.superstats.com
 0.0.0.0	get.whitesmoke.com
+0.0.0.0	getwisdom.io
 0.0.0.0	geverons.justclick.ru
 0.0.0.0	gevfh.voluumtrk2.com
 0.0.0.0	gezinti.com
