@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun Dec 16 02:30:12 +03 2018
-# Total number of blocked hosts are: 58245
+# Ad blocking hosts generated Mon Dec 17 02:30:12 +03 2018
+# Total number of blocked hosts are: 58253
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -20561,7 +20561,9 @@
 0.0.0.0	aff.primaryads.com
 0.0.0.0	aff.publicdisgrace.com
 0.0.0.0	aff.putncall.com
+0.0.0.0	affrh2014.com
 0.0.0.0	affrh2019.com
+0.0.0.0	affrh2022.com
 0.0.0.0	aff.ringtonepartner.com
 0.0.0.0	affscout.go2cloud.org
 0.0.0.0	aff.sexandsubmission.com
@@ -27104,6 +27106,9 @@
 0.0.0.0	clixtk.com
 0.0.0.0	clixtrac.com
 0.0.0.0	clixzen1.go2cloud.org
+0.0.0.0	clk1005.com
+0.0.0.0	clk1011.com
+0.0.0.0	clk1015.com
 0.0.0.0	clk.77978.xn--q9jyb4c
 0.0.0.0	clk.8mm.shiksha
 0.0.0.0	clk.adgatemedia.com
@@ -37578,6 +37583,7 @@
 0.0.0.0	maxim.122.2o7.net
 0.0.0.0	maximumcash.com
 0.0.0.0	maxisoft.co.uk
+0.0.0.0	maxonclick.com
 0.0.0.0	maxspeedcdn.com
 0.0.0.0	maxtracker.net
 0.0.0.0	maxtrust.ru
@@ -38795,6 +38801,7 @@
 0.0.0.0	myap.liveperson.com
 0.0.0.0	my.applifier.com
 0.0.0.0	mybb.ero-advertising.com
+0.0.0.0	mybestmv.com
 0.0.0.0	mybip.go2cloud.org
 0.0.0.0	mybloglog.com
 0.0.0.0	my.blueadvertise.com
@@ -42862,6 +42869,7 @@
 0.0.0.0	revenue.com
 0.0.0.0	revenuedirect.com
 0.0.0.0	revenuegateway.directtrack.com
+0.0.0.0	revenuehits.com
 0.0.0.0	revenue.net
 0.0.0.0	revenueservice.com
 0.0.0.0	revenues.go2cloud.org
