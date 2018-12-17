@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Dec 17 02:30:12 +03 2018
-# Total number of blocked hosts are: 58253
+# Ad blocking hosts generated Tue Dec 18 02:30:14 +03 2018
+# Total number of blocked hosts are: 58259
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -3515,6 +3515,7 @@
 0.0.0.0	adagiof3.repubblica.it
 0.0.0.0	ad.ajanshaber.com
 0.0.0.0	ad.alldanzradio.com
+0.0.0.0	adalliance.io
 0.0.0.0	ad.allstar.cz
 0.0.0.0	ad.altervista.org
 0.0.0.0	ad.amgdgt.com
@@ -20771,6 +20772,7 @@
 0.0.0.0	alegroup.info
 0.0.0.0	alenty.2cnt.net
 0.0.0.0	alenty.com
+0.0.0.0	alexametrics.com
 0.0.0.0	alexanderinteriorsanddesign.com
 0.0.0.0	alexandria90.etcserver.com
 0.0.0.0	alexa-sitestats.s3.amazonaws.com
@@ -27574,6 +27576,7 @@
 0.0.0.0	conpst.112.2o7.net
 0.0.0.0	consciouscabbage.com
 0.0.0.0	consciouschairs.com
+0.0.0.0	consensad.com
 0.0.0.0	consent-st.truste.com
 0.0.0.0	consent.truste.com
 0.0.0.0	consent.webmasterplan.com
@@ -31212,6 +31215,7 @@
 0.0.0.0	emediate.eu
 0.0.0.0	emediate.se
 0.0.0.0	emerse.com
+0.0.0.0	emetriq.de
 0.0.0.0	emeza-ch01.webtrekk.net
 0.0.0.0	emeza-com01.webtrekk.net
 0.0.0.0	emeza-de01.webtrekk.net
@@ -39512,6 +39516,7 @@
 0.0.0.0	nub9r.maisonx.com
 0.0.0.0	nudebeachgalleries.net
 0.0.0.0	nuera.go2cloud.org
+0.0.0.0	nugg.ad
 0.0.0.0	nuggad.net
 0.0.0.0	nuggad.nuggad.net
 0.0.0.0	nugly.barginginfrance.net
@@ -52705,6 +52710,7 @@
 0.0.0.0	vtracking.in.com
 0.0.0.0	vtrack.larvtrk.com
 0.0.0.0	vtrack.wdavtrk.com
+0.0.0.0	vtracy.de
 0.0.0.0	vtrtl.de
 0.0.0.0	vu.adschoom.com
 0.0.0.0	vulcan.doublepimp.com
