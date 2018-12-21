@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Dec 21 02:30:13 +03 2018
-# Total number of blocked hosts are: 58261
+# Ad blocking hosts generated Sat Dec 22 02:30:11 +03 2018
+# Total number of blocked hosts are: 58258
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -16617,7 +16617,6 @@
 0.0.0.0	admin.clicksor.com
 0.0.0.0	adminder.com
 0.0.0.0	admin.download-sponsor.de
-0.0.0.0	ad-miner.com
 0.0.0.0	admin.fhserve.com
 0.0.0.0	adminml.go2cloud.org
 0.0.0.0	admin.performancerevenues.com
@@ -20074,7 +20073,6 @@
 0.0.0.0	advert.ru.redtram.com
 0.0.0.0	adverts.adam4adam.com
 0.0.0.0	adverts.archant.co.uk
-0.0.0.0	adverts.carltononline.com
 0.0.0.0	adverts.creativemark.co.uk
 0.0.0.0	adverts.eclypsia.com
 0.0.0.0	advertserve.com
@@ -23768,7 +23766,6 @@
 0.0.0.0	blog.mobpartner.com
 0.0.0.0	blog.qualaroo.com
 0.0.0.0	blog.replacemycontacts.com
-0.0.0.0	blogrush.com
 0.0.0.0	blog.skyhookwireless.com
 0.0.0.0	blogtalkradio.crwdcntrl.net
 0.0.0.0	blogtoplist.se
@@ -29317,7 +29314,6 @@
 0.0.0.0	cti.w55c.net
 0.0.0.0	ctix8.cheaptickets.com
 0.0.0.0	ct.needlive.com
-0.0.0.0	ctnet2.in
 0.0.0.0	ctnetwork.hu
 0.0.0.0	ctn.go2cloud.org
 0.0.0.0	ctologger01.analytics.go.com
@@ -57957,6 +57953,7 @@
 0.0.0.0	yellspain.112.2o7.net
 0.0.0.0	yemobiads.com
 0.0.0.0	yen.appsfire.net
+0.0.0.0	yepads.com
 0.0.0.0	yepdigital.adk2x.com
 0.0.0.0	yepdigital.go2cloud.org
 0.0.0.0	yesads.com
