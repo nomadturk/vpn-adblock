@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Dec 25 02:30:12 +03 2018
-# Total number of blocked hosts are: 58258
+# Ad blocking hosts generated Wed Dec 26 02:30:12 +03 2018
+# Total number of blocked hosts are: 58259
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -29565,7 +29565,6 @@
 0.0.0.0	d2.zedo.com
 0.0.0.0	d31bfnnwekbny6.cloudfront.net
 0.0.0.0	d31qbv1cthcecs.cloudfront.net
-0.0.0.0	d32k27yvyi4kmv.cloudfront.net
 0.0.0.0	d32pxqbknuxsuy.cloudfront.net
 0.0.0.0	d33f10u0pfpplc.cloudfront.net
 0.0.0.0	d342r80tvdrdhm.cloudfront.net
@@ -38850,6 +38849,7 @@
 0.0.0.0	my.iwon.com
 0.0.0.0	mylabsrl.com
 0.0.0.0	my-linker.com
+0.0.0.0	mylink-today.com
 0.0.0.0	mylistenetwork.go2cloud.org
 0.0.0.0	mylondon.hc0.me
 0.0.0.0	mylottoadserv.com
@@ -38944,6 +38944,7 @@
 0.0.0.0	n.ads2-adnow.com
 0.0.0.0	n.ads3-adnow.com
 0.0.0.0	naftemporiki.nuggad.net
+0.0.0.0	naganoadigei.com
 0.0.0.0	nagios.adition.com
 0.0.0.0	nailbytes1.com
 0.0.0.0	naj.sk
