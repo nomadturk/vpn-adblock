@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Jan 2 02:30:14 +03 2019
-# Total number of blocked hosts are: 58293
+# Ad blocking hosts generated Thu Jan 3 02:30:13 +03 2019
+# Total number of blocked hosts are: 58295
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -31609,6 +31609,7 @@
 0.0.0.0	evtsl.voluumtrk.com
 0.0.0.0	evwr.hitbox.com
 0.0.0.0	ev.yieldbuild.com
+0.0.0.0	evyy.net
 0.0.0.0	ewebcounter.com
 0.0.0.0	eweek.us.intellitxt.com
 0.0.0.0	ewordofmouth.com
@@ -38008,6 +38009,7 @@
 0.0.0.0	metrics-collector.onscroll.com
 0.0.0.0	metrics.comcast.com
 0.0.0.0	metrics.compactappliance.com
+0.0.0.0	metrics.consumerreports.org
 0.0.0.0	metrics.corus.ca
 0.0.0.0	metrics.cosmopolitan.co.uk
 0.0.0.0	metrics.crystalcruises.com
