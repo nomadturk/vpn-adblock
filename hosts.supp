@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat Jan 5 02:30:14 +03 2019
-# Total number of blocked hosts are: 58292
+# Ad blocking hosts generated Sun Jan 6 02:30:12 +03 2019
+# Total number of blocked hosts are: 58294
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -33049,6 +33049,7 @@
 0.0.0.0	fw.adsafeprotected.com
 0.0.0.0	fwbntw.com
 0.0.0.0	fwdservice.com
+0.0.0.0	fwdssp.com
 0.0.0.0	fwg0b0sfig.s.ad6media.fr
 0.0.0.0	fw.moatads.com
 0.0.0.0	fwocy.voluumtrk.com
@@ -55377,6 +55378,7 @@
 0.0.0.0	www.fusestats.com
 0.0.0.0	www.futurecard.com
 0.0.0.0	www.fwdservice.com
+0.0.0.0	www.fwdssp.com
 0.0.0.0	www.fxnvsyupprovender.review
 0.0.0.0	www.fxstyle.net
 0.0.0.0	www.gabia.com
