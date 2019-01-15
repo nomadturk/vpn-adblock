@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Jan 15 02:30:14 +03 2019
-# Total number of blocked hosts are: 58297
+# Ad blocking hosts generated Wed Jan 16 02:30:12 +03 2019
+# Total number of blocked hosts are: 58298
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -37941,6 +37941,7 @@
 0.0.0.0	metanetwork.com
 0.0.0.0	metartmoney.met-art.com
 0.0.0.0	meta.streamcloud.eu
+0.0.0.0	meta.truemobileclicks.com
 0.0.0.0	meter.2cnt.net
 0.0.0.0	metering.pagesuite.com
 0.0.0.0	meter-svc.nytimes.com
