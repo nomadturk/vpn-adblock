@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Jan 23 02:30:12 +03 2019
-# Total number of blocked hosts are: 58298
+# Ad blocking hosts generated Thu Jan 24 02:30:13 +03 2019
+# Total number of blocked hosts are: 58299
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -47472,6 +47472,7 @@
 0.0.0.0	tracking.hsn.com
 0.0.0.0	tracking.hubspot.com
 0.0.0.0	tracking.hyde.ligatus.com
+0.0.0.0	tracking.ibxlink.com
 0.0.0.0	tracking.icotrack.com
 0.0.0.0	tracking.immobilienscout24.de
 0.0.0.0	tracking.infoninjas.net
