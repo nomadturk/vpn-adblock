@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Feb 13 02:30:13 +03 2019
-# Total number of blocked hosts are: 58150
+# Ad blocking hosts generated Thu Feb 14 02:30:12 +03 2019
+# Total number of blocked hosts are: 58152
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -46554,6 +46554,8 @@
 0.0.0.0	tfn.das.tamedia.ch
 0.0.0.0	t.formalyzer.com
 0.0.0.0	t.frtyi.com
+0.0.0.0	t.frtyk.com
+0.0.0.0	t.frtyo.com
 0.0.0.0	tga.csbew.com
 0.0.0.0	tgdaily.us.intellitxt.com
 0.0.0.0	tgn.122.2o7.net
@@ -46700,6 +46702,7 @@
 0.0.0.0	thrgo.pro
 0.0.0.0	throattrees.com
 0.0.0.0	throtle.io
+0.0.0.0	t.hrtya.com
 0.0.0.0	thruport.com
 0.0.0.0	ths9j89.com
 0.0.0.0	thumbads.ero-advertising.com
@@ -47158,7 +47161,6 @@
 0.0.0.0	tracker.cds-tracking.com
 0.0.0.0	tracker.clicktrade.com
 0.0.0.0	tracker.com
-0.0.0.0	tracker.cztorrent.net
 0.0.0.0	tracker.databrain.com
 0.0.0.0	tracker.departapp.com
 0.0.0.0	tracker.dev.hearst.nl
