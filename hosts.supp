@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Mar 1 02:30:12 +03 2019
-# Total number of blocked hosts are: 58138
+# Ad blocking hosts generated Sat Mar 2 02:30:15 +03 2019
+# Total number of blocked hosts are: 58132
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -1762,6 +1762,7 @@
 0.0.0.0	a.abv.bg
 0.0.0.0	aa.connextra.com
 0.0.0.0	aad73c550c.se
+0.0.0.0	aaddzz.com
 0.0.0.0	a.admob.com
 0.0.0.0	a.adnium.com
 0.0.0.0	aa-d.openx.net
@@ -3609,9 +3610,7 @@
 0.0.0.0	ad.bondage.com
 0.0.0.0	adbonus.com
 0.0.0.0	adboost.com
-0.0.0.0	adboost.de.vu
 0.0.0.0	adboost.finalid.com
-0.0.0.0	adboost.net
 0.0.0.0	adboost.serverpower.net
 0.0.0.0	adbooth.adk2.co
 0.0.0.0	adbooth.go2cloud.org
@@ -17480,7 +17479,6 @@
 0.0.0.0	ads.aim4media.com
 0.0.0.0	ads.airpush.com
 0.0.0.0	ads.akademika.bg
-0.0.0.0	ads.ak.facebook.com.edgesuite.net
 0.0.0.0	ads.al.com
 0.0.0.0	ads.allaccess.com.ph
 0.0.0.0	ads.all-free-download.com
@@ -20763,7 +20761,6 @@
 0.0.0.0	all.447.xyz
 0.0.0.0	all4spy.com
 0.0.0.0	alladream.go2cloud.org
-0.0.0.0	alladvantage.com
 0.0.0.0	allatv.justclick.ru
 0.0.0.0	allbanners.ru
 0.0.0.0	allbritton.122.2o7.net
@@ -28994,7 +28991,6 @@
 0.0.0.0	covusaffiliates.go2cloud.org
 0.0.0.0	cowboy.contextuads.com
 0.0.0.0	cowcotland.fr.intellitxt.com
-0.0.0.0	cowledges.com
 0.0.0.0	coxds.com
 0.0.0.0	coxhsi.112.2o7.net
 0.0.0.0	coxnet.112.2o7.net
@@ -46782,7 +46778,6 @@
 0.0.0.0	tizerclik.com
 0.0.0.0	tizermy.net
 0.0.0.0	tizernaya-reklama.ru
-0.0.0.0	tizers.net
 0.0.0.0	tizru.com
 0.0.0.0	t.jobthread.com
 0.0.0.0	tj.phpwind.net
@@ -47572,7 +47567,6 @@
 0.0.0.0	traffdaq.com
 0.0.0.0	traffic4you.de
 0.0.0.0	traffic.acwebconnecting.com
-0.0.0.0	trafficadept.com
 0.0.0.0	trafficads.com
 0.0.0.0	trafficads.s3-website-us-west-1.amazonaws.com
 0.0.0.0	traffic.adxprts.com
