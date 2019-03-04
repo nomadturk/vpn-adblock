@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Mar 4 02:30:14 +03 2019
-# Total number of blocked hosts are: 58132
+# Ad blocking hosts generated Tue Mar 5 02:30:12 +03 2019
+# Total number of blocked hosts are: 58130
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -35594,7 +35594,6 @@
 0.0.0.0	ip193.cn
 0.0.0.0	ip2.casalemedia.com
 0.0.0.0	ipacc1.adtech.fr
-0.0.0.0	ip-api.com
 0.0.0.0	ip.casalemedia.com
 0.0.0.0	ipc.chtah.com
 0.0.0.0	ipcmarieclaireprod.122.2o7.net
@@ -37135,7 +37134,6 @@
 0.0.0.0	lp.plan-q-secret.com
 0.0.0.0	lp.sekindo.co.il
 0.0.0.0	lp.stargames.com
-0.0.0.0	lptag.liveperson.net
 0.0.0.0	lpvzq.voluumtrk.com
 0.0.0.0	lp.webgame.web.id
 0.0.0.0	lqckn.voluumtrk.com
