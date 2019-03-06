@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Mar 6 02:30:12 +03 2019
+# Ad blocking hosts generated Thu Mar 7 02:30:14 +03 2019
 # Total number of blocked hosts are: 58130
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -21805,6 +21805,7 @@
 0.0.0.0	as.webmd.com
 0.0.0.0	as.wiley.com
 0.0.0.0	as.wkcr.cz
+0.0.0.0	aswpapius.com
 0.0.0.0	asx13.com
 0.0.0.0	asy.a8ww.net
 0.0.0.0	as.yl.impact-ad.jp
@@ -48542,7 +48543,6 @@
 0.0.0.0	upv4.moatads.com
 0.0.0.0	uralap.com
 0.0.0.0	urban.adspirit.de
-0.0.0.0	urbanairship.com
 0.0.0.0	urbanityadnetwork.com
 0.0.0.0	urbo.2cnt.net
 0.0.0.0	urchin.com
