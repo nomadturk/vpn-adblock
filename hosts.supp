@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Mar 11 02:30:16 +03 2019
-# Total number of blocked hosts are: 58065
+# Ad blocking hosts generated Tue Mar 12 02:30:13 +03 2019
+# Total number of blocked hosts are: 58066
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -18338,6 +18338,7 @@
 0.0.0.0	ads.gameservers.com
 0.0.0.0	ads.gamespyid.com
 0.0.0.0	ads.gamigo.de
+0.0.0.0	ads.gaming1.com
 0.0.0.0	ads.gaming-universe.de
 0.0.0.0	ads.gamned.com
 0.0.0.0	adsgangsta.com
