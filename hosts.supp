@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Mar 15 02:30:13 +03 2019
-# Total number of blocked hosts are: 58070
+# Ad blocking hosts generated Sat Mar 16 02:30:13 +03 2019
+# Total number of blocked hosts are: 58069
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -1493,7 +1493,6 @@
 0.0.0.0	7cxcrejm.com
 0.0.0.0	7dz98ad91l.s.ad6media.fr
 0.0.0.0	7ec4-d4b0-f6eb-5588.reporo.net
-0.0.0.0	7f1au20glg.com
 0.0.0.0	7faa-e93a-19c5-c96d.reporo.net
 0.0.0.0	7fdf-f670-24dd-3bd8.reporo.net
 0.0.0.0	7fed-2832-993b-cb28.reporo.net
@@ -23488,7 +23487,6 @@
 0.0.0.0	bestjobs.hit.gemius.pl
 0.0.0.0	bestmusic.2cnt.net
 0.0.0.0	bestoffers.activeshopper.com
-0.0.0.0	best-pr.info
 0.0.0.0	bestsearch.com
 0.0.0.0	bestsearch.net
 0.0.0.0	best-top.ro
@@ -25316,7 +25314,6 @@
 0.0.0.0	bullz-eye.us.intellitxt.com
 0.0.0.0	bumerang.hurriyet.com.tr
 0.0.0.0	bumerangshowsites.hurriyet.com.tr
-0.0.0.0	bumpberam.pro
 0.0.0.0	bumpshack.us.intellitxt.com
 0.0.0.0	bunchofads.com
 0.0.0.0	bundle-geoip.herokuapp.com
@@ -38790,7 +38787,6 @@
 0.0.0.0	mytogolinks.com
 0.0.0.0	mytop-in.net
 0.0.0.0	my.trackjs.com
-0.0.0.0	mytrafficads.com
 0.0.0.0	mytrafficbuilder.info
 0.0.0.0	mytraf.info
 0.0.0.0	mytraf.ru
@@ -42170,6 +42166,7 @@
 0.0.0.0	qualitylegion.com
 0.0.0.0	qualityporn.biz
 0.0.0.0	quantcast.com
+0.0.0.0	quantcast.mgr.consensu.org
 0.0.0.0	quantcount.com
 0.0.0.0	quantserve.com
 0.0.0.0	quantummetric.com
@@ -44211,6 +44208,7 @@
 0.0.0.0	shallowsmile.com
 0.0.0.0	shanding.ucoz.es
 0.0.0.0	share.9cdn.net
+0.0.0.0	shareadspace.com
 0.0.0.0	shareaholic.com
 0.0.0.0	shareasale.com
 0.0.0.0	sharecast.uk.intellitxt.com
@@ -52970,6 +52968,7 @@
 0.0.0.0	webstat.kuwo.cn
 0.0.0.0	webstat.net
 0.0.0.0	webstat.no
+0.0.0.0	webstats4u.com
 0.0.0.0	webstats.adspaces.ero-advertising.com
 0.0.0.0	webstats.com.br
 0.0.0.0	webstats.eco.de
