@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Mar 18 02:30:13 +03 2019
-# Total number of blocked hosts are: 58068
+# Ad blocking hosts generated Tue Mar 19 02:30:12 +03 2019
+# Total number of blocked hosts are: 58069
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -42165,6 +42165,7 @@
 0.0.0.0	qualityclickcontrol.com
 0.0.0.0	qualitylegion.com
 0.0.0.0	qualityporn.biz
+0.0.0.0	qualtrics.com
 0.0.0.0	quantcast.com
 0.0.0.0	quantcast.mgr.consensu.org
 0.0.0.0	quantcount.com
