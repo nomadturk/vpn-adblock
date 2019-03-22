@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Mar 22 02:30:13 +03 2019
-# Total number of blocked hosts are: 58068
+# Ad blocking hosts generated Sat Mar 23 02:30:12 +03 2019
+# Total number of blocked hosts are: 58064
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -27010,7 +27010,6 @@
 0.0.0.0	clients.bluecava.com
 0.0.0.0	clients.pointroll.com
 0.0.0.0	clients.rootsecure.org
-0.0.0.0	clients.tbo.com
 0.0.0.0	client.tahono.com
 0.0.0.0	clik2008.popunder.ru
 0.0.0.0	clikerz.net
@@ -34234,7 +34233,6 @@
 0.0.0.0	hit.reference-sexe.com
 0.0.0.0	hits3.truehits.net
 0.0.0.0	hits4me.com
-0.0.0.0	hits4pay.com
 0.0.0.0	hits.convergetrack.com
 0.0.0.0	hits.dealer.com
 0.0.0.0	hits.e.cl
@@ -34680,6 +34678,7 @@
 0.0.0.0	iadfeed.qwapi.com
 0.0.0.0	iadfeedtest.qwapi.com
 0.0.0.0	iad-login.dotomi.com
+0.0.0.0	iadnet.com
 0.0.0.0	i.adsame.com
 0.0.0.0	iads.com.np
 0.0.0.0	iadsdk.apple.com
@@ -34740,7 +34739,6 @@
 0.0.0.0	icm.go2cloud.org
 0.0.0.0	ico.freelogs.com
 0.0.0.0	icompass.insightexpressai.com
-0.0.0.0	iconadserver.com
 0.0.0.0	icon.ajiang.net
 0.0.0.0	iconator.com
 0.0.0.0	icon.cnzz.com
@@ -52707,7 +52705,6 @@
 0.0.0.0	wa.metro.co.uk
 0.0.0.0	wamfebdvsabotier.review
 0.0.0.0	wan.duba.net
-0.0.0.0	wantmobi.bid
 0.0.0.0	wap.advertising.com
 0.0.0.0	wap.chatwalk.com
 0.0.0.0	wap-click.com
@@ -52934,7 +52931,6 @@
 0.0.0.0	webprowire.com
 0.0.0.0	webproworld.com
 0.0.0.0	webr.emv2.com
-0.0.0.0	webreseau.com
 0.0.0.0	webroot.112.2o7.net
 0.0.0.0	websalesusa.com
 0.0.0.0	websatpub.fth.net
