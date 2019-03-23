@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat Mar 23 02:30:12 +03 2019
-# Total number of blocked hosts are: 58064
+# Ad blocking hosts generated Sun Mar 24 02:30:16 +03 2019
+# Total number of blocked hosts are: 58072
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -27008,6 +27008,7 @@
 0.0.0.0	clients.adventmedia.net
 0.0.0.0	clients.advertising.com
 0.0.0.0	clients.bluecava.com
+0.0.0.0	clients.l.google.com
 0.0.0.0	clients.pointroll.com
 0.0.0.0	clients.rootsecure.org
 0.0.0.0	client.tahono.com
@@ -30427,6 +30428,7 @@
 0.0.0.0	doubleviking.us.intellitxt.com
 0.0.0.0	doubleyourdating.directtrack.com
 0.0.0.0	doubtfulrainstorm.com
+0.0.0.0	douclients.l.google.com
 0.0.0.0	doug1izaerwt3.cloudfront.net
 0.0.0.0	douglas01.webtrekk.net
 0.0.0.0	dougmlee.com
@@ -31070,7 +31072,6 @@
 0.0.0.0	ekingkrmxzfpml.download
 0.0.0.0	ekmas.com
 0.0.0.0	ekmpinpoint.co.uk
-0.0.0.0	ekstat.com
 0.0.0.0	elasticchange.com
 0.0.0.0	elderlyscissors.com
 0.0.0.0	elderlytown.com
@@ -31953,6 +31954,7 @@
 0.0.0.0	feeds.wise-click.com
 0.0.0.0	feed.trafflow.com
 0.0.0.0	feed.validclick.com
+0.0.0.0	feefo.com
 0.0.0.0	fegariesupzxx.download
 0.0.0.0	fe.lea.jubii.dk
 0.0.0.0	fe.lea.lycos.de
@@ -32014,6 +32016,7 @@
 0.0.0.0	filecdn2.dotandad.com
 0.0.0.0	filecm.net
 0.0.0.0	filedudes.us.intellitxt.com
+0.0.0.0	files.adform.net
 0.0.0.0	files.adspdbl.com
 0.0.0.0	files.bannersnack.com
 0.0.0.0	files.chartboost.com
@@ -36982,7 +36985,6 @@
 0.0.0.0	logs.infoaxe.com
 0.0.0.0	logs.libuv.org
 0.0.0.0	logs.loggly.com
-0.0.0.0	logs.logrocket.com
 0.0.0.0	logs.naukri.com
 0.0.0.0	logs.nodejs.org
 0.0.0.0	logs.ovh.net
@@ -41601,6 +41603,7 @@
 0.0.0.0	prodege.go2cloud.org
 0.0.0.0	prod-js.aws.y-track.com
 0.0.0.0	prod-services.interactiveone.com
+0.0.0.0	producer.getwisdom.io
 0.0.0.0	production-eqbc.lvp.llnw.net
 0.0.0.0	production.mcs.delve.cust.lldns.net
 0.0.0.0	production-mcs.lvp.llnw.net
@@ -46015,6 +46018,7 @@
 0.0.0.0	syndication.voodoo.com
 0.0.0.0	synergetic.de
 0.0.0.0	synthes.vo.llnwd.net
+0.0.0.0	s.youtube.com
 0.0.0.0	sysip.net
 0.0.0.0	sys.itop.cz
 0.0.0.0	sys.osttirol-online.at
@@ -46022,6 +46026,7 @@
 0.0.0.0	systemmonitoring.badgeville.com
 0.0.0.0	system.picreel.com
 0.0.0.0	systemscheckusa.com
+0.0.0.0	s.ytimg.com
 0.0.0.0	s.zeroredirect1.com
 0.0.0.0	s.zeroredirect2.com
 0.0.0.0	s.zeroredirect.com
@@ -48864,6 +48869,7 @@
 0.0.0.0	videos.oms.eu
 0.0.0.0	videostat.index.hu
 0.0.0.0	videostat-new.index.hu
+0.0.0.0	video-stats.l.google.com
 0.0.0.0	video-stats.video.google.com
 0.0.0.0	videostrip.2cnt.net
 0.0.0.0	videotracker.washingtonpost.com
@@ -55252,6 +55258,7 @@
 0.0.0.0	www-google-analytics.l.google.com
 0.0.0.0	www.google.com.1.302br.net
 0.0.0.0	www.googletagmanager.com
+0.0.0.0	www-googletagmanager.l.google.com
 0.0.0.0	www.googletagservices.com
 0.0.0.0	www.gooool.com
 0.0.0.0	www.gopuralverslakf.download
@@ -57827,6 +57834,7 @@
 0.0.0.0	youtibe.com
 0.0.0.0	youtrack.co
 0.0.0.0	youtube.2cnt.net
+0.0.0.0	youtube-nocookie.com
 0.0.0.0	youtuhe.com
 0.0.0.0	youyield.com
 0.0.0.0	ypn-jscs.overture.com
