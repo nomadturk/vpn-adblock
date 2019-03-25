@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Mar 25 02:30:13 +03 2019
+# Ad blocking hosts generated Tue Mar 26 02:30:11 +03 2019
 # Total number of blocked hosts are: 58072
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -19452,6 +19452,7 @@
 0.0.0.0	ads.turkticaret.net
 0.0.0.0	ads.tv7.sporta.bg
 0.0.0.0	ads.tvtv.bg
+0.0.0.0	ads-twitter.com
 0.0.0.0	ads.twitter.com
 0.0.0.0	ad-style.com
 0.0.0.0	ads.ucoz.ru
@@ -31954,7 +31955,6 @@
 0.0.0.0	feeds.wise-click.com
 0.0.0.0	feed.trafflow.com
 0.0.0.0	feed.validclick.com
-0.0.0.0	feefo.com
 0.0.0.0	fegariesupzxx.download
 0.0.0.0	fe.lea.jubii.dk
 0.0.0.0	fe.lea.lycos.de
