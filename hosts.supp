@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Mar 28 02:30:14 +03 2019
-# Total number of blocked hosts are: 58074
+# Ad blocking hosts generated Fri Mar 29 02:30:15 +03 2019
+# Total number of blocked hosts are: 58076
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -31137,6 +31137,7 @@
 0.0.0.0	emd10.medianext.com
 0.0.0.0	emea-bidder.mathtag.com
 0.0.0.0	emea-ukash.netmng.com
+0.0.0.0	emebo.com
 0.0.0.0	emediate.dk
 0.0.0.0	emediate.eu
 0.0.0.0	emediate.se
@@ -37771,6 +37772,7 @@
 0.0.0.0	megafriends.com
 0.0.0.0	megalithusa.com
 0.0.0.0	megapopads.com
+0.0.0.0	megapu.sh
 0.0.0.0	megastats.com
 0.0.0.0	megastore.bnex.com
 0.0.0.0	megawerbung.de
@@ -43076,6 +43078,7 @@
 0.0.0.0	rtvhalearn.review
 0.0.0.0	rt.visilabs.com
 0.0.0.0	r.twimg.com
+0.0.0.0	rtxplatform.com
 0.0.0.0	ru2.hit.stat24.com
 0.0.0.0	ru4.com
 0.0.0.0	ruaft.voluumtrk.com
@@ -46020,7 +46023,6 @@
 0.0.0.0	syndication.voodoo.com
 0.0.0.0	synergetic.de
 0.0.0.0	synthes.vo.llnwd.net
-0.0.0.0	s.youtube.com
 0.0.0.0	sysip.net
 0.0.0.0	sys.itop.cz
 0.0.0.0	sys.osttirol-online.at
@@ -57836,7 +57838,6 @@
 0.0.0.0	youtibe.com
 0.0.0.0	youtrack.co
 0.0.0.0	youtube.2cnt.net
-0.0.0.0	youtube-nocookie.com
 0.0.0.0	youtuhe.com
 0.0.0.0	youyield.com
 0.0.0.0	ypn-jscs.overture.com
@@ -58073,6 +58074,7 @@
 0.0.0.0	z.zeroredirect1.com
 0.0.0.0	z.zeroredirect2.com
 0.0.0.0	z.zeroredirect.com
+0.0.0.0	zzhc.vnet.cn
 0.0.0.0	zzptzdhugavot.review
 0.0.0.0	zzz.clickbank.net
 0.0.0.0	zz.zeroredirect1.com
