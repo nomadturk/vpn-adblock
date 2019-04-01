@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Apr 1 02:30:14 +03 2019
-# Total number of blocked hosts are: 58075
+# Ad blocking hosts generated Tue Apr 2 02:30:11 +03 2019
+# Total number of blocked hosts are: 58078
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -26831,6 +26831,7 @@
 0.0.0.0	clickflow.com
 0.0.0.0	click.fool.com
 0.0.0.0	clickforwebmasters.com
+0.0.0.0	clickfunnels.com
 0.0.0.0	clickfuse.com
 0.0.0.0	click.gospect.com
 0.0.0.0	clickheat.topbucks.com
@@ -31859,6 +31860,7 @@
 0.0.0.0	fastlane.rubiconproject.com
 0.0.0.0	fast.lenovo.demdex.net
 0.0.0.0	fastlinkfinder.com
+0.0.0.0	fastly-insights.com
 0.0.0.0	fast.marthastewart.demdex.net
 0.0.0.0	fast.monster.demdex.net
 0.0.0.0	fast.mtvn.demdex.net
@@ -34055,6 +34057,7 @@
 0.0.0.0	hd.jmp9.com
 0.0.0.0	hdlife-com-tw.b.appier.net
 0.0.0.0	hdmoviesinc.com
+0.0.0.0	hdscout.com
 0.0.0.0	headless.ebkfwd.com
 0.0.0.0	heals.msgfocus.com
 0.0.0.0	healthgrades.112.2o7.net
