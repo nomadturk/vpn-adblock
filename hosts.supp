@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Apr 2 02:30:11 +03 2019
+# Ad blocking hosts generated Wed Apr 3 02:30:11 +03 2019
 # Total number of blocked hosts are: 58078
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -33374,7 +33374,6 @@
 0.0.0.0	getstatistics.se
 0.0.0.0	get.superstats.com
 0.0.0.0	get.whitesmoke.com
-0.0.0.0	getwisdom.io
 0.0.0.0	geverons.justclick.ru
 0.0.0.0	gevfh.voluumtrk2.com
 0.0.0.0	gezinti.com
@@ -44956,6 +44955,7 @@
 0.0.0.0	srv.dynamicyield.com
 0.0.0.0	srvjs.media.net
 0.0.0.0	srv.juiceadv.com
+0.0.0.0	srvmath.com
 0.0.0.0	srv.nwave.de
 0.0.0.0	srvpub.com
 0.0.0.0	srv.sayyac.com
