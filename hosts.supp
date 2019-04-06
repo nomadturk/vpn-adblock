@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat Apr 6 02:30:11 +03 2019
-# Total number of blocked hosts are: 58147
+# Ad blocking hosts generated Sun Apr 7 02:30:14 +03 2019
+# Total number of blocked hosts are: 58153
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -26328,6 +26328,7 @@
 0.0.0.0	cdn.royale.spongecell.com.18473.9113.302br.net
 0.0.0.0	cdn-rtb.sape.ru
 0.0.0.0	cdn.runative-syndicate.com
+0.0.0.0	cdn.run-syndicate.com
 0.0.0.0	cdn.sail-horizon.com
 0.0.0.0	cdn.sailthru.com
 0.0.0.0	cdns.amgdgt.com
@@ -26435,6 +26436,7 @@
 0.0.0.0	cedexispub.cdnetworks.net
 0.0.0.0	cedexis-test01.insnw.net
 0.0.0.0	ced.sascdn.com
+0.0.0.0	ceehimur.uk
 0.0.0.0	c.effectivemeasure.net
 0.0.0.0	cegludse.net
 0.0.0.0	celeb-ads.com
@@ -31979,6 +31981,7 @@
 0.0.0.0	feeds.wise-click.com
 0.0.0.0	feed.trafflow.com
 0.0.0.0	feed.validclick.com
+0.0.0.0	feewoajy.net
 0.0.0.0	fegariesupzxx.download
 0.0.0.0	fe.lea.jubii.dk
 0.0.0.0	fe.lea.lycos.de
@@ -41192,6 +41195,7 @@
 0.0.0.0	pixel.reddit.com
 0.0.0.0	pixel.redditmedia.com
 0.0.0.0	pixel.rubiconproject.com
+0.0.0.0	pixel.runative-syndicate.com
 0.0.0.0	pixel.servebom.com
 0.0.0.0	pixelservice.apphb.com
 0.0.0.0	pixel.serviceleverage.com
@@ -43160,12 +43164,14 @@
 0.0.0.0	run.admost.com
 0.0.0.0	run.adrizer.com
 0.0.0.0	runads.com
+0.0.0.0	runative-syndicate.com
 0.0.0.0	rundsp.com
 0.0.0.0	run.dts.startappservice.com
 0.0.0.0	rundumsb.ivwbox.de
 0.0.0.0	run.dvdbeats.com
 0.0.0.0	runslin.com
 0.0.0.0	run.startappexchange.com
+0.0.0.0	run-syndicate.com
 0.0.0.0	run.trackimpression.com
 0.0.0.0	rupor.info
 0.0.0.0	ruptly-d.openx.net
