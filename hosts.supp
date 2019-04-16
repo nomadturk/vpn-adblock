@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Apr 16 02:30:11 +03 2019
-# Total number of blocked hosts are: 58067
+# Ad blocking hosts generated Wed Apr 17 02:30:12 +03 2019
+# Total number of blocked hosts are: 58066
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -34460,6 +34460,7 @@
 0.0.0.0	hr.static.etargetnet.com
 0.0.0.0	hrukxtcqmosaics.review
 0.0.0.0	hs4rs.voluumtrk.com
+0.0.0.0	hsadspixel.net
 0.0.0.0	hsaki.voluumtrk.com
 0.0.0.0	hs-analytics.net
 0.0.0.0	hsbc.tt.omtrdc.net
@@ -36076,6 +36077,7 @@
 0.0.0.0	justredirect24.com
 0.0.0.0	justrelevant.com
 0.0.0.0	justsaywow.com
+0.0.0.0	justuno.com
 0.0.0.0	justwebads.com
 0.0.0.0	justwtchaffiliatecom.ipage.com
 0.0.0.0	jutiagroup.us.intellitxt.com
@@ -40567,7 +40569,6 @@
 0.0.0.0	pagestat.mmi.bemobile.ua
 0.0.0.0	pagetracking.popmarker.com
 0.0.0.0	pagvl.voluumtrk.com
-0.0.0.0	paid2mobi.com
 0.0.0.0	paid4clicks.de
 0.0.0.0	paid.outbrain.com
 0.0.0.0	paidstats.com
@@ -42158,7 +42159,6 @@
 0.0.0.0	q.serving-sys.com
 0.0.0.0	qs.ioam.de
 0.0.0.0	qs.ivwbox.de
-0.0.0.0	q.stripe.com
 0.0.0.0	qs.wemfbox.ch
 0.0.0.0	quacksquirrel.com
 0.0.0.0	quad.yadro.ru
@@ -42310,7 +42310,6 @@
 0.0.0.0	rantsports.us.intellitxt.com
 0.0.0.0	r.aol.com
 0.0.0.0	rapdirt.us.intellitxt.com
-0.0.0.0	rapid-cdn.com
 0.0.0.0	rapidcounter.com
 0.0.0.0	rapidkittens.com
 0.0.0.0	rapidresponse.directtrack.com
