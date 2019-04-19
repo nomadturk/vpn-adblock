@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Apr 19 02:30:12 +03 2019
-# Total number of blocked hosts are: 58074
+# Ad blocking hosts generated Sat Apr 20 02:30:14 +03 2019
+# Total number of blocked hosts are: 58076
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -23468,6 +23468,7 @@
 0.0.0.0	bestjobs.hit.gemius.pl
 0.0.0.0	bestmusic.2cnt.net
 0.0.0.0	bestoffers.activeshopper.com
+0.0.0.0	best-pr.info
 0.0.0.0	bestsearch.com
 0.0.0.0	bestsearch.net
 0.0.0.0	best-top.ro
@@ -38791,6 +38792,7 @@
 0.0.0.0	mytogolinks.com
 0.0.0.0	mytop-in.net
 0.0.0.0	my.trackjs.com
+0.0.0.0	mytrafficads.com
 0.0.0.0	mytrafficbuilder.info
 0.0.0.0	mytraf.info
 0.0.0.0	mytraf.ru
