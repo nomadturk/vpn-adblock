@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue May 7 02:30:12 +03 2019
-# Total number of blocked hosts are: 58074
+# Ad blocking hosts generated Wed May 8 02:30:12 +03 2019
+# Total number of blocked hosts are: 58072
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -3556,6 +3556,7 @@
 0.0.0.0	adattract.go2cloud.org
 0.0.0.0	ad.auditude.com
 0.0.0.0	ad.au.doubleclick.net
+0.0.0.0	adback.co
 0.0.0.0	ad-balancer.at
 0.0.0.0	ad-balancer.net
 0.0.0.0	adbank.go2cloud.org
@@ -26366,7 +26367,6 @@
 0.0.0.0	cdn.viralmint.com
 0.0.0.0	cdn.visiblemeasures.com
 0.0.0.0	cdn.vlexokrako.com
-0.0.0.0	cdn.voscast.com
 0.0.0.0	cdn.w55c.net
 0.0.0.0	cdn.widgets.webengage.com
 0.0.0.0	cdn.wigetmedia.com
@@ -42176,7 +42176,6 @@
 0.0.0.0	qualityclickcontrol.com
 0.0.0.0	qualitylegion.com
 0.0.0.0	qualityporn.biz
-0.0.0.0	qualtrics.com
 0.0.0.0	quantcast.com
 0.0.0.0	quantcast.mgr.consensu.org
 0.0.0.0	quantcount.com
@@ -54607,7 +54606,6 @@
 0.0.0.0	www.compete.com
 0.0.0.0	www.competeinc.com
 0.0.0.0	www.comscore.com
-0.0.0.0	www.comunedeicittadini.it
 0.0.0.0	www.com-wkejf32ljd23409system.net
 0.0.0.0	www.concealedffvqfx.download
 0.0.0.0	www.concinnousaepwnh.download
