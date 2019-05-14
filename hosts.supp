@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue May 14 02:30:17 +03 2019
-# Total number of blocked hosts are: 57962
+# Ad blocking hosts generated Wed May 15 02:30:12 +03 2019
+# Total number of blocked hosts are: 57963
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -35861,6 +35861,7 @@
 0.0.0.0	jqreb.voluumtrk.com
 0.0.0.0	jqs7d.voluumtrk.com
 0.0.0.0	jque.net
+0.0.0.0	jquery-bin.com
 0.0.0.0	jquerycdn.co.il
 0.0.0.0	jquerymin.co.il
 0.0.0.0	jqyss.voluumtrk.com
