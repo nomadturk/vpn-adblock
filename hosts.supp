@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue May 21 02:30:12 +03 2019
-# Total number of blocked hosts are: 57943
+# Ad blocking hosts generated Wed May 22 02:30:15 +03 2019
+# Total number of blocked hosts are: 57945
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -36620,6 +36620,7 @@
 0.0.0.0	list.ru
 0.0.0.0	lisyn.voluumtrk.com
 0.0.0.0	litiumo.com
+0.0.0.0	litix.io
 0.0.0.0	live1.logaholic.com
 0.0.0.0	live2.logaholic.com
 0.0.0.0	live3s.me
@@ -52396,6 +52397,7 @@
 0.0.0.0	voicevegetable.com
 0.0.0.0	voken.eyereturn.com
 0.0.0.0	volkswagen.122.2o7.net
+0.0.0.0	voluum.com
 0.0.0.0	voluum.redirecting.site
 0.0.0.0	volvelle-ads-cdn.azureedge.net
 0.0.0.0	volvelle.tech
