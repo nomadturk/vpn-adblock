@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu May 23 02:30:12 +03 2019
-# Total number of blocked hosts are: 57945
+# Ad blocking hosts generated Fri May 24 02:30:12 +03 2019
+# Total number of blocked hosts are: 57946
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -44808,6 +44808,7 @@
 0.0.0.0	sprintusers.us.intellitxt.com
 0.0.0.0	sprung.go2cloud.org
 0.0.0.0	s.pubmine.com
+0.0.0.0	spulse.net
 0.0.0.0	spurioussteam.com
 0.0.0.0	spx.owneriq.net
 0.0.0.0	spycash.biz
