@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue May 28 02:30:15 +03 2019
-# Total number of blocked hosts are: 57939
+# Ad blocking hosts generated Wed May 29 02:30:13 +03 2019
+# Total number of blocked hosts are: 57940
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -1803,6 +1803,7 @@
 0.0.0.0	a.autoexpress.co.uk
 0.0.0.0	a.avalhukof.com
 0.0.0.0	aa.voice2page.com
+0.0.0.0	aaxads.com
 0.0.0.0	aax.amazon-adsystem.com
 0.0.0.0	aax-eu.amazon-adsystem.com
 0.0.0.0	aax-eu-rtb.amazon-adsystem.com
