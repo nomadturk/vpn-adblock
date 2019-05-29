@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed May 29 02:30:13 +03 2019
-# Total number of blocked hosts are: 57940
+# Ad blocking hosts generated Thu May 30 02:30:13 +03 2019
+# Total number of blocked hosts are: 57942
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -23604,6 +23604,7 @@
 0.0.0.0	bitterstrawberry.com
 0.0.0.0	bitvisitor.com
 0.0.0.0	bizad.nikkeibp.co.jp
+0.0.0.0	bizible.com
 0.0.0.0	bizjournals.112.2o7.net
 0.0.0.0	bizjournals-d.openx.net
 0.0.0.0	bizographics.com
@@ -37523,6 +37524,7 @@
 0.0.0.0	medbroadcast.112.2o7.net
 0.0.0.0	medhelpinternational.112.2o7.net
 0.0.0.0	media01.adservinghost.com
+0.0.0.0	media01.eu
 0.0.0.0	media-0.vpptechnologies.com
 0.0.0.0	media10.popmarker.com
 0.0.0.0	media122-d.openx.net
