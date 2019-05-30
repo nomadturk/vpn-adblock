@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu May 30 02:30:13 +03 2019
-# Total number of blocked hosts are: 57942
+# Ad blocking hosts generated Fri May 31 02:30:13 +03 2019
+# Total number of blocked hosts are: 57946
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -565,6 +565,7 @@
 0.0.0.0	1.ptp22.com
 0.0.0.0	1.quicktrkr.com
 0.0.0.0	1rcu4.voluumtrk.com
+0.0.0.0	1rx.io
 0.0.0.0	1se.cqcounter.com
 0.0.0.0	1si.cqcounter.com
 0.0.0.0	1src.us.intellitxt.com
@@ -37141,6 +37142,7 @@
 0.0.0.0	m1.webstats4u.com
 0.0.0.0	m1.webstats.motigo.com
 0.0.0.0	m2132.ehgaugysd.net
+0.0.0.0	m2.ai
 0.0.0.0	m2d.m2.ai
 0.0.0.0	m2.fwmrm.net
 0.0.0.0	m2k.ru
@@ -41697,6 +41699,7 @@
 0.0.0.0	psstt.com
 0.0.0.0	pssvc.iqzone.com
 0.0.0.0	pstats.blogworks.com
+0.0.0.0	pstmrk.it
 0.0.0.0	ps-us.amazon-adsystem.com
 0.0.0.0	psx.ign.us.intellitxt.com
 0.0.0.0	psyimjyctimeliness.review
@@ -52757,6 +52760,7 @@
 0.0.0.0	webclients.net
 0.0.0.0	webcom-software.ws
 0.0.0.0	webconnect.net
+0.0.0.0	webcontentassessor.com
 0.0.0.0	webcontrolling.com
 0.0.0.0	webcounter.be
 0.0.0.0	webcounter.cc
