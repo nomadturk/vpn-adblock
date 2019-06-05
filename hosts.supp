@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Jun 5 02:30:12 +03 2019
-# Total number of blocked hosts are: 57948
+# Ad blocking hosts generated Thu Jun 6 02:30:12 +03 2019
+# Total number of blocked hosts are: 57949
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -38230,6 +38230,7 @@
 0.0.0.0	mntr.babcdn.com
 0.0.0.0	moadnet.com
 0.0.0.0	moatads.com
+0.0.0.0	moat.com
 0.0.0.0	moatpixel.com
 0.0.0.0	moba8.net
 0.0.0.0	mob.adnxs.com
