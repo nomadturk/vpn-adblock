@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Jun 11 02:30:15 +03 2019
-# Total number of blocked hosts are: 57949
+# Ad blocking hosts generated Wed Jun 12 02:30:16 +03 2019
+# Total number of blocked hosts are: 57950
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -33256,6 +33256,7 @@
 0.0.0.0	geoloc99.geovisite.com
 0.0.0.0	geoloc9.geovisite.com
 0.0.0.0	geoloc.appscion.com
+0.0.0.0	geolocation.onetrust.com
 0.0.0.0	geolocation.t-online.de
 0.0.0.0	geo.metronews.ca
 0.0.0.0	geo.mtvnn.com
@@ -40215,7 +40216,6 @@
 0.0.0.0	outspeaksisfjto.download
 0.0.0.0	outtalkedxtypmjjbh.download
 0.0.0.0	out-there-media.com
-0.0.0.0	outwar.com
 0.0.0.0	overawingksapsofy.download
 0.0.0.0	overclockersonline.us.intellitxt.com
 0.0.0.0	overely.com
@@ -44220,7 +44220,6 @@
 0.0.0.0	sifyimg.edgesuite.net
 0.0.0.0	sifyimg.speedera.net
 0.0.0.0	sig.gamerdna.com
-0.0.0.0	sigil.outwar.com
 0.0.0.0	sigma0.rtb.appier.net
 0.0.0.0	sigma100.rtb.appier.net
 0.0.0.0	sigma10.rtb.appier.net
@@ -46841,7 +46840,6 @@
 0.0.0.0	toptrafficsource.com
 0.0.0.0	top-viral-videos.com
 0.0.0.0	top.wn.com
-0.0.0.0	torax.outwar.com
 0.0.0.0	torcherxotnnqq.download
 0.0.0.0	torerovdmsbvg.download
 0.0.0.0	t-orf.2cnt.net
@@ -48754,6 +48752,7 @@
 0.0.0.0	victor.connectcloud.ch
 0.0.0.0	victoriaadvocate.112.2o7.net
 0.0.0.0	vid.atdmt.com
+0.0.0.0	videe.tv
 0.0.0.0	vidego.multicastmedia.com
 0.0.0.0	video1.adprimemedia.com
 0.0.0.0	videoadex.com
@@ -48786,8 +48785,11 @@
 0.0.0.0	videotroncom.112.2o7.net
 0.0.0.0	video.unrulymedia.com
 0.0.0.0	vidilife.crwdcntrl.net
+0.0.0.0	vid-io-dub.springserve.com
+0.0.0.0	vid-io.springserve.net
 0.0.0.0	vidnet.us.intellitxt.com
 0.0.0.0	vidora.com
+0.0.0.0	vid.springserve.com
 0.0.0.0	vidzur.com
 0.0.0.0	view4cash.de
 0.0.0.0	view.admission.net
@@ -56080,7 +56082,6 @@
 0.0.0.0	www.outsolesevkcifol.download
 0.0.0.0	www.outspeaksisfjto.download
 0.0.0.0	www.outtalkedxtypmjjbh.download
-0.0.0.0	www.outwar.com
 0.0.0.0	www.over50datingservices.com
 0.0.0.0	www.overawingksapsofy.download
 0.0.0.0	www.overroastiklcrpyn.download
