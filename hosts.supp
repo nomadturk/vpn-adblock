@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Jun 21 02:30:13 +03 2019
+# Ad blocking hosts generated Sat Jun 22 02:30:11 +03 2019
 # Total number of blocked hosts are: 57953
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -22099,7 +22099,6 @@
 0.0.0.0	b4.toparcadehits.com
 0.0.0.0	b4.yahoo.co.jp
 0.0.0.0	b5057c.r.axf8.net
-0.0.0.0	b59812ee54afcabd.com
 0.0.0.0	b5media.us.intellitxt.com
 0.0.0.0	b5wpo.voluumtrk.com
 0.0.0.0	b.6sc.co
@@ -53031,6 +53030,7 @@
 0.0.0.0	whyfame.us.intellitxt.com
 0.0.0.0	wibiya-actions.conduit-data.com
 0.0.0.0	wibiya-june-new-log.conduit-data.com
+0.0.0.0	widdit.com
 0.0.0.0	widespace.com
 0.0.0.0	widget6.linkwithin.com
 0.0.0.0	widgetadvertising.biz
