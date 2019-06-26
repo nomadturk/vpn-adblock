@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Jun 26 02:30:14 +03 2019
-# Total number of blocked hosts are: 57953
+# Ad blocking hosts generated Thu Jun 27 02:30:10 +03 2019
+# Total number of blocked hosts are: 57952
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -23164,7 +23164,6 @@
 0.0.0.0	banners.winfire.com
 0.0.0.0	banners.wlservices.fr
 0.0.0.0	bannersworld.com
-0.0.0.0	banners.wunderground.com
 0.0.0.0	bannersxchange.com
 0.0.0.0	banners.xmatch.com
 0.0.0.0	banners.xxxwebhosting.com
