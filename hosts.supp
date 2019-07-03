@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Jul 3 02:30:11 +03 2019
-# Total number of blocked hosts are: 57949
+# Ad blocking hosts generated Thu Jul 4 02:30:11 +03 2019
+# Total number of blocked hosts are: 57975
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -31099,6 +31099,7 @@
 0.0.0.0	e-m.fr
 0.0.0.0	emisjawidgeet.onet.pl
 0.0.0.0	emits.iptvdeals.com
+0.0.0.0	emltrk.com
 0.0.0.0	emng.libero.it
 0.0.0.0	em.offerx.co.uk
 0.0.0.0	e.monetate.net
@@ -31113,6 +31114,7 @@
 0.0.0.0	emsdirect.go2cloud.org
 0.0.0.0	emsvr.com
 0.0.0.0	emwsz.voluumtrk.com
+0.0.0.0	en25.com
 0.0.0.0	en.adition.com
 0.0.0.0	en.adtech.info
 0.0.0.0	encomiumsenttlzhwt.download
@@ -33426,6 +33428,7 @@
 0.0.0.0	gmgmcom.112.2o7.net
 0.0.0.0	gmgoodwrenchdmaprod.112.2o7.net
 0.0.0.0	gmkxougopsonin.review
+0.0.0.0	gml.email
 0.0.0.0	gm.mmstat.com
 0.0.0.0	gmonitor.aliimg.com
 0.0.0.0	gmoxn.voluumtrk.com
@@ -35363,6 +35366,7 @@
 0.0.0.0	inringtone.com
 0.0.0.0	in.riskymail4free.com
 0.0.0.0	inscreen.widespace.com
+0.0.0.0	insgly.net
 0.0.0.0	insidemacgames.us.intellitxt.com
 0.0.0.0	insiderpagescom.122.2o7.net
 0.0.0.0	insight.adsrvr.org
@@ -35418,6 +35422,7 @@
 0.0.0.0	interactive.forthnet.gr
 0.0.0.0	interactivepartners.go2cloud.org
 0.0.0.0	interchangecorporation.122.2o7.net
+0.0.0.0	intercom-mail.com
 0.0.0.0	intergi.com
 0.0.0.0	interhyp02.webtrekk.net
 0.0.0.0	interia.hit.gemius.pl
@@ -35601,6 +35606,7 @@
 0.0.0.0	istats.nl
 0.0.0.0	ist.go2cloud.org
 0.0.0.0	istrack.com
+0.0.0.0	is-tracking-pixel-api-prod.appspot.com
 0.0.0.0	it.adserver.yahoo.com
 0.0.0.0	i.tapit.com
 0.0.0.0	it.bannerout.com
@@ -36291,6 +36297,7 @@
 0.0.0.0	kz.search.need2find.com
 0.0.0.0	kz.tns-counter.ru
 0.0.0.0	kzyrg.voluumtrk.com
+0.0.0.0	l1.britannica.com
 0.0.0.0	l1.cdn.qnsr.com
 0.0.0.0	l1.qsstats.com
 0.0.0.0	l1.zedo.com
@@ -36487,6 +36494,8 @@
 0.0.0.0	lhgqc.voluumtrk.com
 0.0.0.0	lhs-mhs.org
 0.0.0.0	liadm.com
+0.0.0.0	li.alibris.com
+0.0.0.0	li.azstarnet.com
 0.0.0.0	lib1.libstat.com
 0.0.0.0	lib4.libstat.com
 0.0.0.0	lib6.libstat.com
@@ -36497,6 +36506,7 @@
 0.0.0.0	lib.trafit.com
 0.0.0.0	license20121011.getjar.com
 0.0.0.0	liczniki.org
+0.0.0.0	li.dailycaller.com
 0.0.0.0	lidl.adspirit.de
 0.0.0.0	lidlretargeting.adspirit.de
 0.0.0.0	life-in-travels.justclick.ru
@@ -36507,21 +36517,26 @@
 0.0.0.0	liftdna.com
 0.0.0.0	lift.openx.com
 0.0.0.0	liftopia.go2cloud.org
+0.0.0.0	li.gatehousemedia.com
 0.0.0.0	ligatus.com
 0.0.0.0	ligatus.de
 0.0.0.0	lightboxanalytics-53675.onmodulus.net
 0.0.0.0	lightcushion.com
 0.0.0.0	lightedpages.com
 0.0.0.0	lightspeedcash.com
+0.0.0.0	li.gq.com
 0.0.0.0	ligtv.kokteyl.com
+0.0.0.0	li.hearstmags.com
 0.0.0.0	lijit.com
 0.0.0.0	likebtn.com
 0.0.0.0	likes.gisnetwork.net
 0.0.0.0	liktirov.com
+0.0.0.0	li.livingsocial.com
 0.0.0.0	limelightovp3.creatorcloud.netdna-cdn.com
 0.0.0.0	limg.adspirit.de
 0.0.0.0	limitlessoffers.go2cloud.org
 0.0.0.0	limmaocijq.download
+0.0.0.0	li.mw.drhinternet.net
 0.0.0.0	lin-d.openx.net
 0.0.0.0	linicom.co.il
 0.0.0.0	link4ads.com
@@ -36607,9 +36622,14 @@
 0.0.0.0	linuxdevcenter.us.intellitxt.com
 0.0.0.0	linuxjournal.us.intellitxt.com
 0.0.0.0	linuxpark.adtech.fr
+0.0.0.0	li.onetravel.com
 0.0.0.0	lionstracking.com
+0.0.0.0	li.patheos.com
+0.0.0.0	li.pmc.com
+0.0.0.0	li.purch.com
 0.0.0.0	liquidad.narrowcastmedia.com
 0.0.0.0	liqwid.net
+0.0.0.0	li.realtor.com
 0.0.0.0	list2.bravenet.com
 0.0.0.0	listbot.com
 0.0.0.0	listenloop.com
@@ -36663,7 +36683,9 @@
 0.0.0.0	livetracker.voanews.eu
 0.0.0.0	liveviewer.ez.no
 0.0.0.0	livre.wasastation.fi
+0.0.0.0	li.walmart.com
 0.0.0.0	lizardslaugh.com
+0.0.0.0	li.ziffimages.com
 0.0.0.0	ljostrade.go2cloud.org
 0.0.0.0	ljteas.com
 0.0.0.0	ljujm.voluumtrk.com
@@ -38186,6 +38208,7 @@
 0.0.0.0	mlook.mcdstorage.com
 0.0.0.0	mlpoint.pt
 0.0.0.0	mlsglobal.112.2o7.net
+0.0.0.0	mltrk.io
 0.0.0.0	mlvrp.voluumtrk.com
 0.0.0.0	mlweb.dmlab.hu
 0.0.0.0	mm.777-partner.com
@@ -42927,6 +42950,7 @@
 0.0.0.0	rs1.avenuea.com
 0.0.0.0	rs2.ero-advertising.com
 0.0.0.0	rs4.anti-leech.com
+0.0.0.0	rs6.net
 0.0.0.0	rs.adocean.pl
 0.0.0.0	rscdn.cxense.com
 0.0.0.0	r.scoota.co
@@ -43749,6 +43773,7 @@
 0.0.0.0	secure-dcr.imrworldwide.com
 0.0.0.0	secure.directtrack.com
 0.0.0.0	secure-dk.imrworldwide.com
+0.0.0.0	securedopen-bp.com
 0.0.0.0	secure.download-sponsor.de
 0.0.0.0	secure-drm.imrworldwide.com
 0.0.0.0	secure-ds.serving-sys.com
@@ -46339,6 +46364,7 @@
 0.0.0.0	television.searchwho.com
 0.0.0.0	telgids.adsolutions.nl
 0.0.0.0	teliad.de
+0.0.0.0	t.eloqua.com
 0.0.0.0	telstra.imrworldwide.com
 0.0.0.0	temelio.com
 0.0.0.0	temp.adzerver.com
