@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Jul 4 02:30:11 +03 2019
-# Total number of blocked hosts are: 57975
+# Ad blocking hosts generated Fri Jul 5 02:30:11 +03 2019
+# Total number of blocked hosts are: 57986
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -16468,7 +16468,6 @@
 0.0.0.0	adlev.neodatagroup.com
 0.0.0.0	ad.lfstmedia.com
 0.0.0.0	adlibr.com
-0.0.0.0	adlightning.com
 0.0.0.0	adlik2.akavita.com
 0.0.0.0	adlik.akavita.com
 0.0.0.0	ad.linkexchange.com
@@ -18315,6 +18314,7 @@
 0.0.0.0	adsfuse.com
 0.0.0.0	ads.gadget.ro
 0.0.0.0	ads.gad-network.com
+0.0.0.0	ads-game-187f4.firebaseapp.com
 0.0.0.0	ads.gamecity.net
 0.0.0.0	ads.gamecopyworld.no
 0.0.0.0	ads.game.net
@@ -23398,6 +23398,7 @@
 0.0.0.0	bedsbreath.com
 0.0.0.0	beead.co.uk
 0.0.0.0	bee-ads.com
+0.0.0.0	beemray.com
 0.0.0.0	beespace.com.ua
 0.0.0.0	be-funk.com
 0.0.0.0	beglorena.com
@@ -25673,6 +25674,7 @@
 0.0.0.0	callloop.com
 0.0.0.0	callousbrake.com
 0.0.0.0	callrail.com
+0.0.0.0	callstats.io
 0.0.0.0	calltoadagency.go2affise.com
 0.0.0.0	call-tracking.co.uk
 0.0.0.0	c.am11.ru
@@ -27119,7 +27121,6 @@
 0.0.0.0	cmi.netseer.com
 0.0.0.0	cmllk1.info
 0.0.0.0	cm.l.qq.com
-0.0.0.0	cml.sad.ukrd.com
 0.0.0.0	cm.myway.com
 0.0.0.0	cmn1lsm2.beliefnet.com
 0.0.0.0	cmn1lsm3.beliefnet.com
@@ -27325,6 +27326,7 @@
 0.0.0.0	col.mobileads.msn.com
 0.0.0.0	colonize.com
 0.0.0.0	colorfoto.digidip.net
+0.0.0.0	colpirio.com
 0.0.0.0	com.24290.9170.302br.net
 0.0.0.0	com.24293.9170.302br.net
 0.0.0.0	com.33526.9243.302br.net
@@ -30231,6 +30233,7 @@
 0.0.0.0	d.moreover.com
 0.0.0.0	dmp.adform.net
 0.0.0.0	dmp.gravity4.com
+0.0.0.0	dmp.mall.tv
 0.0.0.0	dmpnetwork.go2cloud.org
 0.0.0.0	dmp.springserve.com
 0.0.0.0	dmp.theadex.com
@@ -33563,6 +33566,7 @@
 0.0.0.0	google-analytics.com
 0.0.0.0	googlesyndication.com
 0.0.0.0	googletagmanager.com
+0.0.0.0	googletagservices.com
 0.0.0.0	google.tucows.com
 0.0.0.0	googlus.com
 0.0.0.0	go.onclasrv.com
@@ -34485,6 +34489,7 @@
 0.0.0.0	hubtraffic.com
 0.0.0.0	hubxt.redtube.com
 0.0.0.0	hubxt.tube8.com
+0.0.0.0	hud8mxdt.computerhelpmirror.top
 0.0.0.0	huffingtonpost.crwdcntrl.net
 0.0.0.0	hugde.adocean.pl
 0.0.0.0	hu.hit.gemius.pl
@@ -36261,6 +36266,7 @@
 0.0.0.0	krsa2gno.youre-todays-lucky-sweeps-winner.com
 0.0.0.0	krs.ymxpb.com
 0.0.0.0	krwxs.voluumtrk.com
+0.0.0.0	krxd.net
 0.0.0.0	kryptobanners.com
 0.0.0.0	kscrudiscepted.review
 0.0.0.0	ks.gagwebapi.com
@@ -44291,6 +44297,7 @@
 0.0.0.0	simonsearch.com
 0.0.0.0	simpailoppvw.download
 0.0.0.0	simpi.tourstogo.us
+0.0.0.0	simpleanalytics.io
 0.0.0.0	simplehitcounter.com
 0.0.0.0	simpleonlinemedia.go2cloud.org
 0.0.0.0	simpli.fi
@@ -45308,6 +45315,7 @@
 0.0.0.0	static.zedo.com
 0.0.0.0	static.ziffdavis.com
 0.0.0.0	stat.info-stream.net
+0.0.0.0	statistic.ads24h.net
 0.0.0.0	statistic.qzone.qq.com
 0.0.0.0	statistics.crowdynews.com
 0.0.0.0	statistics.infowap.info
@@ -46061,6 +46069,7 @@
 0.0.0.0	tag.1rx.io
 0.0.0.0	tag.adip.ly
 0.0.0.0	tag.adtrendmedia.net
+0.0.0.0	tagan.adlightning.com
 0.0.0.0	tag.apxlv.com
 0.0.0.0	tag.aticdn.net
 0.0.0.0	tag.bounceexchange.com
@@ -47372,6 +47381,7 @@
 0.0.0.0	tracknet.twyn.com
 0.0.0.0	track.netzero.net
 0.0.0.0	track.ning.com
+0.0.0.0	track.nuxues.com
 0.0.0.0	track.oainternetservices.com
 0.0.0.0	track.omgpl.com
 0.0.0.0	track.omguk.com
@@ -53339,6 +53349,7 @@
 0.0.0.0	wt01.webtrekk.net
 0.0.0.0	wt10.haote.com
 0.0.0.0	wta.ero-advertising.com
+0.0.0.0	wt.bankmillennium.pl
 0.0.0.0	wt-eu02.net
 0.0.0.0	wtlive.com
 0.0.0.0	wt.o.nytimes.com
