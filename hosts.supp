@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Jul 5 02:30:11 +03 2019
-# Total number of blocked hosts are: 57986
+# Ad blocking hosts generated Sat Jul 6 02:30:11 +03 2019
+# Total number of blocked hosts are: 57984
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -17146,6 +17146,7 @@
 0.0.0.0	ads249.hpg.com.br
 0.0.0.0	ads.24.com
 0.0.0.0	ads24.focalink.com
+0.0.0.0	ads24h.net
 0.0.0.0	ads24.hpg.com.br
 0.0.0.0	ads250.hpg.com.br
 0.0.0.0	ads251.hpg.com.br
@@ -27431,7 +27432,6 @@
 0.0.0.0	config.mobile.wxbug.com
 0.0.0.0	config.parsely.com
 0.0.0.0	configusa.veinteractive.com
-0.0.0.0	confirmed-profits.com
 0.0.0.0	confirm-referer.glrsales.com
 0.0.0.0	confluence.kissmetrics.com
 0.0.0.0	conforama.commander1.com
@@ -40759,7 +40759,6 @@
 0.0.0.0	pdpdsromlaconical.review
 0.0.0.0	pdsqopgtdiphyodont.review
 0.0.0.0	pdt.tradedoubler.com
-0.0.0.0	peacepowder.com
 0.0.0.0	peakclick.com
 0.0.0.0	peakcounter.dk
 0.0.0.0	pebble-adhese.gva.be
@@ -45315,7 +45314,6 @@
 0.0.0.0	static.zedo.com
 0.0.0.0	static.ziffdavis.com
 0.0.0.0	stat.info-stream.net
-0.0.0.0	statistic.ads24h.net
 0.0.0.0	statistic.qzone.qq.com
 0.0.0.0	statistics.crowdynews.com
 0.0.0.0	statistics.infowap.info
