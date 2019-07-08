@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Jul 8 02:30:11 +03 2019
-# Total number of blocked hosts are: 57984
+# Ad blocking hosts generated Tue Jul 9 02:30:10 +03 2019
+# Total number of blocked hosts are: 57985
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -47201,6 +47201,7 @@
 0.0.0.0	tracking.deepsearch.adlucent.com
 0.0.0.0	trackingdev.nixxie.com
 0.0.0.0	tracking.directadsmedia.com
+0.0.0.0	tracking.discounts-promo.ga
 0.0.0.0	tracking.dolphinbrowser.com
 0.0.0.0	tracking.drsfostersmith.com
 0.0.0.0	tracking.dsmmadvantage.com
