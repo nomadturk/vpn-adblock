@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Jul 11 02:30:12 +03 2019
-# Total number of blocked hosts are: 57986
+# Ad blocking hosts generated Fri Jul 12 02:30:11 +03 2019
+# Total number of blocked hosts are: 57987
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -42816,6 +42816,7 @@
 0.0.0.0	rll9v.voluumtrk.com
 0.0.0.0	rlog.9gag.com
 0.0.0.0	rlog-api.under9.co
+0.0.0.0	r.logrocket.io
 0.0.0.0	r.looksmart.com
 0.0.0.0	rlyg7.voluumtrk.com
 0.0.0.0	rm2.adtilt.com
