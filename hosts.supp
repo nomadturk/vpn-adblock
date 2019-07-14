@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun Jul 14 02:30:11 +03 2019
-# Total number of blocked hosts are: 57988
+# Ad blocking hosts generated Mon Jul 15 02:30:11 +03 2019
+# Total number of blocked hosts are: 57995
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -896,7 +896,6 @@
 0.0.0.0	220.6.87.194.dynamic.dol.ru
 0.0.0.0	2207.bitterstrawberry.com
 0.0.0.0	221.6.87.194.dynamic.dol.ru
-0.0.0.0	222-33544_999.pub.adfirmative.com
 0.0.0.0	222.6.87.194.dynamic.dol.ru
 0.0.0.0	22329-406.popunder.loading-delivery1.com
 0.0.0.0	2233.bitterstrawberry.com
@@ -3610,6 +3609,7 @@
 0.0.0.0	adbonus.com
 0.0.0.0	adboost.com
 0.0.0.0	adboost.finalid.com
+0.0.0.0	adboost.ro
 0.0.0.0	adboost.serverpower.net
 0.0.0.0	adbooth.adk2.co
 0.0.0.0	adbooth.go2cloud.org
@@ -20966,6 +20966,7 @@
 0.0.0.0	analytics.hgcdn.net
 0.0.0.0	analytics.industriemagazin.net
 0.0.0.0	analytics.informationweek.com
+0.0.0.0	analytics.inform.com
 0.0.0.0	analytics.kaltura.com
 0.0.0.0	analytics.ladmedia.fr
 0.0.0.0	analytics.leadlifesolutions.net
@@ -25316,6 +25317,7 @@
 0.0.0.0	buy.thetrackr.com
 0.0.0.0	buytraf.ru
 0.0.0.0	buzzadnetwork.com
+0.0.0.0	buzzcpm.com
 0.0.0.0	buzzfeed.d1.sc.omtrdc.net
 0.0.0.0	buzzfoto.us.intellitxt.com
 0.0.0.0	buzzhumor.us.intellitxt.com
@@ -26699,6 +26701,7 @@
 0.0.0.0	cldsecure.info
 0.0.0.0	cleangamemedia.go2cloud.org
 0.0.0.0	clearcomb.com
+0.0.0.0	cleardexchange.com
 0.0.0.0	clearlinkmedia.go2cloud.org
 0.0.0.0	clear-reports.com
 0.0.0.0	clearspring.com
@@ -35146,6 +35149,7 @@
 0.0.0.0	img.stamps.com
 0.0.0.0	imgstat.ameba.jp
 0.0.0.0	img.steepto.com
+0.0.0.0	img.sunmediaads.com
 0.0.0.0	imgs.xinhuanet.com
 0.0.0.0	img.szm.sk
 0.0.0.0	img.techweb.com
@@ -39654,9 +39658,6 @@
 0.0.0.0	oascentral.sfgate.com
 0.0.0.0	oascentral.sfweekly.com
 0.0.0.0	oascentral.sina.com
-0.0.0.0	oascentral.southjerseylocalnews.com
-0.0.0.0	oascentral.spineuniverse.com
-0.0.0.0	oascentral.sportsfanlive.com
 0.0.0.0	oascentral.stackmag.com
 0.0.0.0	oascentral.stansberryresearch.com
 0.0.0.0	oascentral.s-t.com
@@ -41102,6 +41103,7 @@
 0.0.0.0	pixel.parsely.com
 0.0.0.0	pixel.pcworld.com
 0.0.0.0	pixel.prfct.co
+0.0.0.0	pixel.programmatictrader.com
 0.0.0.0	pixel.prosieben.de
 0.0.0.0	pixel.quantcount.com
 0.0.0.0	pixel.quantserve.com
@@ -41218,6 +41220,7 @@
 0.0.0.0	playminigolf.com
 0.0.0.0	playmobileads.com
 0.0.0.0	playnow.guru
+0.0.0.0	play.sunmediaads.com
 0.0.0.0	playtomic.com
 0.0.0.0	plb27.voluumtrk.com
 0.0.0.0	pldev.112.2o7.net
@@ -47192,6 +47195,7 @@
 0.0.0.0	tracking.cdiscount.com
 0.0.0.0	tracking.chacha.com
 0.0.0.0	tracking.clickmeter.com
+0.0.0.0	trackingclicks.xyz
 0.0.0.0	tracking.cmcigroup.com
 0.0.0.0	tracking.cmgdigital.com
 0.0.0.0	tracking.conduit.com
@@ -47424,6 +47428,7 @@
 0.0.0.0	tracksitetraffic1.com
 0.0.0.0	track.slideshare.net
 0.0.0.0	track.smcnetwork.net
+0.0.0.0	track.special-promotions.online
 0.0.0.0	track.spiceworks.com
 0.0.0.0	track.spots.im
 0.0.0.0	track.strife.com
@@ -48534,6 +48539,7 @@
 0.0.0.0	us-nj-e2.traffictradinghub.com
 0.0.0.0	us.pixel.newscgp.com
 0.0.0.0	usr.dropkickmedia.com
+0.0.0.0	us.rewardearners.com
 0.0.0.0	usr.mgid.com
 0.0.0.0	ussearch.122.2o7.net
 0.0.0.0	us-sonar.sociomantic.com
@@ -53125,6 +53131,7 @@
 0.0.0.0	wiliestmbpgakdno.download
 0.0.0.0	willhab.oewabox.at
 0.0.0.0	win7affiliates.com
+0.0.0.0	winappcenter.total-secure.info
 0.0.0.0	win.bannersbucket.xyz
 0.0.0.0	wincert.us.intellitxt.com
 0.0.0.0	windgallsxsnxcqt.download
