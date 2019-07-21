@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun Jul 21 02:30:13 +03 2019
-# Total number of blocked hosts are: 57994
+# Ad blocking hosts generated Mon Jul 22 02:30:11 +03 2019
+# Total number of blocked hosts are: 57993
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -40845,7 +40845,6 @@
 0.0.0.0	pgdb1.surf-town.net
 0.0.0.0	pgdbb1.surf-town.net
 0.0.0.0	pgl.example0101
-0.0.0.0	pgltestinghere
 0.0.0.0	pgmediaserve.com
 0.0.0.0	pgmopcongruity.review
 0.0.0.0	pgpartner.com
