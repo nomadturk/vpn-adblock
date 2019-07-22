@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Jul 22 02:30:11 +03 2019
-# Total number of blocked hosts are: 57993
+# Ad blocking hosts generated Tue Jul 23 02:30:11 +03 2019
+# Total number of blocked hosts are: 58000
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -19412,6 +19412,7 @@
 0.0.0.0	ads.trafficnews.bg
 0.0.0.0	ads.traffpartners.com
 0.0.0.0	adstrategy.go2cloud.org
+0.0.0.0	ads.travelaudience.com
 0.0.0.0	adstream.cardboardfish.com
 0.0.0.0	ads.triada.bg
 0.0.0.0	ads.tribalfusion.com
@@ -21835,6 +21836,7 @@
 0.0.0.0	atti.velti.com
 0.0.0.0	attrack.ientrynetwork.net
 0.0.0.0	attractiveafternoon.com
+0.0.0.0	attribution.report
 0.0.0.0	attributiontracker.com
 0.0.0.0	attributiontrackingga.googlecode.com
 0.0.0.0	attservicesinc.tt.omtrdc.net
@@ -35567,7 +35569,6 @@
 0.0.0.0	iptrack05.webtrekk.net
 0.0.0.0	iq001.adtech.fr
 0.0.0.0	iqads.2cnt.net
-0.0.0.0	iqm.com
 0.0.0.0	iq.mobilix.mobi
 0.0.0.0	iqolu.voluumtrk.com
 0.0.0.0	ir0.mobify.com
@@ -37902,6 +37903,7 @@
 0.0.0.0	metrics.foreignpolicy.com
 0.0.0.0	metrics.foxnews.com
 0.0.0.0	metrics.gcimetrics.com
+0.0.0.0	metrics.getrockerbox.com
 0.0.0.0	metrics.gfycat.com
 0.0.0.0	metrics.gnc.com
 0.0.0.0	metrics.govexec.com
@@ -41425,6 +41427,7 @@
 0.0.0.0	posst.co
 0.0.0.0	po.st
 0.0.0.0	postads24.com
+0.0.0.0	postback.iqm.com
 0.0.0.0	postchronicle.us.intellitxt.com
 0.0.0.0	postitial.iqzone.com
 0.0.0.0	postmasterbannernet.com
@@ -42007,6 +42010,7 @@
 0.0.0.0	pxlctl.elpais.com
 0.0.0.0	pxl.darchermedia.com
 0.0.0.0	pxl.ibpxl.com
+0.0.0.0	pxl.iqm.com
 0.0.0.0	pxl.leads.su
 0.0.0.0	pxl.pmsrvr.com
 0.0.0.0	px.moatads.com
@@ -42705,6 +42709,7 @@
 0.0.0.0	revcontent.com
 0.0.0.0	revdepo.com
 0.0.0.0	revealads.appspot.com
+0.0.0.0	reveal.clearbit.com
 0.0.0.0	revelations.trovus.co.uk
 0.0.0.0	revenue.com
 0.0.0.0	revenuedirect.com
@@ -47685,6 +47690,7 @@
 0.0.0.0	trk.meacashtrk.com
 0.0.0.0	trk.m.libero.it
 0.0.0.0	trkmydomain.com
+0.0.0.0	trkn.us
 0.0.0.0	trk.obix.pro
 0.0.0.0	trk.pswec.com
 0.0.0.0	trk.rrcpm.com
@@ -53147,6 +53153,7 @@
 0.0.0.0	wingatemedia.go2cloud.org
 0.0.0.0	wingoads.com
 0.0.0.0	wingowin.com
+0.0.0.0	win.iqm.com
 0.0.0.0	winlock.usa.cc
 0.0.0.0	winmatrix.us.intellitxt.com
 0.0.0.0	winmpmain.112.2o7.net
