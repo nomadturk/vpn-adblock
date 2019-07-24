@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Jul 24 02:30:11 +03 2019
-# Total number of blocked hosts are: 58000
+# Ad blocking hosts generated Thu Jul 25 02:30:11 +03 2019
+# Total number of blocked hosts are: 58001
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -37435,6 +37435,7 @@
 0.0.0.0	matheranalytics.com
 0.0.0.0	mathtag.com
 0.0.0.0	ma.tinyflashlight.com
+0.0.0.0	matomo.activate.cz
 0.0.0.0	matomy.adk2.co
 0.0.0.0	matomy.com
 0.0.0.0	matomygroup.com
