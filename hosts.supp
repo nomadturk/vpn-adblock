@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Jul 26 02:30:11 +03 2019
-# Total number of blocked hosts are: 58000
+# Ad blocking hosts generated Sat Jul 27 02:30:12 +03 2019
+# Total number of blocked hosts are: 57997
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -16904,7 +16904,6 @@
 0.0.0.0	ads02.focalink.com
 0.0.0.0	ads03.focalink.com
 0.0.0.0	ads03.hpg.com.br
-0.0.0.0	ads03.redtube.com
 0.0.0.0	ads-03.tor.focusin.ads.targetnet.com
 0.0.0.0	ads04.focalink.com
 0.0.0.0	ads04.hpg.com.br
@@ -20185,7 +20184,6 @@
 0.0.0.0	ad.yadro.ru
 0.0.0.0	ad.yahoo.com
 0.0.0.0	ad.yam.com.tw
-0.0.0.0	adyea.com
 0.0.0.0	ad.yemeksepeti.com
 0.0.0.0	ad.yieldlab.net
 0.0.0.0	ad.yieldmanager.com
@@ -42461,7 +42459,6 @@
 0.0.0.0	redirecting.ws
 0.0.0.0	redirect.la.idealab.com
 0.0.0.0	redirect.linksummary.com
-0.0.0.0	re-directme.com
 0.0.0.0	redirect.mobpartner.mobi
 0.0.0.0	redirector.themobilehub.net
 0.0.0.0	re.directrev.com
