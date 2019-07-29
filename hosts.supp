@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Jul 29 02:30:11 +03 2019
-# Total number of blocked hosts are: 57997
+# Ad blocking hosts generated Tue Jul 30 02:30:12 +03 2019
+# Total number of blocked hosts are: 57999
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -29099,6 +29099,7 @@
 0.0.0.0	credit-cards.nl
 0.0.0.0	credit-cards.org
 0.0.0.0	credity.ucoz.ru
+0.0.0.0	creep.world
 0.0.0.0	creoads.com
 0.0.0.0	c.rhapsody.com
 0.0.0.0	cri.d1.sc.omtrdc.net
@@ -41910,6 +41911,7 @@
 0.0.0.0	publish.pizzazzemail.com
 0.0.0.0	publish.vidavee.com
 0.0.0.0	pubmatic.com
+0.0.0.0	pubmine.com
 0.0.0.0	pubnative.net
 0.0.0.0	pub.network
 0.0.0.0	pub.oxado.com
