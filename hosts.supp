@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Jul 30 02:30:12 +03 2019
-# Total number of blocked hosts are: 57999
+# Ad blocking hosts generated Wed Jul 31 02:30:12 +03 2019
+# Total number of blocked hosts are: 58000
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -23542,6 +23542,7 @@
 0.0.0.0	bigamypuabg.download
 0.0.0.0	bigapple.contextuads.com
 0.0.0.0	bigasia.com
+0.0.0.0	big-bang-ads.com
 0.0.0.0	bigbangads.go2cloud.org
 0.0.0.0	bigbangmedia.com
 0.0.0.0	bigbanners.com
