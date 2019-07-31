@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Jul 31 02:30:12 +03 2019
-# Total number of blocked hosts are: 58000
+# Ad blocking hosts generated Thu Aug 1 02:30:10 +03 2019
+# Total number of blocked hosts are: 58022
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -20159,6 +20159,7 @@
 0.0.0.0	ad.xertive.com
 0.0.0.0	adx.g.doubleclick.net
 0.0.0.0	adx.hendersonvillenews.com
+0.0.0.0	ad.xiaomi.com
 0.0.0.0	adx.ibibo.com
 0.0.0.0	adx.infomed.co.il
 0.0.0.0	adxite.com
@@ -20931,6 +20932,7 @@
 0.0.0.0	analytics.beeznest.com
 0.0.0.0	analytics.belgacom.be
 0.0.0.0	analytics.bigcommerce.com
+0.0.0.0	analytics.bitrix.info
 0.0.0.0	analytics.bleacherreport.com
 0.0.0.0	analytics.blogspot.com
 0.0.0.0	analytics.bluekai.com
@@ -20938,6 +20940,7 @@
 0.0.0.0	analytics.brightedge.com
 0.0.0.0	analytics.clickdimensions.com
 0.0.0.0	analytics.clickpathmedia.com
+0.0.0.0	analytics.cloudron.io
 0.0.0.0	analytics.cmg.net
 0.0.0.0	analytics.cnd-motionmedia.de
 0.0.0.0	analytics.cocolog-nifty.com
@@ -20963,9 +20966,12 @@
 0.0.0.0	analytics.harpercollins.com
 0.0.0.0	analytics.hayneedle.com
 0.0.0.0	analytics.hgcdn.net
+0.0.0.0	analytics.htmedia.in
+0.0.0.0	analytics.icons8.com
 0.0.0.0	analytics.industriemagazin.net
 0.0.0.0	analytics.informationweek.com
 0.0.0.0	analytics.inform.com
+0.0.0.0	analytics.jabong.com
 0.0.0.0	analytics.kaltura.com
 0.0.0.0	analytics.ladmedia.fr
 0.0.0.0	analytics.leadlifesolutions.net
@@ -20973,6 +20979,7 @@
 0.0.0.0	analytics.localytics.com
 0.0.0.0	analytics.loop-cloud.de
 0.0.0.0	analytics.mail-corp.com
+0.0.0.0	analytics.mailmunch.co
 0.0.0.0	analytics.matchbin.com
 0.0.0.0	analytics.mefeedia.com
 0.0.0.0	analytics.mindjolt.com
@@ -20984,6 +20991,8 @@
 0.0.0.0	analytics.msnbc.com
 0.0.0.0	analytics.msnbc.msn.com
 0.0.0.0	analytics.msn.com
+0.0.0.0	analytics.myfinance.com
+0.0.0.0	analytics.mytvzion.pro
 0.0.0.0	analytics.nascar.com
 0.0.0.0	analytics.newsinc.com
 0.0.0.0	analytics.newsvine.com
@@ -20991,10 +21000,15 @@
 0.0.0.0	analytics.openload.co
 0.0.0.0	analytics.optilead.co.uk
 0.0.0.0	analytic.spamfighter.com
+0.0.0.0	analytics.phando.com
+0.0.0.0	analytics.picsart.com
 0.0.0.0	analytics.pimproll.com
 0.0.0.0	analytics.poferries.com
+0.0.0.0	analytics.poolshool.com
 0.0.0.0	analytics.popsci.com
+0.0.0.0	analytics.posttv.com
 0.0.0.0	analytics-prod-ingress.bricknet.com
+0.0.0.0	analytics-production.hapyak.com
 0.0.0.0	analytics.query.yahoo.com
 0.0.0.0	analytics.radiatemedia.com
 0.0.0.0	analytics.rechtslupe.org
@@ -21004,8 +21018,10 @@
 0.0.0.0	analytics.r.msn.com
 0.0.0.0	analytics.rogersmedia.com
 0.0.0.0	analytics.safelinking.net
+0.0.0.0	analytics.samdd.me
 0.0.0.0	analytics.sanoma.fi
 0.0.0.0	analytics.shareaholic.com
+0.0.0.0	analytics.siliconexpert.com
 0.0.0.0	analytics.sitewit.com
 0.0.0.0	analytics.slashdotmedia.com
 0.0.0.0	analytics.socialbakers.com
@@ -21019,6 +21035,7 @@
 0.0.0.0	analytics.strangeloopnetworks.com
 0.0.0.0	analytics.supplyframe.com
 0.0.0.0	analytics.sutterhealth.org
+0.0.0.0	analytics.swiggy.com
 0.0.0.0	analytics.tbs.com
 0.0.0.0	analytics.teespring.com
 0.0.0.0	analytics.theknot.com
@@ -31095,6 +31112,7 @@
 0.0.0.0	emea-bidder.mathtag.com
 0.0.0.0	emea-ukash.netmng.com
 0.0.0.0	emebo.com
+0.0.0.0	emebo.io
 0.0.0.0	emediate.dk
 0.0.0.0	emediate.eu
 0.0.0.0	emediate.se
@@ -34701,6 +34719,7 @@
 0.0.0.0	icm.go2cloud.org
 0.0.0.0	ico.freelogs.com
 0.0.0.0	icompass.insightexpressai.com
+0.0.0.0	iconadserver.com
 0.0.0.0	icon.ajiang.net
 0.0.0.0	iconator.com
 0.0.0.0	icon.cnzz.com
@@ -36962,6 +36981,7 @@
 0.0.0.0	logs.roku.com
 0.0.0.0	logs.sexy-parade.com
 0.0.0.0	logs.sofaware.com
+0.0.0.0	logsss.com
 0.0.0.0	logstat.caixin.com
 0.0.0.0	logs.thebloggernetwork.com
 0.0.0.0	log.streamagent.sensic.net
@@ -44573,6 +44593,7 @@
 0.0.0.0	sm.domob.cn
 0.0.0.0	smetrics.aetn.com
 0.0.0.0	smetrics.att.com
+0.0.0.0	smetrics.bestbuy.com
 0.0.0.0	smetrics.blackberry.com
 0.0.0.0	smetrics.comcast.com
 0.0.0.0	smetrics.creditreport.com
@@ -57831,6 +57852,7 @@
 0.0.0.0	zantracker.com
 0.0.0.0	zapadserver1.com
 0.0.0.0	zapads.zapak.com
+0.0.0.0	zarget.com
 0.0.0.0	za-ssl.effectivemeasure.net
 0.0.0.0	zataz.fr.intellitxt.com
 0.0.0.0	zatznotfunny.us.intellitxt.com
