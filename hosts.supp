@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Aug 1 02:30:10 +03 2019
-# Total number of blocked hosts are: 58022
+# Ad blocking hosts generated Fri Aug 2 02:30:13 +03 2019
+# Total number of blocked hosts are: 58025
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -21149,6 +21149,7 @@
 0.0.0.0	ans3.adsoftware.com
 0.0.0.0	ans4.adsoftware.com
 0.0.0.0	anshrit.com
+0.0.0.0	anstrex.com
 0.0.0.0	answerbag.us.intellitxt.com
 0.0.0.0	answermedia.com
 0.0.0.0	answers.us.intellitxt.com
@@ -25693,7 +25694,6 @@
 0.0.0.0	callloop.com
 0.0.0.0	callousbrake.com
 0.0.0.0	callrail.com
-0.0.0.0	callstats.io
 0.0.0.0	calltoadagency.go2affise.com
 0.0.0.0	call-tracking.co.uk
 0.0.0.0	c.am11.ru
@@ -32057,6 +32057,7 @@
 0.0.0.0	firstlook.com
 0.0.0.0	firstname.com
 0.0.0.0	first.nova.cz
+0.0.0.0	firstpromoter.com
 0.0.0.0	firstsnfmlmlohq.download
 0.0.0.0	fishadz.pressflex.net
 0.0.0.0	fishclix.com
@@ -47148,6 +47149,7 @@
 0.0.0.0	tracker.truehits.in.th
 0.0.0.0	tracker.truehits.net
 0.0.0.0	tracker.uprinting.com
+0.0.0.0	tracker.vgame.us
 0.0.0.0	tracker.vinsight.de
 0.0.0.0	tracker.winload.de
 0.0.0.0	tracker.wordstream.com
@@ -52973,6 +52975,7 @@
 0.0.0.0	webtrack-brickstreetconnect-mkt-prd.hsbc.com.hk
 0.0.0.0	webtracker.apicasystem.com
 0.0.0.0	webtracker.educationconnection.com
+0.0.0.0	webtracker.jp
 0.0.0.0	webtrackerplus.com
 0.0.0.0	webtracking.touchclarity.com
 0.0.0.0	webtrack.jwgrant.co.uk
