@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Aug 12 02:30:11 +03 2019
-# Total number of blocked hosts are: 58027
+# Ad blocking hosts generated Tue Aug 13 02:30:11 +03 2019
+# Total number of blocked hosts are: 58028
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -23602,6 +23602,7 @@
 0.0.0.0	bingsclspe.download
 0.0.0.0	bink.uk.intellitxt.com
 0.0.0.0	bin.pinion.gg
+0.0.0.0	biosda.com
 0.0.0.0	biosmagazine.uk.intellitxt.com
 0.0.0.0	bi.softservers.net
 0.0.0.0	bist.ailsg.com
