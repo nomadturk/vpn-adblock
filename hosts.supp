@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Aug 14 02:30:12 +03 2019
+# Ad blocking hosts generated Thu Aug 15 02:30:10 +03 2019
 # Total number of blocked hosts are: 58028
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -21889,6 +21889,7 @@
 0.0.0.0	audit3.median.hu
 0.0.0.0	audit.median.hu
 0.0.0.0	auditonline.hu
+0.0.0.0	audit.quantcast.mgr.consensu.org
 0.0.0.0	audit.webinform.hu
 0.0.0.0	a.udorik.com
 0.0.0.0	aud.pubmatic.com
@@ -42158,7 +42159,6 @@
 0.0.0.0	qualitylegion.com
 0.0.0.0	qualityporn.biz
 0.0.0.0	quantcast.com
-0.0.0.0	quantcast.mgr.consensu.org
 0.0.0.0	quantcount.com
 0.0.0.0	quantserve.com
 0.0.0.0	quantummetric.com
