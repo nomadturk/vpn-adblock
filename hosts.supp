@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Aug 16 02:30:11 +03 2019
+# Ad blocking hosts generated Sat Aug 17 02:30:10 +03 2019
 # Total number of blocked hosts are: 58028
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -18530,7 +18530,6 @@
 0.0.0.0	ads.justpremium.com
 0.0.0.0	ads.justpremium.nl
 0.0.0.0	ads.justrelevant.com
-0.0.0.0	adsk2.co
 0.0.0.0	ads.ka6tata.com
 0.0.0.0	ads.kabooaffiliates.com
 0.0.0.0	ads.kaktuz.net
@@ -20018,7 +20017,6 @@
 0.0.0.0	advertzer.com
 0.0.0.0	adv.freeonline.it
 0.0.0.0	adv.freepornvs.com
-0.0.0.0	advfromnwl.com
 0.0.0.0	adv-g009.us.intellitxt.com
 0.0.0.0	adv.gazeta.pl
 0.0.0.0	adv.gepime.com
@@ -20181,6 +20179,7 @@
 0.0.0.0	ad.yadro.ru
 0.0.0.0	ad.yahoo.com
 0.0.0.0	ad.yam.com.tw
+0.0.0.0	adyea.com
 0.0.0.0	ad.yemeksepeti.com
 0.0.0.0	ad.yieldlab.net
 0.0.0.0	ad.yieldmanager.com
@@ -34325,6 +34324,7 @@
 0.0.0.0	home.mmcable.com
 0.0.0.0	home.netster.com
 0.0.0.0	homepage.cc
+0.0.0.0	homepageking.de
 0.0.0.0	homepage.ru
 0.0.0.0	home.pages.at
 0.0.0.0	home.peoplepc.com
