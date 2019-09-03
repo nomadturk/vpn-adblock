@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Sep 3 02:30:11 +03 2019
+# Ad blocking hosts generated Wed Sep 4 02:30:10 +03 2019
 # Total number of blocked hosts are: 58022
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -17516,7 +17516,6 @@
 0.0.0.0	ads.asredas.com
 0.0.0.0	ads.astroadvice.com
 0.0.0.0	adsatt.abcnews.starwave.com
-0.0.0.0	Adsatt.ABCNews.starwave.com
 0.0.0.0	adsatt.abc.starwave.com
 0.0.0.0	adsatt.disney.starwave.com
 0.0.0.0	adsatt.espn.go.com
@@ -38471,6 +38470,7 @@
 0.0.0.0	mouseflow.com
 0.0.0.0	mousestats.com
 0.0.0.0	mousselinehkhnrrnlq.download
+0.0.0.0	movad.net
 0.0.0.0	movieads.ero-advertising.com
 0.0.0.0	moviehole.us.intellitxt.com
 0.0.0.0	movie-list.us.intellitxt.com
