@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Sep 6 02:30:13 +03 2019
+# Ad blocking hosts generated Sat Sep 7 02:30:12 +03 2019
 # Total number of blocked hosts are: 58022
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -1899,6 +1899,7 @@
 0.0.0.0	a.cbc.ca
 0.0.0.0	ac.berlinonline.de
 0.0.0.0	accelerator-media.com
+0.0.0.0	acceptable.a-ads.com
 0.0.0.0	access.amberathome.com
 0.0.0.0	acc.go2cloud.org
 0.0.0.0	acckalaharinet.112.2o7.net
@@ -32806,7 +32807,6 @@
 0.0.0.0	free-stats.com
 0.0.0.0	freestats.com
 0.0.0.0	free-stats.i8.com
-0.0.0.0	freestats.tv
 0.0.0.0	free.thesocialsexnetwork.com
 0.0.0.0	freevisits.com
 0.0.0.0	freewarefiles.us.intellitxt.com
@@ -41452,7 +41452,6 @@
 0.0.0.0	post.securestudies.com
 0.0.0.0	post.update.moatads.com
 0.0.0.0	potd.onlytease.com
-0.0.0.0	potenza.cz
 0.0.0.0	potionoxfrtmzvr.download
 0.0.0.0	potvaporizer.com
 0.0.0.0	powellsbooks.122.2o7.net
@@ -52407,6 +52406,7 @@
 0.0.0.0	visitors.lexus-europe.com
 0.0.0.0	visitors.sourcingmap.com
 0.0.0.0	visitorvoice.etracker.com
+0.0.0.0	visitpath.com
 0.0.0.0	visit.theglobeandmail.com
 0.0.0.0	visitweb.com
 0.0.0.0	visit.webhosting.yahoo.com
