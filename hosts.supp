@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Sep 11 02:30:10 +03 2019
-# Total number of blocked hosts are: 58022
+# Ad blocking hosts generated Thu Sep 12 02:30:11 +03 2019
+# Total number of blocked hosts are: 58024
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -32051,7 +32051,6 @@
 0.0.0.0	firstlook.com
 0.0.0.0	firstname.com
 0.0.0.0	first.nova.cz
-0.0.0.0	firstpromoter.com
 0.0.0.0	firstsnfmlmlohq.download
 0.0.0.0	fishadz.pressflex.net
 0.0.0.0	fishclix.com
@@ -34216,6 +34215,7 @@
 0.0.0.0	hits.europuls.eu
 0.0.0.0	hits.guardian.co.uk
 0.0.0.0	hits.icdirect.com
+0.0.0.0	hits-i.iubenda.com
 0.0.0.0	hits.informer.com
 0.0.0.0	hitslap.com
 0.0.0.0	hitslink.com
@@ -37374,6 +37374,7 @@
 0.0.0.0	marchofdimes.d2.sc.omtrdc.net
 0.0.0.0	marialorena.com.br
 0.0.0.0	marinermarketing.112.2o7.net
+0.0.0.0	marinsm.com
 0.0.0.0	markedcrayon.com
 0.0.0.0	markedpail.com
 0.0.0.0	market2.the-adult-company.com
@@ -46478,6 +46479,7 @@
 0.0.0.0	textron.vo.llnwd.net
 0.0.0.0	textspeier.de
 0.0.0.0	tfag.de
+0.0.0.0	t.firstpromoter.com
 0.0.0.0	tfl.d3.sc.omtrdc.net
 0.0.0.0	t.flux.com
 0.0.0.0	tfncdn.thaflynation.com
