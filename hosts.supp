@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Sep 13 02:30:20 +03 2019
-# Total number of blocked hosts are: 58025
+# Ad blocking hosts generated Sat Sep 14 02:30:12 +03 2019
+# Total number of blocked hosts are: 58027
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -16664,6 +16664,7 @@
 0.0.0.0	adnetgalt.hit.gemius.pl
 0.0.0.0	ad.netgoo.com
 0.0.0.0	adnet.hit.gemius.pl
+0.0.0.0	adnetinteractive.com
 0.0.0.0	adnetinternational.com
 0.0.0.0	adnetmarket.go2cloud.org
 0.0.0.0	adnet-media.net
@@ -41668,6 +41669,7 @@
 0.0.0.0	promos.wealthymen.com
 0.0.0.0	promote.pair.com
 0.0.0.0	promo.thepornsurvey.com
+0.0.0.0	promotion-campaigns.com
 0.0.0.0	promotion.coreg.de
 0.0.0.0	promotionmaterial.betacash.com
 0.0.0.0	promotion.partnercash.com
