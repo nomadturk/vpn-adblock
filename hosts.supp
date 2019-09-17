@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Sep 17 02:30:10 +03 2019
-# Total number of blocked hosts are: 58028
+# Ad blocking hosts generated Wed Sep 18 02:30:12 +03 2019
+# Total number of blocked hosts are: 58033
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -16272,6 +16272,7 @@
 0.0.0.0	ad-groups.com
 0.0.0.0	adgroups.com
 0.0.0.0	adgroups.net
+0.0.0.0	adgrx.com
 0.0.0.0	adgrx.moatads.com
 0.0.0.0	ad.gt.doubleclick.net
 0.0.0.0	ad-guru.com
@@ -19634,6 +19635,7 @@
 0.0.0.0	adtarget.ro
 0.0.0.0	ad.tblamnetwork.com
 0.0.0.0	ad.tbn.ru
+0.0.0.0	adtdp.com
 0.0.0.0	adtds.trackads.net
 0.0.0.0	adtecc.com
 0.0.0.0	ad-tech.com
@@ -26132,6 +26134,7 @@
 0.0.0.0	cdn.easy-ads.com
 0.0.0.0	cdn.ebocornac.com
 0.0.0.0	cdn.effectivemeasure.net
+0.0.0.0	cdnegc.trafficfactory.biz
 0.0.0.0	cdn.elasticad.net
 0.0.0.0	cdn.engine.4dsply.com
 0.0.0.0	cdn.engine.adsupply.com
@@ -41787,6 +41790,7 @@
 0.0.0.0	pttsite.com
 0.0.0.0	ptuph.barginginfrance.net
 0.0.0.0	ptush.iptvdeals.com
+0.0.0.0	p.tvpixel.com
 0.0.0.0	p.txtsrving.info
 0.0.0.0	p.typekit.net
 0.0.0.0	puat.go2cloud.org
@@ -43095,7 +43099,6 @@
 0.0.0.0	run.dts.startappservice.com
 0.0.0.0	rundumsb.ivwbox.de
 0.0.0.0	run.dvdbeats.com
-0.0.0.0	runslin.com
 0.0.0.0	run.startappexchange.com
 0.0.0.0	run-syndicate.com
 0.0.0.0	run.trackimpression.com
@@ -53656,6 +53659,7 @@
 0.0.0.0	www4.mystats.nl
 0.0.0.0	www.4qsurvey.com
 0.0.0.0	www4search.net
+0.0.0.0	www.4shared.com
 0.0.0.0	www4.shiftlock.com
 0.0.0.0	www4.smartadserver.com
 0.0.0.0	www4.trix.net
@@ -55035,6 +55039,7 @@
 0.0.0.0	www.fiduciariobajio.com.mx
 0.0.0.0	www.fiesta-game.com
 0.0.0.0	www.filecm.net
+0.0.0.0	www.fileconvertertab.com
 0.0.0.0	www.finalizehmnzdo.download
 0.0.0.0	www.findalternate.com
 0.0.0.0	www.findlisted.com
