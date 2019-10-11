@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Oct 11 02:30:13 +03 2019
-# Total number of blocked hosts are: 58049
+# Ad blocking hosts generated Sat Oct 12 02:30:11 +03 2019
+# Total number of blocked hosts are: 58050
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -16469,6 +16469,7 @@
 0.0.0.0	adlev.neodatagroup.com
 0.0.0.0	ad.lfstmedia.com
 0.0.0.0	adlibr.com
+0.0.0.0	adlightning.com
 0.0.0.0	adlik2.akavita.com
 0.0.0.0	adlik.akavita.com
 0.0.0.0	ad.linkexchange.com
@@ -17727,6 +17728,7 @@
 0.0.0.0	ad-score.com
 0.0.0.0	ads.corky.net
 0.0.0.0	ads.cosmosmagazine.com
+0.0.0.0	adscpm.com
 0.0.0.0	ads.cpxcenter.com
 0.0.0.0	ads.cpxinteractive.com
 0.0.0.0	ads.cracked.com
@@ -27389,6 +27391,7 @@
 0.0.0.0	commonwealth.riddler.com
 0.0.0.0	com-morningstar.netmng.com
 0.0.0.0	community.adlandpro.com
+0.0.0.0	com-optimize-mac.live
 0.0.0.0	compactbanner.com
 0.0.0.0	companiedhhplrdpp.download
 0.0.0.0	companydeep.go2affise.com
@@ -31077,7 +31080,6 @@
 0.0.0.0	elocumjobs.com
 0.0.0.0	eloqua.122.2o7.net
 0.0.0.0	eloqua.com
-0.0.0.0	elthamely.com
 0.0.0.0	eltiempocitytv.112.2o7.net
 0.0.0.0	eltiempocom.112.2o7.net
 0.0.0.0	eltrafiko.com
@@ -37568,7 +37570,6 @@
 0.0.0.0	mdn3origin.phluantmobile.net
 0.0.0.0	mdn3.phluantmobile.net
 0.0.0.0	mdnhinc.com
-0.0.0.0	mdotm.com
 0.0.0.0	m.doubleclick.com
 0.0.0.0	m.doubleclick.net
 0.0.0.0	mdpparents.112.2o7.net
