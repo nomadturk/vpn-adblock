@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Oct 14 02:30:10 +03 2019
-# Total number of blocked hosts are: 58050
+# Ad blocking hosts generated Tue Oct 15 02:30:12 +03 2019
+# Total number of blocked hosts are: 58054
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -17052,6 +17052,7 @@
 0.0.0.0	ads19.focalink.com
 0.0.0.0	ads19.hpg.com.br
 0.0.0.0	ads1.admatic.com.tr
+0.0.0.0	ads1-adnow.com
 0.0.0.0	ads1.advance.de
 0.0.0.0	ads.1a-infosysteme.de
 0.0.0.0	ads1.ami-admin.com
@@ -18019,6 +18020,7 @@
 0.0.0.0	adserver.cz.cc
 0.0.0.0	adserver.dayrates.com
 0.0.0.0	adserver.dbusiness.com
+0.0.0.0	adserver.dca13.com
 0.0.0.0	adserver.digitalmedianet.com
 0.0.0.0	adserver.digitalpartners.com
 0.0.0.0	adserver.digitoday.com
@@ -30196,6 +30198,7 @@
 0.0.0.0	distortiveecynxpidy.download
 0.0.0.0	distractify-d.openx.net
 0.0.0.0	distrelec-02.webtrekk.net
+0.0.0.0	districtm.ca
 0.0.0.0	dis.us.criteo.com
 0.0.0.0	disy2s34euyqm.cloudfront.net
 0.0.0.0	divavillage.advertserve.com
@@ -42795,6 +42798,7 @@
 0.0.0.0	rhads.sv.publicus.com
 0.0.0.0	rhapsodespzamgepzf.download
 0.0.0.0	rhodonitexnwpvf.download
+0.0.0.0	rhombusads.com
 0.0.0.0	rh.revolvermaps.com
 0.0.0.0	rhtag.com
 0.0.0.0	rhvtt.voluumtrk.com
