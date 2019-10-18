@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Oct 18 02:30:11 +03 2019
-# Total number of blocked hosts are: 58058
+# Ad blocking hosts generated Sat Oct 19 02:30:12 +03 2019
+# Total number of blocked hosts are: 58059
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -47494,6 +47494,7 @@
 0.0.0.0	track.trademail.fr
 0.0.0.0	tracktrue.clicktrue.biz
 0.0.0.0	track.ultragaming.biz
+0.0.0.0	track.ultravpn.com
 0.0.0.0	track.untd.com
 0.0.0.0	track.v2.sslsecure1.com
 0.0.0.0	track.viewdeos.com
