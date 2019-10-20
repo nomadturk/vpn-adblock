@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun Oct 20 02:30:14 +03 2019
-# Total number of blocked hosts are: 58060
+# Ad blocking hosts generated Mon Oct 21 02:30:10 +03 2019
+# Total number of blocked hosts are: 58061
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -20751,6 +20751,7 @@
 0.0.0.0	alphonso.tv
 0.0.0.0	alpventures.bravejournal.com
 0.0.0.0	alsoknowsit.com
+0.0.0.0	als-svc.nytimes.com
 0.0.0.0	alt.bugsense.appspot.com
 0.0.0.0	alt.bugsense.com
 0.0.0.0	alternativos.iw-advertising.com
