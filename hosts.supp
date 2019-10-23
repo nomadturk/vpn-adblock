@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Oct 23 02:30:11 +03 2019
-# Total number of blocked hosts are: 58061
+# Ad blocking hosts generated Thu Oct 24 02:30:10 +03 2019
+# Total number of blocked hosts are: 58069
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -20478,6 +20478,7 @@
 0.0.0.0	aff.kinkondemand.com
 0.0.0.0	aff.letsbonus.com
 0.0.0.0	aff.lmgtfy.com
+0.0.0.0	afflow.amazonpresent.info
 0.0.0.0	affl.sucuri.net
 0.0.0.0	aff.marathonbet.com
 0.0.0.0	aff.mclick.mobi
@@ -22109,6 +22110,7 @@
 0.0.0.0	b2c-mlm.marketo.com
 0.0.0.0	b2fkj.voluumtrk.com
 0.0.0.0	b2.sitemeter.com
+0.0.0.0	b2u-system-err.icu
 0.0.0.0	b2wtd.voluumtrk.com
 0.0.0.0	b344-7507-e4c2-b742.reporo.net
 0.0.0.0	b365.2cnt.net
@@ -25894,6 +25896,7 @@
 0.0.0.0	cc.connextra.com
 0.0.0.0	c.cfjump.com
 0.0.0.0	c.chango.com
+0.0.0.0	c.channeltraffic.net
 0.0.0.0	c.chartboost.com
 0.0.0.0	cc.iwon.com
 0.0.0.0	c.cldlr.com
@@ -39829,6 +39832,7 @@
 0.0.0.0	offers.avazuscd.net
 0.0.0.0	offers.bitbop.com
 0.0.0.0	offers.bycontext.com
+0.0.0.0	offers.cloackp.com
 0.0.0.0	offerservice.go2cloud.org
 0.0.0.0	offersinternational.go2cloud.org
 0.0.0.0	offers.keynote.com
@@ -43531,6 +43535,7 @@
 0.0.0.0	sb44a.voluumtrk.com
 0.0.0.0	sba.about.co.kr
 0.0.0.0	sbdhealth.go2cloud.org
+0.0.0.0	s-bid.rmp.rakuten.com
 0.0.0.0	sb.monetate.net
 0.0.0.0	sbnationbidder-d.openx.net
 0.0.0.0	sbnc.hak.su
@@ -44353,6 +44358,7 @@
 0.0.0.0	simpleonlinemedia.go2cloud.org
 0.0.0.0	simpli.fi
 0.0.0.0	simplistssxshrgh.download
+0.0.0.0	s-imp.rmp.rakuten.com
 0.0.0.0	sim.thetrafficstat.net
 0.0.0.0	simyo.adclear.net
 0.0.0.0	sin1.g.adnxs.com
@@ -47471,6 +47477,7 @@
 0.0.0.0	track.scorpiointeractive.com
 0.0.0.0	track.scrillaspace.com
 0.0.0.0	track.searchignite.com
+0.0.0.0	track.searchiq.co
 0.0.0.0	track.securedvisit.com
 0.0.0.0	track.send.microad.jp
 0.0.0.0	track.seorate.ru
@@ -56152,6 +56159,7 @@
 0.0.0.0	www.oneandonlynetwork.com
 0.0.0.0	www.one-door.com
 0.0.0.0	www.onelouder.com
+0.0.0.0	www.onesafe-software.com
 0.0.0.0	www.onestat.com
 0.0.0.0	www.onestatfree.com
 0.0.0.0	www.onlineemailmarketing.com
