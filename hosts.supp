@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Oct 25 02:30:10 +03 2019
-# Total number of blocked hosts are: 58069
+# Ad blocking hosts generated Sat Oct 26 02:30:13 +03 2019
+# Total number of blocked hosts are: 58067
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -3555,7 +3555,6 @@
 0.0.0.0	adattract.go2cloud.org
 0.0.0.0	ad.auditude.com
 0.0.0.0	ad.au.doubleclick.net
-0.0.0.0	adback.co
 0.0.0.0	ad-balancer.at
 0.0.0.0	ad-balancer.net
 0.0.0.0	adbank.go2cloud.org
@@ -18729,7 +18728,6 @@
 0.0.0.0	ads.myx.net
 0.0.0.0	ads.naftemporiki.gr
 0.0.0.0	ads.narrowline.com
-0.0.0.0	ads.nationalgeographic.com
 0.0.0.0	ads.nationchannel.com
 0.0.0.0	adsnative.com
 0.0.0.0	ads.ncm.com
@@ -27398,7 +27396,6 @@
 0.0.0.0	commonwealth.riddler.com
 0.0.0.0	com-morningstar.netmng.com
 0.0.0.0	community.adlandpro.com
-0.0.0.0	com-optimize-mac.live
 0.0.0.0	compactbanner.com
 0.0.0.0	companiedhhplrdpp.download
 0.0.0.0	companydeep.go2affise.com
@@ -31088,6 +31085,7 @@
 0.0.0.0	elocumjobs.com
 0.0.0.0	eloqua.122.2o7.net
 0.0.0.0	eloqua.com
+0.0.0.0	elthamely.com
 0.0.0.0	eltiempocitytv.112.2o7.net
 0.0.0.0	eltiempocom.112.2o7.net
 0.0.0.0	eltrafiko.com
@@ -41527,7 +41525,6 @@
 0.0.0.0	prchecker.info
 0.0.0.0	pr-cy.ru
 0.0.0.0	prebid.districtm.ca
-0.0.0.0	precisioncounter.com
 0.0.0.0	precisionleads.go2cloud.org
 0.0.0.0	predictad.com
 0.0.0.0	predictivadvertising.com
@@ -42849,6 +42846,7 @@
 0.0.0.0	ri.revolvermaps.com
 0.0.0.0	ritogaga.com
 0.0.0.0	ritzykey.com
+0.0.0.0	ritzysponge.com
 0.0.0.0	rivasearch.com
 0.0.0.0	rivasearchpage.com
 0.0.0.0	riverdeep.112.2o7.net
