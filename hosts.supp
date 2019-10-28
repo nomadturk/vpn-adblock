@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Oct 28 02:30:13 +03 2019
-# Total number of blocked hosts are: 58067
+# Ad blocking hosts generated Tue Oct 29 02:30:12 +03 2019
+# Total number of blocked hosts are: 58073
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -1898,6 +1898,7 @@
 0.0.0.0	acbacb9c.ipt.aol.com
 0.0.0.0	a.cbc.ca
 0.0.0.0	ac.berlinonline.de
+0.0.0.0	acbsearch.com
 0.0.0.0	accelerator-media.com
 0.0.0.0	acceptable.a-ads.com
 0.0.0.0	access.amberathome.com
@@ -23705,6 +23706,7 @@
 0.0.0.0	blueadvertise.com
 0.0.0.0	bluecava.com
 0.0.0.0	bluechillies.us.intellitxt.com
+0.0.0.0	blueconic.com
 0.0.0.0	blueconic.net
 0.0.0.0	bluecutsystem.com
 0.0.0.0	blueflameelite.go2cloud.org
@@ -30213,6 +30215,7 @@
 0.0.0.0	d.jazzedcdn.com
 0.0.0.0	djlf5xdlz7m8m.cloudfront.net
 0.0.0.0	dj.renren.com
+0.0.0.0	djtfkakbufpwot.com
 0.0.0.0	dk1.siteimprove.com
 0.0.0.0	dk49j.voluumtrk.com
 0.0.0.0	dk4ywix.com
@@ -39186,6 +39189,7 @@
 0.0.0.0	ngxsx.voluumtrk.com
 0.0.0.0	nhhr6.voluumtrk.com
 0.0.0.0	nhl.112.2o7.net
+0.0.0.0	nhpfvdlbjg.com
 0.0.0.0	nht-2.extreme-dm.com
 0.0.0.0	nht-3.extreme-dm.com
 0.0.0.0	ni3.imlive.com
@@ -39350,6 +39354,7 @@
 0.0.0.0	n.popclck.org
 0.0.0.0	npot.co
 0.0.0.0	npoyv.voluumtrk.com
+0.0.0.0	npttech.com
 0.0.0.0	npvnf.voluumtrk.com
 0.0.0.0	npvos.com
 0.0.0.0	nqi5j.voluumtrk.com
@@ -41718,6 +41723,7 @@
 0.0.0.0	pronetadvertising.com
 0.0.0.0	pro-networks.us.intellitxt.com
 0.0.0.0	propellerads.com
+0.0.0.0	propellerclick.com
 0.0.0.0	propellerpops.com
 0.0.0.0	proper.io
 0.0.0.0	propermedia-d.openx.net
