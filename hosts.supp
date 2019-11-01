@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Nov 1 02:30:12 +03 2019
-# Total number of blocked hosts are: 58075
+# Ad blocking hosts generated Sat Nov 2 02:30:11 +03 2019
+# Total number of blocked hosts are: 58074
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -3556,6 +3556,7 @@
 0.0.0.0	adattract.go2cloud.org
 0.0.0.0	ad.auditude.com
 0.0.0.0	ad.au.doubleclick.net
+0.0.0.0	adback.co
 0.0.0.0	ad-balancer.at
 0.0.0.0	ad-balancer.net
 0.0.0.0	adbank.go2cloud.org
@@ -30215,7 +30216,6 @@
 0.0.0.0	d.jazzedcdn.com
 0.0.0.0	djlf5xdlz7m8m.cloudfront.net
 0.0.0.0	dj.renren.com
-0.0.0.0	djtfkakbufpwot.com
 0.0.0.0	dk1.siteimprove.com
 0.0.0.0	dk49j.voluumtrk.com
 0.0.0.0	dk4ywix.com
@@ -41701,7 +41701,6 @@
 0.0.0.0	promos.wealthymen.com
 0.0.0.0	promote.pair.com
 0.0.0.0	promo.thepornsurvey.com
-0.0.0.0	promotion-campaigns.com
 0.0.0.0	promotion.coreg.de
 0.0.0.0	promotionmaterial.betacash.com
 0.0.0.0	promotion.partnercash.com
