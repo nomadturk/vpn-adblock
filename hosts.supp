@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Nov 4 02:30:10 +03 2019
-# Total number of blocked hosts are: 58078
+# Ad blocking hosts generated Tue Nov 5 02:30:12 +03 2019
+# Total number of blocked hosts are: 58080
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -23579,6 +23579,7 @@
 0.0.0.0	biglinkext.xyz
 0.0.0.0	bigmobileads.com
 0.0.0.0	bigpond.122.2o7.net
+0.0.0.0	bigreal.org
 0.0.0.0	big.sddan.com
 0.0.0.0	bigsoccer.us.intellitxt.com
 0.0.0.0	bigstats.net
@@ -39134,6 +39135,7 @@
 0.0.0.0	newprose.bravejournal.com
 0.0.0.0	newrelic.com
 0.0.0.0	news4cars.com
+0.0.0.0	newsadsppush.com
 0.0.0.0	newsclic.ivwbox.de
 0.0.0.0	newsclicker.com
 0.0.0.0	newsday.122.2o7.net
