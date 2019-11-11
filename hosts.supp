@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Nov 11 02:30:12 +03 2019
-# Total number of blocked hosts are: 58081
+# Ad blocking hosts generated Tue Nov 12 02:30:11 +03 2019
+# Total number of blocked hosts are: 58082
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -21445,6 +21445,7 @@
 0.0.0.0	apparitorvlipqjiz.download
 0.0.0.0	app-authority.com
 0.0.0.0	app.beanstalkdata.com
+0.0.0.0	appboycdn.com
 0.0.0.0	appboy.com
 0.0.0.0	app.bronto.com
 0.0.0.0	appcache.admission.net
