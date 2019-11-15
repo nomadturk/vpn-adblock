@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Nov 15 02:30:11 +03 2019
-# Total number of blocked hosts are: 58084
+# Ad blocking hosts generated Sat Nov 16 02:30:14 +03 2019
+# Total number of blocked hosts are: 58088
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -18172,6 +18172,7 @@
 0.0.0.0	adservice.everyone.com
 0.0.0.0	adservice.everyone.net
 0.0.0.0	adservice.google.com
+0.0.0.0	adservice.google.com.mt
 0.0.0.0	adservi.com
 0.0.0.0	adserv.impactengine.com
 0.0.0.0	adserving03.epi.es
@@ -27342,6 +27343,7 @@
 0.0.0.0	collector.ksax.com
 0.0.0.0	collector.kstptv5.com
 0.0.0.0	collector.leaddyno.com
+0.0.0.0	collector-medium.lightstep.com
 0.0.0.0	collector-pxel3l4xih.perimeterx.net
 0.0.0.0	collector.savvyads.com
 0.0.0.0	collector.statowl.com
@@ -44380,7 +44382,6 @@
 0.0.0.0	sin1.g.adnxs.com
 0.0.0.0	sincerebuffalo.com
 0.0.0.0	sincerespy.com
-0.0.0.0	sinefight-skinesia.com
 0.0.0.0	sin.ero-advertising.com
 0.0.0.0	si.netmng.com
 0.0.0.0	sinettrk.com
@@ -44784,6 +44785,7 @@
 0.0.0.0	soundbeat.go2cloud.org
 0.0.0.0	soundslam.us.intellitxt.com
 0.0.0.0	sourceforgemedia-computing.t.domdex.com
+0.0.0.0	sourcepoint.vice.com
 0.0.0.0	sousquywpscd.download
 0.0.0.0	southcoasttodaycom.112.2o7.net
 0.0.0.0	southwestairlines.tt.omtrdc.net
@@ -44874,6 +44876,7 @@
 0.0.0.0	sponsors.thoughtsmedia.com
 0.0.0.0	sponsors.webosroundup.com
 0.0.0.0	spoods.rce.veeseo.com
+0.0.0.0	spoor-api.asia.nikkei.com
 0.0.0.0	sport1.wemfbox.ch
 0.0.0.0	sport5.checkm8.com
 0.0.0.0	sport5digital.checkm8.com
@@ -45875,6 +45878,7 @@
 0.0.0.0	suggest.infospace.com
 0.0.0.0	sugoicounter.com
 0.0.0.0	sulkybutter.com
+0.0.0.0	summerhamster.com
 0.0.0.0	summerobject.com
 0.0.0.0	summitbusinessmedia.112.2o7.net
 0.0.0.0	sumo.com
