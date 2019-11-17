@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun Nov 17 02:30:14 +03 2019
-# Total number of blocked hosts are: 58089
+# Ad blocking hosts generated Mon Nov 18 02:30:11 +03 2019
+# Total number of blocked hosts are: 58091
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -18085,6 +18085,7 @@
 0.0.0.0	adserver.mundo-service.de
 0.0.0.0	adserver.mylinea.com
 0.0.0.0	adserver.myownemail.com
+0.0.0.0	adservern2.host
 0.0.0.0	adserver.news.com
 0.0.0.0	adserver.news.com.au
 0.0.0.0	adserver.ngz-network.de
@@ -23477,6 +23478,7 @@
 0.0.0.0	bestmusic.2cnt.net
 0.0.0.0	bestoffers.activeshopper.com
 0.0.0.0	best-pr.info
+0.0.0.0	best-realgirl2.com
 0.0.0.0	bestsearch.com
 0.0.0.0	bestsearch.net
 0.0.0.0	best-top.ro
