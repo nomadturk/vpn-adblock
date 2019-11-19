@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Nov 19 02:30:10 +03 2019
-# Total number of blocked hosts are: 58152
+# Ad blocking hosts generated Wed Nov 20 02:30:10 +03 2019
+# Total number of blocked hosts are: 58151
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -25842,7 +25842,6 @@
 0.0.0.0	cashspace.com
 0.0.0.0	cashtrafic.com
 0.0.0.0	cashuniversity.go2cloud.org
-0.0.0.0	casinogames.com
 0.0.0.0	casinopays.com
 0.0.0.0	casinorewards.com
 0.0.0.0	casinotraffic.com
@@ -26168,7 +26167,6 @@
 0.0.0.0	cdn.doublepimpssl.com
 0.0.0.0	cdn.doubleverify.com
 0.0.0.0	cdn.downloaddabs.com
-0.0.0.0	cdn.dsultra.com
 0.0.0.0	cdn.dynamicyield.com
 0.0.0.0	cdn.earnify.com
 0.0.0.0	cdn.easy-ads.com
@@ -41569,6 +41567,7 @@
 0.0.0.0	ppp.voice2page.com
 0.0.0.0	pp-serve.newsinc.com
 0.0.0.0	ppsxqapwsurcoats.review
+0.0.0.0	pptraffic.offerspace.com
 0.0.0.0	pptrk.com
 0.0.0.0	p.pxl2015x1.com
 0.0.0.0	pq-direct.revsci.net
