@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Nov 25 02:30:11 +03 2019
-# Total number of blocked hosts are: 58227
+# Ad blocking hosts generated Tue Nov 26 02:30:20 +03 2019
+# Total number of blocked hosts are: 58230
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -26667,6 +26667,7 @@
 0.0.0.0	circuit.advertserve.com
 0.0.0.0	ciscosystemsinc.tt.omtrdc.net
 0.0.0.0	ciscowebex.112.2o7.net
+0.0.0.0	cision.com
 0.0.0.0	cistycsoyceif.download
 0.0.0.0	citi.bridgetrack.com
 0.0.0.0	citi.bridgetrack.com.21936.9128.302br.net
@@ -41810,6 +41811,7 @@
 0.0.0.0	promotionmaterial.betacash.com
 0.0.0.0	promotion.partnercash.com
 0.0.0.0	promotion.partnercash.de
+0.0.0.0	promotions-884485.c.cdn77.org
 0.0.0.0	promotions.betfred.com
 0.0.0.0	promotion.shirtinator.net
 0.0.0.0	promotions.iasbet.com
@@ -47864,6 +47866,7 @@
 0.0.0.0	trinitymirror-d.openx.net
 0.0.0.0	tr.interlake.net
 0.0.0.0	triolit.go2affise.com
+0.0.0.0	triptease.io
 0.0.0.0	triumphrat.us.intellitxt.com
 0.0.0.0	trivia2mobile.com
 0.0.0.0	trix.net
