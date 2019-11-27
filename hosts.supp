@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Nov 27 02:30:12 +03 2019
+# Ad blocking hosts generated Thu Nov 28 02:30:09 +03 2019
 # Total number of blocked hosts are: 58231
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -37514,6 +37514,7 @@
 0.0.0.0	marketing.hearstmagazines.nl
 0.0.0.0	marketing-issue.com
 0.0.0.0	marketing.kalahari.net
+0.0.0.0	marketing.net.brillen.de
 0.0.0.0	marketing.net.home24.de
 0.0.0.0	marketing.nyi.com
 0.0.0.0	marketing.nyi.net
@@ -47320,7 +47321,6 @@
 0.0.0.0	tracker.timesgroup.com
 0.0.0.0	tracker.trackerbox.com
 0.0.0.0	trackertracker.com
-0.0.0.0	tracker.trackerfix.com
 0.0.0.0	tracker.tradedoubler.com
 0.0.0.0	tracker.truehits.in.th
 0.0.0.0	tracker.truehits.net
