@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Nov 28 02:30:09 +03 2019
-# Total number of blocked hosts are: 58231
+# Ad blocking hosts generated Fri Nov 29 02:30:10 +03 2019
+# Total number of blocked hosts are: 58237
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -29693,6 +29693,7 @@
 0.0.0.0	dart.l.doubleclick.net
 0.0.0.0	das5ku9q.com
 0.0.0.0	daserste.ivwbox.de
+0.0.0.0	dashbida.com
 0.0.0.0	dashboard.chartboost.com
 0.0.0.0	dashboard.gumgum.com
 0.0.0.0	dashboard.qubitproducts.com
@@ -31416,6 +31417,7 @@
 0.0.0.0	es.optimost.com
 0.0.0.0	espdesign.com.au
 0.0.0.0	espn-ak.starwave.com
+0.0.0.0	espn.com.ssl.sc.omtrdc.net
 0.0.0.0	espndotcom.tt.omtrdc.net
 0.0.0.0	espolupracecz.go2cloud.org
 0.0.0.0	espotting.com
@@ -37875,6 +37877,7 @@
 0.0.0.0	medyanetads.com
 0.0.0.0	me.effectivemeasure.net
 0.0.0.0	meethotties.mobi
+0.0.0.0	meetrics.net
 0.0.0.0	meetupdev.122.2o7.net
 0.0.0.0	megacash.de
 0.0.0.0	megacash.warpnet.com.br
@@ -38338,6 +38341,7 @@
 0.0.0.0	mktg.actonsoftware.com
 0.0.0.0	mktgcdn.de.coremetrics.com
 0.0.0.0	mkto-k0029.com
+0.0.0.0	mktoresp.com
 0.0.0.0	ml314.com
 0.0.0.0	ml8m.com
 0.0.0.0	mlarmani.122.2o7.net
@@ -42889,6 +42893,7 @@
 0.0.0.0	revistaelite.com
 0.0.0.0	reviveads.faktor.bg
 0.0.0.0	revive.vkushti.tv
+0.0.0.0	revjet.com
 0.0.0.0	revlabs.go2cloud.org
 0.0.0.0	rev.lanistaads.com
 0.0.0.0	revlift.io
@@ -46093,6 +46098,7 @@
 0.0.0.0	svpro7.oewabox.at
 0.0.0.0	svr1.unicaondemand.com
 0.0.0.0	svsub.com
+0.0.0.0	sw88.espn.com
 0.0.0.0	swa.demdex.net
 0.0.0.0	swaggeredvflzknyhf.download
 0.0.0.0	swag.go2cloud.org
