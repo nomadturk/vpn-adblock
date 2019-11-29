@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Nov 29 02:30:10 +03 2019
+# Ad blocking hosts generated Sat Nov 30 02:30:13 +03 2019
 # Total number of blocked hosts are: 58237
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -1806,6 +1806,7 @@
 0.0.0.0	aa.voice2page.com
 0.0.0.0	aaxads.com
 0.0.0.0	aax.amazon-adsystem.com
+0.0.0.0	aaxdetect.com
 0.0.0.0	aax-eu.amazon-adsystem.com
 0.0.0.0	aax-eu-rtb.amazon-adsystem.com
 0.0.0.0	aax-fe.amazon-adsystem.com
@@ -17751,7 +17752,6 @@
 0.0.0.0	ads.crawler.com
 0.0.0.0	ads.creafi-online-media.com
 0.0.0.0	ads.creativelayers.de
-0.0.0.0	ads.creativematch.com
 0.0.0.0	ads.creative-serving.com
 0.0.0.0	ads.cricbuzz.com
 0.0.0.0	ads.crisppremium.com
@@ -19124,6 +19124,7 @@
 0.0.0.0	ads.proz.com
 0.0.0.0	ads.psd2html.com
 0.0.0.0	adspserving.com
+0.0.0.0	adspsp.com
 0.0.0.0	ads.pub-fit.com
 0.0.0.0	ads.publicdisgrace.com
 0.0.0.0	ads.publicidad.net
@@ -31181,7 +31182,6 @@
 0.0.0.0	emea-ukash.netmng.com
 0.0.0.0	emebo.com
 0.0.0.0	emebo.io
-0.0.0.0	emediate.dk
 0.0.0.0	emediate.eu
 0.0.0.0	emediate.se
 0.0.0.0	emerse.com
@@ -33673,6 +33673,7 @@
 0.0.0.0	googleadservices.com
 0.0.0.0	googleads.g.doubleclick.net
 0.0.0.0	google-analytics.com
+0.0.0.0	googleanalytics.com
 0.0.0.0	googlesyndication.com
 0.0.0.0	googletagmanager.com
 0.0.0.0	googletagservices.com
@@ -36164,7 +36165,6 @@
 0.0.0.0	justmovietrailers.us.intellitxt.com
 0.0.0.0	justpremium.com
 0.0.0.0	justredirect24.com
-0.0.0.0	justrelevant.com
 0.0.0.0	justsaywow.com
 0.0.0.0	justuno.com
 0.0.0.0	justwebads.com
