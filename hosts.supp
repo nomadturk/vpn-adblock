@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun Dec 1 02:30:09 +03 2019
-# Total number of blocked hosts are: 58238
+# Ad blocking hosts generated Mon Dec 2 02:30:10 +03 2019
+# Total number of blocked hosts are: 58240
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -31491,6 +31491,7 @@
 0.0.0.0	eucainemkjwgw.download
 0.0.0.0	eue.collect-opnet.com
 0.0.0.0	eu-gmtdmp.gd1.mookie1.com
+0.0.0.0	eule1.pmu.fr
 0.0.0.0	eulerian.net
 0.0.0.0	eu.link.decideinteractive.com
 0.0.0.0	eulogiumalezquc.download
@@ -37427,6 +37428,7 @@
 0.0.0.0	mail6.surf-town.net
 0.0.0.0	mail7.surf-town.net
 0.0.0.0	mail.adsender.us
+0.0.0.0	mail-ads.google.com
 0.0.0.0	mailb1.surf-town.net
 0.0.0.0	mailb2.surf-town.net
 0.0.0.0	mailb3.surf-town.net
