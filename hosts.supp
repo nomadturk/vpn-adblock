@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Dec 3 02:30:18 +03 2019
+# Ad blocking hosts generated Wed Dec 4 02:30:10 +03 2019
 # Total number of blocked hosts are: 58240
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -3664,7 +3664,6 @@
 0.0.0.0	adcdnx.com
 0.0.0.0	adcell.de
 0.0.0.0	adcel.vrvm.com
-0.0.0.0	ad-center.com
 0.0.0.0	adcenter.mdf.se
 0.0.0.0	adcenter.net
 0.0.0.0	adcentre.it-advanced.com
@@ -48501,6 +48500,7 @@
 0.0.0.0	udm.ri9.scorecardresearch.com
 0.0.0.0	udm.scorecardresearch.com
 0.0.0.0	udmserve.net
+0.0.0.0	udncoeln.com
 0.0.0.0	udns1.newdotnet.net
 0.0.0.0	udorik.com
 0.0.0.0	uebadu.com
