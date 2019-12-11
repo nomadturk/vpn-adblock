@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Dec 11 02:30:10 +03 2019
+# Ad blocking hosts generated Thu Dec 12 02:30:10 +03 2019
 # Total number of blocked hosts are: 58235
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
@@ -19178,6 +19178,7 @@
 0.0.0.0	ads.resoom.de
 0.0.0.0	ads.retirementjobs.com
 0.0.0.0	adsrevenue.net
+0.0.0.0	ads.revjet.com
 0.0.0.0	ads.revmob.com
 0.0.0.0	ads.revsci.net
 0.0.0.0	ads.reward.rakuten.jp
@@ -42889,7 +42890,6 @@
 0.0.0.0	revistaelite.com
 0.0.0.0	reviveads.faktor.bg
 0.0.0.0	revive.vkushti.tv
-0.0.0.0	revjet.com
 0.0.0.0	revlabs.go2cloud.org
 0.0.0.0	rev.lanistaads.com
 0.0.0.0	revlift.io
