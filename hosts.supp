@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun Dec 15 02:30:14 +03 2019
-# Total number of blocked hosts are: 57908
+# Ad blocking hosts generated Mon Dec 16 02:30:10 +03 2019
+# Total number of blocked hosts are: 57910
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -20846,6 +20846,7 @@
 0.0.0.0	analytics.cnd-motionmedia.de
 0.0.0.0	analytics.cocolog-nifty.com
 0.0.0.0	analytics.codigo.se
+0.0.0.0	analytics.cohesionapps.com
 0.0.0.0	analytics.conmio.com
 0.0.0.0	analytics.convertlanguage.com
 0.0.0.0	analytics.cynapse.com
@@ -23522,6 +23523,7 @@
 0.0.0.0	bjvim.voluumtrk.com
 0.0.0.0	b.kavanga.ru
 0.0.0.0	bkrntr.netmng.com
+0.0.0.0	bkrtx.com
 0.0.0.0	blabbermouth.us.intellitxt.com
 0.0.0.0	blackchek.popunder.ru
 0.0.0.0	blackfalcon5.net
