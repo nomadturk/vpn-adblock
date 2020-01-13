@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Jan 13 02:30:12 +03 2020
-# Total number of blocked hosts are: 66259
+# Ad blocking hosts generated Tue Jan 14 02:30:11 +03 2020
+# Total number of blocked hosts are: 66255
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -23023,7 +23023,6 @@
 0.0.0.0	app.crittercism.com
 0.0.0.0	app.crowdscience.com
 0.0.0.0	app.datorama.com
-0.0.0.0	app-de.onetrust.com
 0.0.0.0	app.desktop.ak-networks.com
 0.0.0.0	appdeumext.tdameritrade.com
 0.0.0.0	appdiscovery.apptap.com
@@ -23124,7 +23123,6 @@
 0.0.0.0	appodeal-east-bidder.manage.com
 0.0.0.0	appodealx-eu.appgrowth.com
 0.0.0.0	appolicious.com
-0.0.0.0	app.onetrust.com
 0.0.0.0	app.openstreamapp.com
 0.0.0.0	app.optimizely.com
 0.0.0.0	app.optinmonster.com
@@ -30133,7 +30131,6 @@
 0.0.0.0	config-ltvp.inmobi.com
 0.0.0.0	config.mobile.wxbug.com
 0.0.0.0	config.otherlevels.com
-0.0.0.0	config.outturner.com
 0.0.0.0	config.parsely.com
 0.0.0.0	config.safedk.com
 0.0.0.0	config.samsungads.com
@@ -36991,7 +36988,6 @@
 0.0.0.0	geoloc9.geovisite.com
 0.0.0.0	geoloc.appscion.com
 0.0.0.0	geo-locate.appspot.com
-0.0.0.0	geolocation-dev.onetrust.com
 0.0.0.0	geolocation.onetrust.com
 0.0.0.0	geolocation.t-online.de
 0.0.0.0	geo.metronews.ca
