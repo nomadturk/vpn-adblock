@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Jan 15 02:30:10 +03 2020
-# Total number of blocked hosts are: 66255
+# Ad blocking hosts generated Thu Jan 16 02:30:10 +03 2020
+# Total number of blocked hosts are: 66168
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -28023,7 +28023,6 @@
 0.0.0.0	cdm-d.openx.net
 0.0.0.0	cdn01.static.adfalcon.com
 0.0.0.0	cdn-01.yumenetworks.com
-0.0.0.0	cdn0.forter.com
 0.0.0.0	cdn0.mobmore.com
 0.0.0.0	cdn-0.pics.dvdcdn.com
 0.0.0.0	cdn0.puata.info
@@ -28105,7 +28104,6 @@
 0.0.0.0	cdn3.appnext.com
 0.0.0.0	cdn3.doubleverify.com
 0.0.0.0	cdn3.emediate.eu
-0.0.0.0	cdn3.forter.com
 0.0.0.0	cdn3.kovla.com
 0.0.0.0	cdn.3lift.com
 0.0.0.0	cdn3.mobile.contentdef.com
@@ -28114,13 +28112,11 @@
 0.0.0.0	cdn3-ref.landing.comcontent.net
 0.0.0.0	cdn3.sponsorpay.com
 0.0.0.0	cdn3.userzoom.com
-0.0.0.0	cdn46.forter.com
 0.0.0.0	cdn4.admatic.com.tr
 0.0.0.0	cdn4.bad-credit-cdn.com
 0.0.0.0	cdn4.buysellads.net
 0.0.0.0	cdn4.crispadvertising.com
 0.0.0.0	cdn4.deals-discounts-codes.com
-0.0.0.0	cdn4.forter.com
 0.0.0.0	cdn4.mxpnl.com
 0.0.0.0	cdn4.psdvault.com
 0.0.0.0	cdn4-ref.landing.comcontent.net
@@ -28130,7 +28126,6 @@
 0.0.0.0	cdn5.admatic.com.tr
 0.0.0.0	cdn5.bad-credit-cdn.com
 0.0.0.0	cdn5.deals-discounts-codes.com
-0.0.0.0	cdn5.forter.com
 0.0.0.0	cdn5.js.ad.dotandad.com
 0.0.0.0	cdn5.onthe.io
 0.0.0.0	cdn5.psdvault.com
@@ -28150,8 +28145,6 @@
 0.0.0.0	cdn8.crispadvertising.com
 0.0.0.0	cdn.8digits.com
 0.0.0.0	cdn8.emediate.eu
-0.0.0.0	cdn8.forter.com
-0.0.0.0	cdn9.forter.com
 0.0.0.0	cdn-a2-ncl.optimizely.com
 0.0.0.0	cdn.accelerator.arsdev.net
 0.0.0.0	cdn.accengage.com
@@ -28422,7 +28415,6 @@
 0.0.0.0	cdn.firstlook.com
 0.0.0.0	cdn.flashtalking.com
 0.0.0.0	cdn.flurry.com
-0.0.0.0	cdn.forter.com
 0.0.0.0	cdn.fotoable.com
 0.0.0.0	cdn.fqtag.com
 0.0.0.0	cdn.frestacero.com
@@ -35782,7 +35774,6 @@
 0.0.0.0	formula-api.adtech.de
 0.0.0.0	fornax.iad.appboy.com
 0.0.0.0	forskning.tns-cs.net
-0.0.0.0	forter.com
 0.0.0.0	fortpush.com
 0.0.0.0	fortunecity.us.intellitxt.com
 0.0.0.0	forum.adspaces.ero-advertising.com
@@ -37077,7 +37068,6 @@
 0.0.0.0	gg.hit.gemius.pl
 0.0.0.0	ggi.go2cloud.org
 0.0.0.0	ggimg.tapas.net
-0.0.0.0	gg.kp2.forter.com
 0.0.0.0	gg.meitu.com
 0.0.0.0	gg.mob.vendimob.pl
 0.0.0.0	ggo.directrev.com
@@ -40692,14 +40682,11 @@
 0.0.0.0	korea.inmobi.com
 0.0.0.0	kosoft-ads.com
 0.0.0.0	kostenloseanzeigen.momentblick.de
-0.0.0.0	kp1.forter.com
-0.0.0.0	kp2.forter.com
 0.0.0.0	kpcrw.voluumtrk.com
 0.0.0.0	kpdxchvxydeepest.review
 0.0.0.0	kpe75.voluumtrk.com
 0.0.0.0	kpicentral.com
 0.0.0.0	kpopstarz.us.intellitxt.com
-0.0.0.0	kpstat.forter.com
 0.0.0.0	kqqfxfortlets.review
 0.0.0.0	kqram.voluumtrk.com
 0.0.0.0	kr-adimage.lycos.co.kr
@@ -44090,7 +44077,6 @@
 0.0.0.0	native.clickyab.com
 0.0.0.0	native.propellerads.com
 0.0.0.0	native.propellerclick.com
-0.0.0.0	nativepushclient-cluster1.pusher.com
 0.0.0.0	nativesdks.mparticle.com
 0.0.0.0	native.sharethrough.com
 0.0.0.0	nativespot.com
@@ -44757,7 +44743,6 @@
 0.0.0.0	nuggad.net
 0.0.0.0	nuggad.nuggad.net
 0.0.0.0	nugly.barginginfrance.net
-0.0.0.0	null.cdn4.forter.com
 0.0.0.0	null.iad.appboy.com
 0.0.0.0	numbers.md
 0.0.0.0	numb.hotshare.biz
@@ -51430,61 +51415,6 @@
 0.0.0.0	sociaplus.com
 0.0.0.0	sociomantic.com
 0.0.0.0	socitm.govmetric.com
-0.0.0.0	sock10-us2.pusher.com
-0.0.0.0	sock114-mt1.pusher.com
-0.0.0.0	sock117-mt1.pusher.com
-0.0.0.0	sock118-mt1.pusher.com
-0.0.0.0	sock119-mt1.pusher.com
-0.0.0.0	sock11-us2.pusher.com
-0.0.0.0	sock120-mt1.pusher.com
-0.0.0.0	sock121-mt1.pusher.com
-0.0.0.0	sock122-mt1.pusher.com
-0.0.0.0	sock123-mt1.pusher.com
-0.0.0.0	sock126-mt1.pusher.com
-0.0.0.0	sock127-mt1.pusher.com
-0.0.0.0	sock128-mt1.pusher.com
-0.0.0.0	sock134-mt1.pusher.com
-0.0.0.0	sock135-mt1.pusher.com
-0.0.0.0	sock136-mt1.pusher.com
-0.0.0.0	sock137-mt1.pusher.com
-0.0.0.0	sock138-mt1.pusher.com
-0.0.0.0	sock13-us2.pusher.com
-0.0.0.0	sock141-mt1.pusher.com
-0.0.0.0	sock142-mt1.pusher.com
-0.0.0.0	sock143-mt1.pusher.com
-0.0.0.0	sock144-mt1.pusher.com
-0.0.0.0	sock145-mt1.pusher.com
-0.0.0.0	sock146-mt1.pusher.com
-0.0.0.0	sock147-mt1.pusher.com
-0.0.0.0	sock148-mt1.pusher.com
-0.0.0.0	sock149-mt1.pusher.com
-0.0.0.0	sock14-us2.pusher.com
-0.0.0.0	sock150-mt1.pusher.com
-0.0.0.0	sock151-mt1.pusher.com
-0.0.0.0	sock152-mt1.pusher.com
-0.0.0.0	sock153-mt1.pusher.com
-0.0.0.0	sock154-mt1.pusher.com
-0.0.0.0	sock155-mt1.pusher.com
-0.0.0.0	sock156-mt1.pusher.com
-0.0.0.0	sock157-mt1.pusher.com
-0.0.0.0	sock158-mt1.pusher.com
-0.0.0.0	sock159-mt1.pusher.com
-0.0.0.0	sock160-mt1.pusher.com
-0.0.0.0	sock35-goguardian.pusher.com
-0.0.0.0	sock44-goguardian.pusher.com
-0.0.0.0	sock45-goguardian.pusher.com
-0.0.0.0	sock47-goguardian.pusher.com
-0.0.0.0	sock48-goguardian.pusher.com
-0.0.0.0	sock49-goguardian.pusher.com
-0.0.0.0	sock50-eu.pusher.com
-0.0.0.0	sock50-goguardian.pusher.com
-0.0.0.0	sock51-eu.pusher.com
-0.0.0.0	sock51-goguardian.pusher.com
-0.0.0.0	sock52-eu.pusher.com
-0.0.0.0	sock52-goguardian.pusher.com
-0.0.0.0	sock53-goguardian.pusher.com
-0.0.0.0	sock54-goguardian.pusher.com
-0.0.0.0	sock55-goguardian.pusher.com
 0.0.0.0	socketio-dev.taplytics.com
 0.0.0.0	socketio.taplytics.com
 0.0.0.0	s.o-clk.com
@@ -54035,13 +53965,6 @@
 0.0.0.0	timeinc-d.openx.net
 0.0.0.0	timeinc.trc.taboola.com
 0.0.0.0	timelife.122.2o7.net
-0.0.0.0	timeline44-clientstats1.pusher.com
-0.0.0.0	timeline46-clientstats1.pusher.com
-0.0.0.0	timeline47-clientstats1.pusher.com
-0.0.0.0	timeline48-clientstats1.pusher.com
-0.0.0.0	timeline49-clientstats1.pusher.com
-0.0.0.0	timeline51-clientstats1.pusher.com
-0.0.0.0	timeline52-clientstats1.pusher.com
 0.0.0.0	timeoutcommunications.122.2o7.net
 0.0.0.0	timepeople.122.207.net
 0.0.0.0	timepeople.122.2o7.net
@@ -61429,10 +61352,7 @@
 0.0.0.0	ws9.surf-town.net
 0.0.0.0	ws.abbp1.pw
 0.0.0.0	ws.amazon.com
-0.0.0.0	ws-ap1.pusher.com
-0.0.0.0	ws-ap2.pusher.com
 0.0.0.0	ws-api.adtech.de
-0.0.0.0	ws-appfolio.pusher.com
 0.0.0.0	wsb1.surf-town.net
 0.0.0.0	wsb2.surf-town.net
 0.0.0.0	wsb3.surf-town.net
@@ -61463,14 +61383,9 @@
 0.0.0.0	wsc1.webspectator.com
 0.0.0.0	wsc.ehost-services.com
 0.0.0.0	wsdk-files.webengage.com
-0.0.0.0	ws-draftkingseu.pusher.com
-0.0.0.0	ws-draftkings.pusher.com
 0.0.0.0	ws-eu.amazon-adsystem.com
-0.0.0.0	ws-eu.pusher.com
 0.0.0.0	wsg.abbp1.pw
-0.0.0.0	ws-goguardian.pusher.com
 0.0.0.0	w.sharethis.com
-0.0.0.0	ws-helpscout.pusher.com
 0.0.0.0	w.shoopadoo.com
 0.0.0.0	wsi1.surf-town.net
 0.0.0.0	ws.kebapp.co
@@ -61491,7 +61406,6 @@
 0.0.0.0	wsstatic.govmetric.com
 0.0.0.0	ws.tapjoyads.com
 0.0.0.0	wstat.wibiya.com
-0.0.0.0	ws-us2.pusher.com
 0.0.0.0	wsw1.surf-town.net
 0.0.0.0	wsw2.surf-town.net
 0.0.0.0	wsw3.surf-town.net
@@ -61504,7 +61418,6 @@
 0.0.0.0	ws-widget-lb-1.subiz.com
 0.0.0.0	ws-widget-lb-2.subiz.com
 0.0.0.0	ws.yellowpages.ca
-0.0.0.0	ws-younow.pusher.com
 0.0.0.0	wt01.webtrekk.net
 0.0.0.0	wt10.haote.com
 0.0.0.0	wta.ero-advertising.com
