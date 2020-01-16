@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Jan 16 02:30:10 +03 2020
-# Total number of blocked hosts are: 66168
+# Ad blocking hosts generated Fri Jan 17 02:30:13 +03 2020
+# Total number of blocked hosts are: 66177
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -638,6 +638,7 @@
 0.0.0.0	1c6e2.v.fwmrm.net
 0.0.0.0	1ca.cqcounter.com
 0.0.0.0	1cash.net
+0.0.0.0	1cef.playfabapi.com
 0.0.0.0	1cgi.hitbox.com
 0.0.0.0	1.chipde.damoh.schneevonmorgen.com
 0.0.0.0	1clickscpa.go2cloud.org
@@ -2500,7 +2501,6 @@
 0.0.0.0	a.cbc.ca
 0.0.0.0	ac.berlinonline.de
 0.0.0.0	accelerator-media.com
-0.0.0.0	accelifyhelp.zendesk.com
 0.0.0.0	access.adblox.net
 0.0.0.0	access.amberathome.com
 0.0.0.0	access.conversantmedia.com
@@ -20029,6 +20029,7 @@
 0.0.0.0	ads.senddroid.com
 0.0.0.0	ads.seniorfriendfinder.com
 0.0.0.0	ads.servebom.com
+0.0.0.0	ads.sessiongames.com
 0.0.0.0	ads.sexandsubmission.com
 0.0.0.0	ads.sex.com
 0.0.0.0	ads.sexier.com
@@ -22680,6 +22681,7 @@
 0.0.0.0	api.lazyswipe.com
 0.0.0.0	api.leadbolt.net
 0.0.0.0	api.leadpages.io
+0.0.0.0	api.leanplum.com
 0.0.0.0	api.life.lovetapmobile.com
 0.0.0.0	api.lijit.com
 0.0.0.0	api.linkz.net
@@ -22981,6 +22983,7 @@
 0.0.0.0	appad-api-02.perfectcorp.com
 0.0.0.0	app.adapt.io
 0.0.0.0	app-adforce.jp
+0.0.0.0	app.adjust.com
 0.0.0.0	app.adjust.io
 0.0.0.0	app.adroll.com
 0.0.0.0	app.adsbrook.com
@@ -28707,6 +28710,7 @@
 0.0.0.0	cdn.ziffstatic.com
 0.0.0.0	cdn.zopim.com
 0.0.0.0	c.domob.cn
+0.0.0.0	cdp.cloud.unity3d.com
 0.0.0.0	cdr0b.voluumtrk.com
 0.0.0.0	cdreviews.us.intellitxt.com
 0.0.0.0	cdrinfo.us.intellitxt.com
@@ -30130,6 +30134,7 @@
 0.0.0.0	config.sdk.wiman.io
 0.0.0.0	configs.nixozz.com
 0.0.0.0	config.tremorhub.com
+0.0.0.0	config.uca.cloud.unity3d.com
 0.0.0.0	config.unityads.unity3d.com
 0.0.0.0	configuration.ttpsdk.info
 0.0.0.0	configusa.veinteractive.com
@@ -34530,7 +34535,6 @@
 0.0.0.0	engagement.inmarket.com
 0.0.0.0	engage.morespeck.com
 0.0.0.0	engage-network.influencemobile.com
-0.0.0.0	engagenysupport.zendesk.com
 0.0.0.0	engage-postbacks.influencemobile.com
 0.0.0.0	engageya.com
 0.0.0.0	engine2.adzerk.net
@@ -36391,6 +36395,7 @@
 0.0.0.0	freedownloadmanager.uk.intellitxt.com
 0.0.0.0	freefblikes.phpnet.us
 0.0.0.0	freeforumsorg.skimlinks.com
+0.0.0.0	freegeoip.com
 0.0.0.0	freegeoip.net
 0.0.0.0	freeimghost.trafflow.com
 0.0.0.0	free.livejasmin.com
@@ -39458,6 +39463,7 @@
 0.0.0.0	inapi.posst.co
 0.0.0.0	in-appadvertising.com
 0.0.0.0	inapp.nixozz.com
+0.0.0.0	inapps.appsflyer.com
 0.0.0.0	in.appserver-ap.com
 0.0.0.0	in.appserver-cp.com
 0.0.0.0	inapps.moengage.com
@@ -40856,6 +40862,7 @@
 0.0.0.0	launch.adserver.yahoo.com
 0.0.0.0	launchbit.com
 0.0.0.0	launchermsg.3g.cn
+0.0.0.0	launches.appsflyer.com
 0.0.0.0	laurel.macrovision.com
 0.0.0.0	laurel.rovicorp.com
 0.0.0.0	lavanetwork.net
@@ -42683,6 +42690,7 @@
 0.0.0.0	metopesjdsrau.download
 0.0.0.0	metric-agent.i10c.net
 0.0.0.0	metric.allrecipes.com
+0.0.0.0	metric-android-am.road404.com
 0.0.0.0	metric.angieslist.com
 0.0.0.0	metrica.yandex.by
 0.0.0.0	metrica.yandex.com
@@ -63737,6 +63745,7 @@
 0.0.0.0	www.leadingedgecash.com
 0.0.0.0	www.leadlander.com
 0.0.0.0	www.leadtrackgo.com
+0.0.0.0	www.leanplum.com
 0.0.0.0	www.leastsuuhyh.download
 0.0.0.0	www.lecternxqlgvbl.download
 0.0.0.0	www.leeringsmxcgbra.download
