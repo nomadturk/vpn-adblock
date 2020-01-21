@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Jan 21 02:30:17 +03 2020
-# Total number of blocked hosts are: 66176
+# Ad blocking hosts generated Wed Jan 22 02:30:11 +03 2020
+# Total number of blocked hosts are: 66171
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -22559,7 +22559,6 @@
 0.0.0.0	api.bugfender.com
 0.0.0.0	api.bugly.qq.com
 0.0.0.0	api.bugsee.com
-0.0.0.0	api.bugsnag.com
 0.0.0.0	api-cache.adsnative.com
 0.0.0.0	api.c.avazunativeads.com
 0.0.0.0	api-cdn.mypoints.com
@@ -22749,7 +22748,6 @@
 0.0.0.0	api.parrable.com
 0.0.0.0	api.parse.com
 0.0.0.0	api.parsely.com
-0.0.0.0	api.particle.io
 0.0.0.0	api.permutive.com
 0.0.0.0	api.personali.com
 0.0.0.0	api.perzonalization.com
@@ -23005,7 +23003,6 @@
 0.0.0.0	app.bronto.com
 0.0.0.0	app.bugfender.com
 0.0.0.0	app.bugreplay.com
-0.0.0.0	app.bugsnag.com
 0.0.0.0	appcache.admission.net
 0.0.0.0	app.cision.com
 0.0.0.0	appclick.co
@@ -44609,7 +44606,6 @@
 0.0.0.0	notify.adleadevent.com
 0.0.0.0	notifyback-va.isnssdk.com
 0.0.0.0	notify.bugsnag.appstore.a2z.com
-0.0.0.0	notify.bugsnag.com
 0.0.0.0	notify.mgid.com
 0.0.0.0	notify.nuviad.com
 0.0.0.0	nova.collect.igodigital.com
@@ -50670,7 +50666,6 @@
 0.0.0.0	serw.myroitracking.com
 0.0.0.0	seselisgqpobnny.download
 0.0.0.0	sessionm.com
-0.0.0.0	sessions.bugsnag.com
 0.0.0.0	sessions.mobileroadie.com
 0.0.0.0	session-tracker.badcreditloans.com
 0.0.0.0	sestat.baidu.com
