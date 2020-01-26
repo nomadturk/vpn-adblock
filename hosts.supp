@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun Jan 26 02:30:14 +03 2020
-# Total number of blocked hosts are: 65358
+# Ad blocking hosts generated Mon Jan 27 02:30:11 +03 2020
+# Total number of blocked hosts are: 65351
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -41704,7 +41704,6 @@
 0.0.0.0	maps.amung.us
 0.0.0.0	mapscom2.112.2o7.net
 0.0.0.0	map.sddan.com
-0.0.0.0	maps.locationiq.com
 0.0.0.0	maps.locuslabs.com
 0.0.0.0	maps.netster.com
 0.0.0.0	mapstats.blogflux.com
@@ -48145,7 +48144,6 @@
 0.0.0.0	rest.dynamicyield.com
 0.0.0.0	rest.iad-01.braze.com
 0.0.0.0	rest.iad-03.braze.com
-0.0.0.0	rest.locategy.com
 0.0.0.0	rest.mobilerealtyapps.com
 0.0.0.0	restoredchurchofgod.112.2o7.net
 0.0.0.0	restore-pc.com
@@ -53224,10 +53222,6 @@
 0.0.0.0	tigertext.com
 0.0.0.0	tikivn.api.sociaplus.com
 0.0.0.0	tikrailijorj.com
-0.0.0.0	tile0.locatienet.com
-0.0.0.0	tile1.locatienet.com
-0.0.0.0	tile2.locatienet.com
-0.0.0.0	tile3.locatienet.com
 0.0.0.0	tile-api.inrix.com
 0.0.0.0	tileswan.cmcm.com
 0.0.0.0	til.go2cloud.org
@@ -55402,7 +55396,6 @@
 0.0.0.0	us03.lockview.cn
 0.0.0.0	us0.adlibr.com
 0.0.0.0	us-1.gladly.com
-0.0.0.0	us1.locationiq.com
 0.0.0.0	us1.siteimprove.com
 0.0.0.0	us1.splicky.com
 0.0.0.0	us.2.cqcounter.com
