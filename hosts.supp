@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Jan 30 02:30:11 +03 2020
-# Total number of blocked hosts are: 65351
+# Ad blocking hosts generated Fri Jan 31 02:30:11 +03 2020
+# Total number of blocked hosts are: 65348
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -22510,7 +22510,6 @@
 0.0.0.0	api.exc.mob.com
 0.0.0.0	api-ext.mediav.com
 0.0.0.0	api.factual.com
-0.0.0.0	api.finanzen.immobilienscout24.de
 0.0.0.0	api.flicktweets.com
 0.0.0.0	api.flurry.com
 0.0.0.0	api.flyertown.ca
@@ -22606,7 +22605,6 @@
 0.0.0.0	api.mobilearts.io
 0.0.0.0	api.mobilebridge.com
 0.0.0.0	api.mobileday.com
-0.0.0.0	api.mobile.immobilienscout24.de
 0.0.0.0	api.mobilewareinc.com
 0.0.0.0	api.mobitech-content.xyz
 0.0.0.0	api.moblink.mob.com
@@ -22669,7 +22667,6 @@
 0.0.0.0	api.radar.io
 0.0.0.0	apir.direct-tap.com
 0.0.0.0	api.rec.mob.com
-0.0.0.0	api.recommendation.immobilienscout24.de
 0.0.0.0	api.recorder.duapps.com
 0.0.0.0	api.redshell.io
 0.0.0.0	api.restartad.com
