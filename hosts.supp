@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Jan 31 02:30:11 +03 2020
-# Total number of blocked hosts are: 65348
+# Ad blocking hosts generated Sat Feb 1 02:30:11 +03 2020
+# Total number of blocked hosts are: 65366
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -1318,6 +1318,8 @@
 0.0.0.0	30913.content.swrve.com
 0.0.0.0	309.bitterstrawberry.com
 0.0.0.0	30klc.voluumtrk.com
+0.0.0.0	31026.api.swrve.com
+0.0.0.0	31026.content.swrve.com
 0.0.0.0	3130320.fls.doubleclick.net
 0.0.0.0	31335.hittail.com
 0.0.0.0	314.hittail.com
@@ -25721,6 +25723,7 @@
 0.0.0.0	botd2.wordpress.com
 0.0.0.0	botd.wordpress.com
 0.0.0.0	bottle-brush.tagboard.com.herokudns.com
+0.0.0.0	bot.whatismyipaddress.com
 0.0.0.0	botw.topbucks.com
 0.0.0.0	bounce.emxdgt.com
 0.0.0.0	bounce.exacttarget.com
@@ -28528,6 +28531,7 @@
 0.0.0.0	cdn.visiblemeasures.com
 0.0.0.0	cdn.vlexokrako.com
 0.0.0.0	cdn.w55c.net
+0.0.0.0	cdn-webview-pge.unityads.unity3d.com
 0.0.0.0	cdnwidget.com
 0.0.0.0	cdn.widgets.webengage.com
 0.0.0.0	cdn.wigetmedia.com
@@ -28637,6 +28641,7 @@
 0.0.0.0	ceskydomovalias.ngs.modry.cz
 0.0.0.0	cetrk.com
 0.0.0.0	cetus.iad-03.braze.com
+0.0.0.0	c.evidon.com
 0.0.0.0	c-evt.moatads.com
 0.0.0.0	cf33b.voluumtrk.com
 0.0.0.0	c.f5mtrack.com
@@ -30135,6 +30140,7 @@
 0.0.0.0	conversion-pixel.invitemedia.com
 0.0.0.0	conversionruler.com
 0.0.0.0	conversions.adaptv.advertising.com
+0.0.0.0	conversions.appsflyer.com
 0.0.0.0	conversions.rts.doublepimp.com
 0.0.0.0	convert.bounceexchange.com
 0.0.0.0	convertglobal.s3.amazonaws.com
@@ -32527,6 +32533,7 @@
 0.0.0.0	daua.ero-advertising.com
 0.0.0.0	daudc.voluumtrk.com
 0.0.0.0	d.audienceiq.com
+0.0.0.0	dau.fyber.com
 0.0.0.0	dava.ero-advertising.com
 0.0.0.0	daversion4.digitalbrandsinc.netdna-cdn.com
 0.0.0.0	daviik.iad-03.braze.com
@@ -34742,6 +34749,7 @@
 0.0.0.0	events.avantisvideo.com
 0.0.0.0	events.boomtrain.com
 0.0.0.0	events.branch.io
+0.0.0.0	events.browsiprod.com
 0.0.0.0	events.cid.samba.tv
 0.0.0.0	events-collector.spot.im
 0.0.0.0	event.scorecardresearch.com
@@ -37624,6 +37632,7 @@
 0.0.0.0	hbopenbid.pubmatic.com
 0.0.0.0	hbopenbid-sgc.pubmatic.com
 0.0.0.0	hbopenbid-sg.pubmatic.com
+0.0.0.0	hbsdk-config.log.smaato.net
 0.0.0.0	hb.undertone.com
 0.0.0.0	hb-us.adtech.advertising.com
 0.0.0.0	hb.vntsm.com
@@ -39523,6 +39532,7 @@
 0.0.0.0	ip-182-50-129-181.ip.secureserver.net
 0.0.0.0	ip2.casalemedia.com
 0.0.0.0	ipacc1.adtech.fr
+0.0.0.0	ip-api.com
 0.0.0.0	ipa.pushwoosh.com
 0.0.0.0	ip.casalemedia.com
 0.0.0.0	ipc.chtah.com
@@ -42192,6 +42202,7 @@
 0.0.0.0	mediation1.apptornado.com
 0.0.0.0	mediation.adnxs.com
 0.0.0.0	mediation.adpushup.com
+0.0.0.0	mediation.fyber.com
 0.0.0.0	mediation-sdk.hyprmx.com
 0.0.0.0	media.tipjunkie.com
 0.0.0.0	mediatisedevkrumfkc.download
@@ -46985,6 +46996,7 @@
 0.0.0.0	p.share.mob.com
 0.0.0.0	ps.innity.com
 0.0.0.0	ps.interpolls.com
+0.0.0.0	p.skimresources.com
 0.0.0.0	psl19.voluumtrk.com
 0.0.0.0	ps.l.admedo.com
 0.0.0.0	psma02.com
@@ -48633,6 +48645,7 @@
 0.0.0.0	rules.aatkit.com
 0.0.0.0	rules.quantcount.com
 0.0.0.0	rules.securestudies.com
+0.0.0.0	rumcdn.geoedge.be
 0.0.0.0	rum-collector-2.pingdom.net
 0.0.0.0	rum-collector.pingdom.net
 0.0.0.0	rum-collector.wpm.neustar.biz
@@ -49351,6 +49364,7 @@
 0.0.0.0	sdkgw.us1.twilio.com
 0.0.0.0	sdk-h5-cdn.rayjoy.com
 0.0.0.0	sdk.hansel.io
+0.0.0.0	sdk-hb-cfg.smaato.net
 0.0.0.0	sdk.hexia.io
 0.0.0.0	sdk.hockeyapp.net
 0.0.0.0	sdk.hostyour.video
@@ -50887,6 +50901,7 @@
 0.0.0.0	spl2.yumenetworks.com
 0.0.0.0	splash.appsgeyser.com
 0.0.0.0	splashpageadvertising.com
+0.0.0.0	splash-screen.voodoo-ads.io
 0.0.0.0	splatzmmkvu.download
 0.0.0.0	spl.hit.gemius.pl
 0.0.0.0	splicky.com
@@ -52345,6 +52360,7 @@
 0.0.0.0	sync.adotmob.com
 0.0.0.0	sync.adspruce.com
 0.0.0.0	sync.ad-stir.com
+0.0.0.0	sync.adtelligent.com
 0.0.0.0	sync.alphonso.tv
 0.0.0.0	sync.apesvr.com
 0.0.0.0	sync.aralego.com
@@ -52372,6 +52388,7 @@
 0.0.0.0	sync.monarchads.com
 0.0.0.0	sync.mookie1.cn
 0.0.0.0	sync.outbrain.com
+0.0.0.0	sync.republer.com
 0.0.0.0	sync.rhythmxchange.com
 0.0.0.0	sync.richmetrics.com
 0.0.0.0	sync.search.spotxchange.com
@@ -53767,6 +53784,7 @@
 0.0.0.0	tracker.smartcounter.de
 0.0.0.0	tracker.squidanalytics.com
 0.0.0.0	trackerstatistik.init-ag.de
+0.0.0.0	trackers.voodoo-analytics.io
 0.0.0.0	tracker.timesgroup.com
 0.0.0.0	tracker.trackerbox.com
 0.0.0.0	trackertracker.com
