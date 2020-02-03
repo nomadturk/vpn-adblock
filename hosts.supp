@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Feb 3 02:30:11 +03 2020
-# Total number of blocked hosts are: 65365
+# Ad blocking hosts generated Tue Feb 4 02:30:16 +03 2020
+# Total number of blocked hosts are: 65363
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -46949,10 +46949,8 @@
 0.0.0.0	provider.ad360.vn
 0.0.0.0	proxad.net
 0.0.0.0	proximiio-bus.firebaseio.com
-0.0.0.0	proximity-a.wbx2.com
 0.0.0.0	proximitykit.radiusnetworks.com
 0.0.0.0	proximitykit.radiusnetworks.com.herokudns.com
-0.0.0.0	proximity-one-static.wbx2.com
 0.0.0.0	proximity.zendesk.com
 0.0.0.0	proxy.adnxs.com
 0.0.0.0	proxy.batmobi.net
