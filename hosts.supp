@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Feb 5 02:30:10 +03 2020
-# Total number of blocked hosts are: 65363
+# Ad blocking hosts generated Thu Feb 6 02:30:10 +03 2020
+# Total number of blocked hosts are: 65358
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -21432,7 +21432,6 @@
 0.0.0.0	akamai.bizrate.com
 0.0.0.0	akamai.cdneval.adnxs.com
 0.0.0.0	akamai.mathtag.com
-0.0.0.0	akamai.poxo.com
 0.0.0.0	akamai.smartadserver.com
 0.0.0.0	akamai.tags.tiqcdn.com
 0.0.0.0	akamai.t.axf8.net
@@ -21636,7 +21635,6 @@
 0.0.0.0	amazing-offers.co.il
 0.0.0.0	amazingvacationhotels.com
 0.0.0.0	amazonmerchants.122.2o7.net
-0.0.0.0	amazon.poxo.com
 0.0.0.0	amazonshopbop.122.2o7.net
 0.0.0.0	amazon-sicherheit.kunden-ueberpruefung.xyz
 0.0.0.0	amazon-tam-match.dotomi.com
@@ -38924,9 +38922,7 @@
 0.0.0.0	img.bororeb.com
 0.0.0.0	imgcache.classesusa.com
 0.0.0.0	img.casalemedia.com
-0.0.0.0	imgcdn1.poxo.com
 0.0.0.0	img-cdn.mediaplex.com
-0.0.0.0	imgcdn.poxo.com
 0.0.0.0	img.cdns.turn.com
 0.0.0.0	img.centrum.sk
 0.0.0.0	imgclck.com
@@ -55512,7 +55508,6 @@
 0.0.0.0	userstats.shopee.vn
 0.0.0.0	user-sync.adhese.com
 0.0.0.0	user-sync-orange.adhese.com
-0.0.0.0	uservoice.com
 0.0.0.0	use-tor.adsrvr.org
 0.0.0.0	use-tr01.fuse-ad.com
 0.0.0.0	use-va1.adsrvr.org
