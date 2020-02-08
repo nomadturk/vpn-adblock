@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat Feb 8 02:30:10 +03 2020
-# Total number of blocked hosts are: 65356
+# Ad blocking hosts generated Sun Feb 9 02:30:12 +03 2020
+# Total number of blocked hosts are: 65399
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -22033,6 +22033,7 @@
 0.0.0.0	analytics.tiltingpoint.io
 0.0.0.0	analytics.toast.com
 0.0.0.0	analytics.tout.com
+0.0.0.0	analytics-tracker.thescore.com
 0.0.0.0	analytics.traidnt.net
 0.0.0.0	analytics.traviangames.com
 0.0.0.0	analytics.tresensa.com
@@ -22093,6 +22094,7 @@
 0.0.0.0	an.cliphub.io
 0.0.0.0	an.cliphub.net
 0.0.0.0	and07.adnow.com
+0.0.0.0	and-ads.pulse.weatherbug.net
 0.0.0.0	andelamobile-d.openx.net
 0.0.0.0	andmlb.kshwtj.com
 0.0.0.0	andomedia.com
@@ -22490,6 +22492,7 @@
 0.0.0.0	api.crowdtangle.com
 0.0.0.0	api.crowdtwist.com
 0.0.0.0	apicssdk.onemt.co
+0.0.0.0	api.datadoghq.com
 0.0.0.0	api-data.kameleoon.com
 0.0.0.0	api.deep-ad.com.edgekey.net
 0.0.0.0	api.demandbase.com
@@ -22740,6 +22743,7 @@
 0.0.0.0	api.unthem.com
 0.0.0.0	api.uprivaladserver.net
 0.0.0.0	api.usabilla.com
+0.0.0.0	api.usebutton.com
 0.0.0.0	api.usersnap.com
 0.0.0.0	apiv2eu.moengage.com
 0.0.0.0	apiv2.moengage.com
@@ -22886,6 +22890,7 @@
 0.0.0.0	app.beanstalkdata.com
 0.0.0.0	app.bm23.com
 0.0.0.0	appboy.com
+0.0.0.0	appboy-images.com
 0.0.0.0	app.bronto.com
 0.0.0.0	app.bugfender.com
 0.0.0.0	app.bugreplay.com
@@ -23654,6 +23659,7 @@
 0.0.0.0	australiapost.122.2o7.net
 0.0.0.0	austria1.adverserve.net
 0.0.0.0	auth20120430.getjar.com
+0.0.0.0	auth.follow-apps.com
 0.0.0.0	auth.livejasmin.com
 0.0.0.0	auth.nixozz.com
 0.0.0.0	authorne.info
@@ -23860,6 +23866,7 @@
 0.0.0.0	b2.sitemeter.com
 0.0.0.0	b2u-system-err.icu
 0.0.0.0	b2wtd.voluumtrk.com
+0.0.0.0	b343.playfabapi.com
 0.0.0.0	b344-7507-e4c2-b742.reporo.net
 0.0.0.0	b365.2cnt.net
 0.0.0.0	b3a70b.t.axf8.net
@@ -27500,6 +27507,7 @@
 0.0.0.0	ca.2.cqcounter.com
 0.0.0.0	c.a2g-secure.com
 0.0.0.0	ca305656.luckyorange.com
+0.0.0.0	ca87.playfabapi.com
 0.0.0.0	ca.adserver.yahoo.com
 0.0.0.0	ca.ads.justpremium.com
 0.0.0.0	ca.akamai.startappservice.com
@@ -28382,6 +28390,7 @@
 0.0.0.0	cdn.onthe.io
 0.0.0.0	cdn.opensubcontent.com
 0.0.0.0	cdn.optimatic.com
+0.0.0.0	cdn.optimizely.com
 0.0.0.0	cdn.optmd.com
 0.0.0.0	cdn.orbengine.com
 0.0.0.0	cdn-origin.woopra.com
@@ -29707,6 +29716,7 @@
 0.0.0.0	collect13365dngnh.deltadna.net
 0.0.0.0	collect13443hxbzz.deltadna.net
 0.0.0.0	collect13446fpcqz.deltadna.net
+0.0.0.0	collect13494dvntr.deltadna.net
 0.0.0.0	collect13566brrtb.deltadna.net
 0.0.0.0	collect13650lmrck.deltadna.net
 0.0.0.0	collect13800frdyt.deltadna.net
@@ -29779,6 +29789,7 @@
 0.0.0.0	collector.cint.com
 0.0.0.0	collector.deepmetrix.com
 0.0.0.0	collector.doordash.com
+0.0.0.0	collector.effectivemeasure.net
 0.0.0.0	collector.githubapp.com
 0.0.0.0	collector-grpc.lightstep.com
 0.0.0.0	collector.insight-stats.com
@@ -31750,6 +31761,7 @@
 0.0.0.0	crosspromo-cdn.gamecircus.com
 0.0.0.0	crosspromo.greenpandagames.com
 0.0.0.0	crosspromo.hutchgames.io
+0.0.0.0	cross-promo.mwx.ext.mobilityware.com
 0.0.0.0	crosspromotion.ubi.com
 0.0.0.0	crosspromotion-us.avosapps.us
 0.0.0.0	crosspromotion.weplayer.cc
@@ -32332,6 +32344,7 @@
 0.0.0.0	dash.applovin.com
 0.0.0.0	dashboard.chartboost.com
 0.0.0.0	dashboard.gumgum.com
+0.0.0.0	dashboard.localytics.com
 0.0.0.0	dashboard.qubitproducts.com
 0.0.0.0	dashboard.trafficforce.com
 0.0.0.0	dash.parrable.com
@@ -32709,6 +32722,7 @@
 0.0.0.0	debsfunpages.com
 0.0.0.0	debug.adfarm1.adition.com
 0.0.0.0	debug.adition.com
+0.0.0.0	debug.aerserv.com
 0.0.0.0	debug.api.swrve.com
 0.0.0.0	debugger.zedo.com
 0.0.0.0	de.cb.b0.a1.top.mail.ru
@@ -34542,6 +34556,7 @@
 0.0.0.0	espdesign.com.au
 0.0.0.0	espn-ak.starwave.com
 0.0.0.0	espndotcom.tt.omtrdc.net
+0.0.0.0	espn.hb.omtrdc.net
 0.0.0.0	espolupracecz.go2cloud.org
 0.0.0.0	espotting.com
 0.0.0.0	espousershcota.download
@@ -35446,6 +35461,7 @@
 0.0.0.0	fls-fe.amazon-adsystem.com
 0.0.0.0	fls-fe.amazon.co.jp
 0.0.0.0	fls-na.amazon-adsystem.com
+0.0.0.0	fls-na.amazon.com
 0.0.0.0	fls.uk.doubleclick.net
 0.0.0.0	fls.unrulymedia.com
 0.0.0.0	flttracksecure.com
@@ -38640,6 +38656,7 @@
 0.0.0.0	im.405d5700.1ff6a9b.ads.a4cdn.contentabc.com
 0.0.0.0	im.405d5700.8d9937e.ads.a4cdn.contentabc.com
 0.0.0.0	im.51111900.b1aad3f.ads.a4cdn.contentabc.com
+0.0.0.0	im64.jpush.cn
 0.0.0.0	ima3vpaid.appspot.com
 0.0.0.0	imads.ero-advertising.com
 0.0.0.0	imads.integral-marketing.com
@@ -38786,6 +38803,7 @@
 0.0.0.0	images.nuviad.com
 0.0.0.0	images-or.ott.kaltura.com
 0.0.0.0	images.outbrain.com
+0.0.0.0	images.outbrainimg.com
 0.0.0.0	images.paypal.com
 0.0.0.0	images.people2people.com
 0.0.0.0	images.performgroup.com
@@ -39465,6 +39483,7 @@
 0.0.0.0	intranet.adition.com
 0.0.0.0	intranet.bnex.com
 0.0.0.0	intranet.zedo.com
+0.0.0.0	in.treasuredata.com
 0.0.0.0	intredo.com
 0.0.0.0	intredomedia.com
 0.0.0.0	int.sitestat.com
@@ -40720,6 +40739,7 @@
 0.0.0.0	lib.trafit.com
 0.0.0.0	lib.vmweb.net
 0.0.0.0	license20121011.getjar.com
+0.0.0.0	licensing.blinkreceipt.com
 0.0.0.0	liczniki.org
 0.0.0.0	lidl.adspirit.de
 0.0.0.0	lidlretargeting.adspirit.de
@@ -40735,6 +40755,7 @@
 0.0.0.0	lightboxanalytics-53675.onmodulus.net
 0.0.0.0	lightedpages.com
 0.0.0.0	lightningcast.net
+0.0.0.0	lightstep-collector.api.ua.com
 0.0.0.0	lignon.iad-03.braze.com
 0.0.0.0	ligtv.kokteyl.com
 0.0.0.0	lijit.com
@@ -41073,6 +41094,7 @@
 0.0.0.0	log.dmtry.com
 0.0.0.0	log.droid4x.cn
 0.0.0.0	logentries.com
+0.0.0.0	log.espn.com
 0.0.0.0	log.fc.yahoo.com
 0.0.0.0	log.feedjit.com
 0.0.0.0	log.formr.io
@@ -41177,6 +41199,7 @@
 0.0.0.0	logos.x-traceur.com
 0.0.0.0	log.oto.com.vn
 0.0.0.0	log.outbrain.com
+0.0.0.0	log.outbrainimg.com
 0.0.0.0	log.outbrain.org
 0.0.0.0	logp2.xiti.com
 0.0.0.0	logp3.xiti.com
@@ -41197,6 +41220,7 @@
 0.0.0.0	logs1122.xiti.com
 0.0.0.0	logs1125.xiti.com
 0.0.0.0	logs11.xiti.com
+0.0.0.0	logs1202.xiti.com
 0.0.0.0	logs1204.xiti.com
 0.0.0.0	logs1241.xiti.com
 0.0.0.0	logs1242.xiti.com
@@ -41572,6 +41596,7 @@
 0.0.0.0	m.adnxs.com
 0.0.0.0	madpenguin.us.intellitxt.com
 0.0.0.0	mads.amazon-adsystem.com
+0.0.0.0	mads.amazon.com
 0.0.0.0	mads.at.atwola.com
 0.0.0.0	mads.bnet.com
 0.0.0.0	mads.bz
@@ -43402,6 +43427,7 @@
 0.0.0.0	mvexg.voluumtrk.com
 0.0.0.0	m.v.fwmrm.net
 0.0.0.0	mvldn.voluumtrk.com
+0.0.0.0	mv.outbrain.com
 0.0.0.0	m.vpadn.com
 0.0.0.0	mvpxv.voluumtrk.com
 0.0.0.0	mv.treehousei.com
@@ -43864,6 +43890,7 @@
 0.0.0.0	network.nocreditcard.net
 0.0.0.0	networkpb.com
 0.0.0.0	network.realmedia.com.19388.9117.302br.net
+0.0.0.0	networksdk.ssacdn.com
 0.0.0.0	network.sofeminine.co.uk
 0.0.0.0	networksolutions.112.2o7.net
 0.0.0.0	networksolutionsaffiliates.com
@@ -46748,6 +46775,7 @@
 0.0.0.0	prismaprofits.go2cloud.org
 0.0.0.0	priusonline.us.intellitxt.com
 0.0.0.0	privacyassistant.net
+0.0.0.0	privacy.commander1.com
 0.0.0.0	privacy.purch.com
 0.0.0.0	privatamateure.com
 0.0.0.0	private.hotelcesenaticobooking.info
@@ -47218,6 +47246,7 @@
 0.0.0.0	pubmatic-winners-us-east-1-rtb.adroll.com
 0.0.0.0	pubmatic-winners-us-west-2-rtb.adroll.com
 0.0.0.0	pub.mobday.com
+0.0.0.0	pubnative.info
 0.0.0.0	pubnative.net
 0.0.0.0	pub.network
 0.0.0.0	pub.oxado.com
@@ -47380,6 +47409,7 @@
 0.0.0.0	pyrolyzesgykddf.download
 0.0.0.0	pyrrhousabowdw.download
 0.0.0.0	pyrroleqkoaob.download
+0.0.0.0	pythagore.demdex.net
 0.0.0.0	pywatur.biz
 0.0.0.0	pyxis.iad.appboy.com
 0.0.0.0	pyxqbzdwemuteness.review
@@ -48961,6 +48991,7 @@
 0.0.0.0	s.amazon-adsystem.com
 0.0.0.0	sammix.adsame.com
 0.0.0.0	sammobile.pushbird.com
+0.0.0.0	sample-api-v2.crazyegg.com
 0.0.0.0	samsclub.r.delivery.net
 0.0.0.0	samsungacr.com
 0.0.0.0	samsungads.com
@@ -49348,6 +49379,7 @@
 0.0.0.0	sdk.fiksu.com
 0.0.0.0	sdk.fitle.com
 0.0.0.0	sdk.follow-apps.com
+0.0.0.0	sdk.foursquare.com
 0.0.0.0	sdk.fra-01.braze.eu
 0.0.0.0	sdk.gplayspace.com
 0.0.0.0	sdk.gpowers.net
@@ -49368,6 +49400,7 @@
 0.0.0.0	sdk.ibm.xtify.com
 0.0.0.0	sdk.ihippogame.com
 0.0.0.0	sdk.imoads.com
+0.0.0.0	sdk.imrworldwide.com
 0.0.0.0	sdk.infiniadmp.com
 0.0.0.0	sdk-info.gimbal.com
 0.0.0.0	sdk.inlocoengage.com
@@ -49463,6 +49496,7 @@
 0.0.0.0	sdsbucket.s3.amazonaws.com
 0.0.0.0	sdscdn.userreport.com
 0.0.0.0	sd.sharethis.com
+0.0.0.0	sds.livesegmentservice.com
 0.0.0.0	sdtimes.us.intellitxt.com
 0.0.0.0	sd.turn.com
 0.0.0.0	s.duapps.com
@@ -50285,6 +50319,7 @@
 0.0.0.0	sirius.iad-03.braze.com
 0.0.0.0	sisaltracksdk.optimove.net
 0.0.0.0	sisco.hit.stat.pl
+0.0.0.0	sis.jpush.io
 0.0.0.0	sistacked.com
 0.0.0.0	siteanalyser.yellgroup.com
 0.0.0.0	siteauikozph.download
@@ -50373,6 +50408,7 @@
 0.0.0.0	sjepm.adsafeprotected.com
 0.0.0.0	sj-g-lbs.focalink.com
 0.0.0.0	sj-mknodepub.marketo.com
+0.0.0.0	s.jpush.cn
 0.0.0.0	sjrtp1.marketo.com
 0.0.0.0	sjrtp2-cdn.marketo.com
 0.0.0.0	sjrtp2.marketo.com
@@ -50623,6 +50659,7 @@
 0.0.0.0	smetrics.delta.com
 0.0.0.0	smetrics.dickssportinggoods.com
 0.0.0.0	smetrics.fifa.com
+0.0.0.0	smetrics.foxnews.com
 0.0.0.0	smetrics.freecreditreport.com
 0.0.0.0	smetrics.mcafee.com
 0.0.0.0	smetrics.midatlantic.aaa.com
@@ -50717,7 +50754,9 @@
 0.0.0.0	social1listnews.com
 0.0.0.0	socialanxietysupport.us.intellitxt.com
 0.0.0.0	socialitelife.us.intellitxt.com
+0.0.0.0	socialize.eu1.gigya.com
 0.0.0.0	socialize-it.com
+0.0.0.0	socialize.us1.gigya.com
 0.0.0.0	socialknowledge-d.openx.net
 0.0.0.0	sociallitelife.tags.crwdcntrl.net
 0.0.0.0	social.msgplus.net
@@ -52898,6 +52937,7 @@
 0.0.0.0	teenrevenue.com
 0.0.0.0	teens24h.com
 0.0.0.0	teen.streamate.com
+0.0.0.0	t.effectivemeasure.net
 0.0.0.0	tegna-d.openx.net
 0.0.0.0	tegna-tagan.adlightning.com
 0.0.0.0	tegulaenasqffvn.download
@@ -55794,6 +55834,7 @@
 0.0.0.0	venatusmedia-d.openx.net
 0.0.0.0	vendiblefqgmayr.download
 0.0.0.0	vendimob.pl
+0.0.0.0	vendorlist.consensu.org
 0.0.0.0	vendorweb.citibank.com
 0.0.0.0	venetia.iad.appboy.com
 0.0.0.0	venetian.evyy.net
@@ -60393,6 +60434,7 @@
 0.0.0.0	wirtualn-d.openx.net
 0.0.0.0	wisemen.go2cloud.org
 0.0.0.0	wisewire.com
+0.0.0.0	wish.securedtouch.com
 0.0.0.0	wissende.122.2o7.net
 0.0.0.0	wisti.adulte3g.com
 0.0.0.0	witbe.net
@@ -64072,6 +64114,7 @@
 0.0.0.0	www.tantrack.info
 0.0.0.0	www.tapenowmskndjn.download
 0.0.0.0	www.tapfortap.com
+0.0.0.0	www.tapresearch.com
 0.0.0.0	www.targad.com
 0.0.0.0	www.targeted-banners.com
 0.0.0.0	www.targetingnow.com
