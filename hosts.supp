@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Feb 11 02:30:11 +03 2020
-# Total number of blocked hosts are: 65399
+# Ad blocking hosts generated Wed Feb 12 02:30:12 +03 2020
+# Total number of blocked hosts are: 65403
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -21540,6 +21540,7 @@
 0.0.0.0	allsolutionsnetwork.com
 0.0.0.0	allstarmediagroup.com
 0.0.0.0	allstate.sc.omtrdc.net
+0.0.0.0	allstate.tt.omtrdc.net
 0.0.0.0	allstats4u.com
 0.0.0.0	alltereg0.ru
 0.0.0.0	alltraff.ru
@@ -22823,6 +22824,7 @@
 0.0.0.0	app01.adfalcon.com
 0.0.0.0	app02.adfalcon.com
 0.0.0.0	app3.prd.telematics.uconnectcar.com
+0.0.0.0	app4.prd.telematics.uconnectcar.com
 0.0.0.0	app4us.info
 0.0.0.0	app-ab01.marketo.com
 0.0.0.0	app-ab02.marketo.com
@@ -27319,6 +27321,7 @@
 0.0.0.0	b.zog.link
 0.0.0.0	bzpibgazalternant.review
 0.0.0.0	bzpkv.voluumtrk.com
+0.0.0.0	c00162-dl.urbanairship.com
 0.0.0.0	c01.brickoffers.com
 0.0.0.0	c02qds.2cnt.net
 0.0.0.0	c03.adsummos.net
@@ -28790,7 +28793,6 @@
 0.0.0.0	chokoladsrv.net
 0.0.0.0	chope-co.b.appier.net
 0.0.0.0	ch.questionmarket.com
-0.0.0.0	chrome-devtools-frontend.appspot.com
 0.0.0.0	chronicads.com
 0.0.0.0	chronicleddxsilskp.download
 0.0.0.0	chsplantsales.co.uk
@@ -31845,7 +31847,6 @@
 0.0.0.0	cso6i.voluumtrk.com
 0.0.0.0	c.socialannex.com
 0.0.0.0	csoonlinecom.112.2o7.net
-0.0.0.0	csp-collector.appspot.com
 0.0.0.0	csp.fastclick.net
 0.0.0.0	c.spiegel.de
 0.0.0.0	cspix.media6degrees.com
@@ -41945,6 +41946,7 @@
 0.0.0.0	mbox9e.offermatica.com
 0.0.0.0	mbox9.offermatica.com
 0.0.0.0	mboxedge17.tt.omtrdc.net
+0.0.0.0	mboxedge28.tt.omtrdc.net
 0.0.0.0	mbox.offermatica.intuit.com
 0.0.0.0	mbs.spankwirecams.com
 0.0.0.0	mbs.youjizzlive.com
@@ -52983,6 +52985,7 @@
 0.0.0.0	templates.sharethrough.com
 0.0.0.0	tenantrymishdg.download
 0.0.0.0	tendersource.com
+0.0.0.0	tend.io
 0.0.0.0	tenlokif.com
 0.0.0.0	tenmagazines.us.intellitxt.com
 0.0.0.0	tennae880interyield.jmp9.com
@@ -54207,6 +54210,7 @@
 0.0.0.0	track.tastyfoodcombos.com
 0.0.0.0	track.tcppu.com
 0.0.0.0	track.td3x.com
+0.0.0.0	track.tend.io
 0.0.0.0	track.tenjin.com
 0.0.0.0	track.tenjin.io
 0.0.0.0	track.tesiteca.it
