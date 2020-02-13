@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Feb 13 02:30:11 +03 2020
-# Total number of blocked hosts are: 65403
+# Ad blocking hosts generated Fri Feb 14 02:30:10 +03 2020
+# Total number of blocked hosts are: 65379
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -2499,7 +2499,6 @@
 0.0.0.0	acc.go2cloud.org
 0.0.0.0	acckalaharinet.112.2o7.net
 0.0.0.0	acc.magixite.com
-0.0.0.0	account.fyber.com
 0.0.0.0	accountonline.bridgetrack.com
 0.0.0.0	accounts.doubleclick.net
 0.0.0.0	accscdn.m.taobao.com
@@ -21391,7 +21390,6 @@
 0.0.0.0	airbrake-gitlab.airbrake.io
 0.0.0.0	airbrake.io
 0.0.0.0	aircraft.evote.cl
-0.0.0.0	air.fyber.com
 0.0.0.0	airpush.com
 0.0.0.0	airpush.go2affise.com
 0.0.0.0	airpushmarketing.s3.amazonaws.com
@@ -21755,9 +21753,7 @@
 0.0.0.0	ams-ads-cornerstone-creatives.s3.amazonaws.com
 0.0.0.0	ams-ads-creative-assets-na.s3.amazonaws.com
 0.0.0.0	ams-ae.conversantmedia.com
-0.0.0.0	ams-aws-stg.fyber.com
 0.0.0.0	a.msclickrdr.com
-0.0.0.0	ams.fyber.com
 0.0.0.0	amsimg.daum-img.net
 0.0.0.0	ams-login.dotomi.com
 0.0.0.0	amsprod-rtbwin.applovin.com
@@ -21914,7 +21910,6 @@
 0.0.0.0	analytics.industriemagazin.net
 0.0.0.0	analytics.informationweek.com
 0.0.0.0	analytics.inform.com
-0.0.0.0	analytics-ingest.anypoint.mulesoft.com
 0.0.0.0	analytics-ingest.creative-mobile.com
 0.0.0.0	analytics-ingestion.staging-public.tubi.io
 0.0.0.0	analytics.in-tend.co.uk
@@ -22518,7 +22513,6 @@
 0.0.0.0	api.flurry.com
 0.0.0.0	api.flyertown.ca
 0.0.0.0	api.fortumo.com
-0.0.0.0	api.foursquare.com
 0.0.0.0	api.fusepowered.com
 0.0.0.0	api.fyber.com
 0.0.0.0	api.fyreball.com
@@ -22571,7 +22565,6 @@
 0.0.0.0	api.kiip.me
 0.0.0.0	api.kissmetrics.com
 0.0.0.0	api.kochava.com
-0.0.0.0	api.kurioapps.com
 0.0.0.0	api.lanistaads.com
 0.0.0.0	api.lazyswipe.com
 0.0.0.0	api.leadbolt.net
@@ -23420,7 +23413,6 @@
 0.0.0.0	assets.devx.com
 0.0.0.0	assets.dwell.com
 0.0.0.0	assets.dynatrace.com
-0.0.0.0	assets.fortumo.com
 0.0.0.0	assets.foxmetrics.com
 0.0.0.0	assets.infinity-tracking.net
 0.0.0.0	assets.iterable.com
@@ -27542,7 +27534,6 @@
 0.0.0.0	cache-ha.pushwoosh.com
 0.0.0.0	cache.imagehost123.com
 0.0.0.0	cache.izearanks.com
-0.0.0.0	cache.kuaidi100.com
 0.0.0.0	cache.microad.jp
 0.0.0.0	cache.osttirol-online.at
 0.0.0.0	cache.realitykings.com
@@ -28076,7 +28067,6 @@
 0.0.0.0	cdn.amgdgt.com
 0.0.0.0	cdn.amplitude.com
 0.0.0.0	cdn-analytics.ladmedia.fr
-0.0.0.0	cdn.anypoint.mulesoft.com
 0.0.0.0	cdnap.airpush.com
 0.0.0.0	cdn.ap.bittorrent.com
 0.0.0.0	cdn-api.admost.com
@@ -28328,7 +28318,6 @@
 0.0.0.0	cdn.keywee.co
 0.0.0.0	cdn.komoona.com
 0.0.0.0	cdn.krxd.net
-0.0.0.0	cdn.kuaidi100.com
 0.0.0.0	cdn-lb.vungle.com
 0.0.0.0	cdn.lentainform.com
 0.0.0.0	cdn.lfstmedia.com
@@ -34256,7 +34245,6 @@
 0.0.0.0	emxdgt.com
 0.0.0.0	emxdigital.com
 0.0.0.0	emxhb.emxdgt.com
-0.0.0.0	enabler.datalake.mediaset.it
 0.0.0.0	en.adition.com
 0.0.0.0	en.adtech.info
 0.0.0.0	encomiumsenttlzhwt.download
@@ -35371,7 +35359,6 @@
 0.0.0.0	finnhair.co.uk
 0.0.0.0	fiona.ai.net
 0.0.0.0	fips.uimserv.net
-0.0.0.0	fira-api.kurioapps.com
 0.0.0.0	firecash.org
 0.0.0.0	firecpa.com
 0.0.0.0	firehouse651.com
@@ -36349,7 +36336,6 @@
 0.0.0.0	fxt.go2cloud.org
 0.0.0.0	fxyc0dwa.com
 0.0.0.0	fyber.com
-0.0.0.0	fyber-marketplace.fyber.com
 0.0.0.0	fyc.heyzap.com
 0.0.0.0	fyhjs.voluumtrk.com
 0.0.0.0	fynskemedieradmin.adservinginternational.com
@@ -37632,7 +37618,6 @@
 0.0.0.0	hb.adx1.com
 0.0.0.0	hb.aralego.com
 0.0.0.0	hbb.concentra.be
-0.0.0.0	hbbtv.mediaset.net
 0.0.0.0	hb-config.vntsm.com
 0.0.0.0	hb.emxdgt.com
 0.0.0.0	hb.gammaplatform.com
@@ -40440,7 +40425,6 @@
 0.0.0.0	kunal3291.ibprofits.cpa.clicksure.com
 0.0.0.0	kundenserver.de
 0.0.0.0	kurierat.cleverpush.com
-0.0.0.0	kurio-img.kurioapps.com
 0.0.0.0	kurlichan.com
 0.0.0.0	kvinit-prod.api.kochava.com
 0.0.0.0	kvjwu.voluumtrk.com
@@ -42956,14 +42940,12 @@
 0.0.0.0	mobile-d.openx.net
 0.0.0.0	mobile-ent.biz
 0.0.0.0	mobile.eum-appdynamics.com
-0.0.0.0	mobile.foundationsoft.com
 0.0.0.0	mobilefuse.com
 0.0.0.0	mobilefuse-d.openx.net
 0.0.0.0	mobilefuse.net
 0.0.0.0	mobile.game-insight.com
 0.0.0.0	mobile-global.baidu.com
 0.0.0.0	mobile.ib.sin1.geoadnxs.com
-0.0.0.0	mobile.impacttestonline.com
 0.0.0.0	mobileiosapi.punchh.com
 0.0.0.0	mobile.itsbetter.com
 0.0.0.0	mobile.juicyads.com
@@ -43404,6 +43386,7 @@
 0.0.0.0	muesq.voluumtrk.com
 0.0.0.0	mug.criteo.com
 0.0.0.0	mujilora.com
+0.0.0.0	muliphein.iad-01.braze.com
 0.0.0.0	multicounter.de
 0.0.0.0	multimania.com
 0.0.0.0	multioptik.com
@@ -45167,7 +45150,6 @@
 0.0.0.0	otmsrv.com
 0.0.0.0	otologistxyrdfmy.download
 0.0.0.0	otracking.com
-0.0.0.0	otrs.fyber.com
 0.0.0.0	ots.optimize.webtrends.com
 0.0.0.0	ottacknet.112.2o7.net
 0.0.0.0	ottdailytidingscom.112.2o7.net
@@ -46265,7 +46247,6 @@
 0.0.0.0	pkmg.go2cloud.org
 0.0.0.0	pkpojhc.com
 0.0.0.0	pks.a.mobimagic.com
-0.0.0.0	p.kuaidi100.com
 0.0.0.0	pl105423.putags.com
 0.0.0.0	pl106067.puhtml.com
 0.0.0.0	pl106332.puhtml.com
@@ -49381,7 +49362,6 @@
 0.0.0.0	sdk.fiksu.com
 0.0.0.0	sdk.fitle.com
 0.0.0.0	sdk.follow-apps.com
-0.0.0.0	sdk.foursquare.com
 0.0.0.0	sdk.fra-01.braze.eu
 0.0.0.0	sdk.gplayspace.com
 0.0.0.0	sdk.gpowers.net
@@ -53031,10 +53011,8 @@
 0.0.0.0	testsuite.adfarm1.adition.com
 0.0.0.0	testsuite.adition.com
 0.0.0.0	test.superstats.com
-0.0.0.0	test-tickets.fyber.com
 0.0.0.0	testtradedeskmve.s.moatpixel.com
 0.0.0.0	testtralala.xorg.pl
-0.0.0.0	test-wiki.fyber.com
 0.0.0.0	test.wiredminds.de
 0.0.0.0	test.yesadvertising.com
 0.0.0.0	test.zedo.com
@@ -53256,7 +53234,6 @@
 0.0.0.0	tia.timeinc.net
 0.0.0.0	t.iaudienc.com
 0.0.0.0	ticker.api.prd.innopage.com
-0.0.0.0	tickets.fyber.com
 0.0.0.0	ticks2.bugsense.com
 0.0.0.0	tidalkqbvnxk.download
 0.0.0.0	tidbit.co.in
@@ -54568,7 +54545,6 @@
 0.0.0.0	tr-v1.prod.cloud.ogury.io
 0.0.0.0	trw12.com
 0.0.0.0	tr.webantenna.info
-0.0.0.0	trx.kurioapps.com
 0.0.0.0	trx.mxmfb.com
 0.0.0.0	try.abtasty.com
 0.0.0.0	ts1.hitbox.com
