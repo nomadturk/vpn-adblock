@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat Feb 15 02:30:10 +03 2020
-# Total number of blocked hosts are: 65379
+# Ad blocking hosts generated Sun Feb 16 02:30:11 +03 2020
+# Total number of blocked hosts are: 65376
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -22714,7 +22714,6 @@
 0.0.0.0	api.survicate.com
 0.0.0.0	api.swrve.com
 0.0.0.0	api.taboola.com
-0.0.0.0	api.tapas.io
 0.0.0.0	api.tapjoy.com
 0.0.0.0	api.taplytics.com
 0.0.0.0	api.taps.io
@@ -32488,7 +32487,6 @@
 0.0.0.0	data.neuroxmedia.com
 0.0.0.0	data.ninemsn.com.au
 0.0.0.0	data-optout-service.uca.cloud.unity3d.com
-0.0.0.0	da.tapas.io
 0.0.0.0	data.perion.com
 0.0.0.0	data.permittingnorthlandseamen.info
 0.0.0.0	data.ppn-ad-cdn.populis.com
@@ -46062,7 +46060,6 @@
 0.0.0.0	pingomatic.com
 0.0.0.0	ping.onscroll.com
 0.0.0.0	pings.conviva.com
-0.0.0.0	ping.tapas.io
 0.0.0.0	ping.taplytics.com
 0.0.0.0	pingtcss.qq.com
 0.0.0.0	pinguinqeslaj.download
