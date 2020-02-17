@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Feb 17 02:30:13 +03 2020
-# Total number of blocked hosts are: 65376
+# Ad blocking hosts generated Tue Feb 18 02:30:10 +03 2020
+# Total number of blocked hosts are: 65373
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -22815,8 +22815,6 @@
 0.0.0.0	a.postrelease.com
 0.0.0.0	app01.adfalcon.com
 0.0.0.0	app02.adfalcon.com
-0.0.0.0	app3.prd.telematics.uconnectcar.com
-0.0.0.0	app4.prd.telematics.uconnectcar.com
 0.0.0.0	app4us.info
 0.0.0.0	app-ab01.marketo.com
 0.0.0.0	app-ab02.marketo.com
@@ -41530,7 +41528,6 @@
 0.0.0.0	ma312-r.analytics.edgekey.net
 0.0.0.0	ma322-r.analytics.edgekey.net
 0.0.0.0	ma343-r.analytics.edgekey.net
-0.0.0.0	ma345-r.analytics.edgekey.net
 0.0.0.0	ma479-r.analytics.edgekey.net
 0.0.0.0	ma512-r.analytics.edgekey.net
 0.0.0.0	ma562-r.analytics.edgekey.net
