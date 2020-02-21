@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Feb 21 02:30:11 +03 2020
-# Total number of blocked hosts are: 65370
+# Ad blocking hosts generated Sat Feb 22 02:30:12 +03 2020
+# Total number of blocked hosts are: 65360
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -2734,7 +2734,6 @@
 0.0.0.0	acronymbxruv.download
 0.0.0.0	acrossperformance.go2cloud.org
 0.0.0.0	acs4baichuan.m.taobao.com
-0.0.0.0	acsdk.gameyw.easebar.com
 0.0.0.0	acs.m.taobao.com
 0.0.0.0	acspaces.ero-advertising.com
 0.0.0.0	acsseo.com
@@ -22434,7 +22433,6 @@
 0.0.0.0	api.b2c.com
 0.0.0.0	api.backtrace.io
 0.0.0.0	api.badgeville.com
-0.0.0.0	api.band.us
 0.0.0.0	api.batch.com
 0.0.0.0	api.beaconforstore.com
 0.0.0.0	api.beaconsinspace.com
@@ -42565,8 +42563,6 @@
 0.0.0.0	mg.adskeeper.co.uk
 0.0.0.0	mgage.com
 0.0.0.0	mgbhr.voluumtrk.com
-0.0.0.0	mgbsdknaeast.matrix.easebar.com
-0.0.0.0	mgbsdksgtest.matrix.easebar.com
 0.0.0.0	mgcash.com
 0.0.0.0	mgcashgate.com
 0.0.0.0	mgd-adengine.elasticbeanstalk.com
@@ -45055,7 +45051,6 @@
 0.0.0.0	optout.ad8.adfarm1.adition.com
 0.0.0.0	optout.adfarm1.adition.com
 0.0.0.0	optout-service.unrulymedia.com
-0.0.0.0	optsdk.gameyw.easebar.com
 0.0.0.0	opt.ximad.com
 0.0.0.0	opus.analytics.yahoo.com
 0.0.0.0	opx-winners-ap-northeast-1-rtb.adroll.com
@@ -47497,7 +47492,6 @@
 0.0.0.0	qrcdownload.ibcustomerzone.com
 0.0.0.0	qring-tms.qq.com
 0.0.0.0	qrlsx.com
-0.0.0.0	qr.mpsdk.easebar.com
 0.0.0.0	qsearch.media.net
 0.0.0.0	q.serving-sys.com
 0.0.0.0	qservz.com
@@ -49409,7 +49403,6 @@
 0.0.0.0	sdk.open.talk.igexin.com
 0.0.0.0	sdk-orion.appboy.com
 0.0.0.0	sdk-orion.appboycomnulled.iad.appboy.com
-0.0.0.0	sdk-os.mpsdk.easebar.com
 0.0.0.0	sdk.ourplay.net
 0.0.0.0	sdk.out.usbla.net
 0.0.0.0	sdk.palmplaystore.com
@@ -52428,7 +52421,6 @@
 0.0.0.0	synthes.vo.llnwd.net
 0.0.0.0	s.yomob.com.cn
 0.0.0.0	s.youmi.net
-0.0.0.0	sypi.gpshopper.com
 0.0.0.0	sysco-appstore2.madmobile.com
 0.0.0.0	sysco-cdn.madmobile.com
 0.0.0.0	sysip.net
@@ -55259,7 +55251,6 @@
 0.0.0.0	union.youdao.com
 0.0.0.0	uniqueleads.com
 0.0.0.0	uniquesurf.com
-0.0.0.0	unisdk.update.easebar.com
 0.0.0.0	unisonsas.bravejournal.com
 0.0.0.0	unitedblades.co.jp
 0.0.0.0	unitex.home.pl
@@ -55338,7 +55329,6 @@
 0.0.0.0	update.sdkbox.com
 0.0.0.0	update.sdk.jiguang.cn
 0.0.0.0	updates.tune.com
-0.0.0.0	update.unisdk.easebar.com
 0.0.0.0	updatewinrar.ru
 0.0.0.0	update.wtag.adaptv.advertising.com
 0.0.0.0	updo.nl
