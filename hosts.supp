@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat Feb 22 02:30:12 +03 2020
-# Total number of blocked hosts are: 65360
+# Ad blocking hosts generated Sun Feb 23 02:30:13 +03 2020
+# Total number of blocked hosts are: 65362
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -28013,6 +28013,7 @@
 0.0.0.0	cdn.admitad.com
 0.0.0.0	cdn.admixer.net
 0.0.0.0	cdn-adn-foreign.rayjump.com
+0.0.0.0	cdn-adn-https-baidu.rayjump.com
 0.0.0.0	cdn-adn.rayjump.com
 0.0.0.0	cdn-adn.smardroid.com
 0.0.0.0	cdn.adnxs.com
@@ -55843,6 +55844,7 @@
 0.0.0.0	vg09.met.vgwort.de
 0.0.0.0	v.gdt.qq.com
 0.0.0.0	v.gfhdkse.com
+0.0.0.0	vg-hb.rayjump.com
 0.0.0.0	vg-k8s-setting.rayjump.com
 0.0.0.0	vgleqkbergamots.review
 0.0.0.0	vg-no.c.richmetrics.com
