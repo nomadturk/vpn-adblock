@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Feb 26 02:30:12 +03 2020
-# Total number of blocked hosts are: 65361
+# Ad blocking hosts generated Thu Feb 27 02:30:12 +03 2020
+# Total number of blocked hosts are: 65360
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -55459,7 +55459,6 @@
 0.0.0.0	usdsp-ali.mobvista.com
 0.0.0.0	usdsp.mobvista.com
 0.0.0.0	usdtop.58.com
-0.0.0.0	use-application-dns.net
 0.0.0.0	usearchmedia.com
 0.0.0.0	us-east-1.dc.ads.linkedin.com
 0.0.0.0	us-east-1.profile-api.ads.linkedin.com
