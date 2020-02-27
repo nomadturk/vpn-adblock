@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Feb 27 02:30:12 +03 2020
-# Total number of blocked hosts are: 65360
+# Ad blocking hosts generated Fri Feb 28 02:30:10 +03 2020
+# Total number of blocked hosts are: 65387
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -1667,6 +1667,7 @@
 0.0.0.0	4bca-d658-a4da-12c8.reporo.net
 0.0.0.0	4d5.net
 0.0.0.0	4d80-dd41-9ed3-33b1.reporo.net
+0.0.0.0	4d83.playfabapi.com
 0.0.0.0	4dexports.com
 0.0.0.0	4dle.info
 0.0.0.0	4dogmedia.go2cloud.org
@@ -2178,6 +2179,7 @@
 0.0.0.0	9675.302br.net
 0.0.0.0	9.6.87.194.dynamic.dol.ru
 0.0.0.0	968.bitterstrawberry.com
+0.0.0.0	96b6.playfabapi.com
 0.0.0.0	97.6.87.194.dynamic.dol.ru
 0.0.0.0	9785216.log.optimizely.com
 0.0.0.0	97a7e.voluumtrk.com
@@ -20771,6 +20773,7 @@
 0.0.0.0	adv.gpm-digital.com
 0.0.0.0	adv.gratuito.st
 0.0.0.0	adv.h2porn.com
+0.0.0.0	adv.herocraft.com
 0.0.0.0	adv.hwupgrade.it
 0.0.0.0	adviap.goforandroid.com
 0.0.0.0	advicead.hit.gemius.pl
@@ -21991,6 +21994,7 @@
 0.0.0.0	analytics.salmonads.com
 0.0.0.0	analytics.samdd.me
 0.0.0.0	analytics.sayu.co.uk
+0.0.0.0	analytics-sdk.jamcity.com
 0.0.0.0	analytics.seattleclouds.com
 0.0.0.0	analytics-server.gimbal.com
 0.0.0.0	analytics.services.kirra.nl
@@ -22554,6 +22558,7 @@
 0.0.0.0	api.intensifier.de
 0.0.0.0	api.intentiq.com
 0.0.0.0	api.iperceptions.com
+0.0.0.0	api.ipify.org
 0.0.0.0	api.ipinfodb.com
 0.0.0.0	api.ipstack.com
 0.0.0.0	api.iris.tv
@@ -25070,6 +25075,7 @@
 0.0.0.0	bcanalytics.bigcommerce.com
 0.0.0.0	b.casalemedia.com
 0.0.0.0	bcast.pw
+0.0.0.0	bcdn-god.we-stats.com
 0.0.0.0	bce.baidu.com
 0.0.0.0	bcfads.com
 0.0.0.0	b.chartboost.com
@@ -28397,6 +28403,7 @@
 0.0.0.0	cdn.popcash.net
 0.0.0.0	cdn.popmyads.com
 0.0.0.0	cdn.popwin.net
+0.0.0.0	cdn-prod-defaulting-gamedev-ads.gismart.xyz
 0.0.0.0	cdn-prod.kampyle.com
 0.0.0.0	cdn.program3.com
 0.0.0.0	cdn.promo.pimproll.com
@@ -28657,6 +28664,7 @@
 0.0.0.0	cfpbg.voluumtrk.com
 0.0.0.0	c.fqtag.com
 0.0.0.0	cfrfa.112.2o7.net
+0.0.0.0	cfr.us.v2.we-stats.com
 0.0.0.0	cf.ssacdn.com
 0.0.0.0	cfs.u-ad.info
 0.0.0.0	cf.xadcentral.com
@@ -29765,6 +29773,7 @@
 0.0.0.0	collector-195.tvsquared.com
 0.0.0.0	collector-2398.tvsquared.com
 0.0.0.0	collector-428.tvsquared.com
+0.0.0.0	collector-6271.tvsquared.com
 0.0.0.0	collector.analytics.anvato.net
 0.0.0.0	collector-a.perimeterx.net
 0.0.0.0	collector.brandify.com
@@ -29790,6 +29799,7 @@
 0.0.0.0	collector-px8fcgygk4.perimeterx.net
 0.0.0.0	collector-pxel3l4xih.perimeterx.net
 0.0.0.0	collector-pxhyx10rg3.perimeterx.net
+0.0.0.0	collector-pxuarm9b04.perimeterx.net
 0.0.0.0	collector.pyze.com
 0.0.0.0	collector.savvyads.com
 0.0.0.0	collector.scopely.io
@@ -30024,6 +30034,7 @@
 0.0.0.0	consult.taboola.com
 0.0.0.0	consumer.exacttargetapis.com
 0.0.0.0	consumerinfo.com
+0.0.0.0	consumerinfo.tt.omtrdc.net
 0.0.0.0	consumer.krxd.net
 0.0.0.0	consumerreview.us.intellitxt.com
 0.0.0.0	consumesldpmue.download
@@ -31740,6 +31751,7 @@
 0.0.0.0	crm.ants.vn
 0.0.0.0	crmbuyer.us.intellitxt.com
 0.0.0.0	c.rmgserving.com
+0.0.0.0	crm.sgn.com
 0.0.0.0	croondezztg.download
 0.0.0.0	crops.dunight.eu
 0.0.0.0	crossbeamstnmjmmh.download
@@ -34456,6 +34468,7 @@
 0.0.0.0	eqs-redserver.appspot.com
 0.0.0.0	equantum.com
 0.0.0.0	equibase-company-d.openx.net
+0.0.0.0	equifaxps.sc.omtrdc.net
 0.0.0.0	equitymarketingsolutions.com
 0.0.0.0	equuleus.iad.appboy.com
 0.0.0.0	eqworks.com
@@ -34737,6 +34750,7 @@
 0.0.0.0	events.amplitude.com
 0.0.0.0	events.apester.com
 0.0.0.0	events-api.otherlevels.com
+0.0.0.0	events-api.outfit7.com
 0.0.0.0	events.api.vungle.com
 0.0.0.0	events.appsflyer.com
 0.0.0.0	events.attentivemobile.com
@@ -34768,6 +34782,7 @@
 0.0.0.0	eventss3.datasphere.com
 0.0.0.0	events.samsungads.com
 0.0.0.0	events.simpli.fi
+0.0.0.0	events.split.io
 0.0.0.0	events.startappservice.com
 0.0.0.0	events.steelhousemedia.com
 0.0.0.0	events.streamrail.net
@@ -34955,6 +34970,7 @@
 0.0.0.0	extra.wavecdn.net
 0.0.0.0	extreembilisim.com
 0.0.0.0	extreme-dm.com
+0.0.0.0	extreme-ip-lookup.com
 0.0.0.0	extremeoverclocking.us.intellitxt.com
 0.0.0.0	extremetech.us.intellitxt.com
 0.0.0.0	extremetracking.com
@@ -36430,6 +36446,7 @@
 0.0.0.0	gamesindustry.uk.intellitxt.com
 0.0.0.0	gamesiteads.com
 0.0.0.0	gamesitestop100.com
+0.0.0.0	gamestats.herocraft.com
 0.0.0.0	gamevance.com
 0.0.0.0	game.weibo.com
 0.0.0.0	gamingblast.com
@@ -37729,6 +37746,7 @@
 0.0.0.0	highflyer.go2affise.com
 0.0.0.0	highpro1.com
 0.0.0.0	hightrafficads.com
+0.0.0.0	highway2.soom.la
 0.0.0.0	highwinds.cdneval.adnxs.com
 0.0.0.0	hi.hellobar.com
 0.0.0.0	hijackedzdupdb.download
@@ -39471,6 +39489,7 @@
 0.0.0.0	intuitinc.122.2o7.net
 0.0.0.0	i.nuseek.com
 0.0.0.0	inuvi.com
+0.0.0.0	invenio.sgn.com
 0.0.0.0	invention.festinolente.cl
 0.0.0.0	investingapp.net
 0.0.0.0	investingchannel.us.intellitxt.com
@@ -41070,6 +41089,7 @@
 0.0.0.0	logconfig.polarisoffice.com
 0.0.0.0	log-config.samsungacr.com
 0.0.0.0	log.data.disney.com
+0.0.0.0	log-dbff2e04.us.v2.we-stats.com
 0.0.0.0	log.dmtry.com
 0.0.0.0	log.droid4x.cn
 0.0.0.0	logentries.com
@@ -44309,6 +44329,7 @@
 0.0.0.0	nsclick.baidu.com
 0.0.0.0	nsclickvideo.baidu.com
 0.0.0.0	nsdldlese.112.2o7.net
+0.0.0.0	ns.exitgames.com
 0.0.0.0	ns.ivwbox.de
 0.0.0.0	nsm.dell.com
 0.0.0.0	ns.mediaplex.com
@@ -46777,12 +46798,14 @@
 0.0.0.0	prod-aso-lb-v1.us-east-1d.kube.fiksu.com
 0.0.0.0	prod-a-usa.applovin.com
 0.0.0.0	prod-bidder-lb-vpc.fiksu.com
+0.0.0.0	prod-defaulting-subscriptiontool.gismart.xyz
 0.0.0.0	prod-d.openx.com
 0.0.0.0	prodege.go2cloud.org
 0.0.0.0	prod-e-node-1112.nexage.com
 0.0.0.0	prod-e-node-2112.nexage.com
 0.0.0.0	prod-js.aws.y-track.com
 0.0.0.0	prodlb.backstopsolutions.com
+0.0.0.0	prod.linkitox.com
 0.0.0.0	prod-m-node-1111.ssp.advertising.com
 0.0.0.0	prod-m-node-1112.nexage.com
 0.0.0.0	prod-m-node-1212.nexage.com
@@ -48524,6 +48547,7 @@
 0.0.0.0	rtb.d.adup-tech.com
 0.0.0.0	rtbdemand-d.openx.net
 0.0.0.0	rtbdsp.inmobi.com
+0.0.0.0	rtb-east-wins.crossinstall.com
 0.0.0.0	rtbe.nanigans.com
 0.0.0.0	rtb-eu.nativeads.com
 0.0.0.0	rtb.gumgum.com
@@ -50613,6 +50637,7 @@
 0.0.0.0	smc.silvercash.com
 0.0.0.0	sm.domobcdn.com
 0.0.0.0	sm.domob.cn
+0.0.0.0	smetrics1.experian.com
 0.0.0.0	smetrics.aa.com
 0.0.0.0	smetrics.aetn.com
 0.0.0.0	smetrics.att.com
@@ -51890,6 +51915,7 @@
 0.0.0.0	stats.smartbucks.com
 0.0.0.0	stats.smartclip.net
 0.0.0.0	stats.snacktools.net
+0.0.0.0	stats.snowtrial.co
 0.0.0.0	stats.speedclicks.ero-advertising.com
 0.0.0.0	stats.ssl-services.com
 0.0.0.0	stats.storify.com
@@ -53417,6 +53443,7 @@
 0.0.0.0	toneitup.pushwoosh.com
 0.0.0.0	tongji.appscomeon.com
 0.0.0.0	tongqing2015.com
+0.0.0.0	tongue.jamcity.com
 0.0.0.0	t-online.de.intellitxt.com
 0.0.0.0	tonsterandhantan.info
 0.0.0.0	toofab.us.intellitxt.com
