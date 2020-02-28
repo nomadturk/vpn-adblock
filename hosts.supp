@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Feb 28 02:30:10 +03 2020
-# Total number of blocked hosts are: 65387
+# Ad blocking hosts generated Sat Feb 29 02:30:12 +03 2020
+# Total number of blocked hosts are: 65386
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -28701,7 +28701,6 @@
 0.0.0.0	channel.api.duapp.com
 0.0.0.0	channelinsider.us.intellitxt.com
 0.0.0.0	channeltraffic.net
-0.0.0.0	channelwebsdks.azureedge.net
 0.0.0.0	chantal.parrable.com
 0.0.0.0	chapdyn.bidsystem.com
 0.0.0.0	chappel.videogamer.com
