@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Mar 10 02:30:09 +03 2020
-# Total number of blocked hosts are: 65253
+# Ad blocking hosts generated Wed Mar 11 02:30:12 +03 2020
+# Total number of blocked hosts are: 65248
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -32298,7 +32298,6 @@
 0.0.0.0	dash.applovin.com
 0.0.0.0	dashboard.chartboost.com
 0.0.0.0	dashboard.gumgum.com
-0.0.0.0	dashboard.localytics.com
 0.0.0.0	dashboard.qubitproducts.com
 0.0.0.0	dashboard.trafficforce.com
 0.0.0.0	dash.parrable.com
@@ -33796,7 +33795,6 @@
 0.0.0.0	ebocornac.com
 0.0.0.0	ebonyhead.com
 0.0.0.0	ebony.streamate.com
-0.0.0.0	ebooks.localytics.com
 0.0.0.0	ebs.criteo.com
 0.0.0.0	ebtmarketing.com
 0.0.0.0	ebvjw.voluumtrk.com
@@ -34304,7 +34302,6 @@
 0.0.0.0	engine.doublepimp.com
 0.0.0.0	engine-dsa.fyber.com
 0.0.0.0	engine.edocbuilder.com
-0.0.0.0	engineering.wootric.com
 0.0.0.0	engine.espace.netavenir.com
 0.0.0.0	engine.fl-ads.com
 0.0.0.0	engine.fling.doublepimp.com
@@ -35033,7 +35030,6 @@
 0.0.0.0	fansign.streamray.com
 0.0.0.0	fan.twitch.tv
 0.0.0.0	faq-candrive.tk
-0.0.0.0	faq.revcontent.com
 0.0.0.0	faqts.us.intellitxt.com
 0.0.0.0	faradsfmbrdiejz.download
 0.0.0.0	farecastcom.122.2o7.net
@@ -39188,7 +39184,6 @@
 0.0.0.0	info.evidon.com
 0.0.0.0	info.instartlogic.com
 0.0.0.0	info.intelli-direct.com
-0.0.0.0	info.localytics.com
 0.0.0.0	info-mail.codeguard.com
 0.0.0.0	infomart.ca.112.2o7.net
 0.0.0.0	infonlin.2cnt.net
