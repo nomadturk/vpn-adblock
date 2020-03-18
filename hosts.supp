@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Mar 18 02:30:10 +03 2020
-# Total number of blocked hosts are: 65248
+# Ad blocking hosts generated Thu Mar 19 02:30:10 +03 2020
+# Total number of blocked hosts are: 65247
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-adult-counters.x-xtra.com
 0.0.0.0	006.free-counter.co.uk
@@ -37604,7 +37604,6 @@
 0.0.0.0	hearstugo.112.2o7.net
 0.0.0.0	heartbeat.pmc.com
 0.0.0.0	heartbeat.tv.kuyun.com
-0.0.0.0	heatmaprestapi-production.eu-west-1.elasticbeanstalk.com
 0.0.0.0	heavycom.122.2o7.net
 0.0.0.0	heavy-d.openx.net
 0.0.0.0	hebadu.com
