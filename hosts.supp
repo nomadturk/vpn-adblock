@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Jun 2 02:30:05 +03 2020
-# Total number of blocked hosts are: 23160
+# Ad blocking hosts generated Wed Jun 3 02:30:06 +03 2020
+# Total number of blocked hosts are: 23158
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	007.free-counter.co.uk
@@ -4015,7 +4015,6 @@
 0.0.0.0	api.brandify.com
 0.0.0.0	api-bts.logsss.com
 0.0.0.0	api.bttrack.com
-0.0.0.0	api.bufferapp.com
 0.0.0.0	api.bugfender.com
 0.0.0.0	api.bugly.qq.com
 0.0.0.0	api.bugsee.com
@@ -20928,7 +20927,6 @@
 0.0.0.0	veads.veinteractive.com
 0.0.0.0	vectaury.io
 0.0.0.0	vector.parrable.com
-0.0.0.0	vectorsdk.map.qq.com
 0.0.0.0	veeseo.com
 0.0.0.0	veevu.tourstogo.us
 0.0.0.0	veirregnant.club
