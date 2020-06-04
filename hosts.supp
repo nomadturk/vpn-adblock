@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Jun 4 02:30:06 +03 2020
-# Total number of blocked hosts are: 23158
+# Ad blocking hosts generated Fri Jun 5 02:30:11 +03 2020
+# Total number of blocked hosts are: 23157
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	007.free-counter.co.uk
@@ -17751,7 +17751,6 @@
 0.0.0.0	si.adocean.pl
 0.0.0.0	siads.sv.publicus.com
 0.0.0.0	s.iaudienc.com
-0.0.0.0	sidecar.gitter.im
 0.0.0.0	s.idio.co
 0.0.0.0	siemens.d1.sc.omtrdc.net
 0.0.0.0	sift-campaign-creatives.s3.amazonaws.com
