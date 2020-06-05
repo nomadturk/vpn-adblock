@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Jun 5 02:30:11 +03 2020
-# Total number of blocked hosts are: 23157
+# Ad blocking hosts generated Sat Jun 6 02:30:06 +03 2020
+# Total number of blocked hosts are: 23108
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	007.free-counter.co.uk
@@ -5635,11 +5635,7 @@
 0.0.0.0	bot.whatismyipaddress.com
 0.0.0.0	botw.topbucks.com
 0.0.0.0	bounce.emxdgt.com
-0.0.0.0	bounce.exacttarget.com
 0.0.0.0	bounceexchange.com
-0.0.0.0	bounce-mx.exacttarget.com
-0.0.0.0	bounce.s10.exacttarget.com
-0.0.0.0	bounce.s7.exacttarget.com
 0.0.0.0	box.adalliance.io
 0.0.0.0	box.anchorfree.net
 0.0.0.0	boxapp.admicro.vn
@@ -5661,7 +5657,6 @@
 0.0.0.0	brainient.com
 0.0.0.0	brainyquote-d.openx.net
 0.0.0.0	branch.io
-0.0.0.0	brandcdn.exacttarget.com
 0.0.0.0	branding.api.us.apiconnect.ibmcloud.com
 0.0.0.0	branding.taboola.com
 0.0.0.0	brandsafe.adlooxtracking.com
@@ -7643,11 +7638,6 @@
 0.0.0.0	cr01.dynatrace.com
 0.0.0.0	cr02.dynatrace.com
 0.0.0.0	c.r10.mopub.com
-0.0.0.0	cr114.mta.exacttarget.com
-0.0.0.0	cr144.mta.exacttarget.com
-0.0.0.0	cr171.mta.exacttarget.com
-0.0.0.0	cr71.mta.exacttarget.com
-0.0.0.0	cr91.mta.exacttarget.com
 0.0.0.0	crab.baidu.com
 0.0.0.0	crackspider.us
 0.0.0.0	cracks.vg
@@ -7833,8 +7823,6 @@
 0.0.0.0	c.vrvm.com
 0.0.0.0	c.vserv.mobi
 0.0.0.0	cvt.mydas.mobi
-0.0.0.0	cw230.mta.exacttarget.com
-0.0.0.0	cw23.mta.exacttarget.com
 0.0.0.0	c.w.dfw2.vip.inmobi.com
 0.0.0.0	c.webengage.com
 0.0.0.0	c.webtrends.com
@@ -8374,17 +8362,12 @@
 0.0.0.0	dev.trafficforce.com
 0.0.0.0	dev.visualwebsiteoptimizer.com
 0.0.0.0	dev.wrathofshadows.net
-0.0.0.0	df12.mta.exacttarget.com
-0.0.0.0	df140.mta.exacttarget.com
-0.0.0.0	df177.mta.exacttarget.com
-0.0.0.0	df57.mta.exacttarget.com
 0.0.0.0	dfdsseaways.blueconic.com
 0.0.0.0	dfp.doubleclick.net
 0.0.0.0	dfp-gateway.onscroll.com
 0.0.0.0	dfp-gateway.us.onscroll.com
 0.0.0.0	dfs.digitalaccess.ru
 0.0.0.0	dft.cl.dynad.net
-0.0.0.0	dg7.mta.exacttarget.com
 0.0.0.0	dg.specificclick.net
 0.0.0.0	dhawk.parrable.com
 0.0.0.0	dhg-logging.us-east-1.elasticbeanstalk.com
@@ -11112,7 +11095,6 @@
 0.0.0.0	images3.taboola.com
 0.0.0.0	images4.taboola.com
 0.0.0.0	images5.taboola.com
-0.0.0.0	image.s7.exacttarget.com
 0.0.0.0	images9.engageya.com
 0.0.0.0	images.about.com
 0.0.0.0	images.adrime.com
@@ -11365,15 +11347,6 @@
 0.0.0.0	in.appserver-cp.com
 0.0.0.0	inapps.moengage.com
 0.0.0.0	inari.iad-03.braze.com
-0.0.0.0	inbound-reply.s1.exacttarget.com
-0.0.0.0	inbound-reply.s4.exacttarget.com
-0.0.0.0	inbound-reply.s6.exacttarget.com
-0.0.0.0	inbound-reply.s7.exacttarget.com
-0.0.0.0	inbound.s1.exacttarget.com
-0.0.0.0	inbound.s4.exacttarget.com
-0.0.0.0	inbound.s5.exacttarget.com
-0.0.0.0	inbound.s6.exacttarget.com
-0.0.0.0	inbound.s7.exacttarget.com
 0.0.0.0	in.c.appier.net
 0.0.0.0	in-cdn.effectivemeasure.net
 0.0.0.0	inceptionads.go2cloud.org
@@ -12907,8 +12880,6 @@
 0.0.0.0	mc.exacttarget.com
 0.0.0.0	mcmads.mediacapital.pt
 0.0.0.0	mc.s10.exacttarget.com
-0.0.0.0	mc.s4.exacttarget.com
-0.0.0.0	mc.s6.exacttarget.com
 0.0.0.0	mc.s7.exacttarget.com
 0.0.0.0	mcs.eyereturn.com
 0.0.0.0	mcsvc.dynatrace.com
@@ -14811,7 +14782,6 @@
 0.0.0.0	origin-ads.undertone.com
 0.0.0.0	origin-c0.anthill.vn
 0.0.0.0	origin-cdn.openx.com
-0.0.0.0	origin-click.virt.s7.exacttarget.com
 0.0.0.0	origin-e.anthill.vn
 0.0.0.0	origin-gizmo.serving-sys.com
 0.0.0.0	origin-hb.undertone.com
@@ -15000,17 +14970,8 @@
 0.0.0.0	pagerank-server7.de
 0.0.0.0	pagerank-suchmaschine.de
 0.0.0.0	pagesense.com
-0.0.0.0	pages.exacttarget.com
-0.0.0.0	pages.s4.exacttarget.com
-0.0.0.0	pages.s6.exacttarget.com
-0.0.0.0	pages.s7.exacttarget.com
 0.0.0.0	pages.taboola.com
 0.0.0.0	pagestat.mmi.bemobile.ua
-0.0.0.0	pages.virt.exacttarget.com
-0.0.0.0	pages.virt.s10.exacttarget.com
-0.0.0.0	pages.virt.s4.exacttarget.com
-0.0.0.0	pages.virt.s6.exacttarget.com
-0.0.0.0	pages.virt.s7.exacttarget.com
 0.0.0.0	pagetracking.popmarker.com
 0.0.0.0	paid.outbrain.com
 0.0.0.0	paidstats.com
@@ -16407,10 +16368,6 @@
 0.0.0.0	replaycontroller.4seeresults.com
 0.0.0.0	replay.foreseeresults.com
 0.0.0.0	rep.logentries.com
-0.0.0.0	reply.exacttarget.com
-0.0.0.0	reply-mx.s6.exacttarget.com
-0.0.0.0	reply-mx.s7.exacttarget.com
-0.0.0.0	reply.s10.exacttarget.com
 0.0.0.0	reporo.net
 0.0.0.0	report.adtech.de
 0.0.0.0	report.adview.cn
@@ -21064,13 +21021,7 @@
 0.0.0.0	viewclc.com
 0.0.0.0	viewer.peer39.com
 0.0.0.0	viewerstats.docstoc.com.s3.amazonaws.com
-0.0.0.0	view.exacttarget.com
 0.0.0.0	viewpoint.com
-0.0.0.0	view.virt.exacttarget.com
-0.0.0.0	view.virt.s10.exacttarget.com
-0.0.0.0	view.virt.s4.exacttarget.com
-0.0.0.0	view.virt.s6.exacttarget.com
-0.0.0.0	view.virt.s7.exacttarget.com
 0.0.0.0	viewwonder.com
 0.0.0.0	villalecchi.com
 0.0.0.0	vindicosuite.com
