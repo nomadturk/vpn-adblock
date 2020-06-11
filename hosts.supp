@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Jun 11 02:30:08 +03 2020
-# Total number of blocked hosts are: 23107
+# Ad blocking hosts generated Fri Jun 12 02:30:06 +03 2020
+# Total number of blocked hosts are: 23105
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	007.free-counter.co.uk
@@ -6295,7 +6295,6 @@
 0.0.0.0	cdn-config.taplytics.com
 0.0.0.0	cdn.content.exoticads.com
 0.0.0.0	cdn.contentspread.net
-0.0.0.0	cdn.cookielaw.org
 0.0.0.0	cdn.cpmstar.com
 0.0.0.0	cdn.cpxinteractive.com
 0.0.0.0	cdn.cquotient.com
@@ -15664,7 +15663,6 @@
 0.0.0.0	preprod.accengage.com
 0.0.0.0	preroll.a4.tl
 0.0.0.0	presage.io
-0.0.0.0	presence-grpc-noneu.truecaller.com
 0.0.0.0	presence-pc.fr.intellitxt.com
 0.0.0.0	presentation-atl1.turn.com
 0.0.0.0	presentationtracking.netflix.com
