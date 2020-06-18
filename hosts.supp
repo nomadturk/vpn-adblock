@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Jun 18 02:30:05 +03 2020
-# Total number of blocked hosts are: 22716
+# Ad blocking hosts generated Fri Jun 19 02:30:06 +03 2020
+# Total number of blocked hosts are: 22710
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	007.free-counter.co.uk
@@ -4639,7 +4639,6 @@
 0.0.0.0	assets.chartboost.com
 0.0.0.0	assets.deployads.com
 0.0.0.0	assets.dwell.com
-0.0.0.0	assets.dynatrace.com
 0.0.0.0	assets.foxmetrics.com
 0.0.0.0	assets.iterable.com
 0.0.0.0	assets.kampyle.com
@@ -7480,8 +7479,6 @@
 0.0.0.0	cqji.artidentalkurs.com
 0.0.0.0	cqlupb.com
 0.0.0.0	c.quantserve.com
-0.0.0.0	cr01.dynatrace.com
-0.0.0.0	cr02.dynatrace.com
 0.0.0.0	c.r10.mopub.com
 0.0.0.0	crab.baidu.com
 0.0.0.0	crackspider.us
@@ -8550,7 +8547,6 @@
 0.0.0.0	dynamic.criteo.com
 0.0.0.0	dynamic.fmpub.net
 0.0.0.0	dynamicyield.com
-0.0.0.0	dynatrace.com
 0.0.0.0	dyn-beacon.akamaized.net
 0.0.0.0	dync2.c.appier.net
 0.0.0.0	dync.c.appier.net
@@ -12657,7 +12653,6 @@
 0.0.0.0	mc.s10.exacttarget.com
 0.0.0.0	mc.s7.exacttarget.com
 0.0.0.0	mcs.eyereturn.com
-0.0.0.0	mcsvc.dynatrace.com
 0.0.0.0	mct.rkdms.com
 0.0.0.0	mc.yandex.ru
 0.0.0.0	md-a-c.apptimize.com
@@ -17436,7 +17431,6 @@
 0.0.0.0	signalhq.com
 0.0.0.0	signals.ampiri.com
 0.0.0.0	signal-sdk-service-production.ap-south-1.elasticbeanstalk.com
-0.0.0.0	signin.dynatrace.com
 0.0.0.0	si.hit.gemius.pl
 0.0.0.0	siliconera.us.intellitxt.com
 0.0.0.0	silurian.cn
