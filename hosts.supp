@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Jul 8 02:35:13 +03 2020
-# Total number of blocked hosts are: 22563
+# Ad blocking hosts generated Thu Jul 9 02:35:13 +03 2020
+# Total number of blocked hosts are: 22554
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	007.free-counter.co.uk
@@ -4653,7 +4653,6 @@
 0.0.0.0	a.steepto.com
 0.0.0.0	asth.innity.com
 0.0.0.0	as-tlx.3lift.com
-0.0.0.0	a.stun.kaptcha.com
 0.0.0.0	as-v1.presage.io
 0.0.0.0	as-v1.prod.cloud.ogury.io
 0.0.0.0	as.webmd.com
@@ -4807,12 +4806,6 @@
 0.0.0.0	axp.zedo.com
 0.0.0.0	ayboll.sgsrv.com
 0.0.0.0	ay.eastmoney.com
-0.0.0.0	az361816.vo.msecnd.net
-0.0.0.0	az413505.vo.msecnd.net
-0.0.0.0	az416426.vo.msecnd.net
-0.0.0.0	az512334.vo.msecnd.net
-0.0.0.0	az598575.vo.msecnd.net
-0.0.0.0	az708531.vo.msecnd.net
 0.0.0.0	azcdn.criteo.net
 0.0.0.0	azcdn-preprod.criteo.net
 0.0.0.0	azoos.csheaven.com
@@ -17882,7 +17875,6 @@
 0.0.0.0	ssl-i.cdn.openx.com
 0.0.0.0	ss.linksynergy.com
 0.0.0.0	ssl-i.xx.openx.com
-0.0.0.0	ssl.kaptcha.com
 0.0.0.0	ssl.ligatus.com
 0.0.0.0	ssl.linksynergy.com
 0.0.0.0	ssl.lomadee.com
@@ -19800,7 +19792,6 @@
 0.0.0.0	ts.richmedia.yahoo.com
 0.0.0.0	tsrid.cxense.com
 0.0.0.0	ts.tdxio.com
-0.0.0.0	tst.kaptcha.com
 0.0.0.0	ts-tracker-env-2.us-east-1.elasticbeanstalk.com
 0.0.0.0	ts-tracker-env.us-east-1.elasticbeanstalk.com
 0.0.0.0	t.svtrd.com
