@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Jul 20 02:30:13 +03 2020
-# Total number of blocked hosts are: 22689
+# Ad blocking hosts generated Tue Jul 21 02:30:16 +03 2020
+# Total number of blocked hosts are: 22675
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	007.free-counter.co.uk
@@ -8757,7 +8757,6 @@
 0.0.0.0	em.subiz.com
 0.0.0.0	em-use.dynamicyield.com
 0.0.0.0	emxdgt.com
-0.0.0.0	emxdigital.com
 0.0.0.0	emxhb.emxdgt.com
 0.0.0.0	encyclocentral.us.intellitxt.com
 0.0.0.0	endpoint1.collection.us2.sumologic.com
@@ -8818,7 +8817,6 @@
 0.0.0.0	engage8829thscr.deltadna.net
 0.0.0.0	engage9306klmvt.deltadna.net
 0.0.0.0	engage9822snprs.deltadna.net
-0.0.0.0	engagebdr.com
 0.0.0.0	engageiq.pushcrew.com
 0.0.0.0	engage.marketo.com
 0.0.0.0	engage.meltwater.com
@@ -8891,7 +8889,6 @@
 0.0.0.0	equibase-company-d.openx.net
 0.0.0.0	equifaxps.sc.omtrdc.net
 0.0.0.0	equuleus.iad.appboy.com
-0.0.0.0	eqworks.com
 0.0.0.0	eqx-secure.smartadserver.com
 0.0.0.0	eqx.smartadserver.com
 0.0.0.0	eqx-tmk-geoloc.smartadserver.com
@@ -8919,7 +8916,6 @@
 0.0.0.0	es.adserver.yahoo.com
 0.0.0.0	es.ads.justpremium.com
 0.0.0.0	es.advertising.yahoo.com
-0.0.0.0	esellerate.net
 0.0.0.0	eset.122.2o7.net
 0.0.0.0	e.sexad.net
 0.0.0.0	es.gmads.net
@@ -10939,11 +10935,6 @@
 0.0.0.0	imc.l.qq.com
 0.0.0.0	imeem.112.2o7.net
 0.0.0.0	img001.com
-0.0.0.0	img02.en25.com
-0.0.0.0	img03.en25.com
-0.0.0.0	img04.en25.com
-0.0.0.0	img06.en25.com
-0.0.0.0	img07.en25.com
 0.0.0.0	img100-321.xvideos.com
 0.0.0.0	img1.ncsreporting.com
 0.0.0.0	img1.zergnet.com
@@ -16875,7 +16866,6 @@
 0.0.0.0	sdk.dotui.cn
 0.0.0.0	sdk.dreamflyuu.com
 0.0.0.0	sdk-endpoint.prod.tda.link
-0.0.0.0	sdk.engage.co
 0.0.0.0	sdk.e.qq.com
 0.0.0.0	sdk-events.inner-active.mobi
 0.0.0.0	sdkevents.zapr.in
@@ -18475,7 +18465,6 @@
 0.0.0.0	status.batch.com
 0.0.0.0	status.branch.io
 0.0.0.0	status.chartboost.com
-0.0.0.0	status.engage.co
 0.0.0.0	status.fullstory.com
 0.0.0.0	status.optimizely.com
 0.0.0.0	status.pubmatic.com
@@ -20418,7 +20407,6 @@
 0.0.0.0	v2.shareaholic.com
 0.0.0.0	v2.urlads.net
 0.0.0.0	v3.chartboost.com
-0.0.0.0	v3dev.estream.com
 0.0.0.0	v3.moatads.com
 0.0.0.0	v4.chartboost.com
 0.0.0.0	v4.moatads.com
@@ -20835,7 +20823,6 @@
 0.0.0.0	wallpapers91.com
 0.0.0.0	walmart.112.2o7.net
 0.0.0.0	wap-click.com
-0.0.0.0	wapi.engage.co
 0.0.0.0	waps.cn
 0.0.0.0	wapstart.ru
 0.0.0.0	warco.pl
@@ -22407,7 +22394,6 @@
 0.0.0.0	xclub.app.infinixmobility.com
 0.0.0.0	xcp.go.sonobi.com
 0.0.0.0	xdcs-collector.ximalaya.com
-0.0.0.0	xdomain.engage.co
 0.0.0.0	xd-q.mediav.com
 0.0.0.0	xdrig.com
 0.0.0.0	xdssp.mediav.com
