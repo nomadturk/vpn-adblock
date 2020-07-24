@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Jul 24 02:30:12 +03 2020
-# Total number of blocked hosts are: 22675
+# Ad blocking hosts generated Sat Jul 25 02:30:10 +03 2020
+# Total number of blocked hosts are: 22666
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	007.free-counter.co.uk
@@ -4138,7 +4138,6 @@
 0.0.0.0	api.taps.io
 0.0.0.0	api.tapstream.com
 0.0.0.0	api.theadex.com
-0.0.0.0	api.tinypass.com
 0.0.0.0	api.toboads.com
 0.0.0.0	api.trackuity.com
 0.0.0.0	api.treasuredata.com
@@ -4155,7 +4154,6 @@
 0.0.0.0	apiv2mumbai.moengage.com
 0.0.0.0	apiv3india.moengage.com
 0.0.0.0	apiv3.moengage.com
-0.0.0.0	api-v3.tinypass.com
 0.0.0.0	apiv4.subiz.com
 0.0.0.0	api.veritix.com
 0.0.0.0	api.verticalscope.com
@@ -5632,7 +5630,6 @@
 0.0.0.0	buycom.122.2o7.net
 0.0.0.0	buyhitscheap.com
 0.0.0.0	buylicensekey.com
-0.0.0.0	buy.tinypass.com
 0.0.0.0	buzzad.io
 0.0.0.0	buzzcity.net
 0.0.0.0	buzzcpm.com
@@ -6388,7 +6385,6 @@
 0.0.0.0	cdn.teads.tv
 0.0.0.0	cdn.teamskeetimages.com
 0.0.0.0	cdn.thumbs.glispa.com
-0.0.0.0	cdn.tinypass.com
 0.0.0.0	cdnt.meteorsolutions.com
 0.0.0.0	cdn.total-media.net
 0.0.0.0	cdn.trackjs.com
@@ -9459,7 +9455,6 @@
 0.0.0.0	folder.advmob.cn
 0.0.0.0	folkd.put.omnimon.de
 0.0.0.0	fondazioneciampi.org
-0.0.0.0	fonts.tinypass.com
 0.0.0.0	foocheeb.net
 0.0.0.0	footerroll.admedia.com
 0.0.0.0	footymad.uk.intellitxt.com
@@ -10774,7 +10769,6 @@
 0.0.0.0	ids.cdnwidget.com
 0.0.0.0	idsync.reson8.com
 0.0.0.0	idsync.rlcdn.com
-0.0.0.0	id.tinypass.com
 0.0.0.0	ieginc.com
 0.0.0.0	iesb.us.intellitxt.com
 0.0.0.0	ifa.camads.net
@@ -14972,7 +14966,6 @@
 0.0.0.0	php-magnet.de.intellitxt.com
 0.0.0.0	phunware.com
 0.0.0.0	physorg.uk.intellitxt.com
-0.0.0.0	piano.io
 0.0.0.0	piccdn.igetget.com
 0.0.0.0	pickmeupnews.us.intellitxt.com
 0.0.0.0	pics.cnomy.com
@@ -15626,7 +15619,6 @@
 0.0.0.0	publisherdesk-d.openx.net
 0.0.0.0	publisher-event.unityads.unity3d.com
 0.0.0.0	publisher.media.net
-0.0.0.0	publisher.piano.io
 0.0.0.0	publisherportal.doubleclick.net
 0.0.0.0	publisher-reporting-api.fyber.com
 0.0.0.0	publishers.adtrue.com
@@ -16869,7 +16861,6 @@
 0.0.0.0	sdk.e.qq.com
 0.0.0.0	sdk-events.inner-active.mobi
 0.0.0.0	sdkevents.zapr.in
-0.0.0.0	sdk.fevo.com
 0.0.0.0	sdk.fiksu.com
 0.0.0.0	sdk.fitle.com
 0.0.0.0	sdk.follow-apps.com
