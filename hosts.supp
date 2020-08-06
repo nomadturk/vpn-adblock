@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Aug 6 02:30:10 +03 2020
-# Total number of blocked hosts are: 22363
+# Ad blocking hosts generated Fri Aug 7 02:30:13 +03 2020
+# Total number of blocked hosts are: 22361
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	007.free-counter.co.uk
@@ -4073,7 +4073,6 @@
 0.0.0.0	api.smbeat.jp
 0.0.0.0	api.soclminer.com.br
 0.0.0.0	api.sonobi.com
-0.0.0.0	apis.playstove.com.edgekey.net
 0.0.0.0	api.sponsorpay.com
 0.0.0.0	apissl.ksapisrv.com
 0.0.0.0	api.starstarmobile.com
@@ -16745,7 +16744,6 @@
 0.0.0.0	sdk-vmh.prod-univision.com
 0.0.0.0	sdk.vstyle4u.com
 0.0.0.0	sdk.wappier.com
-0.0.0.0	sdkweb.playstove.com
 0.0.0.0	sdk.wesdk.co
 0.0.0.0	sdk.wjinfu.com
 0.0.0.0	sdk.yolanda.hk
