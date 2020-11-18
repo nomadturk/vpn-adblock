@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Nov 18 02:30:06 +03 2020
-# Total number of blocked hosts are: 9691
+# Ad blocking hosts generated Thu Nov 19 02:30:07 +03 2020
+# Total number of blocked hosts are: 9715
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10896.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -4187,7 +4187,31 @@
 0.0.0.0	flapi2.rubiconproject.com
 0.0.0.0	flash.doubleclick-analytics.com
 0.0.0.0	flashtalking.com.edgekey.net
+0.0.0.0	fls-cn.amazon.cn
+0.0.0.0	fls-cn.amazon.com
+0.0.0.0	fls.doubleclick.net
+0.0.0.0	fls-eu.amazon-adsystem.com
+0.0.0.0	fls-eu.amazon.ae
+0.0.0.0	fls-eu.amazon.com
+0.0.0.0	fls-eu.amazon.co.uk
+0.0.0.0	fls-eu.amazon.de
+0.0.0.0	fls-eu.amazon.es
+0.0.0.0	fls-eu.amazon.fr
+0.0.0.0	fls-eu.amazon.in
+0.0.0.0	fls-eu.amazon.it
+0.0.0.0	fls-eu.amazon.nl
+0.0.0.0	fls-eu.amazon.sa
+0.0.0.0	fls-eu.amazon.se
+0.0.0.0	fls-fe.amazon-adsystem.com
+0.0.0.0	fls-fe.amazon.co.jp
+0.0.0.0	fls-fe.amazon.com
+0.0.0.0	fls-fe.amazon.com.au
+0.0.0.0	fls-fe.amazon.sg
+0.0.0.0	fls-na.amazon-adsystem.com
+0.0.0.0	fls-na.amazon.ca
 0.0.0.0	fls-na.amazon.com
+0.0.0.0	fls-na.amazon.com.br
+0.0.0.0	fls-na.amazon.com.mx
 0.0.0.0	fls.unrulymedia.com
 0.0.0.0	fluid-adverts.localstars.com
 0.0.0.0	flurry.cachefly.net
