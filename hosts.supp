@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Dec 2 02:30:04 +03 2020
-# Total number of blocked hosts are: 9710
+# Ad blocking hosts generated Thu Dec 3 02:30:07 +03 2020
+# Total number of blocked hosts are: 9708
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10896.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -1569,7 +1569,6 @@
 0.0.0.0	api.nanigans.com
 0.0.0.0	apinas.nct.vn
 0.0.0.0	api.native.ai
-0.0.0.0	api.nicovideo.jp
 0.0.0.0	api.ning.com
 0.0.0.0	api.nrelate.com
 0.0.0.0	api.omniture.com
@@ -6794,7 +6793,6 @@
 0.0.0.0	pub.funshion.com
 0.0.0.0	pubgalaxy-d.openx.net
 0.0.0.0	pub.lavanetwork.net
-0.0.0.0	public.api.nicovideo.jp
 0.0.0.0	public-webservice.apdc1n.adpushup.com
 0.0.0.0	public-webservice.apdc3n.adpushup.com
 0.0.0.0	public-webservice.geo.adpushup.com
