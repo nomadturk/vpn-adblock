@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Dec 9 02:30:05 +03 2020
-# Total number of blocked hosts are: 9664
+# Ad blocking hosts generated Thu Dec 10 02:30:06 +03 2020
+# Total number of blocked hosts are: 9665
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10896.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -871,6 +871,7 @@
 0.0.0.0	adspeed.com
 0.0.0.0	ads.perfectaudience.com
 0.0.0.0	adsp.haberturk.com
+0.0.0.0	ads.phonepe.com
 0.0.0.0	ads.pictela.net
 0.0.0.0	ads.pinger.com
 0.0.0.0	ads.pinterest.com
