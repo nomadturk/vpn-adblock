@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Dec 14 02:30:05 +03 2020
-# Total number of blocked hosts are: 9665
+# Ad blocking hosts generated Tue Dec 15 02:30:06 +03 2020
+# Total number of blocked hosts are: 9648
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10896.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -346,7 +346,6 @@
 0.0.0.0	ac.adpia.vn
 0.0.0.0	a.c.appier.net
 0.0.0.0	ac.batmobi.net
-0.0.0.0	access-prod.apis.anvato.net
 0.0.0.0	accesstrade.com.vn
 0.0.0.0	accesstrade.vn
 0.0.0.0	acc.magixite.com
@@ -1613,7 +1612,6 @@
 0.0.0.0	api.sail-personalize.com
 0.0.0.0	api.sailthru.com
 0.0.0.0	api.salmonads.com
-0.0.0.0	apis.anvato.net
 0.0.0.0	api.saypromo.net
 0.0.0.0	apis.com.br
 0.0.0.0	api-scsdk.appcloudbox.net
@@ -2606,7 +2604,6 @@
 0.0.0.0	cdnaimg-ra.media.net
 0.0.0.0	cdn-akamai.mookie1.com
 0.0.0.0	cdn.amplitude.com
-0.0.0.0	cdn.anvato.net
 0.0.0.0	cdnap.airpush.com
 0.0.0.0	cdn-api.admost.com
 0.0.0.0	cdn-api.appadhoc.com
@@ -3400,7 +3397,6 @@
 0.0.0.0	d1.hadarone.com
 0.0.0.0	d2cmedia.ca
 0.0.0.0	d2.hadarone.com
-0.0.0.0	d2oj2jfp5qkm5dtc3gtiqjzaab.gcdn.anvato.net
 0.0.0.0	d3.hadarone.com
 0.0.0.0	d3.moatads.com
 0.0.0.0	d5.hadarone.com
@@ -3560,10 +3556,6 @@
 0.0.0.0	dco-assets.everestads.net
 0.0.0.0	dco-jads-727222375.us-west-2.elb.amazonaws.com
 0.0.0.0	dcs.adgear.com
-0.0.0.0	dcs-jite.cdn.anvato.net
-0.0.0.0	dcs-live.apis.anvato.net
-0.0.0.0	dcs-tgt.apis.anvato.net
-0.0.0.0	dcs-vod.apis.anvato.net
 0.0.0.0	dct.netmng.com
 0.0.0.0	dc.webtrends.com
 0.0.0.0	dc.yieldify.com
@@ -3722,7 +3714,6 @@
 0.0.0.0	d.pub.network
 0.0.0.0	dpypzvjarj.com
 0.0.0.0	d.r10.mopub.com
-0.0.0.0	drm.apis.anvato.net
 0.0.0.0	dr.socdm.com
 0.0.0.0	ds-aksb-a.akamaihd.net
 0.0.0.0	dsa.moatads.com
@@ -4343,7 +4334,6 @@
 0.0.0.0	gb-gmtdmp.mookie1.com
 0.0.0.0	g.c.appier.net
 0.0.0.0	gcd.mmstat.com
-0.0.0.0	gcdn.anvato.net
 0.0.0.0	gcdsdk.appsflyer.com
 0.0.0.0	gc.ds.duapps.com
 0.0.0.0	gcloud.bluecava.com
@@ -4488,7 +4478,6 @@
 0.0.0.0	go.vrvm.com
 0.0.0.0	gowadogo.com
 0.0.0.0	gozatar.com
-0.0.0.0	gpizacfw3gtfw4vmh5nc4uq6gc.gcdn.anvato.net
 0.0.0.0	gplayer.kmpmedia.net
 0.0.0.0	grabify.link
 0.0.0.0	grace.shareaholic.com
@@ -5137,7 +5126,6 @@
 0.0.0.0	jampp.com
 0.0.0.0	j.br.baidu.com
 0.0.0.0	jgl.microad.net
-0.0.0.0	jkvdxu3faz4qgr2j6w5qctdnde.gcdn.anvato.net
 0.0.0.0	j.microad.net
 0.0.0.0	jogger.zdbb.net
 0.0.0.0	johnston.grapeshot.co.uk
@@ -6049,7 +6037,6 @@
 0.0.0.0	nmcdn.us
 0.0.0.0	nmetrics.samsung.com
 0.0.0.0	nmtracking.netflix.com
-0.0.0.0	nmvxdvra2muiv2amejorzkvqgg.gcdn.anvato.net
 0.0.0.0	noclick.connexity.com
 0.0.0.0	nodeny.targetspot.com
 0.0.0.0	node.targetspot.com
@@ -8515,7 +8502,6 @@
 0.0.0.0	test.quantcast.mgr.consensu.org
 0.0.0.0	testtradedeskmve.s.moatpixel.com
 0.0.0.0	textlink.simba.taobao.com
-0.0.0.0	tfa26fsjgzw475fipe42v4rhcf.gcdn.anvato.net
 0.0.0.0	tg1.aniview.com
 0.0.0.0	t.gammaplatform.com
 0.0.0.0	tg.dr.socdm.com
@@ -8574,7 +8560,6 @@
 0.0.0.0	tkr.yieldmo.com
 0.0.0.0	tktracker.aotter.net
 0.0.0.0	t.ktxtr.com
-0.0.0.0	tkx.apis.anvato.net
 0.0.0.0	t.leady.com
 0.0.0.0	tlg.mookie1.com
 0.0.0.0	t.lkqd.net
@@ -9303,7 +9288,6 @@
 0.0.0.0	vz-cdn.contentabc.com
 0.0.0.0	vz-cdn.trafficjunky.net
 0.0.0.0	w1.iyi.net
-0.0.0.0	w3.cdn.anvato.net
 0.0.0.0	w3i.com
 0.0.0.0	wa.appsflyer.com
 0.0.0.0	w.admedia.com
@@ -9564,7 +9548,6 @@
 0.0.0.0	xfeedback.scloud.lfengmobile.com
 0.0.0.0	x.fidelity-media.com
 0.0.0.0	xghfi97mk6.com
-0.0.0.0	xheimmxl4gfvfghng2jjos4qhb.gcdn.anvato.net
 0.0.0.0	xiaomi-mipdx.cn.miaozhen.com
 0.0.0.0	ximad.com
 0.0.0.0	x.innovid.com
