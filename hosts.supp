@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Dec 16 02:30:06 +03 2020
-# Total number of blocked hosts are: 9648
+# Ad blocking hosts generated Thu Dec 17 02:30:06 +03 2020
+# Total number of blocked hosts are: 9647
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10896.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -9380,7 +9380,6 @@
 0.0.0.0	widget.secure.ownlocal.com
 0.0.0.0	widgets.mgid.com
 0.0.0.0	widgets.outbrain.com
-0.0.0.0	widgets.pinterest.com
 0.0.0.0	widget.ty5.vip.prod.criteo.com
 0.0.0.0	widget.us.criteo.com
 0.0.0.0	widget.va1.vip.prod.criteo.com
