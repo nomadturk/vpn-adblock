@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Dec 17 02:30:06 +03 2020
-# Total number of blocked hosts are: 9647
+# Ad blocking hosts generated Fri Dec 18 02:30:06 +03 2020
+# Total number of blocked hosts are: 9640
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10896.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -2703,7 +2703,6 @@
 0.0.0.0	cdn.inskinad.com
 0.0.0.0	cdn.inspectlet.com
 0.0.0.0	cdn.intergi.com
-0.0.0.0	cdn.ipromote.com
 0.0.0.0	cdn.isnssdk.com
 0.0.0.0	cdn.iubenda.com
 0.0.0.0	cdn.izooto.com
@@ -2968,7 +2967,6 @@
 0.0.0.0	cloud-emea.analytics-egain.com
 0.0.0.0	cloud-graphql-live.us-east-1.elasticbeanstalk.com
 0.0.0.0	cloud.gsdk.proximabeta.com
-0.0.0.0	cloud.internetstores.com
 0.0.0.0	cloudmobi.net
 0.0.0.0	cloud.ogury.io
 0.0.0.0	cloudservice14.kingsoft-office-service.com
@@ -4148,7 +4146,6 @@
 0.0.0.0	financialtimesdfp415669142494.s.moatpixel.com
 0.0.0.0	fineboost-loghub.ap-southeast-1.log.aliyuncs.com
 0.0.0.0	fingahvf.top
-0.0.0.0	finlogs.joyeggs.com
 0.0.0.0	firebase-settings.crashlytics.com
 0.0.0.0	firstimpression-d.openx.net
 0.0.0.0	firstimpression.io
@@ -4228,8 +4225,6 @@
 0.0.0.0	fp3.ads.stickyadstv.com.akadns.net
 0.0.0.0	fptadtrue-d.openx.net
 0.0.0.0	fra-01.braze.eu
-0.0.0.0	fra1.ipromote.com
-0.0.0.0	fra2.ipromote.com
 0.0.0.0	fra-col.eum-appdynamics.com
 0.0.0.0	fr.ads.justpremium.com
 0.0.0.0	frame.appsgeyser.com
@@ -5198,7 +5193,6 @@
 0.0.0.0	kaffnet.com
 0.0.0.0	kaltura.com.edgekey.net
 0.0.0.0	kaltura.perf.akadns.net
-0.0.0.0	kaotic.com
 0.0.0.0	kargodfpnew803390365855.s.moatpixel.com
 0.0.0.0	kargo-match.dotomi.com
 0.0.0.0	kargovideojstag.s.moatpixel.com
@@ -6338,7 +6332,6 @@
 0.0.0.0	patriot.cs.pp.cn
 0.0.0.0	p.avazunativeads.com
 0.0.0.0	p-awse-ebs.adsymptotic.com
-0.0.0.0	payback.joyeggs.com
 0.0.0.0	payload.adadapted.com
 0.0.0.0	pba.aws.lijit.com
 0.0.0.0	p-behacdn.ksmobile.net
