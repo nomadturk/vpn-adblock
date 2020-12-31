@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Dec 31 02:30:07 +03 2020
-# Total number of blocked hosts are: 9640
+# Ad blocking hosts generated Fri Jan 1 02:30:09 +03 2021
+# Total number of blocked hosts are: 9637
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10896.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -2760,7 +2760,6 @@
 0.0.0.0	cdn.pushwoosh.com
 0.0.0.0	cdn-qc.coccoc.com
 0.0.0.0	cdn-resources.prfct.cc
-0.0.0.0	cdn.responsys.net
 0.0.0.0	cdn.revcontent.com
 0.0.0.0	cdn.revjet.com
 0.0.0.0	cdn.rlcdn.com
@@ -7019,7 +7018,6 @@
 0.0.0.0	resources.presage.io
 0.0.0.0	resources.taboola.com
 0.0.0.0	resources-us.yinzcam.com
-0.0.0.0	responsys.net
 0.0.0.0	res-push.ad.jiguang.cn
 0.0.0.0	restartad.com
 0.0.0.0	res.tdxio.com
@@ -8028,7 +8026,6 @@
 0.0.0.0	static.apester.com
 0.0.0.0	static.aprod.scopely.io
 0.0.0.0	static-cdn.adblade.com
-0.0.0.0	static.cdn.responsys.net
 0.0.0.0	static.chartbeat.com
 0.0.0.0	static.cleverpush.com
 0.0.0.0	static.clevertap.com
