@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Jan 15 02:30:07 +03 2021
-# Total number of blocked hosts are: 9636
+# Ad blocking hosts generated Sat Jan 16 02:30:09 +03 2021
+# Total number of blocked hosts are: 9635
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10896.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -9131,7 +9131,6 @@
 0.0.0.0	va.us.criteo.net
 0.0.0.0	vcardsdkservice.vivo.com.cn
 0.0.0.0	vcdn.adnxs.com
-0.0.0.0	vcdn.biz
 0.0.0.0	vcdn.media.innity.net
 0.0.0.0	v.cf.ssacdn.com
 0.0.0.0	vcm-match.dotomi.com
