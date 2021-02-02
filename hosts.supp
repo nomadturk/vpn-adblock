@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Feb 2 02:30:07 +03 2021
-# Total number of blocked hosts are: 9635
+# Ad blocking hosts generated Wed Feb 3 02:30:08 +03 2021
+# Total number of blocked hosts are: 9663
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10896.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -1675,6 +1675,7 @@
 0.0.0.0	api.wonderpush.com
 0.0.0.0	api.wootric.com
 0.0.0.0	api.wootric.com.herokudns.com
+0.0.0.0	api.wzrkt.com
 0.0.0.0	api.yieldlove-ad-serving.net
 0.0.0.0	api.yieldmagic.com
 0.0.0.0	api.zcoup.com
@@ -2512,6 +2513,7 @@
 0.0.0.0	cbsd.da1.vip.prod.criteo.com
 0.0.0.0	cbsdfp5832910442.s.moatpixel.com
 0.0.0.0	cbsi-d.openx.net
+0.0.0.0	cb.wzrkt.com
 0.0.0.0	cc.adingo.jp
 0.0.0.0	cca-fra2.rubiconproject.com
 0.0.0.0	cca-hkg1.rubiconproject.com
@@ -3965,6 +3967,9 @@
 0.0.0.0	et.w.eastus.trafficmanager.inmobi.com
 0.0.0.0	et.w.inmobi.com
 0.0.0.0	eu01.nr-data.net
+0.0.0.0	eu1-spiky.wzrkt.com
+0.0.0.0	eu1.wzrkt.com
+0.0.0.0	eu2.wzrkt.com
 0.0.0.0	eu-aa.online-metrix.net
 0.0.0.0	eu-adinfo.sam4m.com
 0.0.0.0	euadsapi.manhuaren.com
@@ -4007,6 +4012,7 @@
 0.0.0.0	events3.adcolony.com
 0.0.0.0	events3alt.adcolony.com
 0.0.0.0	events.adwidecenter.com
+0.0.0.0	events.aerserv.com
 0.0.0.0	events.apester.com
 0.0.0.0	events.api.boomtrain.com
 0.0.0.0	events-api.otherlevels.com
@@ -4942,6 +4948,8 @@
 0.0.0.0	imsapi.vnet.cn
 0.0.0.0	imwx.com
 0.0.0.0	i.mxplayer.j2inter.com
+0.0.0.0	in1-spiky.wzrkt.com
+0.0.0.0	in1.wzrkt.com
 0.0.0.0	in.admicro.vn
 0.0.0.0	in.advertising.yahoo.com
 0.0.0.0	in.analytics.glance.inmobi.com
@@ -5006,6 +5014,7 @@
 0.0.0.0	insights.samsung.com
 0.0.0.0	insight.ucweb.com
 0.0.0.0	inskinmedia689754970364.s.moatpixel.com
+0.0.0.0	in-spiky.wzrkt.com
 0.0.0.0	ins-services.meltwater.com
 0.0.0.0	insticator-d.openx.net
 0.0.0.0	integration-assets.sharethrough.com
@@ -5029,6 +5038,7 @@
 0.0.0.0	inv-nets-eu.admixer.net
 0.0.0.0	inv-nets-sg-s1.admixer.net
 0.0.0.0	inv-nets-wus-s1.admixer.net
+0.0.0.0	in.wzrkt.com
 0.0.0.0	io.innertrends.com
 0.0.0.0	ioms.bfmio.com
 0.0.0.0	io.narrative.io
@@ -7609,6 +7619,8 @@
 0.0.0.0	sg01.adywind.com
 0.0.0.0	sg01.rayjump.com
 0.0.0.0	sg01.smardroid.com
+0.0.0.0	sg1-spiky.wzrkt.com
+0.0.0.0	sg1.wzrkt.com
 0.0.0.0	sg2-bid.adsrvr.org
 0.0.0.0	sgbid.prod.sift.co
 0.0.0.0	sg.c.appier.net
@@ -7774,6 +7786,20 @@
 0.0.0.0	sjrtp-cdn.marketo.com
 0.0.0.0	s-jsonp.moatads.com
 0.0.0.0	s.jsrdn.com
+0.0.0.0	sk1-spiky.wzrkt.com
+0.0.0.0	sk1-staging-10.wzrkt.com
+0.0.0.0	sk1-staging-11.wzrkt.com
+0.0.0.0	sk1-staging-12.wzrkt.com
+0.0.0.0	sk1-staging-1.wzrkt.com
+0.0.0.0	sk1-staging-2.wzrkt.com
+0.0.0.0	sk1-staging-3.wzrkt.com
+0.0.0.0	sk1-staging-4.wzrkt.com
+0.0.0.0	sk1-staging-5.wzrkt.com
+0.0.0.0	sk1-staging-6.wzrkt.com
+0.0.0.0	sk1-staging-7.wzrkt.com
+0.0.0.0	sk1-staging-8.wzrkt.com
+0.0.0.0	sk1-staging-9.wzrkt.com
+0.0.0.0	sk1.wzrkt.com
 0.0.0.0	skypicker-api.infinario.com
 0.0.0.0	sladermobile-d.openx.net
 0.0.0.0	slader.servedbyopenx.com
@@ -8957,6 +8983,8 @@
 0.0.0.0	us01.rayjump.com
 0.0.0.0	us01.salmonads.com
 0.0.0.0	us-1.gladly.com
+0.0.0.0	us1-spiky.wzrkt.com
+0.0.0.0	us1.wzrkt.com
 0.0.0.0	us2.sumologic.com
 0.0.0.0	usa.da.inmobi.com
 0.0.0.0	usadmm.dotomi.com
