@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Feb 5 02:30:06 +03 2021
-# Total number of blocked hosts are: 9663
+# Ad blocking hosts generated Sat Feb 6 02:30:07 +03 2021
+# Total number of blocked hosts are: 9671
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10896.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -703,6 +703,7 @@
 0.0.0.0	ads-brand-postback.unityads.unity3d.com
 0.0.0.0	ads.bridgebase.com
 0.0.0.0	ads.bulldogcpi.com
+0.0.0.0	adsbynimbus.com
 0.0.0.0	ads-c-1854119718.us-west-1.elb.amazonaws.com
 0.0.0.0	adscale-emea.adnxs.com
 0.0.0.0	ads.ccgateway.net
@@ -4488,6 +4489,7 @@
 0.0.0.0	graucoay.net
 0.0.0.0	grindr2-d.openx.net
 0.0.0.0	groupmapacvideo325555417505.s.moatpixel.com
+0.0.0.0	growlr.adsbynimbus.com
 0.0.0.0	grtb-de.lfstmedia.com
 0.0.0.0	grtb-nj.lfstmedia.com
 0.0.0.0	grtb-sc.lfstmedia.com
@@ -5740,6 +5742,7 @@
 0.0.0.0	miv2dc.oneapm.com
 0.0.0.0	miva.com
 0.0.0.0	mixadvert.com
+0.0.0.0	mixerbox-lite.adsbynimbus.com
 0.0.0.0	mixmarket.biz
 0.0.0.0	mjp-analytics.ximad.com
 0.0.0.0	mlb.did.ijinshan.com
@@ -5906,6 +5909,7 @@
 0.0.0.0	mv.outbrain.com
 0.0.0.0	m.vpadn.com
 0.0.0.0	m.vpon.com
+0.0.0.0	mw-encyclopediabritannica.adsbynimbus.com
 0.0.0.0	mxase.clmbtech.com
 0.0.0.0	mxpnl.com
 0.0.0.0	mxtads.com
@@ -8560,6 +8564,7 @@
 0.0.0.0	tileswan.cmcm.com
 0.0.0.0	timbol.iad-03.braze.com
 0.0.0.0	timeanddate-d.openx.net
+0.0.0.0	timehop.adsbynimbus.com
 0.0.0.0	timeinc.trc.taboola.com
 0.0.0.0	timesinternet-d.openx.net
 0.0.0.0	tj.ijinshan.com
@@ -8847,6 +8852,7 @@
 0.0.0.0	t.update.wo.gumgum.com
 0.0.0.0	t.update.wtag.adaptv.advertising.com
 0.0.0.0	turbo2sdk-push.oupeng.com
+0.0.0.0	turbo.adsbynimbus.com
 0.0.0.0	turbo.engageclick.com
 0.0.0.0	turn.com.akadns.net
 0.0.0.0	t.vi-serve.com
@@ -8870,6 +8876,7 @@
 0.0.0.0	u3s.mathtag.com
 0.0.0.0	u-ad.info
 0.0.0.0	uaid-linkage.imrworldwide.com
+0.0.0.0	ua-myfitnesspal.adsbynimbus.com
 0.0.0.0	uapi.ads.oppomobile.com
 0.0.0.0	ua.supersonicads.com
 0.0.0.0	uberads.com
@@ -9295,7 +9302,6 @@
 0.0.0.0	vungle.com.edgekey.net
 0.0.0.0	vuukle-d.openx.net
 0.0.0.0	v.vomedia.tv
-0.0.0.0	v.w-x.co
 0.0.0.0	vwyr.peakonsrv.com
 0.0.0.0	vyk.admaster.com.cn
 0.0.0.0	vz-cdn2.adtng.com
@@ -9332,6 +9338,7 @@
 0.0.0.0	wdpro-mkt-prod2-lb.campaign.adobe.com
 0.0.0.0	wd.sharethis.com
 0.0.0.0	w.eastus.trafficmanager.inmobi.com
+0.0.0.0	weatherbug.adsbynimbus.com
 0.0.0.0	weatherus-d.openx.net
 0.0.0.0	web0.track.appier.net
 0.0.0.0	web.53.localytics.com
@@ -9610,6 +9617,7 @@
 0.0.0.0	ymcdn.ymtrack6.co
 0.0.0.0	ymsdk.apkcar.com
 0.0.0.0	ymtracking.com
+0.0.0.0	yoc-steps.adsbynimbus.com
 0.0.0.0	yomedia.vn
 0.0.0.0	yormedia-isr-gbp-d.openx.net
 0.0.0.0	yoto-d.openx.net
