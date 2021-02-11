@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Feb 11 02:30:06 +03 2021
-# Total number of blocked hosts are: 9624
+# Ad blocking hosts generated Fri Feb 12 02:30:06 +03 2021
+# Total number of blocked hosts are: 9621
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10896.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -4349,7 +4349,6 @@
 0.0.0.0	geodns.tubemogul.com
 0.0.0.0	geo.gop1.co
 0.0.0.0	geoinfo.intowow.com
-0.0.0.0	geoip-api.cleverpush.com
 0.0.0.0	geoip.fotoable.net
 0.0.0.0	geoip.goforandroid.com
 0.0.0.0	geo-location.s-onetag.com
@@ -5546,7 +5545,6 @@
 0.0.0.0	maxonclick.com
 0.0.0.0	max.permato.coms3.permato.com
 0.0.0.0	maxpointimpression857454451729.s.moatpixel.com
-0.0.0.0	mazu.3g.qq.com
 0.0.0.0	mb9eo-7w62j.ads.tremorhub.com
 0.0.0.0	mb9eo-nkrlx.ads.tremorhub.com
 0.0.0.0	mb-cdn.stocard.de
@@ -8096,7 +8094,6 @@
 0.0.0.0	static.ziffdavis.com
 0.0.0.0	static.ziftsolutions.com
 0.0.0.0	stat.ijinshan.com
-0.0.0.0	statistacomdev.cleverpush.com
 0.0.0.0	stat.optad360.mgr.consensu.org
 0.0.0.0	stats.2mdnsys.com
 0.0.0.0	stats3.r53.unrulymedia.com
