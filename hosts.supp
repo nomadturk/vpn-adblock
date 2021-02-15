@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Feb 15 02:30:06 +03 2021
-# Total number of blocked hosts are: 9621
+# Ad blocking hosts generated Tue Feb 16 02:30:06 +03 2021
+# Total number of blocked hosts are: 9620
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10896.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -5164,7 +5164,6 @@
 0.0.0.0	k1.midasplayer.com
 0.0.0.0	k1qa.midasplayer.com
 0.0.0.0	kaffnet.com
-0.0.0.0	kaltura.com.edgekey.net
 0.0.0.0	kaltura.perf.akadns.net
 0.0.0.0	kargodfpnew803390365855.s.moatpixel.com
 0.0.0.0	kargo-match.dotomi.com
