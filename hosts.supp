@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Feb 24 02:30:06 +03 2021
-# Total number of blocked hosts are: 9620
+# Ad blocking hosts generated Thu Feb 25 02:30:07 +03 2021
+# Total number of blocked hosts are: 9619
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10896.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -5765,7 +5765,6 @@
 0.0.0.0	mobilelog.upqzfile.com
 0.0.0.0	mobile.mediabrix.com
 0.0.0.0	mobile.mng-ads.com
-0.0.0.0	mobilepartner.avcdn.net.edgekey.net
 0.0.0.0	mobileposse.com
 0.0.0.0	mobileposse-d.openx.net
 0.0.0.0	mobile-sdk-resources.jumio.com
