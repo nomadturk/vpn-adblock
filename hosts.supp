@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Mar 2 02:30:06 +03 2021
-# Total number of blocked hosts are: 9708
+# Ad blocking hosts generated Wed Mar 3 02:30:06 +03 2021
+# Total number of blocked hosts are: 9712
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10896.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -578,6 +578,7 @@
 0.0.0.0	adobur.com
 0.0.0.0	adoburcrv.com
 0.0.0.0	adobur.net
+0.0.0.0	adolf.tv
 0.0.0.0	adomega-d.openx.net
 0.0.0.0	adonline.e-kolay.net
 0.0.0.0	adopkorea-d.openx.net
@@ -1012,6 +1013,8 @@
 0.0.0.0	advert.uzmantv.com
 0.0.0.0	adv.herocraft.com
 0.0.0.0	adviap.goforandroid.com
+0.0.0.0	ad.vidver.to
+0.0.0.0	ad.vidverto.io
 0.0.0.0	adview.pl
 0.0.0.0	advmob.cn
 0.0.0.0	adv.mxmcdn.net
@@ -5058,7 +5061,6 @@
 0.0.0.0	intowow.com
 0.0.0.0	in.treasuredata.com
 0.0.0.0	invenio.sgn.com
-0.0.0.0	investingapp.net
 0.0.0.0	investing-channel-d.openx.net
 0.0.0.0	inv-nets-eu.admixer.net
 0.0.0.0	inv-nets-sg-s1.admixer.net
@@ -8497,6 +8499,7 @@
 0.0.0.0	tap.rubiconproject.com
 0.0.0.0	tap-secure.rubiconproject.com
 0.0.0.0	taptica.com
+0.0.0.0	target2sell.com
 0.0.0.0	targetdfp320149284940.s.moatpixel.com
 0.0.0.0	targeting.influencemobile.com
 0.0.0.0	targeting.unrulymedia.com
@@ -8887,6 +8890,7 @@
 0.0.0.0	turbo.adsbynimbus.com
 0.0.0.0	turbo.engageclick.com
 0.0.0.0	turn.com.akadns.net
+0.0.0.0	tutoads.tv
 0.0.0.0	t.vi-serve.com
 0.0.0.0	tv.rlcdn.com
 0.0.0.0	tvx.adgrx.com
