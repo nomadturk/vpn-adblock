@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Mar 4 02:30:07 +03 2021
-# Total number of blocked hosts are: 9712
+# Ad blocking hosts generated Fri Mar 5 02:30:08 +03 2021
+# Total number of blocked hosts are: 9733
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10896.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -388,6 +388,7 @@
 0.0.0.0	ad6media.fr
 0.0.0.0	ad.8live.com
 0.0.0.0	ad.a-ads.com
+0.0.0.0	ad.accesstrade.vn
 0.0.0.0	adacus-cdn.placelocal.com
 0.0.0.0	ad.adacado.com
 0.0.0.0	ad.adapter.kaffnet.com
@@ -921,6 +922,7 @@
 0.0.0.0	ads.smartstream.tv
 0.0.0.0	ads.snapchat.com
 0.0.0.0	ads.sonataplatform.com
+0.0.0.0	ads.staging.superawesome.tv
 0.0.0.0	adsstatic.vivo.com.cn
 0.0.0.0	ads.stickyadstv.com
 0.0.0.0	ads.stickyadstv.com.akadns.net
@@ -935,6 +937,7 @@
 0.0.0.0	ad-stir.com
 0.0.0.0	ads.traffichunt.com
 0.0.0.0	ads.trafficjunky.net
+0.0.0.0	adstrck.tutotoons.com
 0.0.0.0	ads.tremorhub.com
 0.0.0.0	ads.triongames.com
 0.0.0.0	adstune.com
@@ -1279,6 +1282,7 @@
 0.0.0.0	analytics-ingestion.production-public.tubi.io
 0.0.0.0	analytics.jumboprivacy.com
 0.0.0.0	analytics.kaltura.com
+0.0.0.0	analytics.kidoz.net
 0.0.0.0	analytics.kingoapp.com
 0.0.0.0	analytics.kongregate.io
 0.0.0.0	analytics.lb.mobileapphelper.com
@@ -1654,6 +1658,7 @@
 0.0.0.0	api.tappx.com
 0.0.0.0	api.taps.io
 0.0.0.0	api.tapstream.com
+0.0.0.0	api.target2sell.com
 0.0.0.0	api.theadex.com
 0.0.0.0	apituner.ecbsn.com
 0.0.0.0	api.tusdk.com
@@ -2826,6 +2831,7 @@
 0.0.0.0	cdn-traffic-director.krxd.net
 0.0.0.0	cdn.tremorhub.com
 0.0.0.0	cdn.tsyndicate.com
+0.0.0.0	cdn.tutoads.tv
 0.0.0.0	cdn.uc.atwola.com
 0.0.0.0	cdn.unityads.unity3d.com
 0.0.0.0	cdn.uprivaladserver.net
@@ -4407,7 +4413,9 @@
 0.0.0.0	geo.yahoo.com
 0.0.0.0	geo.yieldify.com
 0.0.0.0	geshopimg.logsss.com
+0.0.0.0	get.adolf.tv
 0.0.0.0	get.s-onetag.com
+0.0.0.0	get.tutoads.tv
 0.0.0.0	getwisdom.io
 0.0.0.0	gezinti.com
 0.0.0.0	g.fotoable.com
@@ -5197,6 +5205,7 @@
 0.0.0.0	js.matheranalytics.com
 0.0.0.0	js.moatads.com
 0.0.0.0	js.rfp.fout.jp
+0.0.0.0	jssdkcdn.mparticle.com
 0.0.0.0	jssdkcdns.mparticle.com
 0.0.0.0	jssdks.mparticle.com
 0.0.0.0	js-sec.casalemedia.com.edgekey.net
@@ -5819,6 +5828,7 @@
 0.0.0.0	mobile.launchdarkly.com
 0.0.0.0	mobile-log.cmtelematics.com
 0.0.0.0	mobile-log-dssf-prod.cmtelematics.com
+0.0.0.0	mobilelogs.supersonic.com
 0.0.0.0	mobilelog.upqzfile.com
 0.0.0.0	mobile.mediabrix.com
 0.0.0.0	mobile.mng-ads.com
@@ -5872,6 +5882,8 @@
 0.0.0.0	movad.de
 0.0.0.0	mozbar.moz.com
 0.0.0.0	mp5-wl.mobileposse.com
+0.0.0.0	mparticle.map.fastly.net
+0.0.0.0	mparticle.slack.com
 0.0.0.0	mparticle.uc.cn
 0.0.0.0	mpg.taboola.com
 0.0.0.0	mpnrs.com
@@ -6337,6 +6349,7 @@
 0.0.0.0	param.lionmobi.com
 0.0.0.0	parrable.com
 0.0.0.0	parsnip.gocarrot.com
+0.0.0.0	partner.accesstrade.vn
 0.0.0.0	partner.ads.placeiq.com
 0.0.0.0	partnerads.ysm.yahoo.com
 0.0.0.0	partner.googleadservices.com
@@ -7597,6 +7610,7 @@
 0.0.0.0	serpens.iad-01.braze.com
 0.0.0.0	serpens.iad.appboy.com
 0.0.0.0	servad.mynet.com
+0.0.0.0	serv-api.target2sell.com
 0.0.0.0	serve2.engageclick.com
 0.0.0.0	servebom.com
 0.0.0.0	servedby.adxpose.com
@@ -7614,6 +7628,7 @@
 0.0.0.0	serverside4285.tagcommander.com
 0.0.0.0	server-us.imrworldwide.com
 0.0.0.0	serve.uberads.com
+0.0.0.0	service-api.accesstrade.vn
 0.0.0.0	service.cmp.oath.com
 0.0.0.0	service.fyber.com
 0.0.0.0	service.innovid.com
@@ -8126,6 +8141,7 @@
 0.0.0.0	static.media.net
 0.0.0.0	static.mgid.com
 0.0.0.0	static.mobilemonkey.com
+0.0.0.0	static.mparticle.com
 0.0.0.0	static.oroll.com
 0.0.0.0	static.parsely.com
 0.0.0.0	static.par.vip.prod.criteo.net
@@ -8152,6 +8168,7 @@
 0.0.0.0	static-tagr.gd1.mookie1.com
 0.0.0.0	static.tagsrvcs.com
 0.0.0.0	static.tapfiliate.com
+0.0.0.0	static.target2sell.com
 0.0.0.0	static.tf-cdn.net
 0.0.0.0	static.tieba.baidu.com
 0.0.0.0	static.track.omguk.com
@@ -8667,6 +8684,7 @@
 0.0.0.0	trace.qq.com
 0.0.0.0	tracing-collector.strava.com
 0.0.0.0	track1.aniview.com
+0.0.0.0	track.accesstrade.vn
 0.0.0.0	track.adclear.net
 0.0.0.0	track.addict-mobile.net
 0.0.0.0	track.adform.net
@@ -8709,6 +8727,7 @@
 0.0.0.0	tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
 0.0.0.0	trackers.voodoo-analytics.io
 0.0.0.0	tracker.tagsrvcs.com
+0.0.0.0	tracker.tutotoons.com
 0.0.0.0	tracker-us.adsmoloco.com
 0.0.0.0	tracker.winudf.com
 0.0.0.0	track.eyeviewads.com
@@ -8787,6 +8806,8 @@
 0.0.0.0	track.viewdeos.com
 0.0.0.0	track.wesdk.co
 0.0.0.0	track.zorkanetwork.com
+0.0.0.0	tracy.adolf.tv
+0.0.0.0	tracy.tutoads.tv
 0.0.0.0	tradedesk-match.dotomi.com
 0.0.0.0	tr.ads.justpremium.com
 0.0.0.0	tr.ad-stir.com
