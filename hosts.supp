@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Mar 5 02:30:08 +03 2021
-# Total number of blocked hosts are: 9733
+# Ad blocking hosts generated Sat Mar 6 02:30:07 +03 2021
+# Total number of blocked hosts are: 9732
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10896.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -349,8 +349,6 @@
 0.0.0.0	ac.adpia.vn
 0.0.0.0	a.c.appier.net
 0.0.0.0	ac.batmobi.net
-0.0.0.0	accesstrade.com.vn
-0.0.0.0	accesstrade.vn
 0.0.0.0	acc.magixite.com
 0.0.0.0	accounts.doubleclick.net
 0.0.0.0	accscdn.m.taobao.com
@@ -653,7 +651,9 @@
 0.0.0.0	ads4.admatic.com.tr
 0.0.0.0	ads5.admatic.com.tr
 0.0.0.0	ads5-adnow.com
+0.0.0.0	ads5-noneu.truecaller.com
 0.0.0.0	ads5.sabah.com.tr
+0.0.0.0	ads5.truecaller.com
 0.0.0.0	ads6.admatic.com.tr
 0.0.0.0	ads-816899299.ap-southeast-1.elb.amazonaws.com
 0.0.0.0	ads.ad2iction.com
@@ -904,6 +904,7 @@
 0.0.0.0	ads.revjet.com
 0.0.0.0	ads.roblox.com
 0.0.0.0	ads-rouge.haber7.com
+0.0.0.0	ads-router-noneu.truecaller.com
 0.0.0.0	ads.rubiconproject.com
 0.0.0.0	adsrvr.org
 0.0.0.0	ads.sabah.com.tr
@@ -2937,7 +2938,6 @@
 0.0.0.0	c.lentainform.com
 0.0.0.0	cl-gmtdmp.mookie1.com
 0.0.0.0	click.a-ads.com
-0.0.0.0	click.accesstrade.vn
 0.0.0.0	click.admedia.com
 0.0.0.0	click.adpia.vn
 0.0.0.0	click.advertnative.com
@@ -4138,7 +4138,6 @@
 0.0.0.0	fanserv.us-east-1.stinger-ad.bidr.io
 0.0.0.0	fanserv.us-west-2.stinger-ad.bidr.io
 0.0.0.0	farlex-d.openx.net
-0.0.0.0	fast.accesstrade.com.vn
 0.0.0.0	fast.a.klaviyo.com
 0.0.0.0	fastapi.net
 0.0.0.0	fastlane-adv.rubiconproject.com
