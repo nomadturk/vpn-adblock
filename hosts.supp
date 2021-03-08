@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Mar 8 02:30:06 +03 2021
-# Total number of blocked hosts are: 9732
+# Ad blocking hosts generated Tue Mar 9 02:30:06 +03 2021
+# Total number of blocked hosts are: 9733
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10896.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -2172,6 +2172,7 @@
 0.0.0.0	base-cdn.admarvel.com
 0.0.0.0	basepush.com
 0.0.0.0	bat.bing.com
+0.0.0.0	batchlogging4.truecaller.com
 0.0.0.0	batch.upsight-api.com
 0.0.0.0	batmobil.net
 0.0.0.0	batsavcdn.ksmobile.net
