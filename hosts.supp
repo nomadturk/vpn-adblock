@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Mar 9 02:30:06 +03 2021
-# Total number of blocked hosts are: 9733
+# Ad blocking hosts generated Wed Mar 10 02:30:06 +03 2021
+# Total number of blocked hosts are: 9732
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10896.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -2908,7 +2908,6 @@
 0.0.0.0	choices.truste.com
 0.0.0.0	ch-sync.taboola.com
 0.0.0.0	chtatic.appspot.com
-0.0.0.0	chtbl.com
 0.0.0.0	churchdwightsizmek22033498.s.moatpixel.com
 0.0.0.0	ch-vid-events.taboola.com
 0.0.0.0	ch-wf.taboola.com
