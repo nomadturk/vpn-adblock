@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Mar 10 02:30:06 +03 2021
-# Total number of blocked hosts are: 9732
+# Ad blocking hosts generated Thu Mar 11 02:30:06 +03 2021
+# Total number of blocked hosts are: 9729
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10896.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -1792,7 +1792,6 @@
 0.0.0.0	appflood.com
 0.0.0.0	app.games-to-run123.com
 0.0.0.0	appgwv2.inmobi.com
-0.0.0.0	app.hubspot.com
 0.0.0.0	appia.com
 0.0.0.0	app.iappgame.com
 0.0.0.0	app-icons.apptentive.com
@@ -4144,7 +4143,6 @@
 0.0.0.0	fastlane.rubiconproject.com
 0.0.0.0	fastlybench.cedexis.com
 0.0.0.0	fast.mtvn.demdex.net
-0.0.0.0	fast.wistia.com
 0.0.0.0	fb.adsrvr.org
 0.0.0.0	fbapi.dxsvr.com
 0.0.0.0	fc8dbfdc5da519f576628f619306a357f31bd006.cws.conviva.com
@@ -5722,7 +5720,6 @@
 0.0.0.0	metrics.fedex.com
 0.0.0.0	metrics.fidelity.com.edgekey.net
 0.0.0.0	metrics.hackerrank.com.edgekey.net
-0.0.0.0	metrics.lfanalytics.io
 0.0.0.0	metrics-logger.spot.im
 0.0.0.0	metrics.macys.net
 0.0.0.0	metrics.roblox.com
