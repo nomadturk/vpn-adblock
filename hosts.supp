@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Mar 12 02:30:06 +03 2021
-# Total number of blocked hosts are: 9729
+# Ad blocking hosts generated Sat Mar 13 02:30:05 +03 2021
+# Total number of blocked hosts are: 9720
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	10896.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -1664,7 +1664,6 @@
 0.0.0.0	apituner.ecbsn.com
 0.0.0.0	api.tusdk.com
 0.0.0.0	api.umbel.com
-0.0.0.0	api.unbounce.com
 0.0.0.0	api.uprivaladserver.net
 0.0.0.0	api.usabilla.com
 0.0.0.0	api-us.appodealx.com
@@ -1934,7 +1933,6 @@
 0.0.0.0	apps.shareaholic.com
 0.0.0.0	appswitch.adups.cn
 0.0.0.0	apptornado.com
-0.0.0.0	app.unbounce.com
 0.0.0.0	appvast.adsafeprotected.com
 0.0.0.0	app.wootric.com
 0.0.0.0	app.xdrig.com
@@ -2029,7 +2027,6 @@
 0.0.0.0	assets.soom.la
 0.0.0.0	assets.taboola.com
 0.0.0.0	assets.tapad.com
-0.0.0.0	assets.unbounce.com
 0.0.0.0	assets-v2.yieldify.com
 0.0.0.0	assets-v2.yieldify-production.com
 0.0.0.0	assets.vidora.com
@@ -2084,7 +2081,6 @@
 0.0.0.0	au-gmtdmp.mookie1.com
 0.0.0.0	augur.io
 0.0.0.0	auiopt.unityads.unity3d.com
-0.0.0.0	a.unbounce.com
 0.0.0.0	au.res.keymedia.com
 0.0.0.0	a-usa.applovin.com
 0.0.0.0	auth.follow-apps.com
@@ -2420,7 +2416,6 @@
 0.0.0.0	bugsense.appspot.com
 0.0.0.0	bugsense.com
 0.0.0.0	build-cdn.liftoff.io
-0.0.0.0	builder-assets.unbounce.com
 0.0.0.0	bulk-click.startappservice.com
 0.0.0.0	bumerangshowsites.hurriyet.com.tr
 0.0.0.0	burstnet.com
@@ -3941,7 +3936,6 @@
 0.0.0.0	enjoynet.fuse-ad.com
 0.0.0.0	enrichmentservices.fccinteractive.com
 0.0.0.0	ensighten.com
-0.0.0.0	ensign.unbounce.com
 0.0.0.0	entercom-d.openx.net
 0.0.0.0	enthusiast-gaming-d.openx.net
 0.0.0.0	entitlements.jwplayer.com
@@ -4889,7 +4883,6 @@
 0.0.0.0	images-demand.ssacdn.com
 0.0.0.0	images-dl.taboola.com
 0.0.0.0	images.dwell.com
-0.0.0.0	image-service.unbounce.com
 0.0.0.0	images.informatm.com
 0.0.0.0	images.mxpnl.com
 0.0.0.0	images.nuviad.com
@@ -8596,7 +8589,6 @@
 0.0.0.0	th-gmtdmp.mookie1.com
 0.0.0.0	thind.unityads.unity3d.com
 0.0.0.0	thinknear-hosted.thinknearhub.com
-0.0.0.0	think.unbounce.com
 0.0.0.0	thrtle.com
 0.0.0.0	thumbnail.smartnews-ads.com
 0.0.0.0	thumbs.glispa.com
@@ -8887,7 +8879,6 @@
 0.0.0.0	tubemogulvideoint58768396734.s.moatpixel.com
 0.0.0.0	tuiguang.meitu.com
 0.0.0.0	tui.taobao.com
-0.0.0.0	t.unbounce.com
 0.0.0.0	tunein.adswizz.com
 0.0.0.0	tunein.deliveryengine.adswizz.com
 0.0.0.0	tunein-d.openx.net
