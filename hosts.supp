@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Mar 15 02:30:07 +03 2021
-# Total number of blocked hosts are: 9109
+# Ad blocking hosts generated Tue Mar 16 02:30:05 +03 2021
+# Total number of blocked hosts are: 9131
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -2057,10 +2057,13 @@
 0.0.0.0	beacon.riskified.com
 0.0.0.0	beacon.rum.dynapis.info
 0.0.0.0	beacons2.extremereach.io
+0.0.0.0	beacons5.gvt3.com
 0.0.0.0	beacon.scorecardresearch.com.edgekey.net
 0.0.0.0	beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 0.0.0.0	beaconserver-ce-vpc0-1909323404.us-west-2.elb.amazonaws.com
 0.0.0.0	beacons.extremereach.io
+0.0.0.0	beacons.gcp.gvt2.com
+0.0.0.0	beacons.gvt2.com
 0.0.0.0	beacon.shazam.com
 0.0.0.0	beacon-sie.krxd.net
 0.0.0.0	beacon.sina.com.cn
@@ -2961,6 +2964,7 @@
 0.0.0.0	config.quantumgraph.com
 0.0.0.0	config.safedk.com
 0.0.0.0	config.samsungads.com
+0.0.0.0	configs-community-app.audent.io
 0.0.0.0	config.sdk.scopely.io
 0.0.0.0	config-sea-nfl.yinzcam.com
 0.0.0.0	config.sentinel.mob.com
@@ -3600,6 +3604,7 @@
 0.0.0.0	e.de.inmobi.com
 0.0.0.0	e.deployads.com
 0.0.0.0	edge.addthis.com
+0.0.0.0	edge-mcdn-beacon.secure.yahoo.com
 0.0.0.0	edge.safedk.com
 0.0.0.0	edge.sharethis.com
 0.0.0.0	edge.simplereach.com
@@ -4103,6 +4108,7 @@
 0.0.0.0	geolocation.onetrust.com
 0.0.0.0	geo-location.s-onetag.com
 0.0.0.0	geo.moatads.com
+0.0.0.0	geo.ngtv.io
 0.0.0.0	geoplugin.net
 0.0.0.0	geo.query.yahoo.com
 0.0.0.0	geo.rlcdn.com
@@ -4665,6 +4671,7 @@
 0.0.0.0	in.advertising.yahoo.com
 0.0.0.0	in.analytics.glance.inmobi.com
 0.0.0.0	in.api.glance.inmobi.com
+0.0.0.0	in.appcenter.ms
 0.0.0.0	inapps.appsflyer.com
 0.0.0.0	inapps.moengage.com
 0.0.0.0	inbox.exacttarget.com
@@ -5136,6 +5143,7 @@
 0.0.0.0	lowes.netmng.com
 0.0.0.0	lp4.io
 0.0.0.0	lp.netwrix.com
+0.0.0.0	lptag.liveperson.net
 0.0.0.0	l.qq.com
 0.0.0.0	lrc.nct.nixcdn.com
 0.0.0.0	lrpush.apxlv.com
@@ -5381,6 +5389,7 @@
 0.0.0.0	microad.net
 0.0.0.0	micro.marketo.com
 0.0.0.0	midasplayer.com
+0.0.0.0	middycdn-a.akamaihd.net
 0.0.0.0	midoweb.offerstrack.net
 0.0.0.0	mid.rkdms.com
 0.0.0.0	mi.gdt.qq.com
@@ -5445,6 +5454,7 @@
 0.0.0.0	mobile-de-d.openx.net
 0.0.0.0	mobile-dssf-prod.cmtelematics.com
 0.0.0.0	mobile.eum-appdynamics.com
+0.0.0.0	mobile.events.data.microsoft.com
 0.0.0.0	mobilefuse.com
 0.0.0.0	mobile.game-insight.com
 0.0.0.0	mobile-global.baidu.com
@@ -5456,6 +5466,7 @@
 0.0.0.0	mobilelog.upqzfile.com
 0.0.0.0	mobile.mediabrix.com
 0.0.0.0	mobile.mng-ads.com
+0.0.0.0	mobile.pipe.aria.microsoft.com
 0.0.0.0	mobileposse.com
 0.0.0.0	mobileposse-d.openx.net
 0.0.0.0	mobile-sdk-resources.jumio.com
@@ -5726,6 +5737,7 @@
 0.0.0.0	nyidt.adsafeprotected.com
 0.0.0.0	ny.outbrain.com
 0.0.0.0	nz-gmtdmp.mookie1.com
+0.0.0.0	o430870.ingest.sentry.io
 0.0.0.0	oao-d.openx.net
 0.0.0.0	oas-c18.adnxs.com
 0.0.0.0	oauth.datorama.com
@@ -6016,6 +6028,7 @@
 0.0.0.0	performancehorizon.com
 0.0.0.0	perf.teads.tv.edgekey.net
 0.0.0.0	permutive.com
+0.0.0.0	personalization.bloomberg.com
 0.0.0.0	personalization.centech.glulive.com
 0.0.0.0	persona.ly
 0.0.0.0	pespn.chartbeat.net
@@ -6287,6 +6300,7 @@
 0.0.0.0	prod-a-usa.applovin.com
 0.0.0.0	prod-bid.applovin.com
 0.0.0.0	prod.cloud.ogury.io
+0.0.0.0	prod-collecticon.outlookmobile.com
 0.0.0.0	prod.criteo.com
 0.0.0.0	prod.criteo.net
 0.0.0.0	prod-customfeeds.flashtalking.com
@@ -7124,6 +7138,7 @@
 0.0.0.0	sekindo.com
 0.0.0.0	seks-partner.com
 0.0.0.0	select-d.openx.net
+0.0.0.0	self.events.data.microsoft.com
 0.0.0.0	se.monetate.net
 0.0.0.0	sender.clevernt.com
 0.0.0.0	send.microadinc.com
@@ -7131,6 +7146,7 @@
 0.0.0.0	sense360eng.com.herokudns.com
 0.0.0.0	sensors.yodo1api.com
 0.0.0.0	sentinel.mob.com
+0.0.0.0	sentry.audent.io
 0.0.0.0	ser.adledge.com
 0.0.0.0	serpens.iad-01.braze.com
 0.0.0.0	serpens.iad.appboy.com
@@ -8655,6 +8671,7 @@
 0.0.0.0	verizon.adhaven.com
 0.0.0.0	verizon.asapp.com
 0.0.0.0	verizon.demdex.net
+0.0.0.0	verizontelecom.tt.omtrdc.net
 0.0.0.0	verticalscope-d.openx.net
 0.0.0.0	vervemobile.com
 0.0.0.0	vet-us-east-1.track.smaato.net
@@ -8677,6 +8694,8 @@
 0.0.0.0	video-assets.mathtag.com
 0.0.0.0	video.bttrack.com
 0.0.0.0	videoclientsservicescalls.outbrain.com
+0.0.0.0	video-dfw5-1.xx.fbcdn.net
+0.0.0.0	video-dfw5-2.xx.fbcdn.net
 0.0.0.0	videoevents.outbrain.com
 0.0.0.0	video.fyber.com
 0.0.0.0	video.innovid.com
@@ -8742,6 +8761,7 @@
 0.0.0.0	vod.adspruce.com
 0.0.0.0	voicefive.com.edgekey.net
 0.0.0.0	vop-tracking-vpc-1741893498.us-east-1.elb.amazonaws.com
+0.0.0.0	vortex.data.microsoft.com
 0.0.0.0	vox.amp.permutive.com
 0.0.0.0	voxcustomdfp152282307853.s.moatpixel.com
 0.0.0.0	voxvidint960547728228.s.moatpixel.com
@@ -8750,6 +8770,7 @@
 0.0.0.0	vpaid.springserve.com
 0.0.0.0	vqq.admaster.com.cn
 0.0.0.0	vrl.m.conviva.com
+0.0.0.0	vrt.outbrain.com
 0.0.0.0	vserv.mobi
 0.0.0.0	v.ssacdn.com
 0.0.0.0	vst.c.appier.net
@@ -8975,6 +8996,7 @@
 0.0.0.0	www7.kampanyatakip.net
 0.0.0.0	www.adobur.com
 0.0.0.0	www.chartboost.com
+0.0.0.0	www.clarity.ms
 0.0.0.0	www.fviwwkvvxs.com
 0.0.0.0	www.geoplugin.net
 0.0.0.0	www.googleadservices.com
