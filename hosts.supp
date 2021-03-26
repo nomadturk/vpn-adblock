@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Mar 26 02:30:12 +03 2021
-# Total number of blocked hosts are: 9131
+# Ad blocking hosts generated Sat Mar 27 02:30:07 +03 2021
+# Total number of blocked hosts are: 9124
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -1683,7 +1683,6 @@
 0.0.0.0	apple.comscoreresearch.com
 0.0.0.0	applift-a.apptornado.com
 0.0.0.0	applift-b.apptornado.com
-0.0.0.0	app.link
 0.0.0.0	applink.mob.com
 0.0.0.0	appload.ingest.crittercism.com
 0.0.0.0	app-log.adpushup.com
@@ -2152,7 +2151,6 @@
 0.0.0.0	bktr2-06hdl.ads.tremorhub.com
 0.0.0.0	blackhole.chango.com
 0.0.0.0	blacraft.com
-0.0.0.0	bling2.midasplayer.com
 0.0.0.0	blisspoint.us-east-1.stinger-ad.bidr.io
 0.0.0.0	blisspoint.us-west-2.stinger-ad.bidr.io
 0.0.0.0	blizzard.blueoxtech.com
@@ -4886,8 +4884,6 @@
 0.0.0.0	ju.taobao.com
 0.0.0.0	juxiao.mediav.com
 0.0.0.0	jzwjq.ads.tremorhub.com
-0.0.0.0	k1.midasplayer.com
-0.0.0.0	k1qa.midasplayer.com
 0.0.0.0	kaffnet.com
 0.0.0.0	kaltura.perf.akadns.net
 0.0.0.0	kargodfpnew803390365855.s.moatpixel.com
@@ -5388,7 +5384,6 @@
 0.0.0.0	microad.jp
 0.0.0.0	microad.net
 0.0.0.0	micro.marketo.com
-0.0.0.0	midasplayer.com
 0.0.0.0	middycdn-a.akamaihd.net
 0.0.0.0	midoweb.offerstrack.net
 0.0.0.0	mid.rkdms.com
@@ -5466,7 +5461,6 @@
 0.0.0.0	mobilelog.upqzfile.com
 0.0.0.0	mobile.mediabrix.com
 0.0.0.0	mobile.mng-ads.com
-0.0.0.0	mobile.pipe.aria.microsoft.com
 0.0.0.0	mobileposse.com
 0.0.0.0	mobileposse-d.openx.net
 0.0.0.0	mobile-sdk-resources.jumio.com
@@ -6200,7 +6194,6 @@
 0.0.0.0	p.metrilo.com
 0.0.0.0	pm-gateway.supersonicads.com
 0.0.0.0	pmg.cr-nielsen.com
-0.0.0.0	p.midasplayer.com
 0.0.0.0	pmir.3g.qq.com
 0.0.0.0	pnrt-stsdk.vivo.com.cn
 0.0.0.0	pnrt.stsdk.vivo.com.cn
