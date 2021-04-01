@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Apr 1 02:30:05 +03 2021
-# Total number of blocked hosts are: 9174
+# Ad blocking hosts generated Fri Apr 2 02:30:06 +03 2021
+# Total number of blocked hosts are: 9170
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -5469,14 +5469,12 @@
 0.0.0.0	mobileapi.usebutton.com
 0.0.0.0	mobile.appchina.com
 0.0.0.0	mobilebanner.ru
-0.0.0.0	mobile.cmtelematics.com
 0.0.0.0	mobile-collector.newrelic.com
 0.0.0.0	mobile.controller.duokanbox.com
 0.0.0.0	mobilecore.com
 0.0.0.0	mobile-crash.newrelic.com
 0.0.0.0	mobile-crash-origin.newrelic.com
 0.0.0.0	mobile-de-d.openx.net
-0.0.0.0	mobile-dssf-prod.cmtelematics.com
 0.0.0.0	mobile.eum-appdynamics.com
 0.0.0.0	mobile.events.data.microsoft.com
 0.0.0.0	mobilefuse.com
@@ -5485,8 +5483,6 @@
 0.0.0.0	mobile.ib.sin1.geoadnxs.com
 0.0.0.0	mobileiosapi.punchh.com
 0.0.0.0	mobile.launchdarkly.com
-0.0.0.0	mobile-log.cmtelematics.com
-0.0.0.0	mobile-log-dssf-prod.cmtelematics.com
 0.0.0.0	mobilelog.upqzfile.com
 0.0.0.0	mobile.mediabrix.com
 0.0.0.0	mobile.mng-ads.com
