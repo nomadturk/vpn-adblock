@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Apr 6 02:30:06 +03 2021
+# Ad blocking hosts generated Wed Apr 7 02:30:04 +03 2021
 # Total number of blocked hosts are: 9170
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
@@ -2150,6 +2150,7 @@
 0.0.0.0	bip.prod.cloud.ogury.io
 0.0.0.0	birigum.iad-03.braze.com
 0.0.0.0	bitmedianetwork.com
+0.0.0.0	bi.yeshen.com
 0.0.0.0	bizjournals-d.openx.net
 0.0.0.0	bj1110.online
 0.0.0.0	bjdata.ads.oppomobile.com
@@ -2893,8 +2894,6 @@
 0.0.0.0	collection.decibelinsight.net
 0.0.0.0	collection-endpoint-prod.herokuapp.com
 0.0.0.0	collection-endpoint-staging.herokuapp.com
-0.0.0.0	collection.sumologic.com
-0.0.0.0	collection.us2.sumologic.com
 0.0.0.0	collect.iperceptions.com
 0.0.0.0	collector-001.newrelic.com
 0.0.0.0	collector-002.newrelic.com
@@ -2930,9 +2929,7 @@
 0.0.0.0	collector-pxvi2rjzgl.perimeterx.net
 0.0.0.0	collector.scopely.io
 0.0.0.0	collector.snplow.net
-0.0.0.0	collectors.sumologic.com
 0.0.0.0	collector.stats.socialquantum.ru
-0.0.0.0	collectors.us2.sumologic.com
 0.0.0.0	collector.tealeaf.ibmcloud.com
 0.0.0.0	collect.tealiumiq.com
 0.0.0.0	combine.urbanairship.com
@@ -3657,8 +3654,6 @@
 0.0.0.0	emxdgt.com
 0.0.0.0	emxhb.emxdgt.com
 0.0.0.0	encyclopediabritannica.blueconic.net
-0.0.0.0	endpoint1.collection.us2.sumologic.com
-0.0.0.0	endpoint2.collection.sumologic.com
 0.0.0.0	end.scorecardresearch.com
 0.0.0.0	engage10632snprh.deltadna.net
 0.0.0.0	engage10665dd4kq.deltadna.net
@@ -5438,7 +5433,6 @@
 0.0.0.0	m-metrics.capitalone.com
 0.0.0.0	m.mixadvert.com
 0.0.0.0	mm.markandmini.com
-0.0.0.0	m-motu.doglobal.net
 0.0.0.0	mms.cnn.com
 0.0.0.0	mng-ads.com
 0.0.0.0	moatads.com.edgekey.net
@@ -5687,6 +5681,7 @@
 0.0.0.0	new.fqtag.com
 0.0.0.0	newre-conversions.clickmeter.com
 0.0.0.0	newscorp.grapeshot.co.uk
+0.0.0.0	news.iadsdk.apple.com
 0.0.0.0	newspush.sinajs.cn
 0.0.0.0	nex8.net
 0.0.0.0	nexac.com
@@ -6440,6 +6435,7 @@
 0.0.0.0	pub.s6.exacttarget.com
 0.0.0.0	pub.s7.exacttarget.com
 0.0.0.0	pub-sdk-cfg.criteo.com
+0.0.0.0	pubstatus.sinaapp.com
 0.0.0.0	pubwise-d.openx.net
 0.0.0.0	puds.ucweb.com
 0.0.0.0	puhtml.com
@@ -7797,6 +7793,7 @@
 0.0.0.0	stx-assets.sharethrough.com
 0.0.0.0	stx-match.dotomi.com
 0.0.0.0	submit.zapr.in
+0.0.0.0	su.iadsdk.apple.com
 0.0.0.0	suite-analytics.socialbakers.com
 0.0.0.0	suite-builder.socialbakers.com
 0.0.0.0	suite-profile.socialbakers.com
@@ -8220,6 +8217,7 @@
 0.0.0.0	tracking-1611167402.us-east-1.elb.amazonaws.com
 0.0.0.0	tracking-1659963975.ap-southeast-1.elb.amazonaws.com
 0.0.0.0	tracking1.firstimpression.io
+0.0.0.0	tracking-3-9f58.trnox.com
 0.0.0.0	tracking.aatkit.com
 0.0.0.0	tracking.adalliance.io
 0.0.0.0	tracking.adalyser.com
@@ -8227,6 +8225,7 @@
 0.0.0.0	tracking.admarketplace.net
 0.0.0.0	tracking.admarketplace.net.edgekey.net
 0.0.0.0	tracking.applift.com
+0.0.0.0	tracking.apptrackerlink.com
 0.0.0.0	tracking.autoads.asia
 0.0.0.0	tracking.crazyegg.com
 0.0.0.0	tracking.directservices.it
@@ -8310,6 +8309,7 @@
 0.0.0.0	tr-asia.adsmoloco.com
 0.0.0.0	tr.bigpoint.com
 0.0.0.0	tr.blismedia.com
+0.0.0.0	trcakingapp.trnox.com
 0.0.0.0	trc-events.taboola.com
 0.0.0.0	trc.kissmetrics.com
 0.0.0.0	trc.taboola.com
@@ -8523,7 +8523,6 @@
 0.0.0.0	us-1.gladly.com
 0.0.0.0	us1-spiky.wzrkt.com
 0.0.0.0	us1.wzrkt.com
-0.0.0.0	us2.sumologic.com
 0.0.0.0	usadmm.dotomi.com
 0.0.0.0	usadmm-ds.dotomi.com
 0.0.0.0	us.adserver.yahoo.com
@@ -9043,6 +9042,7 @@
 0.0.0.0	www.googletagmanager.com
 0.0.0.0	www-googletagmanager.l.google.com
 0.0.0.0	www.googletagservices.com
+0.0.0.0	www.iadsdk.apple.com
 0.0.0.0	www.ihaberadserver.com
 0.0.0.0	www.iwanttodeliver.com
 0.0.0.0	www.kampanyatakip.net
