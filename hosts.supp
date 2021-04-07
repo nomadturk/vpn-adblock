@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Apr 7 02:30:04 +03 2021
-# Total number of blocked hosts are: 9170
+# Ad blocking hosts generated Thu Apr 8 02:30:06 +03 2021
+# Total number of blocked hosts are: 9171
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -3411,6 +3411,7 @@
 0.0.0.0	df.tanx.com
 0.0.0.0	dhg-logging.us-east-1.elasticbeanstalk.com
 0.0.0.0	dh.serving-sys.com
+0.0.0.0	diagnosis.ad.intl.xiaomi.com
 0.0.0.0	diag-wd.gridsumdissector.com
 0.0.0.0	dialacrum.iad-03.braze.com
 0.0.0.0	dickssportinggoods.demdex.net
