@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Apr 12 02:30:05 +03 2021
-# Total number of blocked hosts are: 9171
+# Ad blocking hosts generated Tue Apr 13 02:30:07 +03 2021
+# Total number of blocked hosts are: 9169
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -3563,7 +3563,6 @@
 0.0.0.0	durationmedia-d.openx.net
 0.0.0.0	d.us.criteo.com
 0.0.0.0	dvgtm.akadns.net
-0.0.0.0	dwimg.ktplay.com
 0.0.0.0	dxp.baidu.com
 0.0.0.0	dygassets.dygdigital.com
 0.0.0.0	dynamic.criteo.com
@@ -7056,7 +7055,6 @@
 0.0.0.0	sdk.playtem.com
 0.0.0.0	sdk.popjam.com
 0.0.0.0	sdk.predic.io
-0.0.0.0	sdk.privacy-center.org
 0.0.0.0	sdk.push7.jp
 0.0.0.0	sdk.push.mob.com
 0.0.0.0	sdk.qikify.com
