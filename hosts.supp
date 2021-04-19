@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Apr 19 02:30:05 +03 2021
-# Total number of blocked hosts are: 9229
+# Ad blocking hosts generated Tue Apr 20 02:30:06 +03 2021
+# Total number of blocked hosts are: 9224
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -6647,16 +6647,13 @@
 0.0.0.0	redirectpopads.com
 0.0.0.0	redirect.simba.taobao.com
 0.0.0.0	redirects.pickupcloud.com
-0.0.0.0	redtram.com
 0.0.0.0	ref.ad-brix.com
 0.0.0.0	regional.ads.tremorhub.com
 0.0.0.0	regionconfig.amplitude.com
 0.0.0.0	register.appsflyer.com
 0.0.0.0	register.collector.scopely.io
-0.0.0.0	registeridm.com
 0.0.0.0	registration.gimbal.com
 0.0.0.0	registration.tiltingpoint.io
-0.0.0.0	regmedia.co.uk
 0.0.0.0	rek2.tascatlasa.com
 0.0.0.0	reklam-1.com
 0.0.0.0	reklam7.com
@@ -8787,8 +8784,6 @@
 0.0.0.0	video-assets.mathtag.com
 0.0.0.0	video.bttrack.com
 0.0.0.0	videoclientsservicescalls.outbrain.com
-0.0.0.0	video-dfw5-1.xx.fbcdn.net
-0.0.0.0	video-dfw5-2.xx.fbcdn.net
 0.0.0.0	videoevents.outbrain.com
 0.0.0.0	video.fyber.com
 0.0.0.0	video.innovid.com
