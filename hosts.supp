@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Apr 22 02:30:07 +03 2021
-# Total number of blocked hosts are: 9222
+# Ad blocking hosts generated Fri Apr 23 02:30:08 +03 2021
+# Total number of blocked hosts are: 9217
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -2624,7 +2624,6 @@
 0.0.0.0	cdn.simpleanalytics.io
 0.0.0.0	cdn.simpli.fi
 0.0.0.0	cdn.smartnews-ads.com
-0.0.0.0	cdn.smassets.net
 0.0.0.0	cdn.socialannex.com
 0.0.0.0	cdn.socialbakers.com
 0.0.0.0	cdnsonata.taptapnetworks.com
@@ -2729,7 +2728,6 @@
 0.0.0.0	choices.trustarc.com
 0.0.0.0	choices.truste.com
 0.0.0.0	ch-sync.taboola.com
-0.0.0.0	chtbl.com
 0.0.0.0	churchdwightsizmek22033498.s.moatpixel.com
 0.0.0.0	ch-vid-events.taboola.com
 0.0.0.0	ch-wf.taboola.com
@@ -3864,7 +3862,6 @@
 0.0.0.0	experiment.appadhoc.com
 0.0.0.0	exponential54894892.s.moatpixel.com
 0.0.0.0	exponentialjsint8023749877114.s.moatpixel.com
-0.0.0.0	ext.chtbl.com
 0.0.0.0	ext-inv-cdn.presage.io
 0.0.0.0	ext-inv-cdn.prod.cloud.ogury.io
 0.0.0.0	extreme-ip-lookup.com
@@ -6383,7 +6380,6 @@
 0.0.0.0	prod.pw.analytics.console.aws.a2z.com
 0.0.0.0	prod.search.deployads.com
 0.0.0.0	prod.sift.co
-0.0.0.0	prod.smassets.net
 0.0.0.0	production-adkviewtrackingtagserver.ap-northeast-1.elasticbeanstalk.com
 0.0.0.0	production-public.tubi.io
 0.0.0.0	production.wootric.com
@@ -8910,7 +8906,6 @@
 0.0.0.0	webanalytics.localytics.com
 0.0.0.0	webapi.hot-mob.com
 0.0.0.0	web.btncdn.com
-0.0.0.0	web.chtbl.com
 0.0.0.0	web-clients.mynativeplatform.com
 0.0.0.0	webfg-d.openx.net
 0.0.0.0	webfile.adview.cn
