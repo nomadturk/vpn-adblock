@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat Apr 24 02:30:10 +03 2021
-# Total number of blocked hosts are: 9217
+# Ad blocking hosts generated Sun Apr 25 02:30:08 +03 2021
+# Total number of blocked hosts are: 9215
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -6895,7 +6895,6 @@
 0.0.0.0	sact.atdmt.com
 0.0.0.0	s.ad4.com.cn
 0.0.0.0	sadc1.outbrain.org
-0.0.0.0	s.adrise.tv
 0.0.0.0	s.ad.smaato.net
 0.0.0.0	s.adtelligent.com
 0.0.0.0	s.adx.io
@@ -8955,7 +8954,6 @@
 0.0.0.0	widget.hk5.vip.prod.criteo.com
 0.0.0.0	widget.hk.as.criteo.com
 0.0.0.0	widget.jp.as.criteo.com
-0.0.0.0	widget-mediator.zopim.com
 0.0.0.0	widgetmonitor.outbrain.com
 0.0.0.0	widget.nl.eu.criteo.com
 0.0.0.0	widget.par.vip.prod.criteo.com
