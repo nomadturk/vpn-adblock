@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed May 5 02:30:05 +03 2021
-# Total number of blocked hosts are: 9215
+# Ad blocking hosts generated Thu May 6 02:30:07 +03 2021
+# Total number of blocked hosts are: 9214
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -1402,7 +1402,6 @@
 0.0.0.0	api.crittercism.com
 0.0.0.0	apicssdk.onemt.co
 0.0.0.0	api.cxense.com
-0.0.0.0	api.datadoghq.com
 0.0.0.0	api.data.sentinel.mob.com
 0.0.0.0	api.decibelinsight.net
 0.0.0.0	api.demandbase.com
