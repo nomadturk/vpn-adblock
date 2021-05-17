@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon May 17 02:30:07 +03 2021
-# Total number of blocked hosts are: 9214
+# Ad blocking hosts generated Tue May 18 02:30:07 +03 2021
+# Total number of blocked hosts are: 9194
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -2744,7 +2744,6 @@
 0.0.0.0	cks.connatix.com
 0.0.0.0	ck.solocpm.com
 0.0.0.0	c.ktxtr.com
-0.0.0.0	cl6.perimeterx.net
 0.0.0.0	clad.perfectcorp.com
 0.0.0.0	clair.iad-03.braze.com
 0.0.0.0	clck.lentainform.com
@@ -2788,7 +2787,6 @@
 0.0.0.0	clientmetrics-pa.googleapis.com
 0.0.0.0	client.midosoo.com
 0.0.0.0	client.optimizely.com
-0.0.0.0	client.perimeterx.net
 0.0.0.0	client.rave-api.com
 0.0.0.0	clients-api.pushengage.com
 0.0.0.0	clientsdk.luminati.io
@@ -2921,7 +2919,6 @@
 0.0.0.0	collector-008.newrelic.com
 0.0.0.0	collector-009.newrelic.com
 0.0.0.0	collector-010.newrelic.com
-0.0.0.0	collector-a.perimeterx.net
 0.0.0.0	collector.bughd.com
 0.0.0.0	collector.capturly.com
 0.0.0.0	collector.cint.com
@@ -2930,19 +2927,6 @@
 0.0.0.0	collector.leaddyno.com
 0.0.0.0	collector.newrelic.com
 0.0.0.0	collector.placelocal.com
-0.0.0.0	collector-px0etyn5vq.perimeterx.net
-0.0.0.0	collector-px12xk43jk.perimeterx.net
-0.0.0.0	collector-px3vk96i6i.perimeterx.net
-0.0.0.0	collector-px87q7kx6y.perimeterx.net
-0.0.0.0	collector-px8fcgygk4.perimeterx.net
-0.0.0.0	collector-pxhyx10rg3.perimeterx.net
-0.0.0.0	collector-pxikkul2rm.perimeterx.net
-0.0.0.0	collector-pxitevy85i.perimeterx.net
-0.0.0.0	collector-pxkz8zzqmw.perimeterx.net
-0.0.0.0	collector-pxljub4etb.cl6.perimeterx.net
-0.0.0.0	collector-pxo97ybh4j.perimeterx.net
-0.0.0.0	collector-pxuarm9b04.perimeterx.net
-0.0.0.0	collector-pxvi2rjzgl.perimeterx.net
 0.0.0.0	collector.scopely.io
 0.0.0.0	collector.snplow.net
 0.0.0.0	collector.stats.socialquantum.ru
@@ -4914,7 +4898,6 @@
 0.0.0.0	js.genieessp.com
 0.0.0.0	js.gleam.io
 0.0.0.0	js.idio.co
-0.0.0.0	js.intercomcdn.com
 0.0.0.0	js.logentries.com
 0.0.0.0	jslog.krxd.net
 0.0.0.0	js.matheranalytics.com
@@ -5512,7 +5495,6 @@
 0.0.0.0	mobile.mng-ads.com
 0.0.0.0	mobileposse.com
 0.0.0.0	mobileposse-d.openx.net
-0.0.0.0	mobile-sdk-api.intercom.io
 0.0.0.0	mobile-sdk-resources.jumio.com
 0.0.0.0	mobilesdk-us.kampyle.com
 0.0.0.0	mobile-service.segment.com
@@ -6513,7 +6495,6 @@
 0.0.0.0	px2.moatads.com
 0.0.0.0	px2.px.quantserve.com
 0.0.0.0	px.adhigh.net
-0.0.0.0	px-conf.perimeterx.net
 0.0.0.0	px.dynamicyield.com
 0.0.0.0	px-eu.adhigh.net
 0.0.0.0	px.gumgum.com
@@ -7772,7 +7753,6 @@
 0.0.0.0	stats.netsolads.com
 0.0.0.0	statsonline.pushct.baidu.com
 0.0.0.0	stats.origin.kaltura.perf.akadns.net
-0.0.0.0	stats.pingdom.com
 0.0.0.0	stats.playrix.com
 0.0.0.0	stats.popcap.com
 0.0.0.0	stats.restartad.com
