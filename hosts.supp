@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu May 20 02:30:07 +03 2021
-# Total number of blocked hosts are: 9194
+# Ad blocking hosts generated Fri May 21 02:30:06 +03 2021
+# Total number of blocked hosts are: 9192
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -2564,7 +2564,6 @@
 0.0.0.0	cdn.logly.co.jp
 0.0.0.0	cdn.logrocket.com
 0.0.0.0	cdn.logrocket.io
-0.0.0.0	cdn-loyalty.yotpo.com
 0.0.0.0	cdn.madkudu.com
 0.0.0.0	cdn.maropost.com
 0.0.0.0	cdn.masky.biddingx.com
@@ -2667,7 +2666,6 @@
 0.0.0.0	cdn.watchingthat.net
 0.0.0.0	cdn-webview-pge.unityads.unity3d.com
 0.0.0.0	cdnwidget.com
-0.0.0.0	cdn-widgetsrepository.yotpo.com
 0.0.0.0	cdn.zarget.com
 0.0.0.0	cdp.cloud.unity3d.com
 0.0.0.0	cdp.in.treasuredata.com
