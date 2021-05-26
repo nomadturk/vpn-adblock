@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed May 26 02:30:06 +03 2021
-# Total number of blocked hosts are: 9241
+# Ad blocking hosts generated Thu May 27 02:30:06 +03 2021
+# Total number of blocked hosts are: 9240
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -3710,7 +3710,6 @@
 0.0.0.0	ensighten.com
 0.0.0.0	entercom-d.openx.net
 0.0.0.0	enthusiast-gaming-d.openx.net
-0.0.0.0	entitlements.jwplayer.com
 0.0.0.0	ent.mobileanjian.com
 0.0.0.0	entravision-d.openx.net
 0.0.0.0	entree.igetget.com
