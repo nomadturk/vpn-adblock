@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon May 31 02:30:09 +03 2021
-# Total number of blocked hosts are: 9236
+# Ad blocking hosts generated Tue Jun 1 02:30:06 +03 2021
+# Total number of blocked hosts are: 9235
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -5268,7 +5268,6 @@
 0.0.0.0	marketplace-android-b154.hyprmx.com
 0.0.0.0	marketplace-android-b185.hyprmx.com
 0.0.0.0	marketplace-android-b234.hyprmx.com
-0.0.0.0	markmonitor.com
 0.0.0.0	marmalade.adthrive.com
 0.0.0.0	masdk.3g.qq.com
 0.0.0.0	masdpanalytics.azureedge.net
