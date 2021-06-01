@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Jun 1 02:30:06 +03 2021
-# Total number of blocked hosts are: 9235
+# Ad blocking hosts generated Wed Jun 2 02:30:10 +03 2021
+# Total number of blocked hosts are: 9248
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -17,11 +17,16 @@
 0.0.0.0	14dc69dd.api.splkmobile.com
 0.0.0.0	159126.engine.mobileapptracking.com
 0.0.0.0	167126.engine.mobileapptracking.com
+0.0.0.0	167154.engine.mobileapptracking.com
 0.0.0.0	1681.engine.mobileapptracking.com
 0.0.0.0	16948.engine.mobileapptracking.com
+0.0.0.0	17058.engine.mobileapptracking.com
 0.0.0.0	175038.engine.mobileapptracking.com
+0.0.0.0	176232.engine.mobileapptracking.com
 0.0.0.0	1782.engine.mobileapptracking.com
+0.0.0.0	178852.engine.mobileapptracking.com
 0.0.0.0	17908.engine.mobileapptracking.com
+0.0.0.0	180642.engine.mobileapptracking.com
 0.0.0.0	183704.engine.mobileapptracking.com
 0.0.0.0	183804.engine.mobileapptracking.com
 0.0.0.0	185492.engine.mobileapptracking.com
@@ -29,15 +34,21 @@
 0.0.0.0	186232.engine.mobileapptracking.com
 0.0.0.0	189358.engine.mobileapptracking.com
 0.0.0.0	189850.engine.mobileapptracking.com
+0.0.0.0	189904.engine.mobileapptracking.com
 0.0.0.0	189983.engine.mobileapptracking.com
 0.0.0.0	190107.engine.mobileapptracking.com
 0.0.0.0	190829.engine.mobileapptracking.com
+0.0.0.0	192569.engine.mobileapptracking.com
+0.0.0.0	192834.engine.mobileapptracking.com
 0.0.0.0	194192.engine.mobileapptracking.com
 0.0.0.0	194792.engine.mobileapptracking.com
+0.0.0.0	194985.engine.mobileapptracking.com
 0.0.0.0	1956.api.swrve.com
 0.0.0.0	1956.content.swrve.com
 0.0.0.0	195724.engine.mobileapptracking.com
+0.0.0.0	19588.engine.mobileapptracking.com
 0.0.0.0	198935.engine.mobileapptracking.com
+0.0.0.0	199107.engine.mobileapptracking.com
 0.0.0.0	199109.engine.mobileapptracking.com
 0.0.0.0	20298.engine.mobileapptracking.com
 0.0.0.0	204.scloud.lfengmobile.com
@@ -150,6 +161,7 @@
 0.0.0.0	4cywq-eqnre.ads.tremorhub.com
 0.0.0.0	4dsply.com
 0.0.0.0	4seeresults.com
+0.0.0.0	5094.engine.mobileapptracking.com
 0.0.0.0	51ginkgo.com
 0.0.0.0	53ac365e91086e608ae1345e075105e3.ulink.adjust.com
 0.0.0.0	53.localytics.com
@@ -186,6 +198,7 @@
 0.0.0.0	8272590.fls.doubleclick.net
 0.0.0.0	854.api.swrve.com
 0.0.0.0	854.content.swrve.com
+0.0.0.0	8604.engine.mobileapptracking.com
 0.0.0.0	8696.engine.mobileapptracking.com
 0.0.0.0	87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com
 0.0.0.0	8live.com
