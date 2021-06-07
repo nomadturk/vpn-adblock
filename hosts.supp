@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon Jun 7 02:30:06 +03 2021
-# Total number of blocked hosts are: 9248
+# Ad blocking hosts generated Tue Jun 8 02:30:07 +03 2021
+# Total number of blocked hosts are: 9238
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -179,7 +179,6 @@
 0.0.0.0	6384.eu-api.swrve.com
 0.0.0.0	6384.eu-content.swrve.com
 0.0.0.0	658473abd74bd979afcfe472c595ce93.ulink.adjust.com
-0.0.0.0	65c6.playfabapi.com
 0.0.0.0	6674.eu-api.swrve.com
 0.0.0.0	6674.eu-content.swrve.com
 0.0.0.0	6696.eu-api.swrve.com
@@ -202,7 +201,6 @@
 0.0.0.0	8696.engine.mobileapptracking.com
 0.0.0.0	87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com
 0.0.0.0	8live.com
-0.0.0.0	92ab.playfabapi.com
 0.0.0.0	943.engine.mobileapptracking.com
 0.0.0.0	94vs.adj.st
 0.0.0.0	959cad30.api.splkmobile.com
@@ -1999,10 +1997,8 @@
 0.0.0.0	b2c.com
 0.0.0.0	b2c-mlm.marketo.com
 0.0.0.0	b2c-msm.marketo.com
-0.0.0.0	b343.playfabapi.com
 0.0.0.0	b3bb7de118d3a2fed1dd1ee77ed5a2bac10fe77b.cws.conviva.com
 0.0.0.0	b3.mookie1.com
-0.0.0.0	b77ad.playfabapi.com
 0.0.0.0	babel.innertrends.com
 0.0.0.0	backstage.taboola.com
 0.0.0.0	b.admedia.com
@@ -2308,7 +2304,6 @@
 0.0.0.0	c4dm.adcolony.com
 0.0.0.0	c8.net.ua
 0.0.0.0	ca4-bid.adsrvr.org
-0.0.0.0	ca87.playfabapi.com
 0.0.0.0	ca-as-1.agilone.com
 0.0.0.0	cache-06.pushwoosh.com
 0.0.0.0	cache-07.pushwoosh.com
@@ -2822,11 +2817,9 @@
 0.0.0.0	clkdeals.com
 0.0.0.0	clk.solocpm.com
 0.0.0.0	clk.taptica.com
-0.0.0.0	cloud2.gsdk.proximabeta.com
 0.0.0.0	cloudapi.imrworldwide.com
 0.0.0.0	cloud.appcelerator.com
 0.0.0.0	cloud-emea.analytics-egain.com
-0.0.0.0	cloud.gsdk.proximabeta.com
 0.0.0.0	cloudmobi.net
 0.0.0.0	cloud.ogury.io
 0.0.0.0	cloudservice14.kingsoft-office-service.com
@@ -4278,7 +4271,6 @@
 0.0.0.0	grtb-de.lfstmedia.com
 0.0.0.0	grtb-nj.lfstmedia.com
 0.0.0.0	grtb-sc.lfstmedia.com
-0.0.0.0	gsdk.proximabeta.com
 0.0.0.0	gslbeacon.lijit.com
 0.0.0.0	gsp1.baidu.com
 0.0.0.0	gtag.yieldoptimizer.com
@@ -6261,7 +6253,6 @@
 0.0.0.0	play.leadzuaf.com
 0.0.0.0	play.rayjump.com
 0.0.0.0	playtest-api.topaz-analytics.com
-0.0.0.0	playtomic.com
 0.0.0.0	playwire-d.openx.net
 0.0.0.0	plbslog.umeng.com
 0.0.0.0	pl-gmtdmp.mookie1.com
@@ -7547,7 +7538,6 @@
 0.0.0.0	sparkle.locationlabs.com
 0.0.0.0	sparkusdiscoverdcm781744349491.s.moatpixel.com
 0.0.0.0	specialdeals.g5e.com
-0.0.0.0	speed.na.gsdk.proximabeta.com
 0.0.0.0	speee-ad.akamaized.net
 0.0.0.0	spell.itim.vn
 0.0.0.0	spica.iad-03.braze.com
