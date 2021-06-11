@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Jun 11 02:30:06 +03 2021
-# Total number of blocked hosts are: 9238
+# Ad blocking hosts generated Sat Jun 12 02:30:05 +03 2021
+# Total number of blocked hosts are: 9237
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -4197,7 +4197,6 @@
 0.0.0.0	glance-internal.inmobi.com
 0.0.0.0	glance.l.inmobicdn.net
 0.0.0.0	glbgcl.logsss.com
-0.0.0.0	glimmer.hearstapps.com
 0.0.0.0	glispa.com
 0.0.0.0	global.adserver.yahoo.com
 0.0.0.0	global.appnext.com
