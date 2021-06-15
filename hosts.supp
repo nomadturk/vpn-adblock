@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue Jun 15 02:30:07 +03 2021
-# Total number of blocked hosts are: 9237
+# Ad blocking hosts generated Wed Jun 16 02:30:05 +03 2021
+# Total number of blocked hosts are: 9232
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -4590,7 +4590,6 @@
 0.0.0.0	ih.adscale.de
 0.0.0.0	i.idio.co
 0.0.0.0	i.ipromote.com
-0.0.0.0	i.isnssdk.com
 0.0.0.0	ilb.pns.kt.com
 0.0.0.0	i.l.inmobicdn.cn
 0.0.0.0	i.l.inmobicdn.net
@@ -5125,7 +5124,6 @@
 0.0.0.0	log.api.zaloapp.com
 0.0.0.0	log.apk.v-mate.mobi
 0.0.0.0	log.appchina.com
-0.0.0.0	log.byteoversea.com.edgekey.net
 0.0.0.0	log-collectors-73517960.us-east-1.elb.amazonaws.com
 0.0.0.0	log-collector.svctr.zynga.com
 0.0.0.0	logconfig.polarisoffice.com
@@ -5512,7 +5510,6 @@
 0.0.0.0	mobilefuse.com
 0.0.0.0	mobile.game-insight.com
 0.0.0.0	mobile-global.baidu.com
-0.0.0.0	mobile-http-intake.logs.datadoghq.com
 0.0.0.0	mobile.ib.sin1.geoadnxs.com
 0.0.0.0	mobileiosapi.punchh.com
 0.0.0.0	mobile.launchdarkly.com
@@ -6452,7 +6449,6 @@
 0.0.0.0	pub.funshion.com
 0.0.0.0	pubgalaxy-d.openx.net
 0.0.0.0	pub.lavanetwork.net
-0.0.0.0	public-trace-http-intake.logs.datadoghq.com
 0.0.0.0	public-webservice.apdc1n.adpushup.com
 0.0.0.0	public-webservice.apdc3n.adpushup.com
 0.0.0.0	public-webservice.geo.adpushup.com
@@ -6859,7 +6855,6 @@
 0.0.0.0	rum-collector-2.pingdom.net
 0.0.0.0	rum-collector.pingdom.net
 0.0.0.0	rum-collector.wpm.neustar.biz
-0.0.0.0	rum-http-intake.logs.datadoghq.com
 0.0.0.0	rum.logsss.com
 0.0.0.0	rum.optimizely.com
 0.0.0.0	runative-syndicate.com
