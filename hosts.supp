@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Jun 17 02:30:06 +03 2021
-# Total number of blocked hosts are: 9232
+# Ad blocking hosts generated Fri Jun 18 02:30:12 +03 2021
+# Total number of blocked hosts are: 9230
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -2566,7 +2566,6 @@
 0.0.0.0	cdn.inskinad.com
 0.0.0.0	cdn.inspectlet.com
 0.0.0.0	cdn.intergi.com
-0.0.0.0	cdn.iubenda.com
 0.0.0.0	cdn.izooto.com
 0.0.0.0	cdn.jampp.com
 0.0.0.0	cdn.jivox.com
@@ -4364,7 +4363,6 @@
 0.0.0.0	hit.8digits.com
 0.0.0.0	hit.gemius.pl
 0.0.0.0	hit.mynet.com
-0.0.0.0	hits-i.iubenda.com
 0.0.0.0	hit.stat24.com
 0.0.0.0	hive-d.openx.net
 0.0.0.0	hk5.vip.prod.criteo.com
