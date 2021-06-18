@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Jun 18 02:30:12 +03 2021
-# Total number of blocked hosts are: 9230
+# Ad blocking hosts generated Sat Jun 19 02:30:08 +03 2021
+# Total number of blocked hosts are: 9229
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -7487,7 +7487,6 @@
 0.0.0.0	snapads.com
 0.0.0.0	snap.licdn.com
 0.0.0.0	snapmobile.asia
-0.0.0.0	snappytvpoc-vh.akamaihd.net
 0.0.0.0	snap.snapmobile.asia
 0.0.0.0	snapsort-d.openx.net
 0.0.0.0	snigel-d.openx.net
