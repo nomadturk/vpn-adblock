@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun Jun 20 02:30:06 +03 2021
-# Total number of blocked hosts are: 9229
+# Ad blocking hosts generated Mon Jun 21 02:30:06 +03 2021
+# Total number of blocked hosts are: 9222
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -1167,7 +1167,6 @@
 0.0.0.0	analytics.analytics-egain.com
 0.0.0.0	analytics.anvato.net
 0.0.0.0	analytics.any.do
-0.0.0.0	analytics.api.appdynamics.com
 0.0.0.0	analytics.app-adforce.jp
 0.0.0.0	analytics-au.clickdimensions.com
 0.0.0.0	analytics.batmobile.com.tw
@@ -1369,8 +1368,6 @@
 0.0.0.0	api-analytics-bootstrap.metaps.com
 0.0.0.0	api-analytics.metaps.com
 0.0.0.0	api.android-root-tool.com
-0.0.0.0	api.appcelerator.com
-0.0.0.0	api.appdynamics.com
 0.0.0.0	api.applink.mob.com
 0.0.0.0	api.applovin.com
 0.0.0.0	api.appodeal.com
@@ -1401,7 +1398,6 @@
 0.0.0.0	api.chartbeat.com
 0.0.0.0	api.circularhub.com
 0.0.0.0	api.cleverpush.com
-0.0.0.0	api.cloud.appcelerator.com
 0.0.0.0	api.cloudmobi.net
 0.0.0.0	api.company-target.com
 0.0.0.0	api-compatible.mixpanel.com
@@ -1759,7 +1755,6 @@
 0.0.0.0	apps.admob.com
 0.0.0.0	apps.ad-x.co.uk
 0.0.0.0	apps.applift.com
-0.0.0.0	apps.appmachine.com
 0.0.0.0	apps.crowdtangle.com
 0.0.0.0	appsdt.com
 0.0.0.0	app.segment.com
@@ -2466,7 +2461,6 @@
 0.0.0.0	cdn-api.admost.com
 0.0.0.0	cdn-api.appadhoc.com
 0.0.0.0	cdn.api.fotoable.com
-0.0.0.0	cdn.appdynamics.com
 0.0.0.0	cdnappicons.appsflyer.com
 0.0.0.0	cdn.appnext.com
 0.0.0.0	cdn.apprope.com
@@ -2817,7 +2811,6 @@
 0.0.0.0	clk.solocpm.com
 0.0.0.0	clk.taptica.com
 0.0.0.0	cloudapi.imrworldwide.com
-0.0.0.0	cloud.appcelerator.com
 0.0.0.0	cloud-emea.analytics-egain.com
 0.0.0.0	cloudmobi.net
 0.0.0.0	cloud.ogury.io
@@ -4015,6 +4008,7 @@
 0.0.0.0	fra-col.eum-appdynamics.com
 0.0.0.0	fr.ads.justpremium.com
 0.0.0.0	frame.appsgeyser.com
+0.0.0.0	fraud.adjoe.zone
 0.0.0.0	freegeoip.net
 0.0.0.0	freepik-d.openx.net
 0.0.0.0	freerobux.men
@@ -4721,7 +4715,6 @@
 0.0.0.0	in.advertising.yahoo.com
 0.0.0.0	in.analytics.glance.inmobi.com
 0.0.0.0	in.api.glance.inmobi.com
-0.0.0.0	in.appcenter.ms
 0.0.0.0	inapps.appsflyer.com
 0.0.0.0	inapps.moengage.com
 0.0.0.0	inbox.exacttarget.com
@@ -6357,6 +6350,7 @@
 0.0.0.0	privy.com
 0.0.0.0	proc.ad.cpe.dotomi.com
 0.0.0.0	prod-a.applovin.com
+0.0.0.0	prod.adjoe.zone
 0.0.0.0	prod-ads.aerserv.com
 0.0.0.0	prod.adtechjp.com
 0.0.0.0	prod-ash-beacon-1960876484.us-east-1.elb.amazonaws.com
@@ -6370,6 +6364,7 @@
 0.0.0.0	prod-dcs-eventlog.decagames.com
 0.0.0.0	prod-defaulting-subscriptiontool.gismart.xyz
 0.0.0.0	prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com
+0.0.0.0	prod.fraud.adjoe.zone
 0.0.0.0	prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 0.0.0.0	prod.justpremium.com
 0.0.0.0	prod.leanplum.com
@@ -6896,7 +6891,6 @@
 0.0.0.0	s8.addthis.com
 0.0.0.0	s8t.teads.tv
 0.0.0.0	sa.api.intl.miui.com
-0.0.0.0	saas.appdynamics.com
 0.0.0.0	saas.seewhy.com
 0.0.0.0	sac.ayads.co
 0.0.0.0	sact.atdmt.com
@@ -8719,7 +8713,6 @@
 0.0.0.0	vap6ewr1.lijit.com
 0.0.0.0	vapixel.adsafeprotected.com
 0.0.0.0	vap.lijit.com
-0.0.0.0	variantswatches.apphb.com
 0.0.0.0	vars.hotjar.com
 0.0.0.0	vast.adsafeprotected.com
 0.0.0.0	vast.adspruce.com
