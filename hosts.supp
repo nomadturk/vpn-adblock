@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Jun 23 02:30:06 +03 2021
-# Total number of blocked hosts are: 8688
+# Ad blocking hosts generated Thu Jun 24 02:30:06 +03 2021
+# Total number of blocked hosts are: 8694
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -944,6 +944,7 @@
 0.0.0.0	adzmobi.com
 0.0.0.0	adztec.com
 0.0.0.0	ae.ads.justpremium.com
+0.0.0.0	a.et.nytimes.com
 0.0.0.0	aexception.bugly.qq.com
 0.0.0.0	af4a.adj.st
 0.0.0.0	af89dacd-4aec-4ac1-9d52-2a66ce5e4fb5.edge.permutive.app
@@ -3283,6 +3284,7 @@
 0.0.0.0	d.pub.network
 0.0.0.0	dpypzvjarj.com
 0.0.0.0	d.r10.mopub.com
+0.0.0.0	drfdisvc.walmart.com
 0.0.0.0	dr.socdm.com
 0.0.0.0	ds-aksb-a.akamaihd.net
 0.0.0.0	dsa.moatads.com
@@ -4058,6 +4060,7 @@
 0.0.0.0	healthline-d.openx.net
 0.0.0.0	hearst.amp.permutive.com
 0.0.0.0	hearst.blueconic.net
+0.0.0.0	hearst.gscontxt.net
 0.0.0.0	heartsuaedcmdisplay455258716808.s.moatpixel.com
 0.0.0.0	heatmap-quota.abtasty.com
 0.0.0.0	heatmobi.offerstrack.net
@@ -4109,6 +4112,7 @@
 0.0.0.0	hpr.outbrain.com
 0.0.0.0	hq1.appsflyer.com
 0.0.0.0	hs-analytics.net
+0.0.0.0	h-sdk.online-metrix.net
 0.0.0.0	h-signifyd.online-metrix.net
 0.0.0.0	hsw-d.openx.net
 0.0.0.0	ht.adups.com
@@ -7688,6 +7692,7 @@
 0.0.0.0	timehop.adsbynimbus.com
 0.0.0.0	timeinc.trc.taboola.com
 0.0.0.0	timesinternet-d.openx.net
+0.0.0.0	t.indeed.com
 0.0.0.0	tj.ijinshan.com
 0.0.0.0	tj.keymob.com
 0.0.0.0	tkclick.smardroid.com
@@ -8570,6 +8575,7 @@
 0.0.0.0	www.iwanttodeliver.com
 0.0.0.0	www.kampanyatakip.net
 0.0.0.0	www.leanplum.com
+0.0.0.0	www.lightboxcdn.com
 0.0.0.0	www.localytics.com
 0.0.0.0	www.mgid.com
 0.0.0.0	www.nakhit.com
