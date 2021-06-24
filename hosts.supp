@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu Jun 24 02:30:06 +03 2021
-# Total number of blocked hosts are: 8694
+# Ad blocking hosts generated Fri Jun 25 02:30:07 +03 2021
+# Total number of blocked hosts are: 8695
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -1225,6 +1225,7 @@
 0.0.0.0	android-quinoa-config-prod.sense360eng.com
 0.0.0.0	android-quinoa-config-prod.sense360eng.com.herokudns.com
 0.0.0.0	androidsdk.ads.mp.mydas.mobi
+0.0.0.0	androidtvwatsonfe-pa.googleapis.com
 0.0.0.0	andromeda.iad-01.braze.com
 0.0.0.0	andromeda.iad.appboy.com
 0.0.0.0	an.facebook.com
