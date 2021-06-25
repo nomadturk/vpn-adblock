@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri Jun 25 02:30:07 +03 2021
-# Total number of blocked hosts are: 8695
+# Ad blocking hosts generated Sat Jun 26 02:30:06 +03 2021
+# Total number of blocked hosts are: 8694
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -4043,7 +4043,6 @@
 0.0.0.0	hb.emxdgt.com
 0.0.0.0	hb.gammaplatform.com
 0.0.0.0	hbi-ingest.net
-0.0.0.0	hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
 0.0.0.0	hb.mynativeplatform.com
 0.0.0.0	hb.nexage.com
 0.0.0.0	hbopenbid.pubmatic.com
