@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Jun 30 02:30:05 +03 2021
-# Total number of blocked hosts are: 8694
+# Ad blocking hosts generated Thu Jul 1 02:30:05 +03 2021
+# Total number of blocked hosts are: 8693
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -2365,7 +2365,6 @@
 0.0.0.0	cdn-channels-pixel.ex.co
 0.0.0.0	cdn.clickfuse.com
 0.0.0.0	cdn.clinch.co
-0.0.0.0	cdn.cloud.altbalaji.com
 0.0.0.0	cdn.cmp.advertising.com
 0.0.0.0	cdn.comedia.coccoc.com
 0.0.0.0	cdn.concert.io
