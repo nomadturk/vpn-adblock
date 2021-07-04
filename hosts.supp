@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun Jul 4 02:30:08 +03 2021
-# Total number of blocked hosts are: 8693
+# Ad blocking hosts generated Mon Jul 5 02:30:08 +03 2021
+# Total number of blocked hosts are: 8679
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -266,7 +266,6 @@
 0.0.0.0	aan.amazon.co.uk
 0.0.0.0	aan.cdn.speedshiftmedia.com
 0.0.0.0	aan.speedshiftmedia.com
-0.0.0.0	aa.online-metrix.net
 0.0.0.0	a.api.ad-locus.com
 0.0.0.0	a.appbaqend.com
 0.0.0.0	a.applovin.com
@@ -3042,7 +3041,6 @@
 0.0.0.0	d9.flashtalking.com
 0.0.0.0	da1.vip.prod.criteo.com
 0.0.0.0	da1.vip.prod.criteo.net
-0.0.0.0	d.aa.online-metrix.net
 0.0.0.0	dable.io
 0.0.0.0	dable.io.edgekey.net
 0.0.0.0	dacdn.pushcrew.com
@@ -3361,7 +3359,6 @@
 0.0.0.0	e3e85fbda0b93c236cc70b01a5c0a393.ulink.adjust.com
 0.0.0.0	e7876.dscg.akamaiedge.net
 0.0.0.0	e-9660.adzerk.net
-0.0.0.0	e.aa.online-metrix.net
 0.0.0.0	eacdn.com
 0.0.0.0	e.adhaven.com
 0.0.0.0	eapik.anagog.com
@@ -3508,7 +3505,6 @@
 0.0.0.0	eu01.nr-data.net
 0.0.0.0	eu1-spiky.wzrkt.com
 0.0.0.0	eu1.wzrkt.com
-0.0.0.0	eu-aa.online-metrix.net
 0.0.0.0	euadsapi.manhuaren.com
 0.0.0.0	eu.adventori.com
 0.0.0.0	eu-analytics.sam4m.com
@@ -4020,7 +4016,6 @@
 0.0.0.0	h250p-y3urn.ads.tremorhub.com
 0.0.0.0	h30-deploy.hiconversion.com
 0.0.0.0	h5.isnssdk.com
-0.0.0.0	h6.online-metrix.net
 0.0.0.0	ha-api.pushwoosh.com
 0.0.0.0	haaretz.pushwoosh.com
 0.0.0.0	hadarone.com
@@ -4053,7 +4048,6 @@
 0.0.0.0	hb.undertone.com
 0.0.0.0	hb.vntsm.com
 0.0.0.0	h-cdn.com
-0.0.0.0	h-d3tracking.rbc.online-metrix.net
 0.0.0.0	hdj.baidu.com
 0.0.0.0	hd.mmstat.com
 0.0.0.0	healthline-d.openx.net
@@ -4063,11 +4057,9 @@
 0.0.0.0	heartsuaedcmdisplay455258716808.s.moatpixel.com
 0.0.0.0	heatmap-quota.abtasty.com
 0.0.0.0	heatmobi.offerstrack.net
-0.0.0.0	h-ebay.online-metrix.net
 0.0.0.0	hercules.iad.appboy.com
 0.0.0.0	hexagon-analytics.com
 0.0.0.0	heytapimg.com.akamaized.net
-0.0.0.0	h-fidelity.online-metrix.net
 0.0.0.0	hghit.com
 0.0.0.0	highway2.soom.la
 0.0.0.0	hiram.iad-03.braze.com
@@ -4095,7 +4087,6 @@
 0.0.0.0	holder.com.ua
 0.0.0.0	hometalk-d.openx.net
 0.0.0.0	homify.com.mx
-0.0.0.0	h.online-metrix.net
 0.0.0.0	hook.integromat.com
 0.0.0.0	horizon.sailthru.com
 0.0.0.0	hornet-d.openx.net
@@ -4111,11 +4102,8 @@
 0.0.0.0	hpr.outbrain.com
 0.0.0.0	hq1.appsflyer.com
 0.0.0.0	hs-analytics.net
-0.0.0.0	h-sdk.online-metrix.net
-0.0.0.0	h-signifyd.online-metrix.net
 0.0.0.0	hsw-d.openx.net
 0.0.0.0	ht.adups.com
-0.0.0.0	h-tdcanada.online-metrix.net
 0.0.0.0	htlb.casalemedia.com
 0.0.0.0	htlb.casalemedia.com.edgekey.net
 0.0.0.0	html5.adsrvr.org
@@ -6201,7 +6189,6 @@
 0.0.0.0	rayjump.com
 0.0.0.0	rb.adnxs.com
 0.0.0.0	rbc.medialand.ru
-0.0.0.0	rbc.online-metrix.net
 0.0.0.0	rbnt.org
 0.0.0.0	r.casalemedia.com
 0.0.0.0	r.casalemedia.com.edgekey.net
@@ -7408,7 +7395,6 @@
 0.0.0.0	s.update.wo.gumgum.com
 0.0.0.0	s.update.wtag.adaptv.advertising.com
 0.0.0.0	superad2.com.sg
-0.0.0.0	superapp.msn.com
 0.0.0.0	supersonicads.com
 0.0.0.0	survey.g.doubleclick.net
 0.0.0.0	surveygizmobeacon.s3.amazonaws.com
