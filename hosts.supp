@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Jul 28 02:30:09 +03 2021
-# Total number of blocked hosts are: 8679
+# Ad blocking hosts generated Thu Jul 29 02:30:09 +03 2021
+# Total number of blocked hosts are: 8680
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -7549,6 +7549,7 @@
 0.0.0.0	tags.clickintext.net
 0.0.0.0	tags.crwdcntrl.net
 0.0.0.0	tags.digital-metric.com
+0.0.0.0	tags-eu.tiqcdn.com
 0.0.0.0	tags.h12-media.com
 0.0.0.0	tag.simpli.fi
 0.0.0.0	tags.mathtag.com
