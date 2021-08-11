@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed Aug 11 02:30:07 +03 2021
-# Total number of blocked hosts are: 8787
+# Ad blocking hosts generated Thu Aug 12 02:30:08 +03 2021
+# Total number of blocked hosts are: 8785
 0.0.0.0	10148.engine.mobileapptracking.com
 0.0.0.0	1170.api.swrve.com
 0.0.0.0	1170.content.swrve.com
@@ -4838,7 +4838,6 @@
 0.0.0.0	logconfig.polarisoffice.com
 0.0.0.0	log-config.samsungacr.com
 0.0.0.0	log-dbff2e04.us.v2.we-stats.com
-0.0.0.0	logfiles.zoom.us
 0.0.0.0	log.fotoable.com
 0.0.0.0	log.gds.mmstat.com
 0.0.0.0	logger.adthor.com
@@ -8157,7 +8156,6 @@
 0.0.0.0	upsnap.com
 0.0.0.0	ureka-d.openx.net
 0.0.0.0	us01.rayjump.com
-0.0.0.0	us04logfiles.zoom.us
 0.0.0.0	us-1.gladly.com
 0.0.0.0	us1-spiky.wzrkt.com
 0.0.0.0	us1.wzrkt.com
