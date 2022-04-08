@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 29 Mar 12:32:47 +03 2022
-# Total number of blocked hosts are: 27218
+# Ad blocking hosts generated Fri 8 Apr 17:02:40 +03 2022
+# Total number of blocked hosts are: 27225
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3549,7 +3549,6 @@
 0.0.0.0	ads.zamunda.se
 0.0.0.0	ads.zedo.com
 0.0.0.0	ads.zeusclicks.com
-0.0.0.0	ads.zmarsa.com
 0.0.0.0	ads.ztod.com
 0.0.0.0	ads.zynga.com
 0.0.0.0	adtactics.com
@@ -4430,7 +4429,6 @@
 0.0.0.0	analytics.zendesk.com
 0.0.0.0	analytics.zg-api.com
 0.0.0.0	analytics.ziftsolutions.com
-0.0.0.0	analytik.xyz
 0.0.0.0	analyzer51.fc2.com
 0.0.0.0	ana.masky.biddingx.com
 0.0.0.0	anandabazar.pushengage.com
@@ -5515,6 +5513,8 @@
 0.0.0.0	avp.innity.com
 0.0.0.0	av-scanner.com
 0.0.0.0	avsvmcloud.com
+0.0.0.0	avworld.activehosted.com
+0.0.0.0	avworld.lt.acemlnc.com
 0.0.0.0	awakebird.com
 0.0.0.0	awardspace.de.intellitxt.com
 0.0.0.0	awarenesstech.122.2o7.net
@@ -6409,6 +6409,7 @@
 0.0.0.0	b.rad.msn.com
 0.0.0.0	bradpittnow.us.intellitxt.com
 0.0.0.0	br.adserver.yahoo.com
+0.0.0.0	brahe.apptimize.com
 0.0.0.0	braincash.com
 0.0.0.0	brain.foresee.com
 0.0.0.0	brainient.com
@@ -7157,6 +7158,7 @@
 0.0.0.0	cdn.beaconpush.com
 0.0.0.0	cdn.betgorebysson.club
 0.0.0.0	cdn.betrad.com
+0.0.0.0	cdn.bidmatrixdsp.com
 0.0.0.0	cdn.bidvertiser.com
 0.0.0.0	cdn.bizible.com
 0.0.0.0	cdn.blisspointmedia.com
@@ -11182,6 +11184,7 @@
 0.0.0.0	freeskreen.com
 0.0.0.0	free-stats.com
 0.0.0.0	freestats.com
+0.0.0.0	freestats.tv
 0.0.0.0	free.thesocialsexnetwork.com
 0.0.0.0	free.videodownloadconverter.com
 0.0.0.0	freevideodownloadforpc.com
@@ -13037,6 +13040,7 @@
 0.0.0.0	in.analytics.glance.inmobi.com
 0.0.0.0	in.api.glance.inmobi.com
 0.0.0.0	in-appadvertising.com
+0.0.0.0	inapps.appflyer.com
 0.0.0.0	inapps.appsflyer.com
 0.0.0.0	inbox-messages.net
 0.0.0.0	inc2.igexin.com
@@ -13744,7 +13748,6 @@
 0.0.0.0	katch.ne.jp
 0.0.0.0	katcol.co.uk
 0.0.0.0	katie.runtnc.net
-0.0.0.0	katie.v4.byetnc.com
 0.0.0.0	katofer.axelero.net
 0.0.0.0	katu.adbureau.net
 0.0.0.0	kawabe.es
@@ -14867,6 +14870,7 @@
 0.0.0.0	mcy8q-n2f8ttyv729bcg5v83dsp4.device.marketingcloudapis.com
 0.0.0.0	mc.yandex.ru
 0.0.0.0	md.5.p2l.info
+0.0.0.0	md-a-c.apptimize.com
 0.0.0.0	mdamarillo.112.2o7.net
 0.0.0.0	m.data.mob.com
 0.0.0.0	mdjacksonville.112.2o7.net
@@ -16057,7 +16061,6 @@
 0.0.0.0	nats4.fetishbucks.com
 0.0.0.0	naturahirek.com
 0.0.0.0	naturainmente.com
-0.0.0.0	naturalbid.com
 0.0.0.0	naturalhealth.us.intellitxt.com
 0.0.0.0	natureworldnews.us.intellitxt.com
 0.0.0.0	naughtyadserve.com
@@ -16949,7 +16952,6 @@
 0.0.0.0	open.talk.igexin.com
 0.0.0.0	openx2.kytary.cz
 0.0.0.0	openx.4shared.com
-0.0.0.0	openx.actvtech.com
 0.0.0.0	openx.adfactor.nl
 0.0.0.0	openx.adhaven.com
 0.0.0.0	openx.ajur.info
@@ -17176,6 +17178,7 @@
 0.0.0.0	pagead2.googlesyndication.com
 0.0.0.0	pagead46.l.doubleclick.net
 0.0.0.0	pagead-googlehosted.l.google.com
+0.0.0.0	pagead.googlesyndication.com
 0.0.0.0	pagead.l.doubleclick.net
 0.0.0.0	pagead.l.google.com
 0.0.0.0	pagead.topobiavi.com
@@ -17315,6 +17318,7 @@
 0.0.0.0	paxil.1.p2l.info
 0.0.0.0	paxtro.com
 0.0.0.0	payae8moon9.com
+0.0.0.0	paychat.fuse-cloud.com
 0.0.0.0	paycounter.com
 0.0.0.0	payday-loans.now-cash.com
 0.0.0.0	payload.adadapted.com
@@ -18034,6 +18038,7 @@
 0.0.0.0	prebid.media.net
 0.0.0.0	prebid.mgid.com
 0.0.0.0	prebid.org
+0.0.0.0	prebids.adnsx.com
 0.0.0.0	prebid-server-perf.rubiconproject.net.akadns.net
 0.0.0.0	prebid-server.rubiconproject.com
 0.0.0.0	prebid-server.rubiconproject.net.akadns.net
@@ -19389,7 +19394,6 @@
 0.0.0.0	s2s.mparticle.com
 0.0.0.0	s2s.singular.net
 0.0.0.0	s2.statcounter.com
-0.0.0.0	s2strk.info
 0.0.0.0	s2.tracemyip.org
 0.0.0.0	s2.video.doubleclick.net
 0.0.0.0	s300.meetrics.net
@@ -19629,7 +19633,6 @@
 0.0.0.0	script.crazyegg.com
 0.0.0.0	script.crsspxl.com
 0.0.0.0	script.dotmetrics.net
-0.0.0.0	scripte-monster.de
 0.0.0.0	script.hotjar.com
 0.0.0.0	script.ioam.de
 0.0.0.0	script.leadboxer.com
@@ -19874,6 +19877,7 @@
 0.0.0.0	secondchancecoaching.com
 0.0.0.0	secondstreetapp.com
 0.0.0.0	se.cqcounter.com
+0.0.0.0	secre.jp
 0.0.0.0	secretgirlfriend.net
 0.0.0.0	secretivecub.com
 0.0.0.0	secretspiders.com
@@ -20464,6 +20468,7 @@
 0.0.0.0	smaato.com
 0.0.0.0	smaato.net
 0.0.0.0	smaato-server.thinknearhub.com
+0.0.0.0	smadex.com
 0.0.0.0	smallbeginner.com
 0.0.0.0	smarine.mu
 0.0.0.0	smart4ads.com
@@ -20678,7 +20683,6 @@
 0.0.0.0	spanel.gem.pl
 0.0.0.0	spanids.dictionary.com
 0.0.0.0	spanids.thesaurus.com
-0.0.0.0	spannersalesman.com
 0.0.0.0	sparkle.locationlabs.com
 0.0.0.0	sparklingshelf.com
 0.0.0.0	sparknetworks.112.2o7.net
@@ -20974,6 +20978,7 @@
 0.0.0.0	stat1.vipstat.com
 0.0.0.0	stat1.z-stat.com
 0.0.0.0	stat24.com
+0.0.0.0	stat24.meta.ua
 0.0.0.0	stat2.corp.56.com
 0.0.0.0	stat3.cybermonitor.com
 0.0.0.0	stat.4u.pl
@@ -22932,7 +22937,6 @@
 0.0.0.0	track.sitetag.us
 0.0.0.0	tracksitetraffic1.com
 0.0.0.0	track.smaato.net
-0.0.0.0	track.software-codes.com
 0.0.0.0	track.special-promotions.online
 0.0.0.0	track.superad2.com.sg
 0.0.0.0	tracksurf.daooda.com
@@ -23608,6 +23612,7 @@
 0.0.0.0	users.effectivebrand.com
 0.0.0.0	usersegment.wpdigital.net
 0.0.0.0	user-shield-check.com
+0.0.0.0	users.maxcluster.net
 0.0.0.0	users.quantumgraph.com
 0.0.0.0	users.tpg.com.au
 0.0.0.0	user-sync.adhese.com
@@ -23633,6 +23638,7 @@
 0.0.0.0	u.startup.mobile.webvisor.com
 0.0.0.0	us.tracking.justpremium.com
 0.0.0.0	us-tracking.nextdoor.com
+0.0.0.0	us-trk.bidmatrixdsp.com
 0.0.0.0	usun.112.2o7.net
 0.0.0.0	us-u.openx.net
 0.0.0.0	u.superadbox.com
@@ -24264,7 +24270,6 @@
 0.0.0.0	walgrns.112.2o7.net
 0.0.0.0	walkthedinosaur.com
 0.0.0.0	wall.adgaterewards.com
-0.0.0.0	wallet-api.urbanairship.com
 0.0.0.0	wallflore.de
 0.0.0.0	walmart.112.2o7.net
 0.0.0.0	walmartcom.112.2o7.net
@@ -24671,6 +24676,7 @@
 0.0.0.0	wonderfulinsights.com
 0.0.0.0	wonderlandads.com
 0.0.0.0	wondoads.de
+0.0.0.0	woobids.com
 0.0.0.0	woodpecker.uc.cn
 0.0.0.0	woopra.com
 0.0.0.0	wootric-eligibility.herokuapp.com
@@ -26253,6 +26259,7 @@
 0.0.0.0	www.phonejapan.com
 0.0.0.0	www.phorm.com
 0.0.0.0	www.phormlabs.com
+0.0.0.0	www.photo-ads.co.uk
 0.0.0.0	www.picture-uploads.com
 0.0.0.0	www.pitakchon.com
 0.0.0.0	www.pixazza.com
