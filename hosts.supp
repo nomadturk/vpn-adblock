@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 13 Apr 23:06:09 +03 2022
-# Total number of blocked hosts are: 27227
+# Ad blocking hosts generated Thu 14 Apr 00:06:07 +03 2022
+# Total number of blocked hosts are: 27228
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -15711,6 +15711,7 @@
 0.0.0.0	mrtbmopub-nj.lfstmedia.com
 0.0.0.0	mrtb-nj.lfstmedia.com
 0.0.0.0	mrtg.hitbox.com
+0.0.0.0	ms4.applovin.com
 0.0.0.0	ms.5.p2l.info
 0.0.0.0	ms-ads-events.presage.io
 0.0.0.0	msads.net
