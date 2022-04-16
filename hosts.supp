@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 16 Apr 17:06:06 +03 2022
-# Total number of blocked hosts are: 27225
+# Ad blocking hosts generated Sat 16 Apr 18:06:07 +03 2022
+# Total number of blocked hosts are: 27217
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4044,7 +4044,6 @@
 0.0.0.0	a.idio.co
 0.0.0.0	aidps.atdmt.com
 0.0.0.0	ai.hitbox.com
-0.0.0.0	ailoganalyticsportal-eus.cloudapp.net
 0.0.0.0	aim4media.com
 0.0.0.0	aimatch.com
 0.0.0.0	aimg.haber3.com
@@ -6127,7 +6126,6 @@
 0.0.0.0	bhgscrap.112.2o7.net
 0.0.0.0	bhpz.adj.st
 0.0.0.0	bhyuu.com
-0.0.0.0	bi-analytics.cloudapp.net
 0.0.0.0	bicoinsprofit.com
 0.0.0.0	bid.adview.cn
 0.0.0.0	bid.adview.com
@@ -6464,7 +6462,6 @@
 0.0.0.0	bronrt.stsdk.vivo.com.cn
 0.0.0.0	brort.stsdk.vivo.com.cn
 0.0.0.0	brothersoft.us.intellitxt.com
-0.0.0.0	browser.events.data.msn.com
 0.0.0.0	browsergames2018.com
 0.0.0.0	browsergames2019.com
 0.0.0.0	browser-http-intake.logs.datadoghq.com
@@ -6650,7 +6647,6 @@
 0.0.0.0	c1exchange.com
 0.0.0.0	c1.gostats.com
 0.0.0.0	c1i.su
-0.0.0.0	c1.microsoft.com
 0.0.0.0	c1.nowlinux.com
 0.0.0.0	c1.onedmp.com
 0.0.0.0	c1.outster.com
@@ -16991,7 +16987,6 @@
 0.0.0.0	opsonew3org.sg
 0.0.0.0	optad360.io
 0.0.0.0	optaim.com
-0.0.0.0	optanon.blob.core.windows.net
 0.0.0.0	optchk.ayads.co
 0.0.0.0	optimaconsulting.com.au
 0.0.0.0	optimallimit.com
@@ -23138,8 +23133,6 @@
 0.0.0.0	trk.in25app.com
 0.0.0.0	trk-int.addealsnetwork.com
 0.0.0.0	trk.kissmetrics.com
-0.0.0.0	trk.klclick2.com
-0.0.0.0	trk.klclick3.com
 0.0.0.0	trkmydomain.com
 0.0.0.0	trknths.com
 0.0.0.0	trkn.us
@@ -23575,7 +23568,6 @@
 0.0.0.0	usc.adserver.snapads.com
 0.0.0.0	us-cdn.effectivemeasure.net
 0.0.0.0	us-central1-adaptive-growth.cloudfunctions.net
-0.0.0.0	us-central1-production-242307.cloudfunctions.net
 0.0.0.0	us-central.load.exelator.com
 0.0.0.0	uscollector.tealeaf.ibmcloud.com
 0.0.0.0	us.cqcounter.com
