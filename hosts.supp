@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 18 Apr 06:06:06 +03 2022
-# Total number of blocked hosts are: 27217
+# Ad blocking hosts generated Mon 18 Apr 07:06:06 +03 2022
+# Total number of blocked hosts are: 27216
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -21135,7 +21135,6 @@
 0.0.0.0	static.sharethrough.com
 0.0.0.0	static.site24x7rum.com
 0.0.0.0	static.skimlinks.com
-0.0.0.0	statics-marketingsites-eus-ms-com.akamaized.net
 0.0.0.0	static.smni.com
 0.0.0.0	static.sojern.com
 0.0.0.0	static.ssacdn.com
