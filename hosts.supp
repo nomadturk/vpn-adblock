@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 19 Apr 18:06:06 +03 2022
-# Total number of blocked hosts are: 27216
+# Ad blocking hosts generated Tue 19 Apr 19:06:07 +03 2022
+# Total number of blocked hosts are: 27212
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4879,7 +4879,6 @@
 0.0.0.0	api-v3.tinypass.com
 0.0.0.0	api.verify.mob.com
 0.0.0.0	api.verticalscope.com
-0.0.0.0	api.viafoura.co
 0.0.0.0	api.videometrics.ted.com
 0.0.0.0	api.vidora.com
 0.0.0.0	api.viglink.com
@@ -7448,7 +7447,6 @@
 0.0.0.0	cdn.userreport.com
 0.0.0.0	cdn-v3.conductrics.com
 0.0.0.0	cdn.vdopia.com
-0.0.0.0	cdn.viafoura.net
 0.0.0.0	cdn.vidible.tv
 0.0.0.0	cdn.viewdeos.com
 0.0.0.0	cdn.viglink.com
@@ -18732,7 +18730,6 @@
 0.0.0.0	realtechnetwork.com
 0.0.0.0	realtimeads.com
 0.0.0.0	realtime.clinch.co
-0.0.0.0	realtimeeventfeeds.viafoura.co
 0.0.0.0	realtouchbannerwidget.aebn.net
 0.0.0.0	realtracker.com
 0.0.0.0	rebelsubway.com
@@ -21509,7 +21506,6 @@
 0.0.0.0	subaruofamerica.112.2o7.net
 0.0.0.0	submit.zapr.in
 0.0.0.0	subscribe.hearstmags.com
-0.0.0.0	sub.viafoura.co
 0.0.0.0	subway2016.tt.omtrdc.net
 0.0.0.0	subwayfranchiseeadvertising.sc.omtrdc.net
 0.0.0.0	succeedscene.com
