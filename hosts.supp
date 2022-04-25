@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 25 Apr 16:06:06 +03 2022
-# Total number of blocked hosts are: 27208
+# Ad blocking hosts generated Mon 25 Apr 17:06:07 +03 2022
+# Total number of blocked hosts are: 27209
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -22815,6 +22815,7 @@
 0.0.0.0	track.ktplay.com
 0.0.0.0	track.leadin.com
 0.0.0.0	track.leanlab.co
+0.0.0.0	track.lettingaproperty.com
 0.0.0.0	track.lfstmedia.com
 0.0.0.0	track.linkoffers.net
 0.0.0.0	track.linksynergy.com
