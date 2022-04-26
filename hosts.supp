@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 26 Apr 17:06:07 +03 2022
-# Total number of blocked hosts are: 27209
+# Ad blocking hosts generated Tue 26 Apr 18:06:07 +03 2022
+# Total number of blocked hosts are: 27212
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -9376,6 +9376,7 @@
 0.0.0.0	detroithardcore.com
 0.0.0.0	de.tynt.com
 0.0.0.0	d.eu.criteo.com
+0.0.0.0	deutschebahn.sc.omtrdc.net
 0.0.0.0	dev101.hitbox.com
 0.0.0.0	dev.adforum.com
 0.0.0.0	dev.appboy.com
@@ -13312,6 +13313,7 @@
 0.0.0.0	ipw.metadsp.co.uk
 0.0.0.0	iq001.adtech.fr
 0.0.0.0	iq001.adtech.us
+0.0.0.0	iqdigital.demdex.net
 0.0.0.0	iqoption.com
 0.0.0.0	iqzn-useast.adnxs.com
 0.0.0.0	iqzone.com
@@ -19721,6 +19723,7 @@
 0.0.0.0	sdk-cdn.optimove.net
 0.0.0.0	sdkclick.mobile.sina.cn
 0.0.0.0	sdk.collabollc.com
+0.0.0.0	sdkconfig.ad.india.xiaomi.com
 0.0.0.0	sdkconfig.ad.intl.xiaomi.com
 0.0.0.0	sdkconfig.ad.xiaomi.com
 0.0.0.0	sdk-config.fyber.com
