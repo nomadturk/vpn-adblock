@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 27 Apr 18:06:06 +03 2022
-# Total number of blocked hosts are: 27212
+# Ad blocking hosts generated Wed 27 Apr 19:06:07 +03 2022
+# Total number of blocked hosts are: 27209
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -17704,7 +17704,6 @@
 0.0.0.0	pixel.rubiconproject.net.akadns.net
 0.0.0.0	pixel.runative-syndicate.com
 0.0.0.0	pixel-s2s.mathtag.com
-0.0.0.0	pixel.s3xified.com
 0.0.0.0	pixels.ad.gt
 0.0.0.0	pixels.adzmedia.com
 0.0.0.0	pixel-secure.solvemedia.com
@@ -19097,7 +19096,6 @@
 0.0.0.0	robot.royalcactus.com
 0.0.0.0	robotscan.net
 0.0.0.0	rockabox.co
-0.0.0.0	rocketreach.co
 0.0.0.0	rocks.io
 0.0.0.0	rodale.d1.sc.omtrdc.net
 0.0.0.0	rodeoconfig.yodo1api.com
@@ -21123,7 +21121,6 @@
 0.0.0.0	static.pubdirecte.com
 0.0.0.0	static.pub-ecommerce.crunchyroll.com
 0.0.0.0	static.quantcount.com
-0.0.0.0	static.rocketreach.co
 0.0.0.0	static.rqmob.com
 0.0.0.0	static-rtb.adkernel.com
 0.0.0.0	static.scanscout.com
