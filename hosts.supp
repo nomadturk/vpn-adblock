@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 29 Apr 13:06:07 +03 2022
-# Total number of blocked hosts are: 27209
+# Ad blocking hosts generated Fri 29 Apr 14:06:06 +03 2022
+# Total number of blocked hosts are: 27207
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3537,7 +3537,6 @@
 0.0.0.0	adsyndication.msn.com
 0.0.0.0	adsynergy.com
 0.0.0.0	ads.ynot.com
-0.0.0.0	ads.yourfreedvds.com
 0.0.0.0	ads.youtube.com
 0.0.0.0	adsys.adk2x.com
 0.0.0.0	adsyst.biz
@@ -11147,7 +11146,6 @@
 0.0.0.0	freecontent.bid
 0.0.0.0	free.content.streamray.com
 0.0.0.0	free-counter.co.uk
-0.0.0.0	free-counters.co.uk
 0.0.0.0	freecounterstat.com
 0.0.0.0	freedailydownload.com
 0.0.0.0	freedominfo.net
@@ -12249,7 +12247,6 @@
 0.0.0.0	hit5.hotlog.ru
 0.0.0.0	hit.8digits.com
 0.0.0.0	hit8.hotlog.ru
-0.0.0.0	hit.bg
 0.0.0.0	hitboxbenchmarker.com
 0.0.0.0	hitboxcentral.com
 0.0.0.0	hitbox.com
@@ -20250,6 +20247,7 @@
 0.0.0.0	sheknows.us.intellitxt.com
 0.0.0.0	shellstore.info
 0.0.0.0	sher.index.hu
+0.0.0.0	shermore.info
 0.0.0.0	shichihukuudon.com
 0.0.0.0	shinedns.net
 0.0.0.0	shinystat.com
@@ -21898,6 +21896,7 @@
 0.0.0.0	tally.upsideout.com
 0.0.0.0	tamgrt.com
 0.0.0.0	tamprc.com
+0.0.0.0	tangerinenet.biz
 0.0.0.0	tangibleteam.com
 0.0.0.0	tangomedia.112.2o7.net
 0.0.0.0	tanieaukcje.com
@@ -24620,7 +24619,6 @@
 0.0.0.0	wintricksbanner.googlepages.com
 0.0.0.0	wirecomic.com
 0.0.0.0	wiregirl.us.intellitxt.com
-0.0.0.0	wirelesseuropebalmy.com
 0.0.0.0	wirelessforumsorg.skimlinks.com
 0.0.0.0	wireless.ign.us.intellitxt.com
 0.0.0.0	wirtvlg.oewabox.at
