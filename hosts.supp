@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 29 Apr 16:06:07 +03 2022
-# Total number of blocked hosts are: 27207
+# Ad blocking hosts generated Fri 29 Apr 17:06:07 +03 2022
+# Total number of blocked hosts are: 27206
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -8441,7 +8441,6 @@
 0.0.0.0	conversions.adaptv.advertising.com
 0.0.0.0	conversions.appsflyer.com
 0.0.0.0	conversions.clickmeter.com
-0.0.0.0	convertbox.com
 0.0.0.0	convertexperiments.com.edgekey.net
 0.0.0.0	convertingtraffic.com
 0.0.0.0	convertro.com
