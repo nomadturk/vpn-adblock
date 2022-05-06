@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 6 May 14:06:07 +03 2022
+# Ad blocking hosts generated Fri 6 May 15:06:07 +03 2022
 # Total number of blocked hosts are: 27210
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -61,6 +61,7 @@
 0.0.0.0	118605-5437.link.iwanttodeliver.com
 0.0.0.0	1188.api.swrve.com
 0.0.0.0	1188.content.swrve.com
+0.0.0.0	1-1ads.com
 0.0.0.0	11zz.com
 0.0.0.0	121807150325.c.mystat-in.net
 0.0.0.0	121media.com
@@ -3390,7 +3391,6 @@
 0.0.0.0	ads.tripod.lycos.de
 0.0.0.0	ads.tripod.lycos.es
 0.0.0.0	ads.tripod.lycos.it
-0.0.0.0	ads.tripod.lycos.nl
 0.0.0.0	ads-trk.vidible.tv
 0.0.0.0	ads.tromaville.com
 0.0.0.0	ads-t.ru
@@ -4424,6 +4424,7 @@
 0.0.0.0	analytics.zendesk.com
 0.0.0.0	analytics.zg-api.com
 0.0.0.0	analytics.ziftsolutions.com
+0.0.0.0	analytik.xyz
 0.0.0.0	analyzer51.fc2.com
 0.0.0.0	ana.masky.biddingx.com
 0.0.0.0	anandabazar.pushengage.com
@@ -19622,6 +19623,7 @@
 0.0.0.0	script.crazyegg.com
 0.0.0.0	script.crsspxl.com
 0.0.0.0	script.dotmetrics.net
+0.0.0.0	scripte-monster.de
 0.0.0.0	script.hotjar.com
 0.0.0.0	script.ioam.de
 0.0.0.0	script.leadboxer.com
@@ -20221,7 +20223,6 @@
 0.0.0.0	sh.adingo.jp
 0.0.0.0	shafou.com
 0.0.0.0	shakegoldfish.com
-0.0.0.0	shakesea.com
 0.0.0.0	shakesuggestion.com
 0.0.0.0	shakytaste.com
 0.0.0.0	shallownation.us.intellitxt.com
@@ -23362,7 +23363,6 @@
 0.0.0.0	udm.ri9.scorecardresearch.com
 0.0.0.0	udm.scorecardresearch.com
 0.0.0.0	udmserve.net
-0.0.0.0	udncoeln.com
 0.0.0.0	udp.push.mob.com
 0.0.0.0	u.ds.duapps.com
 0.0.0.0	ud.tubemogul.com
