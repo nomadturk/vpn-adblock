@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 9 May 19:06:07 +03 2022
-# Total number of blocked hosts are: 27211
+# Ad blocking hosts generated Mon 9 May 20:06:07 +03 2022
+# Total number of blocked hosts are: 27210
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4726,7 +4726,6 @@
 0.0.0.0	api.immomo.com
 0.0.0.0	api.indicative.com
 0.0.0.0	api.infinario.com
-0.0.0.0	api.instabug.com
 0.0.0.0	api.intellimize.co
 0.0.0.0	api.intensifier.de
 0.0.0.0	api.intentiq.com
