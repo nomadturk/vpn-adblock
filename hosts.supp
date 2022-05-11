@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 11 May 17:06:07 +03 2022
-# Total number of blocked hosts are: 27210
+# Ad blocking hosts generated Wed 11 May 18:06:07 +03 2022
+# Total number of blocked hosts are: 27211
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -21982,6 +21982,7 @@
 0.0.0.0	tcimg.com
 0.0.0.0	tck.bangbros.com
 0.0.0.0	tcmagazine.uk.intellitxt.com
+0.0.0.0	t.co
 0.0.0.0	t.contentsquare.net
 0.0.0.0	tcookie.usatoday.com
 0.0.0.0	tcp.push.mob.com
