@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 12 May 19:06:07 +03 2022
-# Total number of blocked hosts are: 27212
+# Ad blocking hosts generated Thu 12 May 20:06:07 +03 2022
+# Total number of blocked hosts are: 27203
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4832,7 +4832,6 @@
 0.0.0.0	api.sdkbox.com
 0.0.0.0	api-sdk.datadome.co
 0.0.0.0	api.sdk.zadn.vn
-0.0.0.0	api.sec.miui.com
 0.0.0.0	api.secondstreetapp.com
 0.0.0.0	api.segment.io
 0.0.0.0	api.sentiance.com
@@ -8318,7 +8317,6 @@
 0.0.0.0	config.getmyip.com
 0.0.0.0	config.hiido.com
 0.0.0.0	config.inmobi.com
-0.0.0.0	config.ioam.de
 0.0.0.0	config-ltvp.inmobi.com
 0.0.0.0	config.mobilegamestats.com
 0.0.0.0	config.otherlevels.com
@@ -9158,9 +9156,6 @@
 0.0.0.0	data-location.enhance.co
 0.0.0.0	data.logentries.com
 0.0.0.0	datam16.adlooxtracking.com
-0.0.0.0	data.mistat.india.xiaomi.com
-0.0.0.0	data.mistat.intl.xiaomi.com
-0.0.0.0	data.mistat.rus.xiaomi.com
 0.0.0.0	data.mobclix.com
 0.0.0.0	data.mob.com
 0.0.0.0	data.murdoog.com
@@ -10534,7 +10529,6 @@
 0.0.0.0	events.kumulos.com
 0.0.0.0	events.launchdarkly.com
 0.0.0.0	events.lbesecapi.com
-0.0.0.0	events.mapbox.com
 0.0.0.0	events.mobile.optimizely.com
 0.0.0.0	events.personali.com
 0.0.0.0	event.spotxchange.com
@@ -12091,7 +12085,6 @@
 0.0.0.0	havamedia.net
 0.0.0.0	havasedge.com
 0.0.0.0	haveuheard.us.intellitxt.com
-0.0.0.0	hawk.pcgamer.com
 0.0.0.0	haymarketbusinesspublications.122.2o7.net
 0.0.0.0	haynet.adbureau.net
 0.0.0.0	hb.adscale.de
@@ -13329,7 +13322,6 @@
 0.0.0.0	iroko.gocarrot.com
 0.0.0.0	irondel.swisshost.by
 0.0.0.0	irony.world
-0.0.0.0	irqs.ioam.de
 0.0.0.0	irr.ru
 0.0.0.0	irs01.com
 0.0.0.0	irs01.net
@@ -19626,7 +19618,6 @@
 0.0.0.0	script.dotmetrics.net
 0.0.0.0	scripte-monster.de
 0.0.0.0	script.hotjar.com
-0.0.0.0	script.ioam.de
 0.0.0.0	script.leadboxer.com
 0.0.0.0	script.opentracker.net
 0.0.0.0	scripts.affiliatefuture.com
