@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 13 May 13:06:06 +03 2022
-# Total number of blocked hosts are: 27203
+# Ad blocking hosts generated Fri 13 May 14:06:07 +03 2022
+# Total number of blocked hosts are: 27200
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2214,7 +2214,6 @@
 0.0.0.0	adsdaq.com
 0.0.0.0	ads.darkhardware.com
 0.0.0.0	ads.databrainz.com
-0.0.0.0	ads.datingyes.com
 0.0.0.0	ads.ddj.com
 0.0.0.0	ads.delfin.bg
 0.0.0.0	ads.deliverimp.com
@@ -3393,6 +3392,7 @@
 0.0.0.0	ads.tripod.lycos.de
 0.0.0.0	ads.tripod.lycos.es
 0.0.0.0	ads.tripod.lycos.it
+0.0.0.0	ads.tripod.lycos.nl
 0.0.0.0	ads-trk.vidible.tv
 0.0.0.0	ads.tromaville.com
 0.0.0.0	ads-t.ru
@@ -11123,7 +11123,6 @@
 0.0.0.0	fra-col.eum-appdynamics.com
 0.0.0.0	fr.adserver.yahoo.com
 0.0.0.0	frailoffer.com
-0.0.0.0	franklybundlecarver.com
 0.0.0.0	franko.info
 0.0.0.0	fratz.oewabox.at
 0.0.0.0	fraud.adjoe.zone
@@ -12466,7 +12465,6 @@
 0.0.0.0	hueads.com
 0.0.0.0	hueadsortb.com
 0.0.0.0	hueadsxml.com
-0.0.0.0	huezzcjskf.site
 0.0.0.0	huffingtonpost.crwdcntrl.net
 0.0.0.0	huis.istats.nl
 0.0.0.0	huiwiw.hit.gemius.pl
@@ -24076,7 +24074,6 @@
 0.0.0.0	voluumtrk.com
 0.0.0.0	volvelle.tech
 0.0.0.0	vomitgirl.org
-0.0.0.0	voodoo-ads.io
 0.0.0.0	voodoofiles.us.intellitxt.com
 0.0.0.0	voordeel.ad.nl
 0.0.0.0	vote.sparklit.com
