@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 14 May 00:06:08 +03 2022
-# Total number of blocked hosts are: 27200
+# Ad blocking hosts generated Sat 14 May 01:06:06 +03 2022
+# Total number of blocked hosts are: 27199
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -11970,7 +11970,6 @@
 0.0.0.0	g.thinktarget.com
 0.0.0.0	gtm04.nexac.com
 0.0.0.0	gtmedia.us.intellitxt.com
-0.0.0.0	gtop100.com
 0.0.0.0	gtp16.acecounter.com
 0.0.0.0	gtp1.acecounter.com
 0.0.0.0	gtsdk.batmobi.net
