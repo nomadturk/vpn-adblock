@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 16 May 05:06:08 +03 2022
-# Total number of blocked hosts are: 27199
+# Ad blocking hosts generated Mon 16 May 06:06:09 +03 2022
+# Total number of blocked hosts are: 27201
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -10409,6 +10409,8 @@
 0.0.0.0	esgic.1.p2l.info
 0.0.0.0	es-gmtdmp.mookie1.com
 0.0.0.0	esi.amp.permutive.com
+0.0.0.0	eslprologmvp.com
+0.0.0.0	eslprotourmvp.com
 0.0.0.0	es.optimost.com
 0.0.0.0	esoterik-lenormand.com
 0.0.0.0	espn-ak.starwave.com
