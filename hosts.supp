@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 27 May 13:06:07 +03 2022
-# Total number of blocked hosts are: 27200
+# Ad blocking hosts generated Fri 27 May 14:06:07 +03 2022
+# Total number of blocked hosts are: 27197
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -663,7 +663,6 @@
 0.0.0.0	abo.prismamediadigital.com
 0.0.0.0	abort-count.smbeat.jp
 0.0.0.0	abourselfi.com
-0.0.0.0	aboutads.gr
 0.0.0.0	aboutads.quantcast.com
 0.0.0.0	aboutharrypotter.fasthost.tv
 0.0.0.0	aboutwebservices.com
@@ -676,7 +675,6 @@
 0.0.0.0	abscbn.spinbox.net
 0.0.0.0	abseckw.adtlgc.com
 0.0.0.0	absentstream.com
-0.0.0.0	absoluteclickscom.com
 0.0.0.0	absorbingband.com
 0.0.0.0	abs.proxistore.com
 0.0.0.0	abstractedauthority.com
@@ -3265,7 +3263,6 @@
 0.0.0.0	ads.shovtvnet.com
 0.0.0.0	ads.showtvnet.com
 0.0.0.0	ads.sift.co.uk
-0.0.0.0	ads.silverdisc.co.uk
 0.0.0.0	ads.simpli.fi
 0.0.0.0	ads.simplyhired.com
 0.0.0.0	ads.simtel.com
@@ -8100,6 +8097,7 @@
 0.0.0.0	cntj.zj.dcys.ijinshan.com
 0.0.0.0	cntmc.com
 0.0.0.0	cnt.my
+0.0.0.0	cnt.spbland.ru
 0.0.0.0	cnt.statistic.date
 0.0.0.0	cnt.sup.com
 0.0.0.0	cnt.trafficstars.com
@@ -22609,7 +22607,6 @@
 0.0.0.0	tracker.baidu.com
 0.0.0.0	tracker.bannerflow.com
 0.0.0.0	tracker.beezup.com
-0.0.0.0	tracker.bongngo.bar
 0.0.0.0	tracker.bonnint.net
 0.0.0.0	tracker.brainsins.com
 0.0.0.0	tracker.bt.uol.com.br
