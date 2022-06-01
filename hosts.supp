@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 1 Jun 19:06:07 +03 2022
-# Total number of blocked hosts are: 27200
+# Ad blocking hosts generated Wed 1 Jun 20:06:06 +03 2022
+# Total number of blocked hosts are: 27202
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -606,6 +606,7 @@
 0.0.0.0	a.applvn.com
 0.0.0.0	a.aproductmsg.com
 0.0.0.0	aarth.net
+0.0.0.0	aa.tweakers.nl
 0.0.0.0	a.autoexpress.co.uk
 0.0.0.0	aaxads.com
 0.0.0.0	aaxads.com.edgekey.net
@@ -683,6 +684,7 @@
 0.0.0.0	abtest.alibaba.com
 0.0.0.0	abtesting.perfectcorp.com
 0.0.0.0	abtracker.adultbouncer.com
+0.0.0.0	ab.tweakers.nl
 0.0.0.0	abz.com
 0.0.0.0	ac9d98.r.axf8.net
 0.0.0.0	academy-internet.net
