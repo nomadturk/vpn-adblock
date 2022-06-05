@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun 5 Jun 10:06:07 +03 2022
-# Total number of blocked hosts are: 27170
+# Ad blocking hosts generated Sun 5 Jun 11:06:07 +03 2022
+# Total number of blocked hosts are: 27172
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -15758,6 +15758,7 @@
 0.0.0.0	ms-pipes-service.com
 0.0.0.0	mssbcprod.112.2o7.net
 0.0.0.0	ms-shopguide.su
+0.0.0.0	ms-shoponline.top
 0.0.0.0	ms-shopplus.su
 0.0.0.0	ms-shopzone.su
 0.0.0.0	mstrlytcs.com
@@ -23104,6 +23105,7 @@
 0.0.0.0	trk.tidaltv.com
 0.0.0.0	trk.vidible.tv
 0.0.0.0	trk.wdacashtrk.com
+0.0.0.0	trk.wizzdeal.trade
 0.0.0.0	trmit.com
 0.0.0.0	trourted.pro
 0.0.0.0	tr.outbrain.com
