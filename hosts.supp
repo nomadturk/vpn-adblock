@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 6 Jun 20:06:07 +03 2022
-# Total number of blocked hosts are: 27172
+# Ad blocking hosts generated Mon 6 Jun 21:06:07 +03 2022
+# Total number of blocked hosts are: 27173
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -7778,6 +7778,7 @@
 0.0.0.0	clickheat.topbucks.com
 0.0.0.0	clickhereforcellphones.com
 0.0.0.0	click.hookupinyourcity.com
+0.0.0.0	click.hooligapps.com
 0.0.0.0	click.howdoesin.net
 0.0.0.0	click.icptrack.com
 0.0.0.0	click.interactivebrands.com
