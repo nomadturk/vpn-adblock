@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 14 Jun 19:06:07 +03 2022
-# Total number of blocked hosts are: 27174
+# Ad blocking hosts generated Tue 14 Jun 20:06:06 +03 2022
+# Total number of blocked hosts are: 27175
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -21940,6 +21940,7 @@
 0.0.0.0	tc.adlink.net
 0.0.0.0	tcadops.ca
 0.0.0.0	tcads.net
+0.0.0.0	t.carta.com
 0.0.0.0	tc-bic.appspot.com
 0.0.0.0	t.cfjump.com
 0.0.0.0	tcgtrkr.com
