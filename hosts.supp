@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 17 Jun 13:06:07 +03 2022
-# Total number of blocked hosts are: 27178
+# Ad blocking hosts generated Fri 17 Jun 14:06:08 +03 2022
+# Total number of blocked hosts are: 27179
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -5708,6 +5708,7 @@
 0.0.0.0	banner-img.haber7.com
 0.0.0.0	banner.inyourpocket.com
 0.0.0.0	banner.kiev.ua
+0.0.0.0	bannerlandia.com.ar
 0.0.0.0	banner.linksynergy.com
 0.0.0.0	bannerlink.xxxtreams.com
 0.0.0.0	banner.linux.se
@@ -6898,7 +6899,6 @@
 0.0.0.0	cashreportz.com
 0.0.0.0	cashstaging.me
 0.0.0.0	casino770.com
-0.0.0.0	casinopays.com
 0.0.0.0	casinorewards.com
 0.0.0.0	casinotraffic.com
 0.0.0.0	caslemedia.com
@@ -9655,6 +9655,7 @@
 0.0.0.0	dp1.33across.com
 0.0.0.0	dp2.specificclick.net
 0.0.0.0	dpbolvw.net
+0.0.0.0	dpgawov.com
 0.0.0.0	dp.g.doubleclick.net
 0.0.0.0	d.phormlabs.com
 0.0.0.0	dpm.demdex.net
@@ -11273,7 +11274,6 @@
 0.0.0.0	g4p.grt02.com
 0.0.0.0	g7.com.tw
 0.0.0.0	ga.5.p2l.info
-0.0.0.0	ga87z2o.com
 0.0.0.0	ga-beacon.appspot.com
 0.0.0.0	ga.clearbit.com
 0.0.0.0	gadgeteer.pdamart.com
@@ -12690,6 +12690,7 @@
 0.0.0.0	ih.adscale.de
 0.0.0.0	ihc.112.2o7.net
 0.0.0.0	ihm01.ct2.comclick.com
+0.0.0.0	ihogaetw.com
 0.0.0.0	i.hotkeys.com
 0.0.0.0	i.idio.co
 0.0.0.0	i-i.lt
