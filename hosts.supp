@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 20 Jun 19:06:07 +03 2022
-# Total number of blocked hosts are: 27179
+# Ad blocking hosts generated Mon 20 Jun 20:06:07 +03 2022
+# Total number of blocked hosts are: 27171
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4722,7 +4722,6 @@
 0.0.0.0	api-h.outgrow.co
 0.0.0.0	api.huqindustries.co.uk
 0.0.0.0	api.huq.io
-0.0.0.0	api.iadvize.com
 0.0.0.0	api.idio.co
 0.0.0.0	api.immomo.com
 0.0.0.0	api.indicative.com
@@ -7011,7 +7010,6 @@
 0.0.0.0	c.de.msn.com
 0.0.0.0	c.deployads.com
 0.0.0.0	c.dk.msn.com
-0.0.0.0	cdlc.iadvize.com
 0.0.0.0	cdm.connatix.com
 0.0.0.0	cdn-01.yumenetworks.com
 0.0.0.0	cdn11.contentabc.com
@@ -8111,7 +8109,6 @@
 0.0.0.0	co.5.p2l.info
 0.0.0.0	co.akisinn.info
 0.0.0.0	cobalten.com
-0.0.0.0	cobrowsing-ha.iadvize.com
 0.0.0.0	code2.adtlgc.com
 0.0.0.0	code3.adtlgc.com
 0.0.0.0	code.adengage.com
@@ -11206,7 +11203,6 @@
 0.0.0.0	fruitlauncher.com
 0.0.0.0	fs10.fusestats.com
 0.0.0.0	fscout24.oewabox.at
-0.0.0.0	fstatic.iadvize.com
 0.0.0.0	ft2.autonomycloud.com
 0.0.0.0	ftdownload.com
 0.0.0.0	ftpadmin.edv-stumpf.de
@@ -12037,7 +12033,6 @@
 0.0.0.0	hakuba.janis.or.jp
 0.0.0.0	hal9000.redintelligence.net
 0.0.0.0	halal-place.com
-0.0.0.0	halc.iadvize.com
 0.0.0.0	hallmarkibmcom.112.2o7.net
 0.0.0.0	halo.ad.gt
 0.0.0.0	haltingbadge.com
@@ -13979,7 +13974,6 @@
 0.0.0.0	lb.web-stat.com
 0.0.0.0	lcdn.tsyndicate.com
 0.0.0.0	lcf.cmplay.cmcm.com
-0.0.0.0	lc.iadvize.com
 0.0.0.0	lciapi.ninthdecimal.com
 0.0.0.0	lc.livefyre.com
 0.0.0.0	lcprd1.samsungcloudsolution.net
@@ -21052,7 +21046,6 @@
 0.0.0.0	static.hk5.vip.prod.criteo.net
 0.0.0.0	static.hotjar.com
 0.0.0.0	static.hyprmx.com
-0.0.0.0	static.iadvize.com
 0.0.0.0	static.ifa.camads.net
 0.0.0.0	static.ifa.empflixlive.com
 0.0.0.0	static.ifa.slutloadlive.com
@@ -26902,7 +26895,6 @@
 0.0.0.0	xmlserving.mobagent.com
 0.0.0.0	xml.yepmedia.com
 0.0.0.0	x.mochiads.com
-0.0.0.0	xmpp-ha-alb.iadvize.com
 0.0.0.0	xn--oogle-wmc.com
 0.0.0.0	xoomer.alice.it
 0.0.0.0	xovq5nemr.com
