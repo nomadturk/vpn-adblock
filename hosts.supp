@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 24 Jun 13:06:07 +03 2022
-# Total number of blocked hosts are: 27169
+# Ad blocking hosts generated Fri 24 Jun 14:06:07 +03 2022
+# Total number of blocked hosts are: 27168
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3369,7 +3369,6 @@
 0.0.0.0	ads.toplayaffiliates.com
 0.0.0.0	ads.topwam.com
 0.0.0.0	ads.toronto.com
-0.0.0.0	ads.totallyfreestuff.com
 0.0.0.0	ads.townhall.com
 0.0.0.0	ads.tracfonewireless.com
 0.0.0.0	ads.tracking202.com
@@ -6898,6 +6897,7 @@
 0.0.0.0	cashreportz.com
 0.0.0.0	cashstaging.me
 0.0.0.0	casino770.com
+0.0.0.0	casinopays.com
 0.0.0.0	casinorewards.com
 0.0.0.0	casinotraffic.com
 0.0.0.0	caslemedia.com
@@ -23573,7 +23573,6 @@
 0.0.0.0	us-gmtdmp.mookie1.com
 0.0.0.0	ush.adspecs.yahoo.com
 0.0.0.0	us.info.lgsmartad.com
-0.0.0.0	usingirritatecordial.com
 0.0.0.0	us-ma.sam4m.com
 0.0.0.0	us-match.taboola.com
 0.0.0.0	us-microsoft-store.com
