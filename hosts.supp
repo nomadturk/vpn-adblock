@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 28 Jun 10:06:07 +03 2022
-# Total number of blocked hosts are: 27168
+# Ad blocking hosts generated Tue 28 Jun 11:06:07 +03 2022
+# Total number of blocked hosts are: 27172
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -21904,6 +21904,7 @@
 0.0.0.0	targetpoint.com
 0.0.0.0	target.smi2.net
 0.0.0.0	targetspot.com
+0.0.0.0	t.armchairbookie.com
 0.0.0.0	tarno.tradedoubler.com
 0.0.0.0	tar.tradedoubler.com
 0.0.0.0	tas2.toboads.si
@@ -22054,6 +22055,7 @@
 0.0.0.0	t.eloqua.com
 0.0.0.0	telstra.imrworldwide.com
 0.0.0.0	telusplanet.net
+0.0.0.0	t.email.superdrug.com
 0.0.0.0	temelio.com
 0.0.0.0	temp.adzerver.com
 0.0.0.0	tempest.services.disqus.com
@@ -22369,6 +22371,7 @@
 0.0.0.0	t.news.browns-restaurants.co.uk
 0.0.0.0	tnkexchange.com
 0.0.0.0	tnkfactory.com
+0.0.0.0	t.notif-colissimo-laposte.info
 0.0.0.0	t.nrelate.com
 0.0.0.0	tns-counter.ru
 0.0.0.0	tntclix.co.uk
@@ -22630,6 +22633,7 @@
 0.0.0.0	track.game18click.com
 0.0.0.0	track.gaug.es
 0.0.0.0	track.gawker.com
+0.0.0.0	track.homejobs.careers
 0.0.0.0	track.homestead.com
 0.0.0.0	track.hubspot.com
 0.0.0.0	tracki112.com
