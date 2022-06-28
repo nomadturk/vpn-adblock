@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 28 Jun 11:06:07 +03 2022
-# Total number of blocked hosts are: 27172
+# Ad blocking hosts generated Tue 28 Jun 12:06:07 +03 2022
+# Total number of blocked hosts are: 27175
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -7759,6 +7759,7 @@
 0.0.0.0	clickcdn.shareaholic.com
 0.0.0.0	click.cheapstuff.com
 0.0.0.0	click.cision.com
+0.0.0.0	click.classmates.com
 0.0.0.0	click.clktraker.com
 0.0.0.0	clickcompare.co.uk
 0.0.0.0	click.dealshark.com
@@ -22866,6 +22867,7 @@
 0.0.0.0	track.msadcenter.zvjw.com
 0.0.0.0	track.msadcenter.zzv.com
 0.0.0.0	trackmysales.com
+0.0.0.0	track.nationalgunrights.org
 0.0.0.0	tracknet.twyn.com
 0.0.0.0	track.nifty.com
 0.0.0.0	track.oainternetservices.com
@@ -23102,6 +23104,7 @@
 0.0.0.0	trkn.us
 0.0.0.0	trkoptimizer.com
 0.0.0.0	trk.pinterest.com
+0.0.0.0	trkpnt.ongage.net
 0.0.0.0	trk.securesmrt-dt.com
 0.0.0.0	trk.superads.cn
 0.0.0.0	trk.techtarget.com
