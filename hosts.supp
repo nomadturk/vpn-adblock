@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 30 Jun 01:06:06 +03 2022
-# Total number of blocked hosts are: 27177
+# Ad blocking hosts generated Thu 30 Jun 02:06:07 +03 2022
+# Total number of blocked hosts are: 27180
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -6292,6 +6292,7 @@
 0.0.0.0	blueconic.com
 0.0.0.0	blueconic.net
 0.0.0.0	bluediamondoffers.com
+0.0.0.0	blueeyesintelligence.org
 0.0.0.0	bluehparking.com
 0.0.0.0	bluekai.com
 0.0.0.0	bluekai.com.edgekey.net
@@ -13930,6 +13931,8 @@
 0.0.0.0	latinoreview.us.intellitxt.com
 0.0.0.0	latinpost.us.intellitxt.com
 0.0.0.0	la-trc-events.taboola.com
+0.0.0.0	latticescience.com
+0.0.0.0	latticescipub.com
 0.0.0.0	laughablecopper.com
 0.0.0.0	laughcloth.com
 0.0.0.0	launch.adserver.yahoo.com
