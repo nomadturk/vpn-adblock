@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 1 Jul 14:06:07 +03 2022
-# Total number of blocked hosts are: 27182
+# Ad blocking hosts generated Fri 1 Jul 15:06:06 +03 2022
+# Total number of blocked hosts are: 27176
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -675,6 +675,7 @@
 0.0.0.0	abscbn.spinbox.net
 0.0.0.0	abseckw.adtlgc.com
 0.0.0.0	absentstream.com
+0.0.0.0	absoluteclickscom.com
 0.0.0.0	absorbingband.com
 0.0.0.0	abs.proxistore.com
 0.0.0.0	abstractedauthority.com
@@ -2967,7 +2968,6 @@
 0.0.0.0	ads.monetize-me.com
 0.0.0.0	ads.mopub.com
 0.0.0.0	ads.morningstar.com
-0.0.0.0	ads.motor-forum.nl
 0.0.0.0	ads.mouseplanet.com
 0.0.0.0	ads.movieweb.com
 0.0.0.0	ads.mp3searchy.com
@@ -3666,7 +3666,6 @@
 0.0.0.0	advangelists.com
 0.0.0.0	adv.aport.ru
 0.0.0.0	advariant.com
-0.0.0.0	adv-banner.libero.it
 0.0.0.0	adv.bbanner.it
 0.0.0.0	adv.blogupp.com
 0.0.0.0	adv.consadbg.com
@@ -6362,7 +6361,6 @@
 0.0.0.0	boomtrain.com
 0.0.0.0	boostmobile.112.2o7.net
 0.0.0.0	boost.mobileposse.com
-0.0.0.0	boost-my-pr.de
 0.0.0.0	bootdaily.us.intellitxt.com
 0.0.0.0	bootsstation-reiherhals.de
 0.0.0.0	bootstrap.livefyre.com
@@ -12591,7 +12589,6 @@
 0.0.0.0	i.clean.gg
 0.0.0.0	i.clickagy.com
 0.0.0.0	iclick.cm.admaster.com.cn
-0.0.0.0	i-clicks.net
 0.0.0.0	icm.kochava.com
 0.0.0.0	icmserver.net
 0.0.0.0	ico.freelogs.com
@@ -14044,7 +14041,6 @@
 0.0.0.0	letyoufall.com
 0.0.0.0	letzonke.com
 0.0.0.0	level3.applifier.com
-0.0.0.0	levelrate.de
 0.0.0.0	levelsteelwhite.com
 0.0.0.0	level.turboads.de
 0.0.0.0	leveragemarketing.112.2o7.net
@@ -17574,7 +17570,6 @@
 0.0.0.0	pie.wirelessregistry.com
 0.0.0.0	pigredoben12.sytes.net
 0.0.0.0	pi.ispot.tv
-0.0.0.0	pilotaffiliate.com
 0.0.0.0	pimproll.com
 0.0.0.0	pingapi.accengage.com
 0.0.0.0	ping.chartbeat.net
@@ -23733,7 +23728,6 @@
 0.0.0.0	vap6ewr1.lijit.com
 0.0.0.0	vapixel.adsafeprotected.com
 0.0.0.0	vap.lijit.com
-0.0.0.0	variablefitness.com
 0.0.0.0	vars.hotjar.com
 0.0.0.0	vast.adsafeprotected.com
 0.0.0.0	vast.aniview.com
