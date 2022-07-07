@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 8 Jul 00:06:07 +03 2022
-# Total number of blocked hosts are: 27206
+# Ad blocking hosts generated Fri 8 Jul 01:06:07 +03 2022
+# Total number of blocked hosts are: 27203
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -7668,7 +7668,6 @@
 0.0.0.0	cileni.seznam.cz
 0.0.0.0	c.il.msn.com
 0.0.0.0	c.imedia.cz
-0.0.0.0	ci-mpsnare.iovation.com
 0.0.0.0	cinelario.com
 0.0.0.0	c.in.msn.com
 0.0.0.0	cinplex.oewabox.at
@@ -10949,7 +10948,6 @@
 0.0.0.0	firrectly.top
 0.0.0.0	firstgame.xyz
 0.0.0.0	firstimpression.io
-0.0.0.0	first.iovation.com
 0.0.0.0	firstlightera.com
 0.0.0.0	first.nova.cz
 0.0.0.0	fishadz.pressflex.net
@@ -15681,7 +15679,6 @@
 0.0.0.0	mpp.vindicosuite.com
 0.0.0.0	mproxy.banner.linksynergy.com
 0.0.0.0	mprptrk.com
-0.0.0.0	mpsnare.iesnare.com
 0.0.0.0	mpstat.us
 0.0.0.0	mp.teads.tv
 0.0.0.0	mpx.mopub.com
