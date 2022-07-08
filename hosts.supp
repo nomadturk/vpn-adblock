@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 8 Jul 13:06:07 +03 2022
-# Total number of blocked hosts are: 27203
+# Ad blocking hosts generated Fri 8 Jul 14:06:09 +03 2022
+# Total number of blocked hosts are: 27202
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -18281,7 +18281,6 @@
 0.0.0.0	proximitykit.radiusnetworks.com
 0.0.0.0	prpops.com
 0.0.0.0	pr.realvu.net
-0.0.0.0	prsaln.com
 0.0.0.0	prscripts.com
 0.0.0.0	prsitecheck.com
 0.0.0.0	pr-star.de
