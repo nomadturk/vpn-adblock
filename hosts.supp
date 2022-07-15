@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 15 Jul 14:06:07 +03 2022
-# Total number of blocked hosts are: 27212
+# Ad blocking hosts generated Fri 15 Jul 15:06:07 +03 2022
+# Total number of blocked hosts are: 27210
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1828,7 +1828,6 @@
 0.0.0.0	ads2.msn.com
 0.0.0.0	ads2.mynet.com
 0.0.0.0	ads2.net-communities.co.uk
-0.0.0.0	ads2.oneplace.com
 0.0.0.0	ads2.opensubtitles.org
 0.0.0.0	ads2.osdn.com
 0.0.0.0	ads2.pittsburghlive.com
@@ -7952,7 +7951,6 @@
 0.0.0.0	cloudcoins.biz
 0.0.0.0	cloudcrown.com
 0.0.0.0	cloud-emea.analytics-egain.com
-0.0.0.0	cloudflare-dacdn.visualwebsiteoptimizer.com
 0.0.0.0	cloudflareinsights.com
 0.0.0.0	cloudiq.com
 0.0.0.0	cloudmobi.net
@@ -13136,7 +13134,6 @@
 0.0.0.0	input.insights.gravity.com
 0.0.0.0	inquake.de.intellitxt.com
 0.0.0.0	inquisitiveinvention.com
-0.0.0.0	inringtone.com
 0.0.0.0	inscreen.widespace.com
 0.0.0.0	insgly.net
 0.0.0.0	insidemacgames.us.intellitxt.com
@@ -13880,6 +13877,7 @@
 0.0.0.0	l3.zedo.com
 0.0.0.0	l4.zedo.com
 0.0.0.0	l5.zedo.com
+0.0.0.0	l6b587txj1.com
 0.0.0.0	l6.zedo.com
 0.0.0.0	l7.zedo.com
 0.0.0.0	l8.zedo.com
