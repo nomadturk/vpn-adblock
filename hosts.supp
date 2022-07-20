@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 20 Jul 19:06:07 +03 2022
-# Total number of blocked hosts are: 27213
+# Ad blocking hosts generated Wed 20 Jul 20:06:08 +03 2022
+# Total number of blocked hosts are: 27216
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -6799,6 +6799,8 @@
 0.0.0.0	calculatingtoothbrush.com
 0.0.0.0	calculatorcamera.com
 0.0.0.0	call-ad-network-api.marchex.com
+0.0.0.0	callfor-articles.com
+0.0.0.0	callfor-submissions.com
 0.0.0.0	callousbrake.com
 0.0.0.0	callrail.com
 0.0.0.0	calmcactus.com
@@ -25029,6 +25031,7 @@
 0.0.0.0	www8.glam.com
 0.0.0.0	www8.smartadserver.com
 0.0.0.0	www8-ssl.effectivemeasure.net
+0.0.0.0	www.90offbags.com
 0.0.0.0	www91.intel.com
 0.0.0.0	www.961.com
 0.0.0.0	www99.bounceme.net
