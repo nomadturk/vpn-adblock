@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 22 Jul 14:06:08 +03 2022
-# Total number of blocked hosts are: 27217
+# Ad blocking hosts generated Fri 22 Jul 15:06:06 +03 2022
+# Total number of blocked hosts are: 27212
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -383,7 +383,6 @@
 0.0.0.0	4923503.fls.doubleclick.net
 0.0.0.0	4942839.fls.doubleclick.net
 0.0.0.0	4af7c20b-7646-4fb7-b64f-ae0a8c51c1f1.register.collector.scopely.io
-0.0.0.0	4affiliate.net
 0.0.0.0	4.afs.googleadservices.com
 0.0.0.0	4allfree.com
 0.0.0.0	4c28d6.r.axf8.net
@@ -1819,7 +1818,6 @@
 0.0.0.0	ads2.contentabc.com
 0.0.0.0	ads2.eqads.com
 0.0.0.0	ads2.ero-advertising.com
-0.0.0.0	ads2.femmefab.nl
 0.0.0.0	ads2.gamecity.net
 0.0.0.0	ads2.haber3.com
 0.0.0.0	ads2.helpos.com
@@ -2660,7 +2658,6 @@
 0.0.0.0	ads.fayettevillenc.com
 0.0.0.0	adsfeed3.brabys.co.za
 0.0.0.0	adsfeed.brabys.com
-0.0.0.0	ads.femmefab.nl
 0.0.0.0	ads.ferianc.com
 0.0.0.0	ads.fiat-bg.org
 0.0.0.0	ads.fileindexer.com
@@ -3228,7 +3225,6 @@
 0.0.0.0	adsrvr.com
 0.0.0.0	adsrvr.org
 0.0.0.0	adsrv.tuscaloosanews.com
-0.0.0.0	adsrvus.com
 0.0.0.0	adsrv.wilmingtonstar.com
 0.0.0.0	ads.sabah.com.tr
 0.0.0.0	ads.sacbee.com
@@ -17106,7 +17102,6 @@
 0.0.0.0	ovp.iris.tv
 0.0.0.0	owabgxis.wp.pl
 0.0.0.0	owb101.goo.ne.jp
-0.0.0.0	owebanalytics.com
 0.0.0.0	owebmoney.ru
 0.0.0.0	ow-gateway.supersonicads.com
 0.0.0.0	owlsr.us
