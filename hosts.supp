@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 28 Jul 13:06:07 +03 2022
-# Total number of blocked hosts are: 27213
+# Ad blocking hosts generated Thu 28 Jul 14:06:07 +03 2022
+# Total number of blocked hosts are: 27214
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -6413,6 +6413,7 @@
 0.0.0.0	bravo.israelinfo.ru
 0.0.0.0	bravospots.com
 0.0.0.0	braze.com
+0.0.0.0	braze.eu
 0.0.0.0	br.comclick.com
 0.0.0.0	breadbalance.com
 0.0.0.0	breakableinsurance.com
