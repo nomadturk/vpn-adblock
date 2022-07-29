@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 29 Jul 13:06:08 +03 2022
-# Total number of blocked hosts are: 27214
+# Ad blocking hosts generated Fri 29 Jul 14:06:07 +03 2022
+# Total number of blocked hosts are: 27210
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1727,7 +1727,6 @@
 0.0.0.0	ad.rfp.fout.jp
 0.0.0.0	adriver.ru
 0.0.0.0	ad.ro.doubleclick.net
-0.0.0.0	adrolays.de
 0.0.0.0	adroll.com
 0.0.0.0	adrotate.de
 0.0.0.0	ad-rotator.com
@@ -1818,6 +1817,7 @@
 0.0.0.0	ads2.contentabc.com
 0.0.0.0	ads2.eqads.com
 0.0.0.0	ads2.ero-advertising.com
+0.0.0.0	ads2.femmefab.nl
 0.0.0.0	ads2.gamecity.net
 0.0.0.0	ads2.haber3.com
 0.0.0.0	ads2.helpos.com
@@ -2658,6 +2658,7 @@
 0.0.0.0	ads.fayettevillenc.com
 0.0.0.0	adsfeed3.brabys.co.za
 0.0.0.0	adsfeed.brabys.com
+0.0.0.0	ads.femmefab.nl
 0.0.0.0	ads.ferianc.com
 0.0.0.0	ads.fiat-bg.org
 0.0.0.0	ads.fileindexer.com
@@ -4172,7 +4173,6 @@
 0.0.0.0	amateurdevils.com
 0.0.0.0	amateur.xxxcounter.com
 0.0.0.0	amazingcounters.com
-0.0.0.0	amazonaax.com
 0.0.0.0	amazon-adsystem.com
 0.0.0.0	amazonmerchants.122.2o7.net
 0.0.0.0	amazonshopbop.122.2o7.net
@@ -6066,7 +6066,6 @@
 0.0.0.0	bestorican.com
 0.0.0.0	bestreview.site
 0.0.0.0	best-search.cc
-0.0.0.0	bestsearch.net
 0.0.0.0	bestshockers.com
 0.0.0.0	beststores4u.com
 0.0.0.0	bestsushiever.com
@@ -8372,7 +8371,6 @@
 0.0.0.0	container.pointroll.com
 0.0.0.0	containertags.belboon.de
 0.0.0.0	contaxe.com
-0.0.0.0	contaxe.de
 0.0.0.0	content22.online.citi.com
 0.0.0.0	contentabc.com
 0.0.0.0	content.acc-hd.de
@@ -9655,7 +9653,6 @@
 0.0.0.0	dp1.33across.com
 0.0.0.0	dp2.specificclick.net
 0.0.0.0	dpbolvw.net
-0.0.0.0	dpgawov.com
 0.0.0.0	dp.g.doubleclick.net
 0.0.0.0	d.phormlabs.com
 0.0.0.0	dpm.demdex.net
@@ -12695,7 +12692,6 @@
 0.0.0.0	ih.adscale.de
 0.0.0.0	ihc.112.2o7.net
 0.0.0.0	ihm01.ct2.comclick.com
-0.0.0.0	ihogaetw.com
 0.0.0.0	i.hotkeys.com
 0.0.0.0	i.idio.co
 0.0.0.0	iijls.com
@@ -14487,7 +14483,6 @@
 0.0.0.0	look.utndln.com
 0.0.0.0	loopme.com
 0.0.0.0	loopme.me
-0.0.0.0	lop.com
 0.0.0.0	lortab-cod.hut1.ru
 0.0.0.0	lortab.hut1.ru
 0.0.0.0	losu.112.2o7.net
@@ -17104,6 +17099,7 @@
 0.0.0.0	ovp.iris.tv
 0.0.0.0	owabgxis.wp.pl
 0.0.0.0	owb101.goo.ne.jp
+0.0.0.0	owebanalytics.com
 0.0.0.0	owebmoney.ru
 0.0.0.0	ow-gateway.supersonicads.com
 0.0.0.0	owlsr.us
