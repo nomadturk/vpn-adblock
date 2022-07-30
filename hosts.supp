@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 30 Jul 07:06:07 +03 2022
-# Total number of blocked hosts are: 27210
+# Ad blocking hosts generated Sat 30 Jul 08:06:07 +03 2022
+# Total number of blocked hosts are: 27211
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -11041,6 +11041,7 @@
 0.0.0.0	foo.cosmocode.de
 0.0.0.0	foodeveryhour.com
 0.0.0.0	food-offer.com
+0.0.0.0	foo.software
 0.0.0.0	footerroll.admedia.com
 0.0.0.0	footprintdns.com
 0.0.0.0	footymad.uk.intellitxt.com
