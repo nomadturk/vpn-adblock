@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 2 Aug 19:06:08 +03 2022
+# Ad blocking hosts generated Tue 2 Aug 20:06:07 +03 2022
 # Total number of blocked hosts are: 27211
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -13348,7 +13348,6 @@
 0.0.0.0	it.bannerout.com
 0.0.0.0	itcompany.com
 0.0.0.0	itempana.site
-0.0.0.0	iterable.com
 0.0.0.0	iteratehq.com
 0.0.0.0	it.erosadv.com
 0.0.0.0	it-gmtdmp.mookie1.com
@@ -13625,6 +13624,7 @@
 0.0.0.0	js.hubspot.com
 0.0.0.0	js.idio.co
 0.0.0.0	js.indexww.com
+0.0.0.0	js.iterable.com
 0.0.0.0	js.juicyads.com
 0.0.0.0	js.livehelper.com
 0.0.0.0	js.logentries.com
