@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 17 Aug 14:06:07 +03 2022
-# Total number of blocked hosts are: 28172
+# Ad blocking hosts generated Wed 17 Aug 15:06:07 +03 2022
+# Total number of blocked hosts are: 28176
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -10500,9 +10500,13 @@
 0.0.0.0	em1.yoursantander.co.uk
 0.0.0.0	emagicone.fr
 0.0.0.0	email-clk.adguard.com
+0.0.0.0	email-link.adtidy.net
+0.0.0.0	email-link.adtidy.org
 0.0.0.0	email-links.crowdfireapp.com
 0.0.0.0	emaillinks.soundiiz.com
 0.0.0.0	email.m1.bktrksmail.com
+0.0.0.0	email-open.adtidy.net
+0.0.0.0	email-open.adtidy.org
 0.0.0.0	email-opn.adguard.com
 0.0.0.0	email.positionly.com
 0.0.0.0	email-reflex.com
