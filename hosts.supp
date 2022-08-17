@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 17 Aug 11:06:07 +03 2022
-# Total number of blocked hosts are: 28171
+# Ad blocking hosts generated Wed 17 Aug 12:06:08 +03 2022
+# Total number of blocked hosts are: 28172
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -21448,6 +21448,7 @@
 0.0.0.0	sonata-notifications-us-east.taptapnetworks.com
 0.0.0.0	sonatns.sonatrach.dz
 0.0.0.0	songbird.fr
+0.0.0.0	songsar.com
 0.0.0.0	sonic-us.supersonicads.com
 0.0.0.0	soniksports.fr
 0.0.0.0	sonobi.com
