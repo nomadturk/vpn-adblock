@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 17 Aug 04:06:07 +03 2022
-# Total number of blocked hosts are: 28170
+# Ad blocking hosts generated Wed 17 Aug 05:06:06 +03 2022
+# Total number of blocked hosts are: 28171
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -17638,6 +17638,7 @@
 0.0.0.0	openxxx.viragemedia.com
 0.0.0.0	opera-server.thinknearhub.com
 0.0.0.0	operatingnews.com
+0.0.0.0	operationchicken.com
 0.0.0.0	operationkettle.com
 0.0.0.0	opera-van.com
 0.0.0.0	ophan.theguardian.com
