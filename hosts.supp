@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun 28 Aug 06:06:07 +03 2022
-# Total number of blocked hosts are: 28333
+# Ad blocking hosts generated Sun 28 Aug 07:06:06 +03 2022
+# Total number of blocked hosts are: 28331
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -8548,7 +8548,6 @@
 0.0.0.0	collector.pabs.comcast.com
 0.0.0.0	collector-px8fcgygk4.px-cloud.net
 0.0.0.0	collector-pxel3l4xih.perimeterx.net
-0.0.0.0	collector-pxuarm9b04.perimeterx.net
 0.0.0.0	collector.scopely.io
 0.0.0.0	collector.snplow.net
 0.0.0.0	collector.stats.socialquantum.ru
@@ -19381,7 +19380,6 @@
 0.0.0.0	px.adhigh.net
 0.0.0.0	px.ads.linkedin.com
 0.0.0.0	px.britepool.com
-0.0.0.0	px-conf.perimeterx.net
 0.0.0.0	px.dynamicyield.com
 0.0.0.0	px-eu.adhigh.net
 0.0.0.0	pxf.io
