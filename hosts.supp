@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 3 Sep 22:06:07 +03 2022
-# Total number of blocked hosts are: 28366
+# Ad blocking hosts generated Sat 3 Sep 23:06:07 +03 2022
+# Total number of blocked hosts are: 28367
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -23791,6 +23791,7 @@
 0.0.0.0	tracking.imagewebdesign.fr
 0.0.0.0	tracking.immobilienscout24.de
 0.0.0.0	tracking.india.miui.com
+0.0.0.0	tracking.intentsify.io
 0.0.0.0	tracking.internetstores.de
 0.0.0.0	tracking.intl.miui.com
 0.0.0.0	tracking.jetpackdigital.com
