@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 8 Sep 22:06:08 +03 2022
-# Total number of blocked hosts are: 28362
+# Ad blocking hosts generated Thu 8 Sep 23:06:07 +03 2022
+# Total number of blocked hosts are: 28364
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -5588,6 +5588,7 @@
 0.0.0.0	a.trkme.net
 0.0.0.0	atspace.de.intellitxt.com
 0.0.0.0	ats.rlcdn.com
+0.0.0.0	attractionbanana.com
 0.0.0.0	attractiveafternoon.com
 0.0.0.0	attr.appsflyer.com
 0.0.0.0	attribution.report
@@ -16635,6 +16636,7 @@
 0.0.0.0	multipops.com
 0.0.0.0	multi.xnxx.com
 0.0.0.0	munchkin.marketo.net
+0.0.0.0	mundanenail.com
 0.0.0.0	mundanepollution.com
 0.0.0.0	mundilite.fr
 0.0.0.0	murcia-ban.es
