@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 8 Sep 05:06:07 +03 2022
-# Total number of blocked hosts are: 28366
+# Ad blocking hosts generated Thu 8 Sep 06:06:07 +03 2022
+# Total number of blocked hosts are: 28362
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -18820,7 +18820,6 @@
 0.0.0.0	pop.egi.biz
 0.0.0.0	popfill.us.intellitxt.com
 0.0.0.0	popfree.adultcash.com
-0.0.0.0	pop-iad-2.cf.dash.row.aiv-cdn.net
 0.0.0.0	popit.mediumpimpin.com
 0.0.0.0	popmyads.com
 0.0.0.0	popmycash.com
@@ -20345,10 +20344,7 @@
 0.0.0.0	s3cf.flashtalking.com
 0.0.0.0	s3.hit.stat24.com
 0.0.0.0	s3.hit.stat.pl
-0.0.0.0	s3-iad-2.cf.dash.row.aiv-cdn.net
-0.0.0.0	s3-iad-ww.cf.videorolls.row.aiv-cdn.net
 0.0.0.0	s3.lightboxcdn.com
-0.0.0.0	s3.ll.videorolls.row.aiv-cdn.net
 0.0.0.0	s3m.mediav.com
 0.0.0.0	s3.pageranktop.com
 0.0.0.0	s3.pfp.sina.net
