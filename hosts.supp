@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 13 Sep 17:06:07 +03 2022
-# Total number of blocked hosts are: 28428
+# Ad blocking hosts generated Tue 13 Sep 18:06:08 +03 2022
+# Total number of blocked hosts are: 28427
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -19917,7 +19917,6 @@
 0.0.0.0	resalag.com
 0.0.0.0	resanium.com
 0.0.0.0	res-backup.com
-0.0.0.0	res.cloudinary.com
 0.0.0.0	research.de.com
 0.0.0.0	researchnow.com
 0.0.0.0	reseaux-telecoms.fr.intellitxt.com
