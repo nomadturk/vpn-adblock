@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 17 Sep 17:06:07 +03 2022
-# Total number of blocked hosts are: 28471
+# Ad blocking hosts generated Sat 17 Sep 18:06:07 +03 2022
+# Total number of blocked hosts are: 28472
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -7267,6 +7267,7 @@
 0.0.0.0	cat.va1.vip.prod.criteo.com
 0.0.0.0	cat.va.us.criteo.com
 0.0.0.0	causecherry.com
+0.0.0.0	cautiouscredit.com
 0.0.0.0	ca-vb.fr
 0.0.0.0	cavemancircus.us.intellitxt.com
 0.0.0.0	cb1.counterbot.com
