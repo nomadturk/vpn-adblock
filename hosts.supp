@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 20 Sep 05:06:07 +03 2022
-# Total number of blocked hosts are: 28475
+# Ad blocking hosts generated Tue 20 Sep 06:06:07 +03 2022
+# Total number of blocked hosts are: 28494
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -5628,6 +5628,7 @@
 0.0.0.0	atvplus.oewabox.at
 0.0.0.0	a.twiago.com
 0.0.0.0	atwola.com
+0.0.0.0	au1.gigya.com
 0.0.0.0	au.2.cqcounter.com
 0.0.0.0	au.adserver.yahoo.com
 0.0.0.0	au.ads.link4ads.com
@@ -7598,6 +7599,7 @@
 0.0.0.0	cdn-gcp.siftscience.com
 0.0.0.0	cdn.geodns.tubemogul.com
 0.0.0.0	cdn.getsmartcontent.com
+0.0.0.0	cdn.gigya.com
 0.0.0.0	cdn.gimbal.tech
 0.0.0.0	cdn.gladly.com
 0.0.0.0	cdn-gl.imrworldwide.com
@@ -7726,10 +7728,14 @@
 0.0.0.0	cdn.rlcdn.com
 0.0.0.0	cdn.runative-syndicate.com
 0.0.0.0	cdn.run-syndicate.com
+0.0.0.0	cdns1.gigya.com
+0.0.0.0	cdns2.gigya.com
 0.0.0.0	cdn-s2s.buysellads.net
+0.0.0.0	cdns3.gigya.com
 0.0.0.0	cdn.sagent.io
 0.0.0.0	cdn.sail-horizon.com
 0.0.0.0	cdns.amgdgt.com
+0.0.0.0	cdns.au1.gigya.com
 0.0.0.0	cdn.scarabresearch.com
 0.0.0.0	cdn.segment.com
 0.0.0.0	cdn.segmentify.com
@@ -7737,6 +7743,9 @@
 0.0.0.0	cdn.selectablemedia.com
 0.0.0.0	cdn-settings.appsflyersdk.com
 0.0.0.0	cdn-settings.segment.com
+0.0.0.0	cdns.eu1.gigya.com
+0.0.0.0	cdns.eu2.gigya.com
+0.0.0.0	cdns.gigya.com
 0.0.0.0	cdn.siftscience.com
 0.0.0.0	cdn.simpleanalytics.io
 0.0.0.0	cdn.simpli.fi
@@ -7767,6 +7776,7 @@
 0.0.0.0	cdnstoremedia.com
 0.0.0.0	cdns.turn.com
 0.0.0.0	cdn-stv.adgrx.com
+0.0.0.0	cdns.us1.gigya.com
 0.0.0.0	cdn.syn.verticalacuity.com
 0.0.0.0	cdn.taboola.com
 0.0.0.0	cdn.taboolasyndication.com
@@ -10947,10 +10957,12 @@
 0.0.0.0	et.w.inmobi.com
 0.0.0.0	etype.adbureau.net
 0.0.0.0	eu01.nr-data.net
+0.0.0.0	eu1.gigya.com
 0.0.0.0	eu1.madsone.com
 0.0.0.0	eu1.snoobi.com
 0.0.0.0	eu1-spiky.wzrkt.com
 0.0.0.0	eu1.wzrkt.com
+0.0.0.0	eu2.gigya.com
 0.0.0.0	eu2.madsone.com
 0.0.0.0	eu-adcenter.net
 0.0.0.0	eu.adventori.com
@@ -11272,6 +11284,9 @@
 0.0.0.0	faracoon.com
 0.0.0.0	farecastcom.122.2o7.net
 0.0.0.0	farethief.com
+0.0.0.0	farm5.eu1.gigya.com
+0.0.0.0	farm5.gigya.com
+0.0.0.0	farm5.us1.gigya.com
 0.0.0.0	farmergoldfish.com
 0.0.0.0	farmius.org
 0.0.0.0	farm.plista.com
@@ -14680,8 +14695,11 @@
 0.0.0.0	lb-adsmob.mng-ads.com
 0.0.0.0	lb.affilae.com
 0.0.0.0	lbal.wowanalytics.co.uk
+0.0.0.0	lb.au1.gigya.com
 0.0.0.0	lbdata.tj.ijinshan.com
+0.0.0.0	lb-d.us1.gigya.com
 0.0.0.0	l.betrad.com
+0.0.0.0	lb.eu1.gigya.com
 0.0.0.0	lb.fruitflan.com
 0.0.0.0	lbn.ru
 0.0.0.0	lbnyj2.bidder.owneriq.net
@@ -24733,6 +24751,7 @@
 0.0.0.0	urssff.fr
 0.0.0.0	urzl.fr
 0.0.0.0	us01.rayjump.com
+0.0.0.0	us1.gigya.com
 0.0.0.0	us-1.gladly.com
 0.0.0.0	us1-sdk.bluedot.io
 0.0.0.0	us1.siteimprove.com
