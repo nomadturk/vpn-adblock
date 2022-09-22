@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 22 Sep 22:06:07 +03 2022
-# Total number of blocked hosts are: 28493
+# Ad blocking hosts generated Thu 22 Sep 23:06:07 +03 2022
+# Total number of blocked hosts are: 28492
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -13440,7 +13440,6 @@
 0.0.0.0	images.revcontent.com
 0.0.0.0	images.revtrax.com
 0.0.0.0	imagesrv.adition.com
-0.0.0.0	images.salsify.com
 0.0.0.0	images.sexlist.com
 0.0.0.0	images.sohu.com
 0.0.0.0	images.specificclick.net
