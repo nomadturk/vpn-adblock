@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun 2 Oct 11:06:07 +03 2022
-# Total number of blocked hosts are: 28464
+# Ad blocking hosts generated Sun 2 Oct 12:06:07 +03 2022
+# Total number of blocked hosts are: 28467
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -15654,6 +15654,8 @@
 0.0.0.0	mc-kzgvx04-jk8n38gyn7s08m1d8.device.marketingcloudapis.com
 0.0.0.0	mcleaks.fr
 0.0.0.0	mcsgrp.com
+0.0.0.0	mcs-va.tiktok.com
+0.0.0.0	mcs-va.tiktokv.com
 0.0.0.0	mct.rkdms.com
 0.0.0.0	mcvsb5ngty4dzxx8jp80yt3q5614.device.marketingcloudapis.com
 0.0.0.0	mc.webvisor.org
@@ -16479,6 +16481,7 @@
 0.0.0.0	monsterpops.com
 0.0.0.0	monstersandcritics.uk.intellitxt.com
 0.0.0.0	montig.fr
+0.0.0.0	mon-va.byteoversea.com
 0.0.0.0	moodoo.com.cn
 0.0.0.0	moodoocrv.com.cn
 0.0.0.0	moodretrieval.com
