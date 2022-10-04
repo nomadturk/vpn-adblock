@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 4 Oct 14:06:07 +03 2022
-# Total number of blocked hosts are: 28521
+# Ad blocking hosts generated Tue 4 Oct 15:06:07 +03 2022
+# Total number of blocked hosts are: 28523
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4572,6 +4572,7 @@
 0.0.0.0	analytics.safelinking.net
 0.0.0.0	analytics.salmonads.com
 0.0.0.0	analytics.samdd.me
+0.0.0.0	analytics.santander.co.uk
 0.0.0.0	analytics.seattleclouds.com
 0.0.0.0	analytics-server.gimbal.com
 0.0.0.0	analytics.services.kirra.nl
@@ -19303,6 +19304,7 @@
 0.0.0.0	protectsubrev.com
 0.0.0.0	protect-x.com
 0.0.0.0	protect-your-privacy.net
+0.0.0.0	protestcopy.com
 0.0.0.0	proton.flurry.com
 0.0.0.0	protonix.shengen.ru
 0.0.0.0	proton-tm.com
