@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 7 Oct 14:06:07 +03 2022
-# Total number of blocked hosts are: 28523
+# Ad blocking hosts generated Fri 7 Oct 15:06:07 +03 2022
+# Total number of blocked hosts are: 28522
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4035,6 +4035,7 @@
 0.0.0.0	adx-winners-us-east-1-rtb.adroll.com
 0.0.0.0	adx-winners-us-west-2-rtb.adroll.com
 0.0.0.0	ad.yadro.ru
+0.0.0.0	adyea.com
 0.0.0.0	ad.yemeksepeti.com
 0.0.0.0	ad.yieldlab.net
 0.0.0.0	ad.yieldmanager.com
@@ -6291,10 +6292,8 @@
 0.0.0.0	be.adserver.yahoo.com
 0.0.0.0	be.ads.justpremium.com
 0.0.0.0	beads.sx.atl.publicus.com
-0.0.0.0	beam.giraffe360.com
 0.0.0.0	beam.hlserve.com
 0.0.0.0	beamincrease.com
-0.0.0.0	beam-ws.giraffe360.com
 0.0.0.0	beanbounce.net
 0.0.0.0	beap.adx.yahoo.com
 0.0.0.0	beap-bc.yahoo.com
@@ -11413,7 +11412,6 @@
 0.0.0.0	ffesm.fr
 0.0.0.0	ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
 0.0.0.0	fflotte.oewabox.at
-0.0.0.0	ffxcam.fairfax.com.au
 0.0.0.0	ffxitrack.com
 0.0.0.0	f.gm.mob.com
 0.0.0.0	fg.softguy.com
@@ -15438,6 +15436,7 @@
 0.0.0.0	magasine-omnicuiseur.fr
 0.0.0.0	magento-analytics.com
 0.0.0.0	maghrebfoot.com
+0.0.0.0	magicadz.co
 0.0.0.0	magicalipone.com
 0.0.0.0	magicaljoin.com
 0.0.0.0	magicalmonth.com
@@ -17918,6 +17917,7 @@
 0.0.0.0	opera-server.thinknearhub.com
 0.0.0.0	operatingnews.com
 0.0.0.0	operationchicken.com
+0.0.0.0	operationkettle.com
 0.0.0.0	opera-van.com
 0.0.0.0	ophan.theguardian.com
 0.0.0.0	opienetwork.com
@@ -25060,7 +25060,6 @@
 0.0.0.0	venetrigni.com
 0.0.0.0	ventivmedia.com
 0.0.0.0	venturead.com
-0.0.0.0	verblife-3.co
 0.0.0.0	verblife-5.co
 0.0.0.0	vericlick.com
 0.0.0.0	verification.jiguang.cn
