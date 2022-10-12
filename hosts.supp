@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 12 Oct 19:06:12 +03 2022
-# Total number of blocked hosts are: 28523
+# Ad blocking hosts generated Wed 12 Oct 20:06:08 +03 2022
+# Total number of blocked hosts are: 28524
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -9270,6 +9270,7 @@
 0.0.0.0	cs.adxpansion.com
 0.0.0.0	cs.atdmt.com
 0.0.0.0	cs-cart.jp
+0.0.0.0	cs.co
 0.0.0.0	c.scorecardresearch.com
 0.0.0.0	c.securepaths.com
 0.0.0.0	c.se.msn.com
