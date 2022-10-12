@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 12 Oct 04:06:07 +03 2022
-# Total number of blocked hosts are: 28522
+# Ad blocking hosts generated Wed 12 Oct 05:06:06 +03 2022
+# Total number of blocked hosts are: 28523
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3035,6 +3035,7 @@
 0.0.0.0	ads.kabooaffiliates.com
 0.0.0.0	ads.kaktuz.net
 0.0.0.0	ads.kaldata.com
+0.0.0.0	adskeeper.com
 0.0.0.0	adskeeper.co.uk
 0.0.0.0	ads.kelbymediagroup.com
 0.0.0.0	ads-kesselhaus.com
