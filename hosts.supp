@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 14 Oct 14:06:07 +03 2022
-# Total number of blocked hosts are: 28524
+# Ad blocking hosts generated Fri 14 Oct 15:06:07 +03 2022
+# Total number of blocked hosts are: 28525
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -6489,6 +6489,7 @@
 0.0.0.0	bindfast.com
 0.0.0.0	bingads.microsoft.com
 0.0.0.0	bink.uk.intellitxt.com
+0.0.0.0	biosda.com
 0.0.0.0	biosmagazine.uk.intellitxt.com
 0.0.0.0	bioware.fr
 0.0.0.0	bip.presage.io
@@ -10530,6 +10531,7 @@
 0.0.0.0	efanguide.us.intellitxt.com
 0.0.0.0	efashionsolutions.122.2o7.net
 0.0.0.0	efcad85fded269f462c434c4c5f84654a17d4a77.cws.conviva.com
+0.0.0.0	effectivemeasure.com
 0.0.0.0	effectivespeech.net
 0.0.0.0	effexor-xr.1.p2l.info
 0.0.0.0	efficaciouscactus.com
@@ -18062,7 +18064,6 @@
 0.0.0.0	ovp.iris.tv
 0.0.0.0	owabgxis.wp.pl
 0.0.0.0	owb101.goo.ne.jp
-0.0.0.0	owebanalytics.com
 0.0.0.0	owebmoney.ru
 0.0.0.0	ow-gateway.supersonicads.com
 0.0.0.0	owlsr.us
