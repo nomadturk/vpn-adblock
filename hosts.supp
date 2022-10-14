@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 14 Oct 19:06:09 +03 2022
-# Total number of blocked hosts are: 28525
+# Ad blocking hosts generated Fri 14 Oct 20:06:07 +03 2022
+# Total number of blocked hosts are: 28527
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -9169,6 +9169,7 @@
 0.0.0.0	crakmedia.com
 0.0.0.0	craktraffic.com
 0.0.0.0	crash.163.com
+0.0.0.0	crashchance.com
 0.0.0.0	crasheye.cn
 0.0.0.0	crashlytics.163.com
 0.0.0.0	crashlytics.com
@@ -12650,6 +12651,7 @@
 0.0.0.0	handbrake.es
 0.0.0.0	handcraftedformat.com
 0.0.0.0	handelsblatt01.webtrekk.net
+0.0.0.0	handsomehose.com
 0.0.0.0	handyfield.com
 0.0.0.0	hapax.qc.ca
 0.0.0.0	happyfresh.fr
