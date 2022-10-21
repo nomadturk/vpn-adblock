@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 21 Oct 14:06:07 +03 2022
-# Total number of blocked hosts are: 28527
+# Ad blocking hosts generated Fri 21 Oct 15:06:07 +03 2022
+# Total number of blocked hosts are: 28525
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1767,7 +1767,6 @@
 0.0.0.0	adnet.com.ua
 0.0.0.0	adnet.de
 0.0.0.0	ad.netgoo.com
-0.0.0.0	adnetinteractive.com
 0.0.0.0	adnet.pravda.com.ua
 0.0.0.0	adnet.ru
 0.0.0.0	ad.nettvservices.com
@@ -13806,7 +13805,6 @@
 0.0.0.0	insightxe.vtsgonline.com
 0.0.0.0	inskinad.com
 0.0.0.0	inskinmedia689754970364.s.moatpixel.com
-0.0.0.0	inslco.bar
 0.0.0.0	inspectlet.com
 0.0.0.0	in-spiky.wzrkt.com
 0.0.0.0	ins-services.meltwater.com
@@ -17140,6 +17138,7 @@
 0.0.0.0	news-37876-mshome.com
 0.0.0.0	news-389767-mshome.com
 0.0.0.0	news6health.com
+0.0.0.0	newsadsppush.com
 0.0.0.0	newscorp.grapeshot.co.uk
 0.0.0.0	newscurrent.info
 0.0.0.0	newsday.122.2o7.net
@@ -18066,6 +18065,7 @@
 0.0.0.0	ovp.iris.tv
 0.0.0.0	owabgxis.wp.pl
 0.0.0.0	owb101.goo.ne.jp
+0.0.0.0	owebanalytics.com
 0.0.0.0	owebmoney.ru
 0.0.0.0	ow-gateway.supersonicads.com
 0.0.0.0	owlsr.us
@@ -18602,7 +18602,6 @@
 0.0.0.0	pings.conviva.com
 0.0.0.0	ping.taplytics.com
 0.0.0.0	pingtcss.qq.com
-0.0.0.0	ping.ublock.org
 0.0.0.0	pinkisthenewblog.us.intellitxt.com
 0.0.0.0	pinterest.adsymptotic.com
 0.0.0.0	pi.pardot.com
@@ -24320,7 +24319,6 @@
 0.0.0.0	trk.ablogica.com
 0.0.0.0	trk.apperol.com
 0.0.0.0	trk.atomex.net
-0.0.0.0	trk.bad-tool-tell-doubt.xyz
 0.0.0.0	trk.bc.shutterfly.com
 0.0.0.0	trk.bee-data.com
 0.0.0.0	trk.cachemetracking.com
