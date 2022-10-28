@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 28 Oct 13:06:07 +03 2022
-# Total number of blocked hosts are: 28525
+# Ad blocking hosts generated Fri 28 Oct 14:06:08 +03 2022
+# Total number of blocked hosts are: 28523
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4057,6 +4057,7 @@
 0.0.0.0	adzmobi.com
 0.0.0.0	ad.zodera.hu
 0.0.0.0	adzone.ro
+0.0.0.0	adzones.com
 0.0.0.0	adz.rashflash.com
 0.0.0.0	adzrevads.com
 0.0.0.0	adztec.com
@@ -9130,7 +9131,6 @@
 0.0.0.0	coxpalmbeachpost.112.2o7.net
 0.0.0.0	coxtv.us.intellitxt.com
 0.0.0.0	cpa.adcolony.com
-0.0.0.0	cp.abbp1.pw
 0.0.0.0	cpalead.com
 0.0.0.0	cpanel.nativeads.com
 0.0.0.0	cpatrack.leadn.com
@@ -10073,7 +10073,6 @@
 0.0.0.0	domainport.net
 0.0.0.0	domainsponsor.com
 0.0.0.0	domains-resolver.net
-0.0.0.0	domainsteam.de
 0.0.0.0	domdex.com
 0.0.0.0	domesticwindow.com
 0.0.0.0	dominionenterprises.112.2o7.net
@@ -14034,7 +14033,6 @@
 0.0.0.0	itxt2.us.intellitxt.com
 0.0.0.0	itxt3.us.intellitxt.com
 0.0.0.0	i.ua-passport.top
-0.0.0.0	iubzka.online
 0.0.0.0	iusacomlive.112.2o7.net
 0.0.0.0	iv.doubleclick.net
 0.0.0.0	ivgault.fr
@@ -14928,6 +14926,7 @@
 0.0.0.0	linkreferral.com
 0.0.0.0	links-and-traffic.com
 0.0.0.0	link-scan.net
+0.0.0.0	linkshighway.com
 0.0.0.0	links.industrybrains.com
 0.0.0.0	links.outster.com
 0.0.0.0	links-ranking.de
@@ -18138,7 +18137,6 @@
 0.0.0.0	pagead.l.google.com
 0.0.0.0	pagead.topobiavi.com
 0.0.0.0	pagefair.com
-0.0.0.0	pagefair.net
 0.0.0.0	page-host.net
 0.0.0.0	page-info.com
 0.0.0.0	pageisloading.net
@@ -24262,7 +24260,6 @@
 0.0.0.0	tr.blismedia.com
 0.0.0.0	trc-events.taboola.com
 0.0.0.0	trck.a8.net
-0.0.0.0	trcked.me
 0.0.0.0	trc.kissmetrics.com
 0.0.0.0	trcklion.com
 0.0.0.0	trcko.com
@@ -24319,6 +24316,7 @@
 0.0.0.0	trk.ablogica.com
 0.0.0.0	trk.apperol.com
 0.0.0.0	trk.atomex.net
+0.0.0.0	trk.bad-tool-tell-doubt.xyz
 0.0.0.0	trk.bc.shutterfly.com
 0.0.0.0	trk.bee-data.com
 0.0.0.0	trk.cachemetracking.com
