@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 2 Nov 21:06:07 +03 2022
-# Total number of blocked hosts are: 28523
+# Ad blocking hosts generated Wed 2 Nov 22:06:07 +03 2022
+# Total number of blocked hosts are: 28524
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -18220,6 +18220,7 @@
 0.0.0.0	partner.ads.placeiq.com
 0.0.0.0	partnerads.ysm.yahoo.com
 0.0.0.0	partner.ah-ha.com
+0.0.0.0	partner-api.jobbio.com
 0.0.0.0	partnercash.de
 0.0.0.0	partner.ceneo.pl
 0.0.0.0	partnerearning.com
