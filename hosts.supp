@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 17 Nov 22:06:07 +03 2022
-# Total number of blocked hosts are: 28530
+# Ad blocking hosts generated Thu 17 Nov 23:06:09 +03 2022
+# Total number of blocked hosts are: 28531
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -22606,6 +22606,7 @@
 0.0.0.0	streamate.doublepimp.com
 0.0.0.0	stream-direct.co
 0.0.0.0	streamguys.deliveryengine.adswizz.com
+0.0.0.0	stretchsquirrel.com
 0.0.0.0	s.tribalfusion.com
 0.0.0.0	strikeiron.com
 0.0.0.0	stripedburst.com
