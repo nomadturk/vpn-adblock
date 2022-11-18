@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 18 Nov 14:06:07 +03 2022
-# Total number of blocked hosts are: 28531
+# Ad blocking hosts generated Fri 18 Nov 15:06:07 +03 2022
+# Total number of blocked hosts are: 28528
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1096,7 +1096,6 @@
 0.0.0.0	ad3.lbn.ru
 0.0.0.0	ad3.linkbucks.com
 0.0.0.0	ad3.nationalreview.com
-0.0.0.0	ad3.pamedia.com.au
 0.0.0.0	ad3.speedbit.com
 0.0.0.0	ad3.xrea.com
 0.0.0.0	ad40.checkm8.com
@@ -1853,7 +1852,6 @@
 0.0.0.0	a.dpmsrv.com
 0.0.0.0	ad.policeone.com
 0.0.0.0	ad.pravda.ru
-0.0.0.0	ad.preferances.com
 0.0.0.0	ad.premiumonlinemedia.com
 0.0.0.0	ad.prismamediadigital.com
 0.0.0.0	adprofits.ru
@@ -1888,7 +1886,6 @@
 0.0.0.0	ad.reklamnative.com
 0.0.0.0	ad.reklamport.com
 0.0.0.0	ad.reklam.xyz
-0.0.0.0	adremedy.com
 0.0.0.0	adreporting.com
 0.0.0.0	ad.repubblica.it
 0.0.0.0	adreq.vivo.com.cn
