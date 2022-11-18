@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 18 Nov 15:06:07 +03 2022
-# Total number of blocked hosts are: 28528
+# Ad blocking hosts generated Fri 18 Nov 16:06:07 +03 2022
+# Total number of blocked hosts are: 28527
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -6968,7 +6968,6 @@
 0.0.0.0	c1exchange.com
 0.0.0.0	c1.gostats.com
 0.0.0.0	c1i.su
-0.0.0.0	c1.nowlinux.com
 0.0.0.0	c1.onedmp.com
 0.0.0.0	c1.outster.com
 0.0.0.0	c1.popads.net
@@ -8220,6 +8219,7 @@
 0.0.0.0	clickserve.us2.dartsearch.net
 0.0.0.0	clickserv.sitescout.com
 0.0.0.0	clicks.eutopia.traffictrader.net
+0.0.0.0	clicks.eventbrite.com
 0.0.0.0	click.sexmoney.com
 0.0.0.0	clicks.hurriyet.com.tr
 0.0.0.0	click.silvercash.com
@@ -17923,7 +17923,6 @@
 0.0.0.0	opera-server.thinknearhub.com
 0.0.0.0	operatingnews.com
 0.0.0.0	operationchicken.com
-0.0.0.0	operationkettle.com
 0.0.0.0	opera-van.com
 0.0.0.0	ophan.theguardian.com
 0.0.0.0	opienetwork.com
