@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 25 Nov 15:06:08 +03 2022
-# Total number of blocked hosts are: 28529
+# Ad blocking hosts generated Fri 25 Nov 16:06:07 +03 2022
+# Total number of blocked hosts are: 28528
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2976,7 +2976,6 @@
 0.0.0.0	ads.imeem.com
 0.0.0.0	ad.simflight.com
 0.0.0.0	ad.simgames.net
-0.0.0.0	ads.img.co.za
 0.0.0.0	ads.img.globo.com
 0.0.0.0	ads.imguol.com
 0.0.0.0	ads.imgur.com
@@ -5976,7 +5975,6 @@
 0.0.0.0	bannerhost.egamingonline.com
 0.0.0.0	bannerimage.com
 0.0.0.0	bannerimages.0catch.com
-0.0.0.0	banner.img.co.za
 0.0.0.0	banner-img.haber7.com
 0.0.0.0	banner.inyourpocket.com
 0.0.0.0	banner.kiev.ua
@@ -18604,6 +18602,7 @@
 0.0.0.0	pings.conviva.com
 0.0.0.0	ping.taplytics.com
 0.0.0.0	pingtcss.qq.com
+0.0.0.0	ping.ublock.org
 0.0.0.0	pinkisthenewblog.us.intellitxt.com
 0.0.0.0	pinterest.adsymptotic.com
 0.0.0.0	pi.pardot.com
