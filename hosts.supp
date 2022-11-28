@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 28 Nov 14:06:07 +03 2022
-# Total number of blocked hosts are: 28528
+# Ad blocking hosts generated Mon 28 Nov 15:06:08 +03 2022
+# Total number of blocked hosts are: 28538
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1213,6 +1213,7 @@
 0.0.0.0	ad.allyes.cn
 0.0.0.0	ad.altervista.org
 0.0.0.0	ad.amgdgt.com
+0.0.0.0	adanging.blog
 0.0.0.0	ad.anuntis.com
 0.0.0.0	adaos-ads.net
 0.0.0.0	ad-apac.doubleclick.net
@@ -2533,6 +2534,7 @@
 0.0.0.0	adserver.4clicks.org
 0.0.0.0	adserver4.fluent.ltd.uk
 0.0.0.0	adserver-4.ig.com.br
+0.0.0.0	adserver5b.xyz
 0.0.0.0	adserver-5.ig.com.br
 0.0.0.0	adserver.71i.de
 0.0.0.0	adserver9.contextad.com
@@ -2576,6 +2578,7 @@
 0.0.0.0	adserverc.cliipa.com
 0.0.0.0	adserver.cdnstream.com
 0.0.0.0	adserver.cebu-online.com
+0.0.0.0	adserver.cherryfind.co.uk
 0.0.0.0	adserver.chickclick.com
 0.0.0.0	adserver-clarium-1405844056.eu-central-1.elb.amazonaws.com
 0.0.0.0	adserver-clarium-1718981494.us-west-1.elb.amazonaws.com
@@ -2632,6 +2635,7 @@
 0.0.0.0	adserver.ign.com
 0.0.0.0	adserver.ilango.de
 0.0.0.0	adserver-images.adikteev.com
+0.0.0.0	adserver.industryarena.com
 0.0.0.0	adserver.info7.mx
 0.0.0.0	adserver.infotiger.com
 0.0.0.0	adserver.intentiq.com
@@ -2648,6 +2652,7 @@
 0.0.0.0	adserver.juicyads.com
 0.0.0.0	adserver.killeraces.com
 0.0.0.0	adserver.kimia.es
+0.0.0.0	adserver.kontent.com
 0.0.0.0	adserver.kontextua.com
 0.0.0.0	adserver.kylemedia.com
 0.0.0.0	adserver.lanacion.com.ar
@@ -2688,6 +2693,7 @@
 0.0.0.0	adserver.passion.com
 0.0.0.0	adserver.phatmax.net
 0.0.0.0	adserver.phillyburbs.com
+0.0.0.0	adserver.piksel.mk
 0.0.0.0	adserver.pl
 0.0.0.0	adserver.planet-multiplayer.de
 0.0.0.0	adserverplus.com
@@ -2759,6 +2765,7 @@
 0.0.0.0	adserver-vpc-alb-2-1898430250.us-east-1.elb.amazonaws.com
 0.0.0.0	adserver-vpc-alb-2-553366957.us-west-2.elb.amazonaws.com
 0.0.0.0	adserver-vpc-alb-3-578630024.us-west-2.elb.amazonaws.com
+0.0.0.0	adserver.waggonerguide.com
 0.0.0.0	adserverwc.adtechus.com
 0.0.0.0	adserver.webads.co.uk
 0.0.0.0	adserver.webads.nl
@@ -2793,6 +2800,7 @@
 0.0.0.0	adserving.speedshiftmedia.com
 0.0.0.0	adserving.unibet.com
 0.0.0.0	adservingvpc-1239633584.eu-west-1.elb.amazonaws.com
+0.0.0.0	adservio.tech
 0.0.0.0	adserv.lwmn.net
 0.0.0.0	adserv.maineguide.com
 0.0.0.0	adserv.mywebtimes.com
@@ -19702,6 +19710,7 @@
 0.0.0.0	rbnt.org
 0.0.0.0	rb.revolvermaps.com
 0.0.0.0	rbthre.work
+0.0.0.0	rcadserver.com
 0.0.0.0	r.casalemedia.com
 0.0.0.0	r.casalemedia.com.edgekey.net
 0.0.0.0	rc.asci.freenet.de
@@ -20068,6 +20077,7 @@
 0.0.0.0	rewarded-video.fyber.com
 0.0.0.0	rewardpoll.com
 0.0.0.0	rewardsflow.com
+0.0.0.0	rexadvert.xyz
 0.0.0.0	rey3935.112.2o7.net
 0.0.0.0	reyden-x.com
 0.0.0.0	reynders.info
