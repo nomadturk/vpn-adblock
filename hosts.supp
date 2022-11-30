@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 30 Nov 20:06:16 +03 2022
-# Total number of blocked hosts are: 28539
+# Ad blocking hosts generated Wed 30 Nov 21:06:09 +03 2022
+# Total number of blocked hosts are: 28540
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -23911,6 +23911,7 @@
 0.0.0.0	tracking.bannerflow.com
 0.0.0.0	tracking.batanga.com
 0.0.0.0	tracking.batanga.net
+0.0.0.0	tracking.baypacketaddressepisode.makeup
 0.0.0.0	tracking.bloomberg.com
 0.0.0.0	tracking.cdiscount.com
 0.0.0.0	tracking.clickmeter.com
