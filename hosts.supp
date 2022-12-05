@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 5 Dec 14:06:07 +03 2022
-# Total number of blocked hosts are: 28537
+# Ad blocking hosts generated Mon 5 Dec 15:06:06 +03 2022
+# Total number of blocked hosts are: 28538
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -8184,6 +8184,7 @@
 0.0.0.0	click.hooligapps.com
 0.0.0.0	click.howdoesin.net
 0.0.0.0	click.icptrack.com
+0.0.0.0	click.infoblox.com
 0.0.0.0	click.interactivebrands.com
 0.0.0.0	clickit.go2net.com
 0.0.0.0	click.jve.net
