@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 6 Dec 12:06:08 +03 2022
-# Total number of blocked hosts are: 28538
+# Ad blocking hosts generated Tue 6 Dec 13:06:07 +03 2022
+# Total number of blocked hosts are: 28539
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4532,6 +4532,7 @@
 0.0.0.0	analytics.locallogic.co
 0.0.0.0	analytics.localytics.com
 0.0.0.0	analytics.logsss.com
+0.0.0.0	analytics.lucid.app
 0.0.0.0	analytics.mail-corp.com
 0.0.0.0	analytics.mailmunch.co
 0.0.0.0	analytics.map.qq.com
