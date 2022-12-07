@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 7 Dec 06:06:08 +03 2022
-# Total number of blocked hosts are: 28539
+# Ad blocking hosts generated Wed 7 Dec 07:06:08 +03 2022
+# Total number of blocked hosts are: 28540
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -16846,6 +16846,7 @@
 0.0.0.0	myornamenti.com
 0.0.0.0	mypagerank.net
 0.0.0.0	mypagerank.ru
+0.0.0.0	mypopups.com
 0.0.0.0	mypowermall.com
 0.0.0.0	myprivateemails.com
 0.0.0.0	my.putlocker.to
