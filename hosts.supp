@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 9 Dec 15:06:07 +03 2022
-# Total number of blocked hosts are: 28540
+# Ad blocking hosts generated Fri 9 Dec 16:06:09 +03 2022
+# Total number of blocked hosts are: 28541
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4032,7 +4032,6 @@
 0.0.0.0	adx.theledger.com
 0.0.0.0	adx.timesdaily.com
 0.0.0.0	adx-tk.rayjump.com
-0.0.0.0	adxvalue.com
 0.0.0.0	adx-west-imp.aarki.net
 0.0.0.0	adx-winners-ap-southeast-1-rtb.adroll.com
 0.0.0.0	adx-winners-eu-west-1-rtb.adroll.com
@@ -8187,6 +8186,7 @@
 0.0.0.0	click.icptrack.com
 0.0.0.0	click.infoblox.com
 0.0.0.0	click.interactivebrands.com
+0.0.0.0	click.i.southwesternrailway.com
 0.0.0.0	clickit.go2net.com
 0.0.0.0	click.jve.net
 0.0.0.0	click.khingtracking.com
@@ -14746,6 +14746,7 @@
 0.0.0.0	leadbolt.net
 0.0.0.0	leadclick.com
 0.0.0.0	leader.linkexchange.com
+0.0.0.0	leadingedgecash.com
 0.0.0.0	leadplace.fr
 0.0.0.0	lead.program3.com
 0.0.0.0	leadpub.com
