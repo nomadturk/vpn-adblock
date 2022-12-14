@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 14 Dec 21:06:07 +03 2022
-# Total number of blocked hosts are: 28543
+# Ad blocking hosts generated Wed 14 Dec 22:06:08 +03 2022
+# Total number of blocked hosts are: 28544
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -8198,6 +8198,7 @@
 0.0.0.0	clickmate.io
 0.0.0.0	clickmedia.ro
 0.0.0.0	clickmeter.com
+0.0.0.0	click.mkt.grab.com
 0.0.0.0	click.news.vans.com
 0.0.0.0	click.newviralmobistore.com
 0.0.0.0	click.nl.npr.org
