@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 16 Dec 14:06:07 +03 2022
-# Total number of blocked hosts are: 28546
+# Ad blocking hosts generated Fri 16 Dec 15:06:07 +03 2022
+# Total number of blocked hosts are: 28544
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3642,7 +3642,6 @@
 0.0.0.0	ads.vjaffiliates.com
 0.0.0.0	ads.v-lazer.com
 0.0.0.0	ads.vntsm.com
-0.0.0.0	ads.vnumedia.com
 0.0.0.0	ads.voyit.com
 0.0.0.0	ads.vporn.com
 0.0.0.0	adsvr.deviantart.com
@@ -8142,7 +8141,6 @@
 0.0.0.0	clickadu.com
 0.0.0.0	click.advertnative.com
 0.0.0.0	click.adv.livedoor.com
-0.0.0.0	clickadz.com
 0.0.0.0	clickagents.com
 0.0.0.0	click.airmalta-mail.com
 0.0.0.0	click.atdmt.com
