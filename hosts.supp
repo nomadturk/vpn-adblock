@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 23 Dec 15:08:18 +03 2022
-# Total number of blocked hosts are: 28543
+# Ad blocking hosts generated Fri 23 Dec 16:08:18 +03 2022
+# Total number of blocked hosts are: 28544
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1887,6 +1887,7 @@
 0.0.0.0	ad.reklamnative.com
 0.0.0.0	ad.reklamport.com
 0.0.0.0	ad.reklam.xyz
+0.0.0.0	adremedy.com
 0.0.0.0	adreporting.com
 0.0.0.0	ad.repubblica.it
 0.0.0.0	adreq.vivo.com.cn
@@ -3642,6 +3643,7 @@
 0.0.0.0	ads.vjaffiliates.com
 0.0.0.0	ads.v-lazer.com
 0.0.0.0	ads.vntsm.com
+0.0.0.0	ads.vnumedia.com
 0.0.0.0	ads.voyit.com
 0.0.0.0	ads.vporn.com
 0.0.0.0	adsvr.deviantart.com
@@ -8142,6 +8144,7 @@
 0.0.0.0	clickadu.com
 0.0.0.0	click.advertnative.com
 0.0.0.0	click.adv.livedoor.com
+0.0.0.0	clickadz.com
 0.0.0.0	clickagents.com
 0.0.0.0	click.airmalta-mail.com
 0.0.0.0	click.atdmt.com
@@ -12692,7 +12695,6 @@
 0.0.0.0	hatsampledc.com
 0.0.0.0	hatter-story.info
 0.0.0.0	haupsoti.net
-0.0.0.0	havamedia.net
 0.0.0.0	havasedge.com
 0.0.0.0	haveuheard.us.intellitxt.com
 0.0.0.0	haymarketbusinesspublications.122.2o7.net
@@ -13822,6 +13824,7 @@
 0.0.0.0	install.365-stream.com
 0.0.0.0	installmac.com
 0.0.0.0	install.myvideotab.com
+0.0.0.0	instantmadness.com
 0.0.0.0	instantstreetview.fr
 0.0.0.0	insticator.com
 0.0.0.0	instinctiveads.com
@@ -20930,7 +20933,6 @@
 0.0.0.0	searchfwding.com
 0.0.0.0	searchignited.com
 0.0.0.0	search.in
-0.0.0.0	searching-place.com
 0.0.0.0	search.ipromote.com
 0.0.0.0	search.keywordblocks.com
 0.0.0.0	searchmagnified.com
@@ -20942,7 +20944,6 @@
 0.0.0.0	searchnigeria.net
 0.0.0.0	search-phentermine.hpage.net
 0.0.0.0	search.privitize.com
-0.0.0.0	searchramp.com
 0.0.0.0	search.sextracker.com
 0.0.0.0	search.spotxchange.com
 0.0.0.0	search.supplyframe.com
