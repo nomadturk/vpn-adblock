@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 30 Dec 14:06:07 +03 2022
-# Total number of blocked hosts are: 28545
+# Ad blocking hosts generated Fri 30 Dec 15:06:07 +03 2022
+# Total number of blocked hosts are: 28542
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -754,7 +754,6 @@
 0.0.0.0	a.appbaqend.com
 0.0.0.0	a.applovin.com
 0.0.0.0	a.applvn.com
-0.0.0.0	a.aproductmsg.com
 0.0.0.0	aarth.net
 0.0.0.0	aa.tweakers.nl
 0.0.0.0	a.autoexpress.co.uk
@@ -1000,7 +999,6 @@
 0.0.0.0	ad1.doublepimp.com
 0.0.0.0	ad1.emediate.dk
 0.0.0.0	ad1.emule-project.org
-0.0.0.0	ad1.eventmanager.co.kr
 0.0.0.0	ad1.gamezone.com
 0.0.0.0	ad1.hotel.com
 0.0.0.0	ad1.kde.cz
@@ -22808,7 +22806,6 @@
 0.0.0.0	switchboard.mixpanel.com
 0.0.0.0	switch.d-agency.net
 0.0.0.0	switch.rtbsystem.com
-0.0.0.0	swordfishdc.com
 0.0.0.0	swordgoose.com
 0.0.0.0	sworkitads.herokuapp.com
 0.0.0.0	swrap.tradedoubler.com
