@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 2 Jan 03:06:07 +03 2023
-# Total number of blocked hosts are: 28542
+# Ad blocking hosts generated Mon 2 Jan 04:06:06 +03 2023
+# Total number of blocked hosts are: 28543
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -5515,6 +5515,7 @@
 0.0.0.0	asm3.z1.adserver.com
 0.0.0.0	asmedia.adsupplyssl.com
 0.0.0.0	as.medscape.com
+0.0.0.0	aso1.net
 0.0.0.0	as.pmates.com
 0.0.0.0	a.spolecznosci.net
 0.0.0.0	asqcondenast.nuggad.net
