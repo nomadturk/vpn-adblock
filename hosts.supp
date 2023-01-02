@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 2 Jan 17:06:07 +03 2023
-# Total number of blocked hosts are: 28543
+# Ad blocking hosts generated Mon 2 Jan 18:06:07 +03 2023
+# Total number of blocked hosts are: 28544
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -21620,6 +21620,7 @@
 0.0.0.0	smarturl.it
 0.0.0.0	smartxads.com
 0.0.0.0	smartyads.com
+0.0.0.0	smashquartz.com
 0.0.0.0	smashsurprise.com
 0.0.0.0	smc.silvercash.com
 0.0.0.0	s.media-imdb.com
