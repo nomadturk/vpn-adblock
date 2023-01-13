@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 13 Jan 15:06:07 +03 2023
-# Total number of blocked hosts are: 28543
+# Ad blocking hosts generated Fri 13 Jan 16:06:07 +03 2023
+# Total number of blocked hosts are: 28541
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4103,7 +4103,6 @@
 0.0.0.0	affiliate.baazee.com
 0.0.0.0	affiliate.bfashion.com
 0.0.0.0	affiliate.blucigs.com
-0.0.0.0	affiliate.doubleyourdating.com
 0.0.0.0	affiliate.dtiserv.com
 0.0.0.0	affiliate.exabytes.com.my
 0.0.0.0	affiliate-fr.com
@@ -18846,7 +18845,6 @@
 0.0.0.0	pl.spanel.gem.pl
 0.0.0.0	pltraffic8.com
 0.0.0.0	pluckypocket.com
-0.0.0.0	pluckytaste.com
 0.0.0.0	plugin.mediavoice.com
 0.0.0.0	plugins.blueconic.net
 0.0.0.0	pluginx.perfectgonzo.com
