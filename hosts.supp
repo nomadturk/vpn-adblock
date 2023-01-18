@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 19 Jan 01:06:08 +03 2023
-# Total number of blocked hosts are: 28542
+# Ad blocking hosts generated Thu 19 Jan 02:06:07 +03 2023
+# Total number of blocked hosts are: 28543
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -12326,6 +12326,7 @@
 0.0.0.0	go.data1rtb.com
 0.0.0.0	go.deliverymodo.com
 0.0.0.0	go.dhs.gov
+0.0.0.0	go.dnsfilter.com
 0.0.0.0	go.eu.bbelements.com
 0.0.0.0	go.eu.sparkpostmail1.com
 0.0.0.0	go.ezoic.net
