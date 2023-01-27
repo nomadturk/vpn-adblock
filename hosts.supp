@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 27 Jan 14:06:07 +03 2023
-# Total number of blocked hosts are: 28542
+# Ad blocking hosts generated Fri 27 Jan 15:06:12 +03 2023
+# Total number of blocked hosts are: 28540
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4006,7 +4006,6 @@
 0.0.0.0	adx.ads.oppomobile.com
 0.0.0.0	adx-asia.aarki.net
 0.0.0.0	adx-asia-imp.aarki.net
-0.0.0.0	adx.atnext.com
 0.0.0.0	adxcallback.batmobi.net
 0.0.0.0	adx.chip.de
 0.0.0.0	ad-x.co.uk
@@ -5480,7 +5479,6 @@
 0.0.0.0	ashleyfires.fr
 0.0.0.0	a.shop.com
 0.0.0.0	ashow.pcpop.com
-0.0.0.0	asia999.website
 0.0.0.0	asia.adform.net
 0.0.0.0	asia-analyzer-appstore.vivoglobal.com
 0.0.0.0	asia-comonrt-stsdk.vivoglobal.com
@@ -18668,7 +18666,6 @@
 0.0.0.0	pixel.advertising.com
 0.0.0.0	pixel-apac.rubiconproject.com
 0.0.0.0	pixel-apac.rubiconproject.net.akadns.net
-0.0.0.0	pixel.app.returnpath.net
 0.0.0.0	pixel-a.sitescout.com
 0.0.0.0	pixel.bilinmedia.net
 0.0.0.0	pixel.bounceexchange.com
@@ -18847,6 +18844,7 @@
 0.0.0.0	pl.spanel.gem.pl
 0.0.0.0	pltraffic8.com
 0.0.0.0	pluckypocket.com
+0.0.0.0	pluckytaste.com
 0.0.0.0	plugin.mediavoice.com
 0.0.0.0	plugins.blueconic.net
 0.0.0.0	pluginx.perfectgonzo.com
@@ -20720,7 +20718,6 @@
 0.0.0.0	script.crazyegg.com
 0.0.0.0	script.crsspxl.com
 0.0.0.0	script.dotmetrics.net
-0.0.0.0	scripte-monster.de
 0.0.0.0	script.fixel.ai
 0.0.0.0	script.hotjar.com
 0.0.0.0	script.leadboxer.com
@@ -20943,6 +20940,7 @@
 0.0.0.0	searchnigeria.net
 0.0.0.0	search-phentermine.hpage.net
 0.0.0.0	search.privitize.com
+0.0.0.0	searchramp.com
 0.0.0.0	search.sextracker.com
 0.0.0.0	search.spotxchange.com
 0.0.0.0	search.supplyframe.com
