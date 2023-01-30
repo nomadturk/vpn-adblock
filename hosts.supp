@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 30 Jan 21:06:07 +03 2023
-# Total number of blocked hosts are: 28541
+# Ad blocking hosts generated Mon 30 Jan 22:06:07 +03 2023
+# Total number of blocked hosts are: 28542
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -6736,6 +6736,7 @@
 0.0.0.0	braze.eu
 0.0.0.0	br.comclick.com
 0.0.0.0	breadbalance.com
+0.0.0.0	breahant.site
 0.0.0.0	breakableinsurance.com
 0.0.0.0	breakingnewsasia.com
 0.0.0.0	breaking-news.co
