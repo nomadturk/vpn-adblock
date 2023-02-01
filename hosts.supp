@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 2 Feb 00:06:07 +03 2023
-# Total number of blocked hosts are: 28541
+# Ad blocking hosts generated Thu 2 Feb 01:06:07 +03 2023
+# Total number of blocked hosts are: 28543
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -867,6 +867,7 @@
 0.0.0.0	acdn.adnxs-simple.com
 0.0.0.0	a.cdn.intentmedia.net
 0.0.0.0	ace.adoftheyear.com
+0.0.0.0	acemlnb.com
 0.0.0.0	aceshowbiz.us.intellitxt.com
 0.0.0.0	acessoires-electromenager.fr
 0.0.0.0	ace-tag.advertising.com
@@ -4538,6 +4539,7 @@
 0.0.0.0	analytics.mobile-cdn.walmart.com.akadns.net
 0.0.0.0	analytics.mobile.walmart.com
 0.0.0.0	analytics.mobile.yandex.net
+0.0.0.0	analytics.momentum-institut.at
 0.0.0.0	analytics.mopub.com
 0.0.0.0	analytics.moz.com
 0.0.0.0	analytics.msnbc.com
