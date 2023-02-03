@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 3 Feb 17:06:07 +03 2023
-# Total number of blocked hosts are: 28539
+# Ad blocking hosts generated Fri 3 Feb 18:06:08 +03 2023
+# Total number of blocked hosts are: 28540
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -21118,6 +21118,7 @@
 0.0.0.0	sergarius.popunder.ru
 0.0.0.0	serpens.iad-01.braze.com
 0.0.0.0	serpens.iad.appboy.com
+0.0.0.0	serpentshampoo.com
 0.0.0.0	serv0.com
 0.0.0.0	serv2.ad-rotator.com
 0.0.0.0	servad.mynet.com
