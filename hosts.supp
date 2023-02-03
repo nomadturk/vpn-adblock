@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 3 Feb 15:06:07 +03 2023
-# Total number of blocked hosts are: 28544
+# Ad blocking hosts generated Fri 3 Feb 16:06:08 +03 2023
+# Total number of blocked hosts are: 28539
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1667,7 +1667,6 @@
 0.0.0.0	ad.m5prod.net
 0.0.0.0	admagnet.net
 0.0.0.0	ad.mail.ru
-0.0.0.0	admailtiser.com
 0.0.0.0	admanage.com
 0.0.0.0	admanagement.ch
 0.0.0.0	admanager.btopenworld.com
@@ -2461,7 +2460,6 @@
 0.0.0.0	ads.emirates.net.ae
 0.0.0.0	ads.empoweringmedia.net
 0.0.0.0	ads.emqus.com
-0.0.0.0	adsend.de
 0.0.0.0	ads.energy-torrent.com
 0.0.0.0	ads.enliven.com
 0.0.0.0	ads.enrd.co
@@ -6161,7 +6159,6 @@
 0.0.0.0	bargainservice.online
 0.0.0.0	barilliance.net
 0.0.0.0	barnesandnoble.bfast.com
-0.0.0.0	basebanner.com
 0.0.0.0	base-cdn.admarvel.com
 0.0.0.0	baselinemag.us.intellitxt.com
 0.0.0.0	basketballbelieve.com
@@ -9940,7 +9937,6 @@
 0.0.0.0	direct.adsrvr.org
 0.0.0.0	directadvert.ru
 0.0.0.0	direct-events-collector.spot.im
-0.0.0.0	directivepub.com
 0.0.0.0	directleads.com
 0.0.0.0	directoffers.go2cloud.org
 0.0.0.0	directorym.com
@@ -19148,7 +19144,6 @@
 0.0.0.0	prmtracking.com
 0.0.0.0	prnewswire.122.2o7.net
 0.0.0.0	pro-accesssoires.fr
-0.0.0.0	pro-advertising.com
 0.0.0.0	probes.cedexis.com
 0.0.0.0	probe.yieldlab.net
 0.0.0.0	probikesshop.fr
@@ -22811,6 +22806,7 @@
 0.0.0.0	switchboard.mixpanel.com
 0.0.0.0	switch.d-agency.net
 0.0.0.0	switch.rtbsystem.com
+0.0.0.0	swordfishdc.com
 0.0.0.0	swordgoose.com
 0.0.0.0	sworkitads.herokuapp.com
 0.0.0.0	swrap.tradedoubler.com
@@ -24006,7 +24002,6 @@
 0.0.0.0	tracking.synthasite.net
 0.0.0.0	tracking.taboola.com
 0.0.0.0	tracking.tapinfluence.com
-0.0.0.0	tracking.theoceanac.online
 0.0.0.0	tracking.thinkabt.com
 0.0.0.0	tracking.tomsguide.com
 0.0.0.0	tracking.tomshardware.com
