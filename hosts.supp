@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 7 Feb 05:06:07 +03 2023
-# Total number of blocked hosts are: 28540
+# Ad blocking hosts generated Tue 7 Feb 06:06:07 +03 2023
+# Total number of blocked hosts are: 28541
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -23994,6 +23994,7 @@
 0.0.0.0	tracking.searchmarketing.com
 0.0.0.0	tracking.sembox.it
 0.0.0.0	tracking-server-prod-1.zenmxapps.com
+0.0.0.0	tracking.shopstyle.com
 0.0.0.0	tracking.skyword.com
 0.0.0.0	trackingsoft.com
 0.0.0.0	tracking.softwareprojects.com
