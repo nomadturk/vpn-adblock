@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 8 Feb 18:06:07 +03 2023
-# Total number of blocked hosts are: 28545
+# Ad blocking hosts generated Wed 8 Feb 19:06:08 +03 2023
+# Total number of blocked hosts are: 28553
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2114,6 +2114,7 @@
 0.0.0.0	ads.adroar.com
 0.0.0.0	ads.adsag.com
 0.0.0.0	ads.adsbookie.com
+0.0.0.0	ads.adsbtc.fun
 0.0.0.0	ads.adshareware.net
 0.0.0.0	ads.adsinimages.com
 0.0.0.0	ads.ads.netlog.com
@@ -2217,6 +2218,7 @@
 0.0.0.0	ads.b10f.jp
 0.0.0.0	ads-b-480313385.us-west-1.elb.amazonaws.com
 0.0.0.0	ads.baazee.com
+0.0.0.0	ads-backend.chaincliq.com
 0.0.0.0	ads.bangkokpost.co.th
 0.0.0.0	ads.bauerpublishing.com
 0.0.0.0	ads.bb59.ru
@@ -2243,6 +2245,7 @@
 0.0.0.0	ads.bigfoot.com
 0.0.0.0	ads.biggerboat.com
 0.0.0.0	ads.bigrebelads.com
+0.0.0.0	ads-bilek.com
 0.0.0.0	ads.bing.com
 0.0.0.0	ads.biscom.net
 0.0.0.0	ads.bittorrent.com
@@ -3098,6 +3101,7 @@
 0.0.0.0	adsmart.com
 0.0.0.0	adsmart.co.uk
 0.0.0.0	adsmart.net
+0.0.0.0	adsmartracker.com
 0.0.0.0	ads.massinfra.nl
 0.0.0.0	ads.matiro.com
 0.0.0.0	ads.mcafee.com
@@ -3301,6 +3305,7 @@
 0.0.0.0	ads.ppvmedien.de
 0.0.0.0	ads.praguetv.cz
 0.0.0.0	ads.prd.ie.internal.unity3d.com
+0.0.0.0	adspredictiv.com
 0.0.0.0	ads.premiumnetwork.net
 0.0.0.0	ads.pressdemo.com
 0.0.0.0	ads.pressflex.com
@@ -10951,6 +10956,7 @@
 0.0.0.0	eternal.reklamlab.com
 0.0.0.0	et-eus.w.inmobi.com
 0.0.0.0	e.thanksearch.com
+0.0.0.0	ethereum-ads.com
 0.0.0.0	ETHpolice.com
 0.0.0.0	et.kissmetrics.com
 0.0.0.0	etl.xlmc.sandai.net
@@ -16323,6 +16329,7 @@
 0.0.0.0	missjia.us.intellitxt.com
 0.0.0.0	mitsubishi.112.2o7.net
 0.0.0.0	miva.com
+0.0.0.0	mix2ads.com
 0.0.0.0	mixadvert.com
 0.0.0.0	mixedreading.com
 0.0.0.0	mixmarket.biz
@@ -23890,6 +23897,7 @@
 0.0.0.0	tracking.1-kv015-ap.co.uk
 0.0.0.0	tracking.21-a4652-bi.co.uk
 0.0.0.0	tracking22.com
+0.0.0.0	tracking.28-91473-wbm.co.uk
 0.0.0.0	tracking2.channeladvisor.com
 0.0.0.0	tracking2.hittail.com
 0.0.0.0	tracking.39-bb4a9-osm.co.uk
