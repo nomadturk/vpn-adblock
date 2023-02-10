@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 10 Feb 15:06:06 +03 2023
-# Total number of blocked hosts are: 28551
+# Ad blocking hosts generated Fri 10 Feb 16:06:07 +03 2023
+# Total number of blocked hosts are: 28550
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -25723,7 +25723,6 @@
 0.0.0.0	webstat.com
 0.0.0.0	webstat.net
 0.0.0.0	webstats1.com
-0.0.0.0	webstats4u.com
 0.0.0.0	webstats.motigo.com
 0.0.0.0	webstats.oanda.com
 0.0.0.0	webstats.one
