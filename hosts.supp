@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 13 Feb 14:06:08 +03 2023
-# Total number of blocked hosts are: 28550
+# Ad blocking hosts generated Mon 13 Feb 15:06:07 +03 2023
+# Total number of blocked hosts are: 28552
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4489,6 +4489,7 @@
 0.0.0.0	analytics.cohesionapps.com
 0.0.0.0	analytics-collector-28944298.us-east-1.elb.amazonaws.com
 0.0.0.0	analytics.console.aws.a2z.com
+0.0.0.0	analytics.dashboard.fingerprint.com
 0.0.0.0	analytics.digital-metric.com
 0.0.0.0	analytics.dnsfilter.com
 0.0.0.0	analytics.dspunion.com
@@ -21374,6 +21375,7 @@
 0.0.0.0	shinystat.com
 0.0.0.0	shinystat.it
 0.0.0.0	shinystat.shiny.it
+0.0.0.0	shiveringspot.com
 0.0.0.0	shlinks.industrybrains.com
 0.0.0.0	shoalike.fr
 0.0.0.0	shockgore.com
