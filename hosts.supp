@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 17 Feb 14:06:11 +03 2023
-# Total number of blocked hosts are: 28555
+# Ad blocking hosts generated Fri 17 Feb 15:06:07 +03 2023
+# Total number of blocked hosts are: 28550
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -141,7 +141,6 @@
 0.0.0.0	1in.cqcounter.com
 0.0.0.0	1it.cqcounter.com
 0.0.0.0	1jo.cqcounter.com
-0.0.0.0	1link2020.com
 0.0.0.0	1l-view.mail.ru
 0.0.0.0	1man1jar.org
 0.0.0.0	1man2needles.com
@@ -716,7 +715,6 @@
 0.0.0.0	a.abnad.net
 0.0.0.0	aac-lyon.fr
 0.0.0.0	aa.connextra.com
-0.0.0.0	aaddzz.com
 0.0.0.0	a.ad.gt
 0.0.0.0	a.adnium.com
 0.0.0.0	a.adorika.net
@@ -2463,6 +2461,7 @@
 0.0.0.0	ads.emirates.net.ae
 0.0.0.0	ads.empoweringmedia.net
 0.0.0.0	ads.emqus.com
+0.0.0.0	adsend.de
 0.0.0.0	ads.energy-torrent.com
 0.0.0.0	ads.enliven.com
 0.0.0.0	ads.enrd.co
@@ -8654,7 +8653,6 @@
 0.0.0.0	comcastresidentialservices.tt.omtrdc.net
 0.0.0.0	comcast.tt.omtrdc.net
 0.0.0.0	com-cdiscount.netmng.com
-0.0.0.0	comclick.com
 0.0.0.0	comcluster.cxense.com
 0.0.0.0	com.com
 0.0.0.0	comet.yahoo.com
@@ -10090,7 +10088,6 @@
 0.0.0.0	domainsponsor.com
 0.0.0.0	domains-resolver.net
 0.0.0.0	domainsteam.de
-0.0.0.0	domdex.com
 0.0.0.0	domesticwindow.com
 0.0.0.0	dominionenterprises.112.2o7.net
 0.0.0.0	dondolino.it
@@ -11519,7 +11516,6 @@
 0.0.0.0	fitness-for-ever.com
 0.0.0.0	five.partner.archive-it.org
 0.0.0.0	fixbonus.com
-0.0.0.0	fixel.ai
 0.0.0.0	fixya.us.intellitxt.com
 0.0.0.0	fizzylabs.afftrack.com
 0.0.0.0	fl01.ct2.comclick.com
@@ -13959,7 +13955,6 @@
 0.0.0.0	ipdata.adtech.us
 0.0.0.0	ipds.adrta.com
 0.0.0.0	ipds.gateway.adrta.com
-0.0.0.0	iperceptions.com
 0.0.0.0	ip-geo.appspot.com
 0.0.0.0	ipi9.fr
 0.0.0.0	ipinyou.com
