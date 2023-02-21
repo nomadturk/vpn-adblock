@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 21 Feb 19:06:07 +03 2023
-# Total number of blocked hosts are: 28613
+# Ad blocking hosts generated Tue 21 Feb 20:06:07 +03 2023
+# Total number of blocked hosts are: 28614
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1352,6 +1352,7 @@
 0.0.0.0	adcontroller.unicast.com
 0.0.0.0	ad.cooks.com
 0.0.0.0	adcounter.theglobeandmail.com
+0.0.0.0	adcovery.com
 0.0.0.0	adcreative.naver.com
 0.0.0.0	ad.crwdcntrl.net
 0.0.0.0	adc-serv.net
