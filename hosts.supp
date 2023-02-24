@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 24 Feb 11:06:07 +03 2023
-# Total number of blocked hosts are: 28614
+# Ad blocking hosts generated Fri 24 Feb 12:06:07 +03 2023
+# Total number of blocked hosts are: 28615
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -19245,6 +19245,7 @@
 0.0.0.0	profile-api-prod-elb.53.localytics.com
 0.0.0.0	profile.localytics.com
 0.0.0.0	profile-lookup.services.53.localytics.com
+0.0.0.0	profilenetflix.com
 0.0.0.0	profiles.hitslink.com
 0.0.0.0	profiles.segment.com
 0.0.0.0	profile.uproxx.com
