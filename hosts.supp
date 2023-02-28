@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 28 Feb 23:06:06 +03 2023
-# Total number of blocked hosts are: 28625
+# Ad blocking hosts generated Wed 1 Mar 00:06:07 +03 2023
+# Total number of blocked hosts are: 28621
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -15520,7 +15520,6 @@
 0.0.0.0	mail-en-marche.fr
 0.0.0.0	mailfoogae.appspot.com
 0.0.0.0	mail.hallym.ac.kr
-0.0.0.0	mail.hz.zh.cn
 0.0.0.0	mail.imamu.edu.sa
 0.0.0.0	mail.interq.or.jp
 0.0.0.0	mail.ioc.ac.ru
@@ -15528,14 +15527,12 @@
 0.0.0.0	maillots-ffoot-actu.fr
 0.0.0.0	mail.pmo.ac.cn
 0.0.0.0	mail.radar.imgsmail.ru
-0.0.0.0	mails.cneic.com.cn
 0.0.0.0	mail.siom.ac.cn
 0.0.0.0	mailtrack.fr
 0.0.0.0	mailtrack.me
 0.0.0.0	mailtribune.112.2o7.net
 0.0.0.0	mailtribunecom.112.2o7.net
 0.0.0.0	mail.tropmet.res.in
-0.0.0.0	mail.tsinghua.edu.cn
 0.0.0.0	mainadv.com
 0.0.0.0	main-boost.com
 0.0.0.0	main.exoclick.com
@@ -27839,7 +27836,6 @@
 0.0.0.0	www.simplyhelper.com
 0.0.0.0	www.sinera.org
 0.0.0.0	www.singlesadnetwork.com
-0.0.0.0	www.siom.ac.cn
 0.0.0.0	www.sitestats.com
 0.0.0.0	www.sitestatslive.com
 0.0.0.0	www.sitetagger.co.uk
