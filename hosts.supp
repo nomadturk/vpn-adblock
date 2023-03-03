@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 3 Mar 18:06:07 +03 2023
-# Total number of blocked hosts are: 28625
+# Ad blocking hosts generated Fri 3 Mar 19:06:08 +03 2023
+# Total number of blocked hosts are: 28626
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -8193,6 +8193,7 @@
 0.0.0.0	click.dealshark.com
 0.0.0.0	clickdensity.com
 0.0.0.0	click.digital.metaquestmail.com
+0.0.0.0	click.discord.com
 0.0.0.0	click.e.bbcmail.co.uk
 0.0.0.0	clickedyclick.com
 0.0.0.0	click.email.bbc.com
