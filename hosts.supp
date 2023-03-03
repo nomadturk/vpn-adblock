@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 3 Mar 15:06:07 +03 2023
-# Total number of blocked hosts are: 28622
+# Ad blocking hosts generated Fri 3 Mar 16:06:07 +03 2023
+# Total number of blocked hosts are: 28625
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -141,6 +141,7 @@
 0.0.0.0	1in.cqcounter.com
 0.0.0.0	1it.cqcounter.com
 0.0.0.0	1jo.cqcounter.com
+0.0.0.0	1link2020.com
 0.0.0.0	1l-view.mail.ru
 0.0.0.0	1man1jar.org
 0.0.0.0	1man2needles.com
@@ -5494,6 +5495,7 @@
 0.0.0.0	ashleyfires.fr
 0.0.0.0	a.shop.com
 0.0.0.0	ashow.pcpop.com
+0.0.0.0	asia999.website
 0.0.0.0	asia.adform.net
 0.0.0.0	asia-analyzer-appstore.vivoglobal.com
 0.0.0.0	asia-comonrt-stsdk.vivoglobal.com
@@ -20781,6 +20783,7 @@
 0.0.0.0	script.crazyegg.com
 0.0.0.0	script.crsspxl.com
 0.0.0.0	script.dotmetrics.net
+0.0.0.0	scripte-monster.de
 0.0.0.0	script.fixel.ai
 0.0.0.0	script.hotjar.com
 0.0.0.0	script.leadboxer.com
