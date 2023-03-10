@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 11 Mar 00:06:07 +03 2023
-# Total number of blocked hosts are: 28629
+# Ad blocking hosts generated Sat 11 Mar 01:06:08 +03 2023
+# Total number of blocked hosts are: 28630
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -21439,6 +21439,7 @@
 0.0.0.0	shinystat.it
 0.0.0.0	shinystat.shiny.it
 0.0.0.0	shiveringspot.com
+0.0.0.0	shiverscissors.com
 0.0.0.0	shlinks.industrybrains.com
 0.0.0.0	shoalike.fr
 0.0.0.0	shockgore.com
