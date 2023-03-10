@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 10 Mar 14:06:13 +03 2023
-# Total number of blocked hosts are: 28628
+# Ad blocking hosts generated Fri 10 Mar 15:06:07 +03 2023
+# Total number of blocked hosts are: 28629
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -18902,7 +18902,6 @@
 0.0.0.0	pl.spanel.gem.pl
 0.0.0.0	pltraffic8.com
 0.0.0.0	pluckypocket.com
-0.0.0.0	pluckytaste.com
 0.0.0.0	plugin.mediavoice.com
 0.0.0.0	plugins.blueconic.net
 0.0.0.0	pluginx.perfectgonzo.com
@@ -19203,6 +19202,7 @@
 0.0.0.0	prmtracking.com
 0.0.0.0	prnewswire.122.2o7.net
 0.0.0.0	pro-accesssoires.fr
+0.0.0.0	pro-advertising.com
 0.0.0.0	probes.cedexis.com
 0.0.0.0	probe.yieldlab.net
 0.0.0.0	probikesshop.fr
@@ -24088,6 +24088,7 @@
 0.0.0.0	tracking.synthasite.net
 0.0.0.0	tracking.taboola.com
 0.0.0.0	tracking.tapinfluence.com
+0.0.0.0	tracking.theoceanac.online
 0.0.0.0	tracking.thinkabt.com
 0.0.0.0	tracking.tomsguide.com
 0.0.0.0	tracking.tomshardware.com
