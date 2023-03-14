@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 14 Mar 05:06:07 +03 2023
-# Total number of blocked hosts are: 28630
+# Ad blocking hosts generated Tue 14 Mar 06:06:08 +03 2023
+# Total number of blocked hosts are: 28635
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -804,6 +804,7 @@
 0.0.0.0	abi83-schramberg.de
 0.0.0.0	a.bitmango.com
 0.0.0.0	able2know.us.intellitxt.com
+0.0.0.0	a.blesk.cz
 0.0.0.0	ablink.comms.trainline.com
 0.0.0.0	ablink.news.emails-puregym.com
 0.0.0.0	ablinks.mail.hinge.co
@@ -870,6 +871,7 @@
 0.0.0.0	a.cdn.intentmedia.net
 0.0.0.0	ace.adoftheyear.com
 0.0.0.0	acemlnb.com
+0.0.0.0	a.centrum.cz
 0.0.0.0	aceshowbiz.us.intellitxt.com
 0.0.0.0	acessoires-electromenager.fr
 0.0.0.0	ace-tag.advertising.com
@@ -1421,6 +1423,7 @@
 0.0.0.0	ad-emea.doubleclick.net
 0.0.0.0	adengage.com
 0.0.0.0	adengine.rt.ru
+0.0.0.0	a.denik.cz
 0.0.0.0	ad.epochtimes.com
 0.0.0.0	ad.eporner.com
 0.0.0.0	ad.es.doubleclick.net
@@ -4237,6 +4240,7 @@
 0.0.0.0	aimg.haber3.com
 0.0.0.0	a.imonomy.com
 0.0.0.0	a.independent.co.uk
+0.0.0.0	a.iprima.cz
 0.0.0.0	aiqua-config.c.appier.net
 0.0.0.0	aiqua-sdk.c.appier.net
 0.0.0.0	aiqua-user.c.appier.net
@@ -5525,6 +5529,7 @@
 0.0.0.0	askto.net
 0.0.0.0	askubal.fr
 0.0.0.0	ask.webatall.com
+0.0.0.0	a.slunecnice.cz
 0.0.0.0	asm2.z1.adserver.com
 0.0.0.0	asm3.z1.adserver.com
 0.0.0.0	asmedia.adsupplyssl.com
