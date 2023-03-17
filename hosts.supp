@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 17 Mar 15:06:07 +03 2023
-# Total number of blocked hosts are: 28635
+# Ad blocking hosts generated Fri 17 Mar 16:06:08 +03 2023
+# Total number of blocked hosts are: 28634
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1737,7 +1737,6 @@
 0.0.0.0	admized.com
 0.0.0.0	admob.com
 0.0.0.0	ad.mobiuspace.net
-0.0.0.0	ad.mobstazinc.cn
 0.0.0.0	ad.mo.doubleclick.net
 0.0.0.0	ad.monetate.net
 0.0.0.0	admonitor.com
@@ -1839,7 +1838,6 @@
 0.0.0.0	ad.partis.si
 0.0.0.0	adpatrof.com
 0.0.0.0	ad-pay.de
-0.0.0.0	adpenguin.biz
 0.0.0.0	adpepper.dk
 0.0.0.0	adpepper.nl
 0.0.0.0	ad.period-calendar.com
@@ -24336,6 +24334,7 @@
 0.0.0.0	trafmag.com
 0.0.0.0	trafsearchonline.com
 0.0.0.0	trailblazers.122.2o7.net
+0.0.0.0	traildelsfars.com
 0.0.0.0	traileraddict.us.intellitxt.com
 0.0.0.0	traktrafficflow.com
 0.0.0.0	traktum.com
