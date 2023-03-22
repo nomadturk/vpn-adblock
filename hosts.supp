@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 22 Mar 03:06:07 +03 2023
-# Total number of blocked hosts are: 28634
+# Ad blocking hosts generated Wed 22 Mar 04:06:07 +03 2023
+# Total number of blocked hosts are: 28631
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4502,7 +4502,6 @@
 0.0.0.0	analytics.console.aws.a2z.com
 0.0.0.0	analytics.dashboard.fingerprint.com
 0.0.0.0	analytics.digital-metric.com
-0.0.0.0	analytics.dnsfilter.com
 0.0.0.0	analytics.dspunion.com
 0.0.0.0	analytics.edgekey.net
 0.0.0.0	analytics.emarketer.com
@@ -10838,7 +10837,6 @@
 0.0.0.0	engage8829thscr.deltadna.net
 0.0.0.0	engagebdr.com
 0.0.0.0	engage.commander1.com
-0.0.0.0	engage.dnsfilter.com
 0.0.0.0	engage.everyone.net
 0.0.0.0	engage.marketo.com
 0.0.0.0	engagement-collector.mobify.net
@@ -12369,7 +12367,6 @@
 0.0.0.0	go.data1rtb.com
 0.0.0.0	go.deliverymodo.com
 0.0.0.0	go.dhs.gov
-0.0.0.0	go.dnsfilter.com
 0.0.0.0	go.eu.bbelements.com
 0.0.0.0	go.eu.sparkpostmail1.com
 0.0.0.0	go.ezoic.net
