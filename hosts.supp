@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 24 Mar 15:06:07 +03 2023
-# Total number of blocked hosts are: 28632
+# Ad blocking hosts generated Fri 24 Mar 16:06:07 +03 2023
+# Total number of blocked hosts are: 28630
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3384,7 +3384,6 @@
 0.0.0.0	ads.rohea.com
 0.0.0.0	ads.roiserver.com
 0.0.0.0	ads-rolandgarros.com
-0.0.0.0	adsroller.com
 0.0.0.0	ads.rondomondo.com
 0.0.0.0	ads.rootzoo.com
 0.0.0.0	ads-rouge.haber7.com
@@ -23956,7 +23955,6 @@
 0.0.0.0	track.game18click.com
 0.0.0.0	track.gaug.es
 0.0.0.0	track.gawker.com
-0.0.0.0	track.homejobs.careers
 0.0.0.0	track.homestead.com
 0.0.0.0	track.hubspot.com
 0.0.0.0	tracki112.com
