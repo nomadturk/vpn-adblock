@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 25 Mar 04:06:07 +03 2023
-# Total number of blocked hosts are: 28630
+# Ad blocking hosts generated Sat 25 Mar 05:06:07 +03 2023
+# Total number of blocked hosts are: 28631
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -8233,6 +8233,7 @@
 0.0.0.0	click.news.vans.com
 0.0.0.0	click.newviralmobistore.com
 0.0.0.0	click.nl.npr.org
+0.0.0.0	click.nvgaming.nvidia.com
 0.0.0.0	click.oneplus.com
 0.0.0.0	clickonometrics.pl
 0.0.0.0	click.payserve.com
