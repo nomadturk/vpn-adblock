@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 31 Mar 14:06:07 +03 2023
-# Total number of blocked hosts are: 28639
+# Ad blocking hosts generated Fri 31 Mar 15:06:07 +03 2023
+# Total number of blocked hosts are: 28638
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3051,7 +3051,6 @@
 0.0.0.0	ads.kelbymediagroup.com
 0.0.0.0	ads-kesselhaus.com
 0.0.0.0	ads.keywordblocks.com
-0.0.0.0	ads.kinobox.cz
 0.0.0.0	ads.kinxxx.com
 0.0.0.0	adsklick.de
 0.0.0.0	ads.kokteyl.com
@@ -3384,6 +3383,7 @@
 0.0.0.0	ads.rohea.com
 0.0.0.0	ads.roiserver.com
 0.0.0.0	ads-rolandgarros.com
+0.0.0.0	adsroller.com
 0.0.0.0	ads.rondomondo.com
 0.0.0.0	ads.rootzoo.com
 0.0.0.0	ads-rouge.haber7.com
@@ -12208,7 +12208,6 @@
 0.0.0.0	getyourgiftnow2.blogspot.com
 0.0.0.0	getyourgiftnow3.blogspot.com
 0.0.0.0	gezinti.com
-0.0.0.0	gfcim5.gq
 0.0.0.0	gflinks.industrybrains.com
 0.0.0.0	gglcash4u.info
 0.0.0.0	ghacks.de.intellitxt.com
