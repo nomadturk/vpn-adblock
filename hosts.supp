@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun 2 Apr 01:06:07 +03 2023
-# Total number of blocked hosts are: 28639
+# Ad blocking hosts generated Sun 2 Apr 02:06:07 +03 2023
+# Total number of blocked hosts are: 28640
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -12944,6 +12944,7 @@
 0.0.0.0	hitslog.com
 0.0.0.0	hits.netgeography.net
 0.0.0.0	hits.puls.lv
+0.0.0.0	hits.sh
 0.0.0.0	hits.spylog.com
 0.0.0.0	hit.stat24.com
 0.0.0.0	hitstatus.com
