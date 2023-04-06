@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 6 Apr 22:06:07 +03 2023
-# Total number of blocked hosts are: 28641
+# Ad blocking hosts generated Thu 6 Apr 23:06:07 +03 2023
+# Total number of blocked hosts are: 28645
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -166,6 +166,7 @@
 0.0.0.0	2000greetings.com
 0.0.0.0	2001positions.com
 0.0.0.0	2006mindfreaklike.blogspot.com
+0.0.0.0	2023cradep0sit.com
 0.0.0.0	20298.engine.mobileapptracking.com
 0.0.0.0	20585485p.rfihub.com
 0.0.0.0	20738914p.rfihub.com
@@ -19056,6 +19057,8 @@
 0.0.0.0	postback.iqm.com
 0.0.0.0	postbox.mos.ru
 0.0.0.0	post-canada-delivery2023.com
+0.0.0.0	postcanada.ship-express.info
+0.0.0.0	postcanada.ship-priority.info
 0.0.0.0	postclick.adcentriconline.com
 0.0.0.0	poster.gamesprite.me
 0.0.0.0	postimp-ofw.fyber.com
@@ -24611,6 +24614,7 @@
 0.0.0.0	twotreymedia10001697.o18.click
 0.0.0.0	t.wowanalytics.co.uk
 0.0.0.0	twyn.com
+0.0.0.0	tx2returnhome.com
 0.0.0.0	tx.5.p2l.info
 0.0.0.0	tx.micro.net.pk
 0.0.0.0	txn.ingest.crittercism.com
