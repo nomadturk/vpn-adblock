@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 14 Apr 13:06:07 +03 2023
-# Total number of blocked hosts are: 28645
+# Ad blocking hosts generated Fri 14 Apr 14:06:07 +03 2023
+# Total number of blocked hosts are: 28646
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3737,6 +3737,7 @@
 0.0.0.0	ads.zeusclicks.com
 0.0.0.0	ads.ztod.com
 0.0.0.0	ads.zynga.com
+0.0.0.0	adt598.com
 0.0.0.0	adtactics.com
 0.0.0.0	adtag.ad.smaato.net
 0.0.0.0	adtag.cc
