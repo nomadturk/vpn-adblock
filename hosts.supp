@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 14 Apr 04:06:07 +03 2023
-# Total number of blocked hosts are: 28644
+# Ad blocking hosts generated Fri 14 Apr 05:06:07 +03 2023
+# Total number of blocked hosts are: 28645
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -10569,7 +10569,6 @@
 0.0.0.0	eds.ca.matchbox.maruhub.com
 0.0.0.0	e.dtscout.com
 0.0.0.0	eduardorodrigues.adv.br
-0.0.0.0	educationdynamics.com
 0.0.0.0	educationmanagementl.tt.omtrdc.net
 0.0.0.0	education-securiter-routiere.fr
 0.0.0.0	eduthermas.sk
@@ -10988,6 +10987,7 @@
 0.0.0.0	etahub.com
 0.0.0.0	e.targetfuel.com
 0.0.0.0	etargetnet.com
+0.0.0.0	et.educationdynamics.com
 0.0.0.0	eten-users.us.intellitxt.com
 0.0.0.0	eternal.reklamlab.com
 0.0.0.0	et-eus.w.inmobi.com
@@ -25941,6 +25941,7 @@
 0.0.0.0	widget.crowdignite.com
 0.0.0.0	widget.da1.vip.prod.criteo.com
 0.0.0.0	widget.da.us.criteo.com
+0.0.0.0	widget.educationdynamics.com
 0.0.0.0	widget.engageya.com
 0.0.0.0	widget.eu.criteo.com
 0.0.0.0	widget.fitanalytics.com
