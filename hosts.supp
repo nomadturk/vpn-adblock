@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 28 Apr 14:06:07 +03 2023
-# Total number of blocked hosts are: 28645
+# Ad blocking hosts generated Fri 28 Apr 15:06:07 +03 2023
+# Total number of blocked hosts are: 28642
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2543,7 +2543,6 @@
 0.0.0.0	adserver.4clicks.org
 0.0.0.0	adserver4.fluent.ltd.uk
 0.0.0.0	adserver-4.ig.com.br
-0.0.0.0	adserver5b.xyz
 0.0.0.0	adserver-5.ig.com.br
 0.0.0.0	adserver.71i.de
 0.0.0.0	adserver9.contextad.com
@@ -3050,7 +3049,6 @@
 0.0.0.0	adskeeper.com
 0.0.0.0	adskeeper.co.uk
 0.0.0.0	ads.kelbymediagroup.com
-0.0.0.0	ads-kesselhaus.com
 0.0.0.0	ads.keywordblocks.com
 0.0.0.0	ads.kinxxx.com
 0.0.0.0	adsklick.de
@@ -10934,7 +10932,6 @@
 0.0.0.0	eremedia.112.2o7.net
 0.0.0.0	eren.ecoencomputer.com
 0.0.0.0	erie.smartage.com
-0.0.0.0	erne.co
 0.0.0.0	ero-advertising.com
 0.0.0.0	erobot-pisicne.fr
 0.0.0.0	erogames.fr
