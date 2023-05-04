@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 4 May 14:06:08 +03 2023
-# Total number of blocked hosts are: 27857
+# Ad blocking hosts generated Thu 4 May 15:06:07 +03 2023
+# Total number of blocked hosts are: 27858
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -6642,6 +6642,7 @@
 0.0.0.0	bs.yandex.ru
 0.0.0.0	btbuyerapp.com
 0.0.0.0	btcom.112.2o7.net
+0.0.0.0	btglss.net
 0.0.0.0	b.thanksearch.com
 0.0.0.0	btloader.com
 0.0.0.0	btlr-ecs-ap-southeast-1.sharethrough.com
