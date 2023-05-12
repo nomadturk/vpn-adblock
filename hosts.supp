@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 12 May 14:06:07 +03 2023
-# Total number of blocked hosts are: 27856
+# Ad blocking hosts generated Fri 12 May 15:06:08 +03 2023
+# Total number of blocked hosts are: 27852
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2315,7 +2315,6 @@
 0.0.0.0	ads.darkhardware.com
 0.0.0.0	ads.databrainz.com
 0.0.0.0	ads.ddj.com
-0.0.0.0	ads.delfin.bg
 0.0.0.0	ads.deliverimp.com
 0.0.0.0	ads.deltha.hu
 0.0.0.0	ads.democratandchronicle.com
@@ -2963,6 +2962,7 @@
 0.0.0.0	adskeeper.com
 0.0.0.0	adskeeper.co.uk
 0.0.0.0	ads.kelbymediagroup.com
+0.0.0.0	ads-kesselhaus.com
 0.0.0.0	ads.keywordblocks.com
 0.0.0.0	ads.kinxxx.com
 0.0.0.0	adsklick.de
@@ -5916,7 +5916,6 @@
 0.0.0.0	banners.iop.org
 0.0.0.0	banners.ipotd.com
 0.0.0.0	banners.iq.pl
-0.0.0.0	banners.isoftmarketing.com
 0.0.0.0	banners.jewishfriendfinder.com
 0.0.0.0	banners.ksl.com
 0.0.0.0	banners.linkbuddies.com
@@ -7508,7 +7507,6 @@
 0.0.0.0	cdn.otherlevels.com
 0.0.0.0	cdn.owebanalytics.com
 0.0.0.0	cdnp1.yieldoptimizer.com
-0.0.0.0	cdn.panelbear.com
 0.0.0.0	cdn.pardot.com
 0.0.0.0	cdn.parsely.com
 0.0.0.0	cdn.permutive.app
@@ -10682,7 +10680,6 @@
 0.0.0.0	et.w.inmobi.com
 0.0.0.0	etype.adbureau.net
 0.0.0.0	eu01.nr-data.net
-0.0.0.0	eu1.madsone.com
 0.0.0.0	eu1.snoobi.com
 0.0.0.0	eu1-spiky.wzrkt.com
 0.0.0.0	eu1.wzrkt.com
@@ -15048,7 +15045,6 @@
 0.0.0.0	magasine-omnicuiseur.fr
 0.0.0.0	magento-analytics.com
 0.0.0.0	maghrebfoot.com
-0.0.0.0	magicadz.co
 0.0.0.0	magicalipone.com
 0.0.0.0	magicaljoin.com
 0.0.0.0	magicalmonth.com
@@ -18081,7 +18077,6 @@
 0.0.0.0	phpads.flipcorp.com
 0.0.0.0	phpads.foundrymusic.com
 0.0.0.0	phpadsnew.abac.com
-0.0.0.0	phpadsnew.new.natuurpark.nl
 0.0.0.0	phpadsnew.wn.com
 0.0.0.0	phpancake.com
 0.0.0.0	php-mag.de.intellitxt.com
@@ -23059,6 +23054,7 @@
 0.0.0.0	topapps-func.pinsightmedia.com
 0.0.0.0	top.artcomix.com
 0.0.0.0	topbestgames.com
+0.0.0.0	topbucks.com
 0.0.0.0	topcashvibes.com
 0.0.0.0	top-casting-termine.de
 0.0.0.0	topconsumergifts.com
