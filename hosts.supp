@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 19 May 13:06:07 +03 2023
-# Total number of blocked hosts are: 27852
+# Ad blocking hosts generated Fri 19 May 14:06:07 +03 2023
+# Total number of blocked hosts are: 27850
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3381,7 +3381,6 @@
 0.0.0.0	ads.smowtion.com
 0.0.0.0	ads.snapchat.com
 0.0.0.0	ads.snowball.com
-0.0.0.0	ads.socapro.com
 0.0.0.0	ads.socialreach.com
 0.0.0.0	ads.socialtheater.com
 0.0.0.0	ads.soft32.com
@@ -4026,7 +4025,6 @@
 0.0.0.0	affiliatelanding.superbahis199.com
 0.0.0.0	affiliate.mlntracker.com
 0.0.0.0	affiliate.mogs.com
-0.0.0.0	affiliate.offgamers.com
 0.0.0.0	affiliate.rusvpn.com
 0.0.0.0	affiliates.allposters.com
 0.0.0.0	affiliates.arvixe.com
@@ -15045,6 +15043,7 @@
 0.0.0.0	magasine-omnicuiseur.fr
 0.0.0.0	magento-analytics.com
 0.0.0.0	maghrebfoot.com
+0.0.0.0	magicadz.co
 0.0.0.0	magicalipone.com
 0.0.0.0	magicaljoin.com
 0.0.0.0	magicalmonth.com
@@ -16041,7 +16040,6 @@
 0.0.0.0	mobimagic.com
 0.0.0.0	mobisla.com
 0.0.0.0	mobivity.com
-0.0.0.0	mobperads.net
 0.0.0.0	mobpowertech.com
 0.0.0.0	mobpushup.com
 0.0.0.0	mobrevflwms.com
