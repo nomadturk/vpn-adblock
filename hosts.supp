@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 23 May 00:06:07 +03 2023
-# Total number of blocked hosts are: 27850
+# Ad blocking hosts generated Tue 23 May 01:06:29 +03 2023
+# Total number of blocked hosts are: 27851
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -18372,6 +18372,7 @@
 0.0.0.0	pnapi.invoca.net
 0.0.0.0	p.nexac.com
 0.0.0.0	p-n.io
+0.0.0.0	pnrtscr.com
 0.0.0.0	pnrt-stsdk.vivo.com.cn
 0.0.0.0	pnrt.stsdk.vivo.com.cn
 0.0.0.0	pntm.adbureau.net
