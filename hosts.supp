@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 26 May 16:06:07 +03 2023
-# Total number of blocked hosts are: 27999
+# Ad blocking hosts generated Fri 26 May 17:06:07 +03 2023
+# Total number of blocked hosts are: 28000
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -14598,6 +14598,7 @@
 0.0.0.0	link4link.com
 0.0.0.0	link4win.net
 0.0.0.0	linkadd.de
+0.0.0.0	link.axios.com
 0.0.0.0	link-booster.de
 0.0.0.0	linkbuddies.com
 0.0.0.0	linkcounter.com
