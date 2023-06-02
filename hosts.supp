@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 2 Jun 16:06:07 +03 2023
-# Total number of blocked hosts are: 27815
+# Ad blocking hosts generated Fri 2 Jun 17:06:07 +03 2023
+# Total number of blocked hosts are: 27819
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -9140,6 +9140,7 @@
 0.0.0.0	d14.zedo.com
 0.0.0.0	d169bbxks24g2u.cloudfront.net
 0.0.0.0	d1.cdn.adbetnet.com
+0.0.0.0	d1f0tbk1v3e25u.cloudfront.net
 0.0.0.0	d1fc8wv8zag5ca.cloudfront.net
 0.0.0.0	d1jikhx1ssl81z.cloudfront.net
 0.0.0.0	d1l6p2sc9645hc.cloudfront.net
@@ -9177,6 +9178,7 @@
 0.0.0.0	d6.zedo.com
 0.0.0.0	d7.zedo.com
 0.0.0.0	d806-us.api.decibelinsight.net
+0.0.0.0	d81mfvml8p5ml.cloudfront.net
 0.0.0.0	d8.zedo.com
 0.0.0.0	d9d0e0.r.axf8.net
 0.0.0.0	d9.flashtalking.com
@@ -22340,6 +22342,7 @@
 0.0.0.0	tag.contextweb.com
 0.0.0.0	tag.crsspxl.com
 0.0.0.0	tag.demandbase.com
+0.0.0.0	tag-demo.mention-me.com
 0.0.0.0	tag.dickssportinggoods.com
 0.0.0.0	tag.durationmedia.net
 0.0.0.0	tag-dyn.omnitagjs.com
@@ -22356,6 +22359,7 @@
 0.0.0.0	tagmans3.adsolutions.com
 0.0.0.0	tag.marinsm.com
 0.0.0.0	tagmediation.supersonicads.com
+0.0.0.0	tag.mention-me.com
 0.0.0.0	tag.mtrcs.samba.tv
 0.0.0.0	tag.navdmp.com
 0.0.0.0	tag.onscroll.com
