@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 7 Jun 19:06:07 +03 2023
-# Total number of blocked hosts are: 27818
+# Ad blocking hosts generated Wed 7 Jun 20:06:06 +03 2023
+# Total number of blocked hosts are: 27819
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -26224,6 +26224,7 @@
 0.0.0.0	www.etahub.com
 0.0.0.0	www.e-traffic.com
 0.0.0.0	www.etraffic.com
+0.0.0.0	www.e-transfer-cra.com
 0.0.0.0	www.europerank.com
 0.0.0.0	www.euros4click.de
 0.0.0.0	www.eva.hi-ho.ne.jp
