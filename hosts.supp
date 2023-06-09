@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 9 Jun 14:06:07 +03 2023
-# Total number of blocked hosts are: 28012
+# Ad blocking hosts generated Fri 9 Jun 15:06:07 +03 2023
+# Total number of blocked hosts are: 28010
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -20920,7 +20920,6 @@
 0.0.0.0	sheknows.us.intellitxt.com
 0.0.0.0	shellstore.info
 0.0.0.0	sher.index.hu
-0.0.0.0	shermore.info
 0.0.0.0	shesubscriptions.com
 0.0.0.0	shichihukuudon.com
 0.0.0.0	shiiva.fr
@@ -27820,7 +27819,6 @@
 0.0.0.0	yieldlab.net
 0.0.0.0	yieldlab.net.edgekey.net
 0.0.0.0	yield-manager.browsiprod.com
-0.0.0.0	yieldmanager.com
 0.0.0.0	yieldmanager.net
 0.0.0.0	yieldmo.com
 0.0.0.0	yieldoptimizer.com
