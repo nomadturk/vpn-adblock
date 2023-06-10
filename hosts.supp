@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 10 Jun 05:06:07 +03 2023
-# Total number of blocked hosts are: 28010
+# Ad blocking hosts generated Sat 10 Jun 06:06:07 +03 2023
+# Total number of blocked hosts are: 28011
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -25106,6 +25106,7 @@
 0.0.0.0	webalize.net
 0.0.0.0	webanalytics.localytics.com
 0.0.0.0	webanalyticsnossl.websense.com
+0.0.0.0	webanalytics.zohodcm.com
 0.0.0.0	webapi.hot-mob.com
 0.0.0.0	webassembly.stream
 0.0.0.0	webatic.fr
