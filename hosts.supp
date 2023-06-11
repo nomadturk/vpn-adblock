@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun 11 Jun 02:06:07 +03 2023
-# Total number of blocked hosts are: 28011
+# Ad blocking hosts generated Sun 11 Jun 03:06:07 +03 2023
+# Total number of blocked hosts are: 28012
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -23074,6 +23074,7 @@
 0.0.0.0	tiplanet.fr
 0.0.0.0	tips.oewabox.at
 0.0.0.0	tipsurf.com
+0.0.0.0	tiqcdn.com
 0.0.0.0	tirerackcom.112.2o7.net
 0.0.0.0	tiresomethunder.com
 0.0.0.0	tirolcom.oewabox.at
