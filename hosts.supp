@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 15 Jun 17:06:07 +03 2023
-# Total number of blocked hosts are: 28014
+# Ad blocking hosts generated Thu 15 Jun 18:06:07 +03 2023
+# Total number of blocked hosts are: 28017
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -7495,6 +7495,7 @@
 0.0.0.0	cdn.mobsocmedia.com
 0.0.0.0	cdn.moengage.com
 0.0.0.0	cdn.mookie1.com
+0.0.0.0	cdn.mouseflow.com
 0.0.0.0	cdn.mplxtms.com
 0.0.0.0	cdn.mxpnl.com
 0.0.0.0	cdn.nanigans.com
@@ -16529,6 +16530,7 @@
 0.0.0.0	n1.nskfyl.com
 0.0.0.0	n1up.fr
 0.0.0.0	n24se.nuggad.net
+0.0.0.0	n2.mouseflow.com
 0.0.0.0	n2.nskfyl.com
 0.0.0.0	n2.smartyads.com
 0.0.0.0	n339.asp-cc.com
@@ -17104,6 +17106,7 @@
 0.0.0.0	o1.inviziads.com
 0.0.0.0	o1.qnsr.com
 0.0.0.0	o2.eyereturn.com
+0.0.0.0	o2.mouseflow.com
 0.0.0.0	o333o.com
 0.0.0.0	o3sndvzo25.com
 0.0.0.0	o861134.ingest.sentry.io
