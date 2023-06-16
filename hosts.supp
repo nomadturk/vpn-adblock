@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 16 Jun 14:06:07 +03 2023
-# Total number of blocked hosts are: 28017
+# Ad blocking hosts generated Fri 16 Jun 15:06:07 +03 2023
+# Total number of blocked hosts are: 28016
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2112,7 +2112,6 @@
 0.0.0.0	ads.apn.co.za
 0.0.0.0	adsapp.gotrackier.com
 0.0.0.0	ads.appsgeyser.com
-0.0.0.0	ads.apteka254.ru
 0.0.0.0	ads.araba.com
 0.0.0.0	ads.aralego.com
 0.0.0.0	ads.arkitera.net
