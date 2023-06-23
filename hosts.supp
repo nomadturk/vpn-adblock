@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 23 Jun 14:06:07 +03 2023
-# Total number of blocked hosts are: 28019
+# Ad blocking hosts generated Fri 23 Jun 15:06:07 +03 2023
+# Total number of blocked hosts are: 28018
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4513,7 +4513,6 @@
 0.0.0.0	analytics.zendesk.com
 0.0.0.0	analytics.zg-api.com
 0.0.0.0	analytics.ziftsolutions.com
-0.0.0.0	analytik.xyz
 0.0.0.0	analyzer51.fc2.com
 0.0.0.0	anapixel.marca.com
 0.0.0.0	an.batmobi.net
@@ -8152,7 +8151,6 @@
 0.0.0.0	clktrk.com
 0.0.0.0	clkuk.tradedoubler.com
 0.0.0.0	cl.netseer.com
-0.0.0.0	cloisteredcord.com
 0.0.0.0	cloisteredhydrant.com
 0.0.0.0	c.lomadee.com
 0.0.0.0	clonezilla.es
@@ -19361,6 +19359,7 @@
 0.0.0.0	readersdigest.tt.omtrdc.net
 0.0.0.0	readgoldfish.com
 0.0.0.0	readingguilt.com
+0.0.0.0	readingopera.com
 0.0.0.0	readirectly.com
 0.0.0.0	readserver.net
 0.0.0.0	readymoon.com
