@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 26 Jun 21:06:07 +03 2023
-# Total number of blocked hosts are: 28019
+# Ad blocking hosts generated Mon 26 Jun 22:06:07 +03 2023
+# Total number of blocked hosts are: 28020
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -14619,6 +14619,7 @@
 0.0.0.0	linkreferral.com
 0.0.0.0	links-and-traffic.com
 0.0.0.0	link-scan.net
+0.0.0.0	links.email.crunchbase.com
 0.0.0.0	linkshighway.com
 0.0.0.0	links.industrybrains.com
 0.0.0.0	links.outster.com
