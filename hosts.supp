@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 27 Jun 00:06:06 +03 2023
-# Total number of blocked hosts are: 28020
+# Ad blocking hosts generated Tue 27 Jun 01:06:07 +03 2023
+# Total number of blocked hosts are: 28019
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -798,7 +798,6 @@
 0.0.0.0	abtracker.adultbouncer.com
 0.0.0.0	ab.tweakers.nl
 0.0.0.0	abyssmedia.fr
-0.0.0.0	abz.com
 0.0.0.0	ac9d98.r.axf8.net
 0.0.0.0	academy-internet.net
 0.0.0.0	ac.ajur.info
