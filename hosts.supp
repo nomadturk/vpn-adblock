@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 30 Jun 14:06:07 +03 2023
-# Total number of blocked hosts are: 28020
+# Ad blocking hosts generated Fri 30 Jun 15:06:06 +03 2023
+# Total number of blocked hosts are: 28019
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -7711,7 +7711,6 @@
 0.0.0.0	certify-amp.alexametrics.com
 0.0.0.0	certify-js.alexametrics.com
 0.0.0.0	cesdeals.fr
-0.0.0.0	ceskydomov.alias.ngs.modry.cz
 0.0.0.0	c.es.msn.com
 0.0.0.0	cetelemportugal2.solution.weborama.fr
 0.0.0.0	cetrk.com
@@ -8506,6 +8505,7 @@
 0.0.0.0	comvelgmbh.d1.sc.omtrdc.net
 0.0.0.0	com-vw.netmng.com
 0.0.0.0	concernedcondition.com
+0.0.0.0	concerneddrink.com
 0.0.0.0	concertads-configs.vox-cdn.com
 0.0.0.0	concert.io
 0.0.0.0	condeconsumermarketing.112.2o7.net
@@ -8665,6 +8665,7 @@
 0.0.0.0	convrse.media
 0.0.0.0	conv.tubemogul.com
 0.0.0.0	convusmp.admailtiser.com
+0.0.0.0	cookchalk.com
 0.0.0.0	cookeatshare.fr
 0.0.0.0	cookie.brealtime.com
 0.0.0.0	cookie-cdn.cookiepro.com
@@ -12337,7 +12338,6 @@
 0.0.0.0	h-adashx4ae.ut.taobao.com
 0.0.0.0	h-adashx.ut.taobao.com
 0.0.0.0	hades.getsocial.im
-0.0.0.0	hadskiz.com
 0.0.0.0	h-afnetwww.adshuffle.com
 0.0.0.0	hai2u.com
 0.0.0.0	hairboutique.us.intellitxt.com
@@ -14600,7 +14600,6 @@
 0.0.0.0	link4ads.com
 0.0.0.0	link4link.com
 0.0.0.0	link4win.net
-0.0.0.0	linkadd.de
 0.0.0.0	link.axios.com
 0.0.0.0	link-booster.de
 0.0.0.0	linkbuddies.com
@@ -21424,6 +21423,7 @@
 0.0.0.0	spi.domainsponsor.com
 0.0.0.0	spiffymachine.com
 0.0.0.0	spiketv.112.2o7.net
+0.0.0.0	spikyslave.com
 0.0.0.0	spinbox.com
 0.0.0.0	spinbox.freedom.com
 0.0.0.0	spinbox.techtracker.com
@@ -23444,7 +23444,6 @@
 0.0.0.0	tracking.fanbridge.com
 0.0.0.0	tracking.fccinteractive.com
 0.0.0.0	tracking.feedmob.com
-0.0.0.0	trackingfestival.com
 0.0.0.0	tracking.foxnews.com
 0.0.0.0	tracking.gajmp.com
 0.0.0.0	tracking.godatafeed.com
