@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 30 Jun 17:06:07 +03 2023
-# Total number of blocked hosts are: 28019
+# Ad blocking hosts generated Fri 30 Jun 18:06:12 +03 2023
+# Total number of blocked hosts are: 28020
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -15828,6 +15828,7 @@
 0.0.0.0	metrics.vividseats.com
 0.0.0.0	metrics.vodafone.co.uk
 0.0.0.0	metrics.washingtonpost.com
+0.0.0.0	metricswave.com
 0.0.0.0	metrics.which.co.uk
 0.0.0.0	metrics.whitepages.com
 0.0.0.0	metrics.womansday.com
