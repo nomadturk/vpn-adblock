@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 5 Jul 22:06:07 +03 2023
-# Total number of blocked hosts are: 28020
+# Ad blocking hosts generated Wed 5 Jul 23:06:07 +03 2023
+# Total number of blocked hosts are: 28021
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -27985,6 +27985,7 @@
 0.0.0.0	zion-telemetry.api.cnn.io
 0.0.0.0	zip.er.cz
 0.0.0.0	ziphoumt.net
+0.0.0.0	zippingcare.com
 0.0.0.0	z.irs01.com
 0.0.0.0	zj.dcys.ijinshan.com
 0.0.0.0	zlhoteckelinie.wz.cz
