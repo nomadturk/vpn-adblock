@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 7 Jul 14:06:07 +03 2023
-# Total number of blocked hosts are: 28021
+# Ad blocking hosts generated Fri 7 Jul 15:06:07 +03 2023
+# Total number of blocked hosts are: 28022
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -8148,6 +8148,7 @@
 0.0.0.0	clktrk.com
 0.0.0.0	clkuk.tradedoubler.com
 0.0.0.0	cl.netseer.com
+0.0.0.0	cloisteredcord.com
 0.0.0.0	cloisteredhydrant.com
 0.0.0.0	c.lomadee.com
 0.0.0.0	clonezilla.es
