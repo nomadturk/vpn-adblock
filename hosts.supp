@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 19 Jul 04:06:07 +03 2023
-# Total number of blocked hosts are: 28018
+# Ad blocking hosts generated Wed 19 Jul 05:06:07 +03 2023
+# Total number of blocked hosts are: 28019
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -23902,6 +23902,7 @@
 0.0.0.0	tr.webantenna.info
 0.0.0.0	tr.wl.webads.nl
 0.0.0.0	try.abtasty.com
+0.0.0.0	tryanimalemale.com
 0.0.0.0	ts1.hitbox.com
 0.0.0.0	ts2.hitbox.com
 0.0.0.0	t.salesmatemail.com
