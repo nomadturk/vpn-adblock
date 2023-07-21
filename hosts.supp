@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 21 Jul 14:06:07 +03 2023
-# Total number of blocked hosts are: 28019
+# Ad blocking hosts generated Fri 21 Jul 15:06:07 +03 2023
+# Total number of blocked hosts are: 28017
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1987,7 +1987,6 @@
 0.0.0.0	ads5.advance.net
 0.0.0.0	ads.5ci.lt
 0.0.0.0	ads5.fxdepo.com
-0.0.0.0	ads.5min.at
 0.0.0.0	ads5-noneu.truecaller.com
 0.0.0.0	ads5.sabah.com.tr
 0.0.0.0	ads5.speedbit.com
@@ -4379,7 +4378,6 @@
 0.0.0.0	analytics.cloudron.io
 0.0.0.0	analytics.cohesionapps.com
 0.0.0.0	analytics.console.aws.a2z.com
-0.0.0.0	analytics.dashboard.fingerprint.com
 0.0.0.0	analytics.edgekey.net
 0.0.0.0	analytics.emarketer.com
 0.0.0.0	analytics-eu.clickdimensions.com
@@ -15518,7 +15516,6 @@
 0.0.0.0	medias.cloud.ogury.io
 0.0.0.0	mediaserver.bwinpartypartners.com
 0.0.0.0	mediaserver.bwinpartypartners.it
-0.0.0.0	media-servers.net
 0.0.0.0	media.sexinyourcity.com
 0.0.0.0	mediasmart.io
 0.0.0.0	medias.presage.io
@@ -18193,7 +18190,6 @@
 0.0.0.0	physorg.uk.intellitxt.com
 0.0.0.0	piano.io
 0.0.0.0	pianolessons.fr
-0.0.0.0	picadmedia.com
 0.0.0.0	pic.casee.cn
 0.0.0.0	piccdn.igetget.com
 0.0.0.0	pickmeupnews.us.intellitxt.com
@@ -19361,6 +19357,7 @@
 0.0.0.0	readersdigest.tt.omtrdc.net
 0.0.0.0	readgoldfish.com
 0.0.0.0	readingguilt.com
+0.0.0.0	readingopera.com
 0.0.0.0	readirectly.com
 0.0.0.0	readserver.net
 0.0.0.0	readymoon.com
@@ -21425,6 +21422,7 @@
 0.0.0.0	spi.domainsponsor.com
 0.0.0.0	spiffymachine.com
 0.0.0.0	spiketv.112.2o7.net
+0.0.0.0	spikyslave.com
 0.0.0.0	spinbox.com
 0.0.0.0	spinbox.freedom.com
 0.0.0.0	spinbox.techtracker.com
