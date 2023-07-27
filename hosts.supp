@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 27 Jul 02:06:08 +03 2023
-# Total number of blocked hosts are: 28021
+# Ad blocking hosts generated Thu 27 Jul 03:06:08 +03 2023
+# Total number of blocked hosts are: 28023
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -16760,6 +16760,7 @@
 0.0.0.0	newads.bangbros.com
 0.0.0.0	newads.cmpnet.com
 0.0.0.0	newadserver.interfree.it
+0.0.0.0	newagevz.homes
 0.0.0.0	newandfresh.com
 0.0.0.0	newandroidapps.net
 0.0.0.0	newarrivals.club
@@ -20982,6 +20983,7 @@
 0.0.0.0	s.iaudienc.com
 0.0.0.0	sickflock.com
 0.0.0.0	sicksmash.com
+0.0.0.0	sidare.homes
 0.0.0.0	sidebar.angelfire.com
 0.0.0.0	sideshow.directtrack.com
 0.0.0.0	s.idio.co
