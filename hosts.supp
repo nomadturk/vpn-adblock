@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 28 Jul 14:06:08 +03 2023
-# Total number of blocked hosts are: 28023
+# Ad blocking hosts generated Fri 28 Jul 15:06:07 +03 2023
+# Total number of blocked hosts are: 28021
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -19198,7 +19198,6 @@
 0.0.0.0	query.fqtag.com
 0.0.0.0	query.petametrics.com
 0.0.0.0	query-us-east1.petametrics.com
-0.0.0.0	questaffiliates.net
 0.0.0.0	questiacom.112.2o7.net
 0.0.0.0	Question2Answer.com
 0.0.0.0	questsoftware.112.2o7.net
@@ -24589,7 +24588,6 @@
 0.0.0.0	vermontteddybear.112.2o7.net
 0.0.0.0	versbaudet.fr
 0.0.0.0	vertamedia.com
-0.0.0.0	verticalmass.com
 0.0.0.0	vervemobile.com
 0.0.0.0	vervewireless.com
 0.0.0.0	vet-us-east-1.track.smaato.net
