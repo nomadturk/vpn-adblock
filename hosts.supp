@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 4 Aug 14:06:07 +03 2023
-# Total number of blocked hosts are: 28022
+# Ad blocking hosts generated Fri 4 Aug 15:06:07 +03 2023
+# Total number of blocked hosts are: 28021
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -5817,6 +5817,7 @@
 0.0.0.0	banner-img.haber7.com
 0.0.0.0	banner.inyourpocket.com
 0.0.0.0	banner.kiev.ua
+0.0.0.0	bannerlandia.com.ar
 0.0.0.0	banner.linksynergy.com
 0.0.0.0	bannerlink.xxxtreams.com
 0.0.0.0	banner.linux.se
@@ -10481,14 +10482,12 @@
 0.0.0.0	elzaservis.cz
 0.0.0.0	em1.yoursantander.co.uk
 0.0.0.0	emagicone.fr
-0.0.0.0	email-clk.adguard.com
 0.0.0.0	email-link.adtidy.net
 0.0.0.0	email-link.adtidy.org
 0.0.0.0	email-links.crowdfireapp.com
 0.0.0.0	emaillinks.soundiiz.com
 0.0.0.0	email-open.adtidy.net
 0.0.0.0	email-open.adtidy.org
-0.0.0.0	email-opn.adguard.com
 0.0.0.0	email.positionly.com
 0.0.0.0	email-reflex.com
 0.0.0.0	e-marketing.entelchile.net
@@ -19199,6 +19198,7 @@
 0.0.0.0	query.fqtag.com
 0.0.0.0	query.petametrics.com
 0.0.0.0	query-us-east1.petametrics.com
+0.0.0.0	questaffiliates.net
 0.0.0.0	questiacom.112.2o7.net
 0.0.0.0	Question2Answer.com
 0.0.0.0	questsoftware.112.2o7.net
@@ -19362,7 +19362,6 @@
 0.0.0.0	readersdigest.tt.omtrdc.net
 0.0.0.0	readgoldfish.com
 0.0.0.0	readingguilt.com
-0.0.0.0	readingopera.com
 0.0.0.0	readirectly.com
 0.0.0.0	readserver.net
 0.0.0.0	readymoon.com
