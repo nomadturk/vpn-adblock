@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 18 Aug 14:09:42 +03 2023
-# Total number of blocked hosts are: 28025
+# Ad blocking hosts generated Fri 18 Aug 15:09:42 +03 2023
+# Total number of blocked hosts are: 28026
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4681,6 +4681,7 @@
 0.0.0.0	apac-sg-ad-track.aralego.com
 0.0.0.0	ap-adcs.rqmob.com
 0.0.0.0	ap.adups.com
+0.0.0.0	apathetictheory.com
 0.0.0.0	ap-central.load.exelator.com
 0.0.0.0	a.pcpro.co.uk
 0.0.0.0	apc.socdm.com
@@ -5804,6 +5805,7 @@
 0.0.0.0	banner.elisa.net
 0.0.0.0	banner.eurogrand.com
 0.0.0.0	banner.europacasino.com
+0.0.0.0	banner-exchange-24.de
 0.0.0.0	bannerexchange.troglod.com
 0.0.0.0	banner.finn.no
 0.0.0.0	banner.finzoom.ro
@@ -9472,6 +9474,7 @@
 0.0.0.0	de.5.p2l.info
 0.0.0.0	deadpangate.com
 0.0.0.0	deadpanmarble.com
+0.0.0.0	deadpantruck.com
 0.0.0.0	de.ads.adviva.net
 0.0.0.0	de.adserver.yahoo.com
 0.0.0.0	de.ads.justpremium.com
@@ -9505,6 +9508,7 @@
 0.0.0.0	deeplink.mobileapptracking.com
 0.0.0.0	def.5.p2l.info
 0.0.0.0	def.dev-nano.com
+0.0.0.0	defectivesun.com
 0.0.0.0	defpush.com
 0.0.0.0	de-gmtdmp.mookie1.com
 0.0.0.0	de.grmtech.net
@@ -10577,7 +10581,6 @@
 0.0.0.0	enormousearth.com
 0.0.0.0	enoughtoday.org
 0.0.0.0	enpresse.1.p2l.info
-0.0.0.0	enquisite.com
 0.0.0.0	ensighten.com
 0.0.0.0	entek.fr
 0.0.0.0	entercasino.com
@@ -22603,7 +22606,6 @@
 0.0.0.0	takemallelectric.com
 0.0.0.0	takeoneaudio.jp
 0.0.0.0	takethatad.com
-0.0.0.0	takru.com
 0.0.0.0	talentedsteel.com
 0.0.0.0	taletela.us.intellitxt.com
 0.0.0.0	tali.iad-03.braze.com
@@ -23353,7 +23355,6 @@
 0.0.0.0	tracker.cdnbye.com
 0.0.0.0	tracker.cl1.fidelizador.com
 0.0.0.0	tracker.clicktrade.com
-0.0.0.0	tracker.comunidadmarriott.com
 0.0.0.0	tracker.consumerpackage.net
 0.0.0.0	tracker.coopt.com
 0.0.0.0	tracker.databrain.com
@@ -24593,6 +24594,7 @@
 0.0.0.0	vermontteddybear.112.2o7.net
 0.0.0.0	versbaudet.fr
 0.0.0.0	vertamedia.com
+0.0.0.0	verticalmass.com
 0.0.0.0	vervemobile.com
 0.0.0.0	vervewireless.com
 0.0.0.0	vet-us-east-1.track.smaato.net
@@ -25184,7 +25186,6 @@
 0.0.0.0	webprog.oewabox.at
 0.0.0.0	webprotector.co
 0.0.0.0	webprotocol.net
-0.0.0.0	web-redirecting.com
 0.0.0.0	webreseau.com
 0.0.0.0	webresourcer.com
 0.0.0.0	webroot.112.2o7.net
