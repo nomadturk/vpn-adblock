@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun 20 Aug 22:09:43 +03 2023
-# Total number of blocked hosts are: 28026
+# Ad blocking hosts generated Sun 20 Aug 23:09:42 +03 2023
+# Total number of blocked hosts are: 28031
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -307,6 +307,11 @@
 0.0.0.0	3amcouk.skimlinks.com
 0.0.0.0	3animalsex.com
 0.0.0.0	3bb4f0.r.axf8.net
+0.0.0.0	3dns-1.adobe.com
+0.0.0.0	3dns-2.adobe.com
+0.0.0.0	3dns-3.adobe.com
+0.0.0.0	3dns-4.adobe.com
+0.0.0.0	3dns.adobe.com
 0.0.0.0	3fns.com
 0.0.0.0	3gl.net
 0.0.0.0	3gupload.112.2o7.net
