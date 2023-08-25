@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 25 Aug 13:09:42 +03 2023
-# Total number of blocked hosts are: 28034
+# Ad blocking hosts generated Fri 25 Aug 14:09:43 +03 2023
+# Total number of blocked hosts are: 28032
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1426,7 +1426,6 @@
 0.0.0.0	ad.fout.jp
 0.0.0.0	ad.foxnetworks.com
 0.0.0.0	ad.fr.doubleclick.net
-0.0.0.0	adfs.senacrs.com.br
 0.0.0.0	ad.funpic.de
 0.0.0.0	adfurikun.jp
 0.0.0.0	adfusion.com
@@ -2379,7 +2378,6 @@
 0.0.0.0	ads.ecrush.com
 0.0.0.0	ads.edbindex.dk
 0.0.0.0	ad.se.doubleclick.net
-0.0.0.0	ads.egrana.com.br
 0.0.0.0	ads.ehealthcaresolutions.com
 0.0.0.0	ads.einmedia.com
 0.0.0.0	ads.eircom.net
@@ -10589,6 +10587,7 @@
 0.0.0.0	enormousearth.com
 0.0.0.0	enoughtoday.org
 0.0.0.0	enpresse.1.p2l.info
+0.0.0.0	enquisite.com
 0.0.0.0	ensighten.com
 0.0.0.0	entek.fr
 0.0.0.0	entercasino.com
@@ -11955,7 +11954,6 @@
 0.0.0.0	global.ymtrack.com
 0.0.0.0	global.ymtracking.com
 0.0.0.0	global.yyapi.net
-0.0.0.0	globus-inter.com
 0.0.0.0	gloriousbeef.com
 0.0.0.0	glossysense.com
 0.0.0.0	glotchat.click
