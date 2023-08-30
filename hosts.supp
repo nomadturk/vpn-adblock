@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 30 Aug 05:06:09 +03 2023
-# Total number of blocked hosts are: 28032
+# Ad blocking hosts generated Wed 30 Aug 06:09:41 +03 2023
+# Total number of blocked hosts are: 28033
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -19326,6 +19326,7 @@
 0.0.0.0	rbmods.se.intellitxt.com
 0.0.0.0	rb-net.com
 0.0.0.0	rbnt.org
+0.0.0.0	rb-on1in-sec.com
 0.0.0.0	rb.revolvermaps.com
 0.0.0.0	rbthre.work
 0.0.0.0	rcadserver.com
