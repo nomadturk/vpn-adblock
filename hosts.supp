@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 1 Sep 04:06:08 +03 2023
-# Total number of blocked hosts are: 28036
+# Ad blocking hosts generated Fri 1 Sep 05:06:08 +03 2023
+# Total number of blocked hosts are: 28037
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4469,6 +4469,7 @@
 0.0.0.0	analytics-server.gimbal.com
 0.0.0.0	analytics.services.kirra.nl
 0.0.0.0	analytics.shareaholic.com
+0.0.0.0	analytics.shorte.st
 0.0.0.0	analytics.sitewit.com
 0.0.0.0	analytics.slashdotmedia.com
 0.0.0.0	analytics.sleeknote.com
