@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 2 Sep 19:06:08 +03 2023
-# Total number of blocked hosts are: 28034
+# Ad blocking hosts generated Sat 2 Sep 20:06:08 +03 2023
+# Total number of blocked hosts are: 28036
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -441,6 +441,7 @@
 0.0.0.0	6psex-sootr.ads.tremorhub.com
 0.0.0.0	6range.fr
 0.0.0.0	6sc.co
+0.0.0.0	6w1.sharedlinkconnect.com
 0.0.0.0	71158.hittail.com
 0.0.0.0	71i.nuggad.net
 0.0.0.0	7227272.collect.igodigital.com
@@ -14476,6 +14477,7 @@
 0.0.0.0	leket.fr
 0.0.0.0	leklicht.net
 0.0.0.0	lemmatechnologies.com
+0.0.0.0	lemmynsfw.com
 0.0.0.0	lemnisk.co
 0.0.0.0	lemnode.fr
 0.0.0.0	lemondde.fr
