@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun 3 Sep 02:06:07 +03 2023
-# Total number of blocked hosts are: 28036
+# Ad blocking hosts generated Sun 3 Sep 03:06:07 +03 2023
+# Total number of blocked hosts are: 28037
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -9561,6 +9561,7 @@
 0.0.0.0	delphix.fr
 0.0.0.0	deltago.com
 0.0.0.0	delta.rspcdn.com
+0.0.0.0	deltarviews.bond
 0.0.0.0	deluxe.onetag.io.edgekey.net
 0.0.0.0	demandbase.com
 0.0.0.0	demand.bidgear.com
