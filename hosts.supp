@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 5 Sep 12:06:08 +03 2023
-# Total number of blocked hosts are: 28036
+# Ad blocking hosts generated Tue 5 Sep 13:06:09 +03 2023
+# Total number of blocked hosts are: 28037
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4542,6 +4542,7 @@
 0.0.0.0	androidcentral.us.intellitxt.com
 0.0.0.0	androidcommunity.us.intellitxt.com
 0.0.0.0	androiddev.orkitra.com
+0.0.0.0	androiddownload.net
 0.0.0.0	android-quinoa-config-prod.sense360eng.com
 0.0.0.0	androidsdk.ads.mp.mydas.mobi
 0.0.0.0	android.unid.go.com
