@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 8 Sep 14:06:08 +03 2023
-# Total number of blocked hosts are: 28048
+# Ad blocking hosts generated Fri 8 Sep 15:06:07 +03 2023
+# Total number of blocked hosts are: 28046
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -133,7 +133,6 @@
 0.0.0.0	1in.cqcounter.com
 0.0.0.0	1it.cqcounter.com
 0.0.0.0	1jo.cqcounter.com
-0.0.0.0	1link2020.com
 0.0.0.0	1l-view.mail.ru
 0.0.0.0	1man1jar.org
 0.0.0.0	1man2needles.com
@@ -5978,7 +5977,6 @@
 0.0.0.0	bannertrack.net
 0.0.0.0	bannerus1.axelsfun.com
 0.0.0.0	bannerus3.axelsfun.com
-0.0.0.0	banner.vadian.net
 0.0.0.0	banner.webmersion.com
 0.0.0.0	banner.webtools24.net
 0.0.0.0	bannery.cz
@@ -10699,7 +10697,6 @@
 0.0.0.0	eternal.reklamlab.com
 0.0.0.0	et-eus.w.inmobi.com
 0.0.0.0	e.thanksearch.com
-0.0.0.0	ethereum-ads.com
 0.0.0.0	ETHpolice.com
 0.0.0.0	etl.xlmc.sandai.net
 0.0.0.0	et.mobadvent.com
@@ -16512,6 +16509,7 @@
 0.0.0.0	my.mobfox.com
 0.0.0.0	myornamenti.com
 0.0.0.0	mypagerank.net
+0.0.0.0	mypagerank.ru
 0.0.0.0	mypopups.com
 0.0.0.0	mypowermall.com
 0.0.0.0	myprivateemails.com
@@ -18667,6 +18665,7 @@
 0.0.0.0	p.raasnet.com
 0.0.0.0	practeddagek.club
 0.0.0.0	practicehazard.com
+0.0.0.0	praddpro.de
 0.0.0.0	praktijkewalts.info
 0.0.0.0	praktijkmariekehuisman.nl
 0.0.0.0	pr.analytics.console.aws.a2z.com
@@ -23224,7 +23223,6 @@
 0.0.0.0	topapps-func.pinsightmedia.com
 0.0.0.0	top.artcomix.com
 0.0.0.0	topbestgames.com
-0.0.0.0	topbucks.com
 0.0.0.0	topcashvibes.com
 0.0.0.0	top-casting-termine.de
 0.0.0.0	topconsumergifts.com
