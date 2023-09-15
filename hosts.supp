@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 15 Sep 14:06:08 +03 2023
-# Total number of blocked hosts are: 28048
+# Ad blocking hosts generated Fri 15 Sep 15:06:07 +03 2023
+# Total number of blocked hosts are: 28047
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2379,6 +2379,7 @@
 0.0.0.0	ads.ecrush.com
 0.0.0.0	ads.edbindex.dk
 0.0.0.0	ad.se.doubleclick.net
+0.0.0.0	ads.egrana.com.br
 0.0.0.0	ads.ehealthcaresolutions.com
 0.0.0.0	ads.einmedia.com
 0.0.0.0	ads.eircom.net
@@ -19696,7 +19697,6 @@
 0.0.0.0	revprotect.com
 0.0.0.0	revrtb.com
 0.0.0.0	revsci.net
-0.0.0.0	revstats.com
 0.0.0.0	rewarded-video.fyber.com
 0.0.0.0	rewardpoll.com
 0.0.0.0	rewardsflow.com
@@ -23698,7 +23698,6 @@
 0.0.0.0	track.tooplay.com
 0.0.0.0	tracktrue.clicktrue.biz
 0.0.0.0	track.uc.cn
-0.0.0.0	trackuhub.com
 0.0.0.0	track.ultragaming.biz
 0.0.0.0	track.ultravpn.com
 0.0.0.0	track.unear.net
