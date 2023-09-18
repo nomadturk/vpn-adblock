@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 18 Sep 21:06:07 +03 2023
-# Total number of blocked hosts are: 28047
+# Ad blocking hosts generated Mon 18 Sep 22:06:07 +03 2023
+# Total number of blocked hosts are: 28048
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -15422,6 +15422,7 @@
 0.0.0.0	meatspin.com
 0.0.0.0	meatydime.com
 0.0.0.0	me-cdn.effectivemeasure.net
+0.0.0.0	mechtech.za.com
 0.0.0.0	me-client.eservice.emarsys.net
 0.0.0.0	med-api.admost.com
 0.0.0.0	medbroadcast.112.2o7.net
