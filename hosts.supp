@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 22 Sep 22:06:09 +03 2023
-# Total number of blocked hosts are: 28048
+# Ad blocking hosts generated Fri 22 Sep 23:06:08 +03 2023
+# Total number of blocked hosts are: 28049
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -23661,6 +23661,7 @@
 0.0.0.0	track.oxcash.com
 0.0.0.0	track.pplnk.com
 0.0.0.0	track.pricespider.com
+0.0.0.0	track.privacyatclearbit.com
 0.0.0.0	track.prizeglobal.net
 0.0.0.0	track.promptfile.com
 0.0.0.0	track.publeadmedia.com
