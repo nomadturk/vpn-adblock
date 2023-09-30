@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 30 Sep 18:06:07 +03 2023
-# Total number of blocked hosts are: 28051
+# Ad blocking hosts generated Sat 30 Sep 19:06:08 +03 2023
+# Total number of blocked hosts are: 28053
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -18948,6 +18948,7 @@
 0.0.0.0	protection.TOpolice.com
 0.0.0.0	protection.VApolice.com
 0.0.0.0	protection.VIpolice.com
+0.0.0.0	protectivemetrics.com
 0.0.0.0	protectsubrev.com
 0.0.0.0	protect-x.com
 0.0.0.0	protect-your-privacy.net
@@ -20138,6 +20139,7 @@
 0.0.0.0	sa.entireweb.com
 0.0.0.0	sa.etp-prod.com
 0.0.0.0	safaribooks.112.2o7.net
+0.0.0.0	safeanalytics.net
 0.0.0.0	safebrowse.com
 0.0.0.0	safe-es.imrworldwide.com
 0.0.0.0	safe.hyperpaysys.com
