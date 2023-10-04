@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 4 Oct 19:06:07 +03 2023
-# Total number of blocked hosts are: 28054
+# Ad blocking hosts generated Wed 4 Oct 20:06:07 +03 2023
+# Total number of blocked hosts are: 28055
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -5282,7 +5282,7 @@
 0.0.0.0	armsart.com
 0.0.0.0	ar.mytrack.pro
 0.0.0.0	aromamirror.com
-0.0.0.0	Arrayshift.com
+0.0.0.0	arrayshift.com
 0.0.0.0	arsconsole.global-intermedia.com
 0.0.0.0	artcomix.com
 0.0.0.0	arteradio.fr
@@ -5351,7 +5351,7 @@
 0.0.0.0	as.innity.com
 0.0.0.0	as.jivox.com
 0.0.0.0	askads.ask.com
-0.0.0.0	ASKBOT.com
+0.0.0.0	askbot.com
 0.0.0.0	ask-coder.com
 0.0.0.0	ask-gps.ru
 0.0.0.0	askjolene.ero-advertising.com
@@ -16741,6 +16741,7 @@
 0.0.0.0	netextra.hu
 0.0.0.0	net-filter.com
 0.0.0.0	netflix.apple-green.net
+0.0.0.0	netflix-updateinfo.com
 0.0.0.0	nethit-free.nl
 0.0.0.0	netincap.com
 0.0.0.0	netmera.com
@@ -17662,7 +17663,7 @@
 0.0.0.0	osiristrading.112.2o7.net
 0.0.0.0	osm-onead.cdn.hinet.net
 0.0.0.0	osonscomprendre.fr
-0.0.0.0	OSQA.com
+0.0.0.0	osqa.com
 0.0.0.0	osqa.net
 0.0.0.0	oss-content.securestudies.com
 0.0.0.0	ostalgie.fr
@@ -19226,7 +19227,7 @@
 0.0.0.0	query-us-east1.petametrics.com
 0.0.0.0	questaffiliates.net
 0.0.0.0	questiacom.112.2o7.net
-0.0.0.0	Question2Answer.com
+0.0.0.0	question2answer.com
 0.0.0.0	questsoftware.112.2o7.net
 0.0.0.0	queuer-prod-elb.53.localytics.com
 0.0.0.0	quickadsmedia.gotrackier.com
@@ -25091,7 +25092,7 @@
 0.0.0.0	wass.ihsmarkit.com
 0.0.0.0	wasted-nights.com
 0.0.0.0	wat.ad.daum.net
-0.0.0.0	watch-netfIix.com
+0.0.0.0	watch-netfiix.com
 0.0.0.0	watchpro.fr
 0.0.0.0	watch-this.live
 0.0.0.0	water-bed.8p.org.uk
