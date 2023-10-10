@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 10 Oct 12:06:07 +03 2023
-# Total number of blocked hosts are: 28057
+# Ad blocking hosts generated Tue 10 Oct 13:06:07 +03 2023
+# Total number of blocked hosts are: 28058
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -20502,6 +20502,7 @@
 0.0.0.0	sdk.youappi.com
 0.0.0.0	sdk.zadn.vn
 0.0.0.0	sdk.zapr.in
+0.0.0.0	s.dmmew.com
 0.0.0.0	s.domob.cn
 0.0.0.0	sdo.oewabox.at
 0.0.0.0	s.dpmsrv.com
