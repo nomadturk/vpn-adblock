@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 12 Oct 12:06:08 +03 2023
-# Total number of blocked hosts are: 28063
+# Ad blocking hosts generated Thu 12 Oct 13:06:08 +03 2023
+# Total number of blocked hosts are: 28065
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1296,6 +1296,7 @@
 0.0.0.0	adclient1.tucows.com
 0.0.0.0	adclient-af.lp.uol.com.br
 0.0.0.0	adclient.uimserv.net
+0.0.0.0	adclixx.net
 0.0.0.0	adcloud-dp.nuggad.net
 0.0.0.0	ad.cn.doubleclick.net
 0.0.0.0	adcode.adengage.com
@@ -1712,6 +1713,7 @@
 0.0.0.0	ad.net
 0.0.0.0	adnet.affinity.com
 0.0.0.0	adnet.asahi.com
+0.0.0.0	adnetasia.com
 0.0.0.0	adnet.biz
 0.0.0.0	adnet.com
 0.0.0.0	ad.netcommunities.com
