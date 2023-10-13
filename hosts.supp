@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 14 Oct 00:08:17 +03 2023
-# Total number of blocked hosts are: 28064
+# Ad blocking hosts generated Sat 14 Oct 01:11:09 +03 2023
+# Total number of blocked hosts are: 28069
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -9015,6 +9015,7 @@
 0.0.0.0	cri.d1.sc.omtrdc.net
 0.0.0.0	crid.bfmio.com
 0.0.0.0	crimg.sv.publicus.com
+0.0.0.0	crimsonmeadow.com
 0.0.0.0	c.riskified.com
 0.0.0.0	crispadvertising.com
 0.0.0.0	criteo.com
@@ -9055,6 +9056,7 @@
 0.0.0.0	cryptolabpro.com
 0.0.0.0	crypto-loot.com
 0.0.0.0	crypto-loot.org
+0.0.0.0	crystalboulevard.com
 0.0.0.0	cs.admanmedia.com
 0.0.0.0	cs.adxpansion.com
 0.0.0.0	cs-cart.jp
@@ -17021,6 +17023,8 @@
 0.0.0.0	nr-data.net
 0.0.0.0	nr-events.taboola.com
 0.0.0.0	nrkno.linkpulse.com
+0.0.0.0	nr.mmcdn.com
+0.0.0.0	nr.static.mmcdn.com
 0.0.0.0	nr.taboola.com
 0.0.0.0	ns1.123go.net
 0.0.0.0	ns1.hitbox.com
@@ -23803,6 +23807,7 @@
 0.0.0.0	tramarkt.oewabox.at
 0.0.0.0	trane-ir-corp-ingersollrand.112.2o7.net
 0.0.0.0	tranisere.fr
+0.0.0.0	tranquilcanyon.com
 0.0.0.0	tranquilside.com
 0.0.0.0	transferkeep.com
 0.0.0.0	transferlights.com
