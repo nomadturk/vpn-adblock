@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 13 Oct 14:08:17 +03 2023
-# Total number of blocked hosts are: 28066
+# Ad blocking hosts generated Fri 13 Oct 15:08:18 +03 2023
+# Total number of blocked hosts are: 28064
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -133,6 +133,7 @@
 0.0.0.0	1in.cqcounter.com
 0.0.0.0	1it.cqcounter.com
 0.0.0.0	1jo.cqcounter.com
+0.0.0.0	1link2020.com
 0.0.0.0	1l-view.mail.ru
 0.0.0.0	1man1jar.org
 0.0.0.0	1man2needles.com
@@ -5308,7 +5309,6 @@
 0.0.0.0	as.5.p2l.info
 0.0.0.0	as.adlooxtracking.com
 0.0.0.0	as.adwise.bg
-0.0.0.0	a.sakh.com
 0.0.0.0	asa.tynt.com
 0.0.0.0	as.autoforums.com
 0.0.0.0	asb.tynt.com
@@ -6195,7 +6195,6 @@
 0.0.0.0	bestorican.com
 0.0.0.0	bestreview.site
 0.0.0.0	best-search.cc
-0.0.0.0	bestsearch.net
 0.0.0.0	bestshockers.com
 0.0.0.0	beststores4u.com
 0.0.0.0	bestsushiever.com
@@ -6317,7 +6316,6 @@
 0.0.0.0	bindfast.com
 0.0.0.0	bingads.microsoft.com
 0.0.0.0	bink.uk.intellitxt.com
-0.0.0.0	biosda.com
 0.0.0.0	biosmagazine.uk.intellitxt.com
 0.0.0.0	bioware.fr
 0.0.0.0	bip.presage.io
@@ -10949,7 +10947,6 @@
 0.0.0.0	eyeblaster.com
 0.0.0.0	eyeota.net
 0.0.0.0	eyereact.eyereturn.com
-0.0.0.0	eyereturn.com
 0.0.0.0	eyestoip.com
 0.0.0.0	eyeviewads.com
 0.0.0.0	eyewonder.com
@@ -23264,6 +23261,7 @@
 0.0.0.0	toprxshopplace.com
 0.0.0.0	topshape.me
 0.0.0.0	topsir.com
+0.0.0.0	top-site-list.com
 0.0.0.0	topsite.lv
 0.0.0.0	topsites.blogflux.com
 0.0.0.0	topsites.com.br
