@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 20 Oct 14:06:07 +03 2023
-# Total number of blocked hosts are: 28070
+# Ad blocking hosts generated Fri 20 Oct 15:06:07 +03 2023
+# Total number of blocked hosts are: 28064
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3092,7 +3092,6 @@
 0.0.0.0	adsnative.com
 0.0.0.0	ads.nccwebs.com
 0.0.0.0	ads.ncm.com
-0.0.0.0	ads.ndtv1.com
 0.0.0.0	ads.nerve.com
 0.0.0.0	ads.netbul.com
 0.0.0.0	ads.netcommunities.com
@@ -23262,7 +23261,6 @@
 0.0.0.0	toppillstore.com
 0.0.0.0	top.proext.com
 0.0.0.0	topqualitylink.com
-0.0.0.0	toprebates.com
 0.0.0.0	toprxshopplace.com
 0.0.0.0	topshape.me
 0.0.0.0	topsir.com
@@ -23464,11 +23462,9 @@
 0.0.0.0	tracking.bannerflow.com
 0.0.0.0	tracking.batanga.com
 0.0.0.0	tracking.batanga.net
-0.0.0.0	tracking.baypacketaddressepisode.makeup
 0.0.0.0	tracking.bloomberg.com
 0.0.0.0	tracking.cdiscount.com
 0.0.0.0	tracking.clickmeter.com
-0.0.0.0	tracking.concedehousingstrainnotice.hair
 0.0.0.0	tracking.craktraffic.com
 0.0.0.0	tracking.crazyegg.com
 0.0.0.0	tracking.dc-storm.com
@@ -23519,7 +23515,6 @@
 0.0.0.0	tracking.motleyfool.com
 0.0.0.0	tracking.murdoog.com
 0.0.0.0	tracking.myunidays.com
-0.0.0.0	tracking.namerealopendrawflesh.makeup
 0.0.0.0	tracking.nesox.com
 0.0.0.0	tracking.netalerts.io
 0.0.0.0	tracking.nmemails.com
@@ -23535,7 +23530,6 @@
 0.0.0.0	tracking.pastapplauddeterseminarproof.makeup
 0.0.0.0	tracking.pennystockpicks.net
 0.0.0.0	tracking.percentmobile.com
-0.0.0.0	tracking.playerobjectwordingbasinbank.makeup
 0.0.0.0	tracking.propellerads.com
 0.0.0.0	tracking.publicidees.com
 0.0.0.0	tracking.pushcrew.com
@@ -23565,7 +23559,6 @@
 0.0.0.0	tracking.ukwm.co.uk
 0.0.0.0	tracking.utlservice.com
 0.0.0.0	tracking.v2.yieldlove-ad-serving.net
-0.0.0.0	tracking.vagueunlikecowerscreamforbid.hair
 0.0.0.0	tracking.validclick.com
 0.0.0.0	tracking.vcommission.com
 0.0.0.0	tracking.veille-referencement.com
@@ -23711,6 +23704,7 @@
 0.0.0.0	track.tooplay.com
 0.0.0.0	tracktrue.clicktrue.biz
 0.0.0.0	track.uc.cn
+0.0.0.0	trackuhub.com
 0.0.0.0	track.ultragaming.biz
 0.0.0.0	track.ultravpn.com
 0.0.0.0	track.unear.net
