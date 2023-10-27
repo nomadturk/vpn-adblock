@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 27 Oct 14:06:07 +03 2023
-# Total number of blocked hosts are: 28067
+# Ad blocking hosts generated Fri 27 Oct 15:06:07 +03 2023
+# Total number of blocked hosts are: 28062
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2726,7 +2726,6 @@
 0.0.0.0	adserving.speedshiftmedia.com
 0.0.0.0	adserving.unibet.com
 0.0.0.0	adservingvpc-1239633584.eu-west-1.elb.amazonaws.com
-0.0.0.0	adservio.tech
 0.0.0.0	adserv.lwmn.net
 0.0.0.0	adserv.maineguide.com
 0.0.0.0	adserv.mywebtimes.com
@@ -3092,6 +3091,7 @@
 0.0.0.0	adsnative.com
 0.0.0.0	ads.nccwebs.com
 0.0.0.0	ads.ncm.com
+0.0.0.0	ads.ndtv1.com
 0.0.0.0	ads.nerve.com
 0.0.0.0	ads.netbul.com
 0.0.0.0	ads.netcommunities.com
@@ -3248,7 +3248,6 @@
 0.0.0.0	ads.publicidad.net
 0.0.0.0	ads.pubmatic.com
 0.0.0.0	ads.pubsqrd.com
-0.0.0.0	ads.pushplay.com
 0.0.0.0	ads.p.veruta.com
 0.0.0.0	ads.q1media.com
 0.0.0.0	adsqqclick.qq.com
@@ -6453,7 +6452,6 @@
 0.0.0.0	bnkr8dev.112.2o7.net
 0.0.0.0	bnmgr.adinjector.net
 0.0.0.0	bnmla.com
-0.0.0.0	bnnrrv.qontentum.de
 0.0.0.0	bn.premiumhdv.com
 0.0.0.0	bnrs.ilm.ee
 0.0.0.0	b.ns1p.net
@@ -9161,7 +9159,6 @@
 0.0.0.0	customer.cludo.com
 0.0.0.0	customer.iad-03.braze.com
 0.0.0.0	customers.kameleoon.com
-0.0.0.0	custom.plausible.io
 0.0.0.0	customtraffic.impactradius.com
 0.0.0.0	custom-wrs.api.responsys.net
 0.0.0.0	custom.yieldify.com
@@ -12727,7 +12724,6 @@
 0.0.0.0	hothardware.us.intellitxt.com
 0.0.0.0	hotinfosource.com
 0.0.0.0	hotjar.com
-0.0.0.0	hotkeys.com
 0.0.0.0	hotlog.ru
 0.0.0.0	hot-mob.com
 0.0.0.0	hotmommagossip.us.intellitxt.com
@@ -14642,7 +14638,6 @@
 0.0.0.0	link.sbstck.com
 0.0.0.0	link-scan.net
 0.0.0.0	links.email.crunchbase.com
-0.0.0.0	linkshighway.com
 0.0.0.0	links.industrybrains.com
 0.0.0.0	links.outster.com
 0.0.0.0	links-ranking.de
