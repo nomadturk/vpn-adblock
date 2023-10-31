@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 31 Oct 18:06:08 +03 2023
-# Total number of blocked hosts are: 28062
+# Ad blocking hosts generated Tue 31 Oct 19:06:08 +03 2023
+# Total number of blocked hosts are: 28061
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -24233,7 +24233,6 @@
 0.0.0.0	univ-paris-didero.fr
 0.0.0.0	univ-pars1.fr
 0.0.0.0	unknowntray.com
-0.0.0.0	unless.com
 0.0.0.0	unme-asso.fr
 0.0.0.0	unodieuxconnard.fr
 0.0.0.0	unonoticias.net
