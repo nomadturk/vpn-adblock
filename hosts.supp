@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 1 Nov 17:06:08 +03 2023
-# Total number of blocked hosts are: 28062
+# Ad blocking hosts generated Wed 1 Nov 18:06:09 +03 2023
+# Total number of blocked hosts are: 28061
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -6394,7 +6394,6 @@
 0.0.0.0	blockmetrics.com
 0.0.0.0	block.scroll.com
 0.0.0.0	block.sw1block.com
-0.0.0.0	blockthrough.com
 0.0.0.0	blog.addthis.com
 0.0.0.0	blogads.com
 0.0.0.0	blogadswap.com
