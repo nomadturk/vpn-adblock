@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 3 Nov 15:06:07 +03 2023
-# Total number of blocked hosts are: 28061
+# Ad blocking hosts generated Fri 3 Nov 16:06:07 +03 2023
+# Total number of blocked hosts are: 28060
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -8463,7 +8463,6 @@
 0.0.0.0	commdev.fr
 0.0.0.0	commerce.campaignmonitor.com
 0.0.0.0	commerce.www.ibm.com
-0.0.0.0	commindo-media-ressourcen.de
 0.0.0.0	commissionmonster.com
 0.0.0.0	com-mitsubishi.netmng.com
 0.0.0.0	common.duapps.com
@@ -16718,6 +16717,7 @@
 0.0.0.0	nei.hitbox.com
 0.0.0.0	neko-scan.fr
 0.0.0.0	nend.net
+0.0.0.0	neocounter.neoworx-blog-tools.net
 0.0.0.0	neo.go.sonobi.com
 0.0.0.0	neo-kikaku.jp
 0.0.0.0	neon-genesis-evangelion-online.fr
@@ -23525,7 +23525,6 @@
 0.0.0.0	tracking.opienetwork.com
 0.0.0.0	tracking.orixa-media.com
 0.0.0.0	tracking.pandoiq.com
-0.0.0.0	tracking.pastapplauddeterseminarproof.makeup
 0.0.0.0	tracking.pennystockpicks.net
 0.0.0.0	tracking.percentmobile.com
 0.0.0.0	tracking.propellerads.com
