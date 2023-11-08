@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 8 Nov 20:06:08 +03 2023
-# Total number of blocked hosts are: 28060
+# Ad blocking hosts generated Wed 8 Nov 21:06:08 +03 2023
+# Total number of blocked hosts are: 28063
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -11233,6 +11233,7 @@
 0.0.0.0	firstimpression.io
 0.0.0.0	firstlightera.com
 0.0.0.0	firstrowsports.fr
+0.0.0.0	firsttexture.com
 0.0.0.0	fishadz.pressflex.net
 0.0.0.0	fishclix.com
 0.0.0.0	fi.sitestat.com
@@ -14624,6 +14625,7 @@
 0.0.0.0	linkcounter.com
 0.0.0.0	linkcounter.pornosite.com
 0.0.0.0	link-crawler.com
+0.0.0.0	link.email.usmagazine.com
 0.0.0.0	linkexchange.com
 0.0.0.0	linkit.biz
 0.0.0.0	link.ixs1.net
@@ -20634,6 +20636,7 @@
 0.0.0.0	secure.medleyads.com
 0.0.0.0	secure.merchantadvantage.com
 0.0.0.0	securemetrics.apple.com
+0.0.0.0	securemetrics.apple.com.cn
 0.0.0.0	secure.netscope.marktest.pt
 0.0.0.0	secure-nz.imrworldwide.com
 0.0.0.0	secure.ownlocal.com
