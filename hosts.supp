@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 10 Nov 19:06:07 +03 2023
-# Total number of blocked hosts are: 28062
+# Ad blocking hosts generated Fri 10 Nov 20:06:07 +03 2023
+# Total number of blocked hosts are: 28063
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -23919,6 +23919,7 @@
 0.0.0.0	tr.tu.connect.wunderloop.net
 0.0.0.0	tru.am
 0.0.0.0	truckstomatoes.com
+0.0.0.0	truculentrate.com
 0.0.0.0	true-counter.com
 0.0.0.0	truecrypt.fr
 0.0.0.0	truehits1.gits.net.th
