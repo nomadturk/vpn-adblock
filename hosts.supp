@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun 12 Nov 21:06:07 +03 2023
-# Total number of blocked hosts are: 28063
+# Ad blocking hosts generated Sun 12 Nov 22:06:07 +03 2023
+# Total number of blocked hosts are: 28064
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -18625,6 +18625,7 @@
 0.0.0.0	portdusoleil.fr
 0.0.0.0	portredirect.net
 0.0.0.0	pos.baidu.com
+0.0.0.0	posicionamientonatural.es
 0.0.0.0	possessivebucket.com
 0.0.0.0	possibleboats.com
 0.0.0.0	posta.news
