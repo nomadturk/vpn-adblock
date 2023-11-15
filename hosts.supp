@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 15 Nov 19:06:08 +03 2023
-# Total number of blocked hosts are: 28065
+# Ad blocking hosts generated Wed 15 Nov 20:06:09 +03 2023
+# Total number of blocked hosts are: 28066
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -27888,6 +27888,7 @@
 0.0.0.0	ymail-activate1.bugs3.com
 0.0.0.0	ymetrica1.com
 0.0.0.0	ymtracking.com
+0.0.0.0	yoads.net
 0.0.0.0	yoda.cybereps.com
 0.0.0.0	yodleeinc.tt.omtrdc.net
 0.0.0.0	yogamagazine.fr
