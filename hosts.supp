@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 17 Nov 15:06:08 +03 2023
-# Total number of blocked hosts are: 28066
+# Ad blocking hosts generated Fri 17 Nov 16:06:07 +03 2023
+# Total number of blocked hosts are: 28057
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -62,7 +62,6 @@
 0.0.0.0	118605-5437.link.iwanttodeliver.com
 0.0.0.0	1188.api.swrve.com
 0.0.0.0	1188.content.swrve.com
-0.0.0.0	1-1ads.com
 0.0.0.0	11zz.com
 0.0.0.0	121807150325.c.mystat-in.net
 0.0.0.0	121media.com
@@ -199,7 +198,6 @@
 0.0.0.0	24809.hittail.com
 0.0.0.0	24counter.com
 0.0.0.0	24log.com
-0.0.0.0	24log.de
 0.0.0.0	24m.nuggad.net
 0.0.0.0	24ora.eu
 0.0.0.0	24pm-affiliation.com
@@ -1785,7 +1783,6 @@
 0.0.0.0	ad.parom.hu
 0.0.0.0	ad.partis.si
 0.0.0.0	adpatrof.com
-0.0.0.0	ad-pay.de
 0.0.0.0	adpepper.dk
 0.0.0.0	adpepper.nl
 0.0.0.0	ad.period-calendar.com
@@ -5624,7 +5621,6 @@
 0.0.0.0	a.websponsors.com
 0.0.0.0	a.webwise.org
 0.0.0.0	awempire.com
-0.0.0.0	awesomeagreement.com
 0.0.0.0	a.wikia-beacon.com
 0.0.0.0	awin1.com
 0.0.0.0	a.wishabi.com
@@ -8167,7 +8163,6 @@
 0.0.0.0	cloudads.net
 0.0.0.0	cloudapi.imrworldwide.com
 0.0.0.0	cloudbiggest.com
-0.0.0.0	cloudcoins.biz
 0.0.0.0	cloudcrown.com
 0.0.0.0	cloud-emea.analytics-egain.com
 0.0.0.0	cloudflareinsights.com
@@ -13323,7 +13318,6 @@
 0.0.0.0	impressionmedia.cz
 0.0.0.0	impressionmonster.com
 0.0.0.0	impressions.crossinstall.io
-0.0.0.0	impressionz.co.uk
 0.0.0.0	imp.rfp.fout.jp
 0.0.0.0	imprhkmp.taboola.com
 0.0.0.0	imprlatbmp.taboola.com
@@ -16813,7 +16807,6 @@
 0.0.0.0	news-37876-mshome.com
 0.0.0.0	news-389767-mshome.com
 0.0.0.0	news6health.com
-0.0.0.0	newsadsppush.com
 0.0.0.0	newscorp.grapeshot.co.uk
 0.0.0.0	newscurrent.info
 0.0.0.0	newsday.122.2o7.net
@@ -16823,7 +16816,6 @@
 0.0.0.0	news.iadsdk.apple.com
 0.0.0.0	newsinteractive.112.2o7.net
 0.0.0.0	newsinternational.122.2o7.net
-0.0.0.0	newsletter-link.com
 0.0.0.0	newsmagic.net
 0.0.0.0	news.msnbc.us.intellitxt.com
 0.0.0.0	newsnetw.oewabox.at
@@ -23476,7 +23468,6 @@
 0.0.0.0	tracking.dsmmadvantage.com
 0.0.0.0	tracking.dtiserv2.com
 0.0.0.0	tracking.edvisors.com
-0.0.0.0	tracking.emilyclarkconsulting.com
 0.0.0.0	tracking.engagedigitalmedia.com
 0.0.0.0	tracking.epicgames.com
 0.0.0.0	tracking.everydayhealth.com
