@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 21 Nov 00:06:08 +03 2023
-# Total number of blocked hosts are: 28059
+# Ad blocking hosts generated Tue 21 Nov 01:06:09 +03 2023
+# Total number of blocked hosts are: 28060
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -11521,6 +11521,7 @@
 0.0.0.0	fullstory.com
 0.0.0.0	functionalcover.com
 0.0.0.0	functionalcrown.com
+0.0.0.0	functionalfeather.com
 0.0.0.0	fun-e-cards.com
 0.0.0.0	funintheuk.com
 0.0.0.0	funklicks.com
