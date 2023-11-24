@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 24 Nov 20:08:17 +03 2023
-# Total number of blocked hosts are: 28059
+# Ad blocking hosts generated Fri 24 Nov 21:08:18 +03 2023
+# Total number of blocked hosts are: 28060
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -23300,6 +23300,7 @@
 0.0.0.0	tpbid.com
 0.0.0.0	tpc.googlesyndication.com
 0.0.0.0	tp-emea.exactag.com
+0.0.0.0	t.podcast.co
 0.0.0.0	tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com
 0.0.0.0	tps10216.doubleverify.com
 0.0.0.0	tps10232.doubleverify.com
