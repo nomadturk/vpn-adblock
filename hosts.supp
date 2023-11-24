@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 24 Nov 15:08:17 +03 2023
-# Total number of blocked hosts are: 28061
+# Ad blocking hosts generated Fri 24 Nov 16:08:18 +03 2023
+# Total number of blocked hosts are: 28059
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2261,7 +2261,6 @@
 0.0.0.0	ads.chipcenter.com
 0.0.0.0	adscholar.com
 0.0.0.0	ads.chumcity.com
-0.0.0.0	adscience.nl
 0.0.0.0	ads.cinemaden.com
 0.0.0.0	ads.cineville.nl
 0.0.0.0	ads.citymagazine.si
@@ -3226,7 +3225,6 @@
 0.0.0.0	ads.pressflex.com
 0.0.0.0	adspr.haber7.net
 0.0.0.0	ads.pricescan.com
-0.0.0.0	ads.primissima.it
 0.0.0.0	ads.printscr.com
 0.0.0.0	ads.prisacom.com
 0.0.0.0	ads-privacy-api.prd.mz.internal.unity3d.com
@@ -5621,6 +5619,7 @@
 0.0.0.0	a.websponsors.com
 0.0.0.0	a.webwise.org
 0.0.0.0	awempire.com
+0.0.0.0	awesomeagreement.com
 0.0.0.0	a.wikia-beacon.com
 0.0.0.0	awin1.com
 0.0.0.0	a.wishabi.com
@@ -10553,7 +10552,6 @@
 0.0.0.0	engagement.inmarket.com
 0.0.0.0	engage-network.influencemobile.com
 0.0.0.0	engage.vzw.com
-0.0.0.0	engage.webshrinker.com
 0.0.0.0	engage.windows.com
 0.0.0.0	engageya.com
 0.0.0.0	engine2.adzerk.net
@@ -11017,7 +11015,6 @@
 0.0.0.0	fanserv.us-east-1.stinger-ad.bidr.io
 0.0.0.0	fanserv.us-west-2.stinger-ad.bidr.io
 0.0.0.0	faqts.us.intellitxt.com
-0.0.0.0	faracoon.com
 0.0.0.0	farecastcom.122.2o7.net
 0.0.0.0	farethief.com
 0.0.0.0	farmergoldfish.com
@@ -23472,6 +23469,7 @@
 0.0.0.0	tracking.dsmmadvantage.com
 0.0.0.0	tracking.dtiserv2.com
 0.0.0.0	tracking.edvisors.com
+0.0.0.0	tracking.emilyclarkconsulting.com
 0.0.0.0	tracking.engagedigitalmedia.com
 0.0.0.0	tracking.epicgames.com
 0.0.0.0	tracking.everydayhealth.com
