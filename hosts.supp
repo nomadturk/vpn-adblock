@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 25 Nov 09:08:18 +03 2023
-# Total number of blocked hosts are: 28060
+# Ad blocking hosts generated Sat 25 Nov 10:08:16 +03 2023
+# Total number of blocked hosts are: 28061
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -23754,6 +23754,7 @@
 0.0.0.0	traffic.getmyads.com
 0.0.0.0	trafficholder.com
 0.0.0.0	traffichunt.com
+0.0.0.0	traffic.hyteck.de
 0.0.0.0	trafficjunky.net
 0.0.0.0	traffick.jivox.com
 0.0.0.0	trafficleader.com
