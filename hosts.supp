@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 30 Nov 16:08:16 +03 2023
-# Total number of blocked hosts are: 28112
+# Ad blocking hosts generated Thu 30 Nov 17:08:16 +03 2023
+# Total number of blocked hosts are: 28113
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4564,6 +4564,7 @@
 0.0.0.0	angieslist.tt.omtrdc.net
 0.0.0.0	angmar.112.2o7.net
 0.0.0.0	angmil.112.2o7.net
+0.0.0.0	angossa.com
 0.0.0.0	angpar.112.2o7.net
 0.0.0.0	angtr.112.2o7.net
 0.0.0.0	angts.112.2o7.net
