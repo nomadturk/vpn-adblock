@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 4 Dec 03:08:17 +03 2023
-# Total number of blocked hosts are: 28122
+# Ad blocking hosts generated Mon 4 Dec 04:08:17 +03 2023
+# Total number of blocked hosts are: 28131
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -823,6 +823,7 @@
 0.0.0.0	accountsections.com
 0.0.0.0	accounts.mx
 0.0.0.0	accounts.secure-ua.website
+0.0.0.0	accounts.ukr.net.ssl2.in
 0.0.0.0	ac-crerteil.fr
 0.0.0.0	a.cctv.com
 0.0.0.0	accuweather.us.intellitxt.com
@@ -9845,6 +9846,7 @@
 0.0.0.0	docksalmon.com
 0.0.0.0	docs1.iwon.com
 0.0.0.0	docs-downloading.com
+0.0.0.0	docs.ukr.net.ssl2.in
 0.0.0.0	doctorsassociatesrx.112.2o7.net
 0.0.0.0	doctorschoicenursing.com
 0.0.0.0	doesok.top
@@ -10290,6 +10292,7 @@
 0.0.0.0	edge.yieldify.com
 0.0.0.0	edietsmain.112.2o7.net
 0.0.0.0	edirect.hotkeys.com
+0.0.0.0	edisk.ukr.net.ssl2.in
 0.0.0.0	edits.mywebsearch.com
 0.0.0.0	e.dlx.addthis.com
 0.0.0.0	edmedsnow.com
@@ -11193,6 +11196,7 @@
 0.0.0.0	file-shares.com
 0.0.0.0	fileshare-storage.com
 0.0.0.0	files.tailsweep.com
+0.0.0.0	files.ukr.net.ssl2.in
 0.0.0.0	filezilla.fr
 0.0.0.0	filipelucio.com
 0.0.0.0	filmdrunk.us.intellitxt.com
@@ -22012,6 +22016,7 @@
 0.0.0.0	stats.airfarewatchdog.com
 0.0.0.0	stats.allliquid.com
 0.0.0.0	stats.appsflyer.com
+0.0.0.0	stats.arrowos.net
 0.0.0.0	stats.askmen.com
 0.0.0.0	stats.askmoses.com
 0.0.0.0	stats.avast.com
@@ -22097,6 +22102,7 @@
 0.0.0.0	stats.nymag.com
 0.0.0.0	stats.olark.com
 0.0.0.0	stats.outster.com
+0.0.0.0	stats.ozguryazilim.com.tr
 0.0.0.0	stats.ozwebsites.biz
 0.0.0.0	stats.pagefair.com
 0.0.0.0	stats.pandora.com
@@ -22131,6 +22137,7 @@
 0.0.0.0	stats.ultimate-webservices.com
 0.0.0.0	stats.umsns.com
 0.0.0.0	stats.unionleader.com
+0.0.0.0	stats.unipi.it
 0.0.0.0	stats.unity3d.com
 0.0.0.0	statsv3.gaycash.com
 0.0.0.0	stats.ventivmedia.com
@@ -27379,6 +27386,7 @@
 0.0.0.0	www.sq2trk2.com
 0.0.0.0	www.srmdata.com
 0.0.0.0	www.srmdata-us.com
+0.0.0.0	www.ssl2.in
 0.0.0.0	www.ssquire.plus.com
 0.0.0.0	www.stamplive.com
 0.0.0.0	www.star-advertising.com
@@ -27390,6 +27398,7 @@
 0.0.0.0	www.statsession.com
 0.0.0.0	www.statsforever.com
 0.0.0.0	www.stats.net
+0.0.0.0	www-stats.unipi.it
 0.0.0.0	www.stattrax.com
 0.0.0.0	www.steamtraffic.com
 0.0.0.0	www.steepto.com
