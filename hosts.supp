@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 4 Dec 02:08:18 +03 2023
-# Total number of blocked hosts are: 28112
+# Ad blocking hosts generated Mon 4 Dec 03:08:17 +03 2023
+# Total number of blocked hosts are: 28122
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -810,6 +810,7 @@
 0.0.0.0	a.c.appier.net
 0.0.0.0	ac.atpanel.com
 0.0.0.0	a.cbc.ca
+0.0.0.0	acceptable.a-ads.com
 0.0.0.0	accessfreevpn.com
 0.0.0.0	acces.streaming-direct.co
 0.0.0.0	acckalaharinet.112.2o7.net
@@ -8549,6 +8550,7 @@
 0.0.0.0	config.safedk.com
 0.0.0.0	config.samsungads.com
 0.0.0.0	config.sdk.scopely.io
+0.0.0.0	config.seedtag.com
 0.0.0.0	config.sensic.net
 0.0.0.0	config.uca.cloud.unity3d.com
 0.0.0.0	config.unityads.unity3d.com
@@ -11422,6 +11424,7 @@
 0.0.0.0	fr.85.clickintext.net
 0.0.0.0	fra-01.braze.eu
 0.0.0.0	fra1-ib.adnxs.com
+0.0.0.0	fra1-ib.adnxs-simple.com
 0.0.0.0	fr.a2dfp.net
 0.0.0.0	fra-col.eum-appdynamics.com
 0.0.0.0	fr.adserver.yahoo.com
@@ -17609,6 +17612,7 @@
 0.0.0.0	opposedarrangement.net
 0.0.0.0	opps.taboola.com
 0.0.0.0	oppuz.com
+0.0.0.0	opr.adx.opera.com
 0.0.0.0	ops-cdn.undertone.com
 0.0.0.0	opsonew3org.sg
 0.0.0.0	optad360.io
@@ -18859,6 +18863,7 @@
 0.0.0.0	profile-api-prod-elb.53.localytics.com
 0.0.0.0	profile.localytics.com
 0.0.0.0	profilenetflix.com
+0.0.0.0	profilenotice.info
 0.0.0.0	profiles.hitslink.com
 0.0.0.0	profiles.segment.com
 0.0.0.0	profile.uproxx.com
@@ -20654,6 +20659,7 @@
 0.0.0.0	secure.gooddata.com
 0.0.0.0	secure-id.impressiondesk.com
 0.0.0.0	secure.insightexpressai.com
+0.0.0.0	secureir.ebaystatic.com
 0.0.0.0	secure-it.imrworldwide.com
 0.0.0.0	secure-jp.imrworldwide.com
 0.0.0.0	secure-js.kontera.com
@@ -21625,6 +21631,7 @@
 0.0.0.0	ssc-cms.33across.com
 0.0.0.0	ssdc.icelandair.com
 0.0.0.0	ssdk.adkmob.com
+0.0.0.0	s.seedtag.com
 0.0.0.0	ssephora.fr
 0.0.0.0	sse.qubit.com
 0.0.0.0	s.sharethis.com
@@ -23226,6 +23233,7 @@
 0.0.0.0	todayresearch.com
 0.0.0.0	todaysdeals4u.com
 0.0.0.0	todayshow.us.intellitxt.com
+0.0.0.0	t-odx.op-mobile.opera.com
 0.0.0.0	toecircle.com
 0.0.0.0	toggletools.com
 0.0.0.0	token.api.kochava.com
@@ -23990,6 +23998,7 @@
 0.0.0.0	ts2.hitbox.com
 0.0.0.0	t.salesmatemail.com
 0.0.0.0	tsbm.ch
+0.0.0.0	t.seedtag.com
 0.0.0.0	t.sellpoints.com
 0.0.0.0	t.senaldos.com
 0.0.0.0	t.senaluno.com
@@ -26487,6 +26496,7 @@
 0.0.0.0	www.easycounter.com
 0.0.0.0	www.easy-dating.org
 0.0.0.0	www.e-bannerx.com
+0.0.0.0	www.ebayadservices.com
 0.0.0.0	www.ebayadvertising.com
 0.0.0.0	www.ebaybanner.com
 0.0.0.0	www.ebtmarketing.com
