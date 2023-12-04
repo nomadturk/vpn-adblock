@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 5 Dec 01:08:17 +03 2023
-# Total number of blocked hosts are: 28131
+# Ad blocking hosts generated Tue 5 Dec 02:08:15 +03 2023
+# Total number of blocked hosts are: 28132
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -9925,6 +9925,7 @@
 0.0.0.0	dp1.33across.com
 0.0.0.0	dp2.specificclick.net
 0.0.0.0	dpbolvw.net
+0.0.0.0	dpflyingoncs.top
 0.0.0.0	dp.g.doubleclick.net
 0.0.0.0	d.phormlabs.com
 0.0.0.0	dpm.demdex.net
