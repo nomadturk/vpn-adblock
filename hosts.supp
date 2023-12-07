@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 8 Dec 01:08:16 +03 2023
-# Total number of blocked hosts are: 28135
+# Ad blocking hosts generated Fri 8 Dec 02:08:16 +03 2023
+# Total number of blocked hosts are: 28136
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -18455,6 +18455,7 @@
 0.0.0.0	planetout.122.2o7.net
 0.0.0.0	planetside2.fr
 0.0.0.0	planning-analytics.ibmcloud.com
+0.0.0.0	planrecanpost1.info
 0.0.0.0	plasmatv4free.com
 0.0.0.0	plasticker.fr
 0.0.0.0	platform-api.sharethis.com
