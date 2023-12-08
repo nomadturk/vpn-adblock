@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 8 Dec 15:08:15 +03 2023
-# Total number of blocked hosts are: 28137
+# Ad blocking hosts generated Fri 8 Dec 16:08:16 +03 2023
+# Total number of blocked hosts are: 28133
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2811,7 +2811,6 @@
 0.0.0.0	ads.gamned.com
 0.0.0.0	adsgard.aprod.scopely.io
 0.0.0.0	ads.garga.biz
-0.0.0.0	ads.gaypoint.hu
 0.0.0.0	ad.sgdgjarfpp123.com
 0.0.0.0	ad.sg.doubleclick.net
 0.0.0.0	ads.geekswithblogs.net
@@ -5335,7 +5334,6 @@
 0.0.0.0	ashleyfires.fr
 0.0.0.0	a.shop.com
 0.0.0.0	ashow.pcpop.com
-0.0.0.0	asia999.website
 0.0.0.0	asia.adform.net
 0.0.0.0	asia-analyzer-appstore.vivoglobal.com
 0.0.0.0	asia-comonrt-stsdk.vivoglobal.com
@@ -6586,6 +6584,7 @@
 0.0.0.0	brightcove.112.2o7.net
 0.0.0.0	brighthouse.122.2o7.net
 0.0.0.0	brighthub.us.intellitxt.com
+0.0.0.0	brightinfo.com
 0.0.0.0	brightmountainmedia.com
 0.0.0.0	brightonclick.com
 0.0.0.0	brightroll.com
@@ -14356,7 +14355,6 @@
 0.0.0.0	landing.trafficz.com
 0.0.0.0	land.purifier.cc
 0.0.0.0	landwirt.oewabox.at
-0.0.0.0	lanistaads.com
 0.0.0.0	lank.ru
 0.0.0.0	lanzar.publicidadweb.com
 0.0.0.0	lap-click.tr.line.me
@@ -23967,7 +23965,6 @@
 0.0.0.0	trk.superads.cn
 0.0.0.0	trk.techtarget.com
 0.0.0.0	trk.tidaltv.com
-0.0.0.0	trk.us-learn-teacher-poetry.xyz
 0.0.0.0	trk.vidible.tv
 0.0.0.0	trk.wdacashtrk.com
 0.0.0.0	trk.wizzdeal.trade
@@ -24971,7 +24968,6 @@
 0.0.0.0	voluumtrk2.com
 0.0.0.0	voluumtrk3.com
 0.0.0.0	voluumtrk.com
-0.0.0.0	volvelle.tech
 0.0.0.0	vomitgirl.org
 0.0.0.0	voodoofiles.us.intellitxt.com
 0.0.0.0	voordeel.ad.nl
