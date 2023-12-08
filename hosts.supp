@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 8 Dec 13:08:16 +03 2023
-# Total number of blocked hosts are: 28136
+# Ad blocking hosts generated Fri 8 Dec 14:08:17 +03 2023
+# Total number of blocked hosts are: 28137
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -23411,6 +23411,7 @@
 0.0.0.0	track.blogmeetsbrand.com
 0.0.0.0	track.brucelead.com
 0.0.0.0	track.cam4tracking.com
+0.0.0.0	track.canva.com
 0.0.0.0	track.celtra.com
 0.0.0.0	track.childrensalon.com
 0.0.0.0	track.clearsender.com
