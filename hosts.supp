@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 12 Dec 09:08:17 +03 2023
-# Total number of blocked hosts are: 28137
+# Ad blocking hosts generated Tue 12 Dec 10:08:17 +03 2023
+# Total number of blocked hosts are: 28138
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -11125,6 +11125,7 @@
 0.0.0.0	fe-au.imrworldwide.com
 0.0.0.0	fe.brandreachsys.com
 0.0.0.0	fedex.demdex.net
+0.0.0.0	fedex-rescheduel-date.com
 0.0.0.0	fedgroceryrebate.com
 0.0.0.0	fedup.tv
 0.0.0.0	feebleshock.com
