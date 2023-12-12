@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 12 Dec 02:08:16 +03 2023
-# Total number of blocked hosts are: 28136
+# Ad blocking hosts generated Tue 12 Dec 03:08:17 +03 2023
+# Total number of blocked hosts are: 28137
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -15970,6 +15970,7 @@
 0.0.0.0	microsof.wemfbox.ch
 0.0.0.0	microstatic.pl
 0.0.0.0	microticker.com
+0.0.0.0	microwinds.de
 0.0.0.0	midala.112.2o7.net
 0.0.0.0	midar.112.2o7.net
 0.0.0.0	midcru.112.2o7.net
