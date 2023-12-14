@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 14 Dec 11:08:18 +03 2023
-# Total number of blocked hosts are: 28140
+# Ad blocking hosts generated Thu 14 Dec 12:08:16 +03 2023
+# Total number of blocked hosts are: 28142
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -9653,6 +9653,7 @@
 0.0.0.0	dev.targetpoint.com
 0.0.0.0	dev.trafficforce.com
 0.0.0.0	dev.visualwebsiteoptimizer.com
+0.0.0.0	dewdroplagoon.com
 0.0.0.0	dewinci.fr
 0.0.0.0	dfe.mic.mob.com
 0.0.0.0	df.mic.mob.com
@@ -11512,6 +11513,7 @@
 0.0.0.0	freighttools.live
 0.0.0.0	frenchbweb.fr
 0.0.0.0	frenesies.fr
+0.0.0.0	frequentflesh.com
 0.0.0.0	freshrelevance.com
 0.0.0.0	freshzz00.duckdns.org
 0.0.0.0	fr.eu.criteo.com
