@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 14 Dec 06:08:16 +03 2023
-# Total number of blocked hosts are: 28139
+# Ad blocking hosts generated Thu 14 Dec 07:08:16 +03 2023
+# Total number of blocked hosts are: 28140
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -10721,6 +10721,7 @@
 0.0.0.0	etracker.de
 0.0.0.0	etribunaldunet.fr
 0.0.0.0	etrk.asus.com
+0.0.0.0	e-trn-incm.com
 0.0.0.0	ets-ap-southeast-1.track.smaato.net
 0.0.0.0	ets-eu-west-1.track.smaato.net
 0.0.0.0	ets-us-east-1.track.smaato.net
