@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 21 Dec 17:08:17 +03 2023
-# Total number of blocked hosts are: 28145
+# Ad blocking hosts generated Thu 21 Dec 18:08:17 +03 2023
+# Total number of blocked hosts are: 28147
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -9472,6 +9472,8 @@
 0.0.0.0	d.cntv.cn
 0.0.0.0	dco-assets.everestads.net
 0.0.0.0	dco-jads-727222375.us-west-2.elb.amazonaws.com
+0.0.0.0	d-collect.jennifersoft.com
+0.0.0.0	d-collector.jennifersoft.com
 0.0.0.0	d.company-target.com
 0.0.0.0	dc.sify.com
 0.0.0.0	dcs.netbiscuits.net
