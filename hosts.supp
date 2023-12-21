@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 21 Dec 15:08:16 +03 2023
-# Total number of blocked hosts are: 28144
+# Ad blocking hosts generated Thu 21 Dec 16:08:17 +03 2023
+# Total number of blocked hosts are: 28145
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -9172,6 +9172,7 @@
 0.0.0.0	customtraffic.impactradius.com
 0.0.0.0	custom-wrs.api.responsys.net
 0.0.0.0	custom.yieldify.com
+0.0.0.0	cutcurrent.com
 0.0.0.0	cutechin.com
 0.0.0.0	cutecushion.com
 0.0.0.0	cutesaucepuppy.com
