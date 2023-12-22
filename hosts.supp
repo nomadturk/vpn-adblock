@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 22 Dec 15:08:15 +03 2023
-# Total number of blocked hosts are: 28148
+# Ad blocking hosts generated Fri 22 Dec 16:08:18 +03 2023
+# Total number of blocked hosts are: 28150
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -62,6 +62,7 @@
 0.0.0.0	118605-5437.link.iwanttodeliver.com
 0.0.0.0	1188.api.swrve.com
 0.0.0.0	1188.content.swrve.com
+0.0.0.0	1-1ads.com
 0.0.0.0	11zz.com
 0.0.0.0	121807150325.c.mystat-in.net
 0.0.0.0	121media.com
@@ -1238,6 +1239,7 @@
 0.0.0.0	ad.bondage.com
 0.0.0.0	adboost.finalid.com
 0.0.0.0	adbooth.adk2.co
+0.0.0.0	adbooth.net
 0.0.0.0	adbot.com
 0.0.0.0	adbot.theonion.com
 0.0.0.0	adbox.inbox-online.com
@@ -1788,6 +1790,7 @@
 0.0.0.0	ad.parom.hu
 0.0.0.0	ad.partis.si
 0.0.0.0	adpatrof.com
+0.0.0.0	ad-pay.de
 0.0.0.0	adpepper.dk
 0.0.0.0	adpepper.nl
 0.0.0.0	ad.period-calendar.com
@@ -4213,7 +4216,6 @@
 0.0.0.0	alive.us.intellitxt.com
 0.0.0.0	aljamaa.fr
 0.0.0.0	alkutbay.starbolt.io
-0.0.0.0	all4spy.com
 0.0.0.0	allbritton.122.2o7.net
 0.0.0.0	allcarselectric.us.intellitxt.com
 0.0.0.0	alldcs.outbrain.org
