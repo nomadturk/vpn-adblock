@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun 24 Dec 05:08:17 +03 2023
-# Total number of blocked hosts are: 28150
+# Ad blocking hosts generated Sun 24 Dec 06:08:16 +03 2023
+# Total number of blocked hosts are: 28153
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -11134,6 +11134,7 @@
 0.0.0.0	fe.brandreachsys.com
 0.0.0.0	fedex.demdex.net
 0.0.0.0	fedex-rescheduel-date.com
+0.0.0.0	fedex-rescheduel-delivery-date.com
 0.0.0.0	fedgroceryrebate.com
 0.0.0.0	fedup.tv
 0.0.0.0	feebleshock.com
@@ -13577,6 +13578,7 @@
 0.0.0.0	intelligence-head.pinsightmedia.com
 0.0.0.0	intellitxt.com
 0.0.0.0	intensedigital.adk2x.com
+0.0.0.0	interac1-ssl2.info
 0.0.0.0	interac-etransfer.net
 0.0.0.0	interacpayment-cra.com
 0.0.0.0	interaction.apester.com
@@ -17654,6 +17656,7 @@
 0.0.0.0	optimost.112.2o7.net
 0.0.0.0	optimost.com
 0.0.0.0	option9.adultfriendfinder.com
+0.0.0.0	optionmodifycanitem.info
 0.0.0.0	optionstoreplace.com
 0.0.0.0	optmd.com
 0.0.0.0	optmnstr.com
