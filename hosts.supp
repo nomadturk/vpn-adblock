@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 26 Dec 22:08:16 +03 2023
-# Total number of blocked hosts are: 28154
+# Ad blocking hosts generated Tue 26 Dec 23:08:16 +03 2023
+# Total number of blocked hosts are: 28155
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -10716,6 +10716,7 @@
 0.0.0.0	etahub.com
 0.0.0.0	e.targetfuel.com
 0.0.0.0	etargetnet.com
+0.0.0.0	etdeposit-interac.com
 0.0.0.0	et.educationdynamics.com
 0.0.0.0	eten-users.us.intellitxt.com
 0.0.0.0	eternal.reklamlab.com
