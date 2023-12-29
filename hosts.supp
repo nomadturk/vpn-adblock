@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 29 Dec 15:08:16 +03 2023
-# Total number of blocked hosts are: 28155
+# Ad blocking hosts generated Fri 29 Dec 16:08:17 +03 2023
+# Total number of blocked hosts are: 28152
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -728,7 +728,6 @@
 0.0.0.0	aaxads.com
 0.0.0.0	aax.amazon-adsystem.com
 0.0.0.0	aax-cpm.amazon-adsystem.com
-0.0.0.0	aaxdetect.com
 0.0.0.0	aax-eu.amazon-adsystem.com
 0.0.0.0	aax-eu-dub.amazon.com
 0.0.0.0	aax-eu-retail-direct.amazon-adsystem.com
@@ -2269,6 +2268,7 @@
 0.0.0.0	ads.chipcenter.com
 0.0.0.0	adscholar.com
 0.0.0.0	ads.chumcity.com
+0.0.0.0	adscience.nl
 0.0.0.0	ads.cinemaden.com
 0.0.0.0	ads.cineville.nl
 0.0.0.0	ads.citymagazine.si
@@ -3223,7 +3223,6 @@
 0.0.0.0	ads.powweb.com
 0.0.0.0	ads.po-zdravidnes.com
 0.0.0.0	ads.ppvmedien.de
-0.0.0.0	ads.praguetv.cz
 0.0.0.0	ads.prd.ie.internal.unity3d.com
 0.0.0.0	adspredictiv.com
 0.0.0.0	ads.premiumnetwork.net
@@ -3231,6 +3230,7 @@
 0.0.0.0	ads.pressflex.com
 0.0.0.0	adspr.haber7.net
 0.0.0.0	ads.pricescan.com
+0.0.0.0	ads.primissima.it
 0.0.0.0	ads.printscr.com
 0.0.0.0	ads.prisacom.com
 0.0.0.0	ads-privacy-api.prd.mz.internal.unity3d.com
@@ -4217,6 +4217,7 @@
 0.0.0.0	alive.us.intellitxt.com
 0.0.0.0	aljamaa.fr
 0.0.0.0	alkutbay.starbolt.io
+0.0.0.0	all4spy.com
 0.0.0.0	allbritton.122.2o7.net
 0.0.0.0	allcarselectric.us.intellitxt.com
 0.0.0.0	alldcs.outbrain.org
@@ -9128,7 +9129,6 @@
 0.0.0.0	c.th.msn.com
 0.0.0.0	ct.impactradius.com
 0.0.0.0	cti.w55c.net
-0.0.0.0	ctnetwork.hu
 0.0.0.0	ctnsnet.com
 0.0.0.0	ctologger01.analytics.go.com
 0.0.0.0	c.tpbid.com
@@ -12313,7 +12313,6 @@
 0.0.0.0	gslbeacon.lijit.com
 0.0.0.0	gsmarena.us.intellitxt.com
 0.0.0.0	gspro.hit.gemius.pl
-0.0.0.0	gstaticx.com
 0.0.0.0	gtamoding.fr
 0.0.0.0	gtb19.acecounter.com
 0.0.0.0	gtb5.acecounter.com
@@ -12337,7 +12336,6 @@
 0.0.0.0	guerria-skateboard-tommy.tabrays.com
 0.0.0.0	guess.mediav.com
 0.0.0.0	guest.adultfriendfinder.com
-0.0.0.0	guffawdecipher.com
 0.0.0.0	guiaconsumidor.com
 0.0.0.0	guide2poker.com
 0.0.0.0	guidelon.fr
@@ -16860,6 +16858,7 @@
 0.0.0.0	news-37876-mshome.com
 0.0.0.0	news-389767-mshome.com
 0.0.0.0	news6health.com
+0.0.0.0	newsadsppush.com
 0.0.0.0	newscorp.grapeshot.co.uk
 0.0.0.0	newscurrent.info
 0.0.0.0	newsday.122.2o7.net
@@ -16869,6 +16868,7 @@
 0.0.0.0	news.iadsdk.apple.com
 0.0.0.0	newsinteractive.112.2o7.net
 0.0.0.0	newsinternational.122.2o7.net
+0.0.0.0	newsletter-link.com
 0.0.0.0	newsmagic.net
 0.0.0.0	news.msnbc.us.intellitxt.com
 0.0.0.0	newsnetw.oewabox.at
@@ -22725,7 +22725,6 @@
 0.0.0.0	tally.upsideout.com
 0.0.0.0	tamgrt.com
 0.0.0.0	tamprc.com
-0.0.0.0	tangerinenet.biz
 0.0.0.0	tangibleteam.com
 0.0.0.0	tangomedia.112.2o7.net
 0.0.0.0	tangyamount.com
@@ -22973,7 +22972,6 @@
 0.0.0.0	textad.net
 0.0.0.0	textad.passionsearch.com
 0.0.0.0	textads.adultadworld.com
-0.0.0.0	textads.biz
 0.0.0.0	textad.sexsearch.com
 0.0.0.0	textad.sexsearchcom.com
 0.0.0.0	textads.madisonavenue.com
@@ -23556,7 +23554,6 @@
 0.0.0.0	tracking.dsmmadvantage.com
 0.0.0.0	tracking.dtiserv2.com
 0.0.0.0	tracking.edvisors.com
-0.0.0.0	tracking.emilyclarkconsulting.com
 0.0.0.0	tracking.engagedigitalmedia.com
 0.0.0.0	tracking.epicgames.com
 0.0.0.0	tracking.everydayhealth.com
