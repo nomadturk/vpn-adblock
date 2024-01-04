@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 4 Jan 14:08:16 +03 2024
-# Total number of blocked hosts are: 28155
+# Ad blocking hosts generated Thu 4 Jan 15:08:16 +03 2024
+# Total number of blocked hosts are: 28156
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -21407,6 +21407,7 @@
 0.0.0.0	software-updates.co
 0.0.0.0	software-wenc.co.cc
 0.0.0.0	soggysponge.com
+0.0.0.0	soggyzoo.com
 0.0.0.0	sohh.us.intellitxt.com
 0.0.0.0	soidog.fr
 0.0.0.0	sokrates.adtech.fr
