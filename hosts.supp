@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 10 Jan 02:08:17 +03 2024
-# Total number of blocked hosts are: 28154
+# Ad blocking hosts generated Wed 10 Jan 03:08:16 +03 2024
+# Total number of blocked hosts are: 28155
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -20679,6 +20679,7 @@
 0.0.0.0	secure-ds.serving-sys.com
 0.0.0.0	secure-eu.imrworldwide.com
 0.0.0.0	secure.fhserve.com
+0.0.0.0	secure-fidosolutions.com
 0.0.0.0	secure.flashtalking.com
 0.0.0.0	secure.flashtalking.com.edgekey.net
 0.0.0.0	secure-gg.imrworldwide.com
