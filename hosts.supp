@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 10 Jan 23:08:17 +03 2024
-# Total number of blocked hosts are: 28157
+# Ad blocking hosts generated Thu 11 Jan 00:08:16 +03 2024
+# Total number of blocked hosts are: 28158
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -20232,6 +20232,7 @@
 0.0.0.0	s.amazon-adsystem.com
 0.0.0.0	samba.tv
 0.0.0.0	sample-api-v2.crazyegg.com
+0.0.0.0	samplesamba.com
 0.0.0.0	samsung3.solution.weborama.fr
 0.0.0.0	samsungacr.com
 0.0.0.0	samsungads.com
