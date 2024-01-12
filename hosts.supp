@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 12 Jan 12:08:15 +03 2024
-# Total number of blocked hosts are: 28158
+# Ad blocking hosts generated Fri 12 Jan 13:08:15 +03 2024
+# Total number of blocked hosts are: 28159
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -12398,6 +12398,7 @@
 0.0.0.0	hakuba.janis.or.jp
 0.0.0.0	hal9000.redintelligence.net
 0.0.0.0	halal-place.com
+0.0.0.0	halcyoncanyon.com
 0.0.0.0	hallmarkibmcom.112.2o7.net
 0.0.0.0	haltingbadge.com
 0.0.0.0	hamiltonpainters.ca
