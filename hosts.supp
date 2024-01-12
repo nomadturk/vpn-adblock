@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 12 Jan 15:08:20 +03 2024
-# Total number of blocked hosts are: 28159
+# Ad blocking hosts generated Fri 12 Jan 16:08:21 +03 2024
+# Total number of blocked hosts are: 28154
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -104,7 +104,6 @@
 0.0.0.0	17de4c17.akstat.io
 0.0.0.0	1800.stats.misstrends.com
 0.0.0.0	180hits.de
-0.0.0.0	180searchassistant.com
 0.0.0.0	1867.stats.misstrends.com
 0.0.0.0	189358.engine.mobileapptracking.com
 0.0.0.0	189904.engine.mobileapptracking.com
@@ -1307,6 +1306,7 @@
 0.0.0.0	adcode.adengage.com
 0.0.0.0	adcode.rontar.com
 0.0.0.0	adcolony.com
+0.0.0.0	adcomplete.com
 0.0.0.0	adconf.rqmob.com
 0.0.0.0	adconion.com
 0.0.0.0	adconscious.com
@@ -3229,7 +3229,6 @@
 0.0.0.0	ads.pressflex.com
 0.0.0.0	adspr.haber7.net
 0.0.0.0	ads.pricescan.com
-0.0.0.0	ads.primissima.it
 0.0.0.0	ads.printscr.com
 0.0.0.0	ads.prisacom.com
 0.0.0.0	ads-privacy-api.prd.mz.internal.unity3d.com
@@ -3867,7 +3866,6 @@
 0.0.0.0	adv.mpvc.it
 0.0.0.0	adv.mxmcdn.net
 0.0.0.0	adv-mydarkness.ggcorp.me
-0.0.0.0	adv.neverbuy.com
 0.0.0.0	adv.nexthardware.com
 0.0.0.0	advnt.com
 0.0.0.0	adv-op2.joygames.me
@@ -5556,7 +5554,6 @@
 0.0.0.0	autoads.asia
 0.0.0.0	auto.allewagen.de
 0.0.0.0	autoanythingcom.112.2o7.net
-0.0.0.0	auto-bannertausch.de
 0.0.0.0	autobytel.112.2o7.net
 0.0.0.0	autobytelcorppopup.112.2o7.net
 0.0.0.0	autocomplete.demandbase.com
@@ -10890,7 +10887,6 @@
 0.0.0.0	exchange.adswizz.com
 0.0.0.0	exchange.adtrue.com
 0.0.0.0	exchangeclicksonline.com
-0.0.0.0	exchangedetail.com
 0.0.0.0	exchange-it.com
 0.0.0.0	exchangemarket.fr
 0.0.0.0	exchange.nativeads.com
@@ -15372,7 +15368,6 @@
 0.0.0.0	max.i12.de
 0.0.0.0	maxim.122.2o7.net
 0.0.0.0	maximiser.net
-0.0.0.0	maximumcash.com
 0.0.0.0	max-l.mediav.com
 0.0.0.0	maxmusics.com
 0.0.0.0	maxonclick.com
