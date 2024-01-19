@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 19 Jan 15:08:17 +03 2024
-# Total number of blocked hosts are: 28160
+# Ad blocking hosts generated Fri 19 Jan 16:08:18 +03 2024
+# Total number of blocked hosts are: 28155
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -745,7 +745,6 @@
 0.0.0.0	abacho.net
 0.0.0.0	abackafterthought.com
 0.0.0.0	abackchain.com
-0.0.0.0	abackframe.com
 0.0.0.0	ab.adpro.com.ua
 0.0.0.0	ab.adrecreate.com
 0.0.0.0	ab.advertiserurl.com
@@ -3424,7 +3423,6 @@
 0.0.0.0	ads.sysmesh.com
 0.0.0.0	adstacks.in
 0.0.0.0	ads.tahono.com
-0.0.0.0	adstanding.com
 0.0.0.0	ads.tapdaq.com
 0.0.0.0	ads.tarrobads.com
 0.0.0.0	adstat.4u.pl
@@ -9496,7 +9494,6 @@
 0.0.0.0	de.2.cqcounter.com
 0.0.0.0	de.5.p2l.info
 0.0.0.0	deadpangate.com
-0.0.0.0	deadpanmarble.com
 0.0.0.0	de.ads.adviva.net
 0.0.0.0	de.adserver.yahoo.com
 0.0.0.0	de.ads.justpremium.com
@@ -10494,7 +10491,6 @@
 0.0.0.0	eks-prod-1b.vungle.com
 0.0.0.0	eks-prod-1c.vungle.com
 0.0.0.0	elasticchange.com
-0.0.0.0	elasticducks.com
 0.0.0.0	elboncoin.fr
 0.0.0.0	elderlyscissors.com
 0.0.0.0	elderlytown.com
@@ -10889,6 +10885,7 @@
 0.0.0.0	exchange.adswizz.com
 0.0.0.0	exchange.adtrue.com
 0.0.0.0	exchangeclicksonline.com
+0.0.0.0	exchangedetail.com
 0.0.0.0	exchange-it.com
 0.0.0.0	exchangemarket.fr
 0.0.0.0	exchange.nativeads.com
@@ -16856,6 +16853,7 @@
 0.0.0.0	news-37876-mshome.com
 0.0.0.0	news-389767-mshome.com
 0.0.0.0	news6health.com
+0.0.0.0	newsadsppush.com
 0.0.0.0	newscorp.grapeshot.co.uk
 0.0.0.0	newscurrent.info
 0.0.0.0	newsday.122.2o7.net
@@ -19289,7 +19287,6 @@
 0.0.0.0	query.fqtag.com
 0.0.0.0	query.petametrics.com
 0.0.0.0	query-us-east1.petametrics.com
-0.0.0.0	questaffiliates.net
 0.0.0.0	questiacom.112.2o7.net
 0.0.0.0	question2answer.com
 0.0.0.0	questsoftware.112.2o7.net
@@ -20628,7 +20625,6 @@
 0.0.0.0	searscom.112.2o7.net
 0.0.0.0	sears.demdex.net
 0.0.0.0	searskmartcom.112.2o7.net
-0.0.0.0	seashoreturn.com
 0.0.0.0	seasonale.1.p2l.info
 0.0.0.0	seavideo-ak.espn.go.com
 0.0.0.0	sebcotrk.com
@@ -27974,7 +27970,6 @@
 0.0.0.0	yj-a.p.adnxs.com
 0.0.0.0	yj.p.adnxs.com
 0.0.0.0	ykocr.comfortykive.xyz
-0.0.0.0	yldbt.com
 0.0.0.0	yllix.com
 0.0.0.0	ylog.hiido.com
 0.0.0.0	ym.adnxs.com
