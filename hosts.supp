@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 24 Jan 13:08:17 +03 2024
-# Total number of blocked hosts are: 28161
+# Ad blocking hosts generated Wed 24 Jan 14:08:16 +03 2024
+# Total number of blocked hosts are: 28162
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -12290,6 +12290,7 @@
 0.0.0.0	grmtech.net
 0.0.0.0	grooveshark.fr
 0.0.0.0	grossiste3d.fr
+0.0.0.0	grouchybrothers.com
 0.0.0.0	groundtruth.com
 0.0.0.0	group11.iperceptions.com
 0.0.0.0	groupeauto.fr
