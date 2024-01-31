@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 1 Feb 00:08:17 +03 2024
-# Total number of blocked hosts are: 28170
+# Ad blocking hosts generated Thu 1 Feb 01:08:17 +03 2024
+# Total number of blocked hosts are: 28172
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -10720,6 +10720,7 @@
 0.0.0.0	et-eus.w.inmobi.com
 0.0.0.0	e.thanksearch.com
 0.0.0.0	ETHpolice.com
+0.0.0.0	et-interac.etransfers1.com
 0.0.0.0	etl.xlmc.sandai.net
 0.0.0.0	et.mobadvent.com
 0.0.0.0	et.nytimes.com
@@ -20680,6 +20681,7 @@
 0.0.0.0	securecloud-smart.com
 0.0.0.0	secure-dcr-cert.imrworldwide.com
 0.0.0.0	secure-dcr.imrworldwide.com
+0.0.0.0	securedeposit-et.com
 0.0.0.0	secure-dk.imrworldwide.com
 0.0.0.0	securedloading.com
 0.0.0.0	securedlogin.org
