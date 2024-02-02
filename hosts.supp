@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 2 Feb 15:08:15 +03 2024
-# Total number of blocked hosts are: 28172
+# Ad blocking hosts generated Fri 2 Feb 16:08:16 +03 2024
+# Total number of blocked hosts are: 28170
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -104,6 +104,7 @@
 0.0.0.0	17de4c17.akstat.io
 0.0.0.0	1800.stats.misstrends.com
 0.0.0.0	180hits.de
+0.0.0.0	180searchassistant.com
 0.0.0.0	1867.stats.misstrends.com
 0.0.0.0	189358.engine.mobileapptracking.com
 0.0.0.0	189904.engine.mobileapptracking.com
@@ -5838,7 +5839,6 @@
 0.0.0.0	banner.oddcast.com
 0.0.0.0	banner.orb.net
 0.0.0.0	banner.passion.com
-0.0.0.0	banner.penguin.cz
 0.0.0.0	banner.piratos.de
 0.0.0.0	banner.play-asia.com
 0.0.0.0	banner.playgatecasino.com
@@ -5974,7 +5974,6 @@
 0.0.0.0	bannertrack.net
 0.0.0.0	bannerus1.axelsfun.com
 0.0.0.0	bannerus3.axelsfun.com
-0.0.0.0	banner.webmersion.com
 0.0.0.0	banner.webtools24.net
 0.0.0.0	bannery.cz
 0.0.0.0	banniere.reussissonsensemble.fr
@@ -9735,7 +9734,6 @@
 0.0.0.0	directorym.com
 0.0.0.0	direct-space.com
 0.0.0.0	directtrack.com
-0.0.0.0	direct-xxx-access.com
 0.0.0.0	di.rlcdn.com
 0.0.0.0	dir.opank.com
 0.0.0.0	dirtmountainbike.fr
@@ -10494,6 +10492,7 @@
 0.0.0.0	eks-prod-1b.vungle.com
 0.0.0.0	eks-prod-1c.vungle.com
 0.0.0.0	elasticchange.com
+0.0.0.0	elasticducks.com
 0.0.0.0	elboncoin.fr
 0.0.0.0	elderlyscissors.com
 0.0.0.0	elderlytown.com
@@ -20004,7 +20003,6 @@
 0.0.0.0	rtb-east-wins.crossinstall.com
 0.0.0.0	rtbflairads.com
 0.0.0.0	rtb.gumgum.com
-0.0.0.0	rtbidhost.com
 0.0.0.0	rtb-lb-event-sjc.tubemogul.com
 0.0.0.0	rtb.metrigo.com
 0.0.0.0	rtb.mfadsrvr.com
@@ -22988,6 +22986,7 @@
 0.0.0.0	textad.net
 0.0.0.0	textad.passionsearch.com
 0.0.0.0	textads.adultadworld.com
+0.0.0.0	textads.biz
 0.0.0.0	textad.sexsearch.com
 0.0.0.0	textad.sexsearchcom.com
 0.0.0.0	textads.madisonavenue.com
@@ -23573,7 +23572,6 @@
 0.0.0.0	tracking.engagedigitalmedia.com
 0.0.0.0	tracking.epicgames.com
 0.0.0.0	tracking.everydayhealth.com
-0.0.0.0	tracking.exipure.com
 0.0.0.0	tracking.fanbridge.com
 0.0.0.0	tracking.fccinteractive.com
 0.0.0.0	tracking.feedmob.com
