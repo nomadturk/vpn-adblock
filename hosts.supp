@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 8 Feb 07:08:16 +03 2024
-# Total number of blocked hosts are: 28171
+# Ad blocking hosts generated Thu 8 Feb 08:08:17 +03 2024
+# Total number of blocked hosts are: 28173
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -827,6 +827,7 @@
 0.0.0.0	accounts.secure-ua.website
 0.0.0.0	accounts.ukr.net.ssl2.in
 0.0.0.0	ac-crerteil.fr
+0.0.0.0	accrogers-overview.com
 0.0.0.0	a.cctv.com
 0.0.0.0	accuweather.us.intellitxt.com
 0.0.0.0	acdn.adnxs.com
@@ -20720,6 +20721,7 @@
 0.0.0.0	securepubads.g.doubleclick.net
 0.0.0.0	secure.quantserve.com
 0.0.0.0	secureredirect101.com
+0.0.0.0	secure-royaibnk.com
 0.0.0.0	securerr.com
 0.0.0.0	securerunner.com
 0.0.0.0	secure-sdk.imrworldwide.com
