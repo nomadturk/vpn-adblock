@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 9 Feb 19:08:18 +03 2024
-# Total number of blocked hosts are: 28171
+# Ad blocking hosts generated Fri 9 Feb 20:08:16 +03 2024
+# Total number of blocked hosts are: 28172
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -6995,6 +6995,7 @@
 0.0.0.0	campus-forprof.fr
 0.0.0.0	canadaalltax.com
 0.0.0.0	canadapost.112.2o7.net
+0.0.0.0	canadapostarticle.com
 0.0.0.0	canadapost-delivery-reshedule.com
 0.0.0.0	canadapost-paymentservice.com
 0.0.0.0	canadapost-postescanada.uwpackege.top
