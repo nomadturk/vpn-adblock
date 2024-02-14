@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 14 Feb 05:08:17 +03 2024
-# Total number of blocked hosts are: 28171
+# Ad blocking hosts generated Wed 14 Feb 06:08:16 +03 2024
+# Total number of blocked hosts are: 28172
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -12479,6 +12479,7 @@
 0.0.0.0	hd.mmstat.com
 0.0.0.0	hdporium.com
 0.0.0.0	hdscout.com
+0.0.0.0	healpublic.best
 0.0.0.0	healthbeautyncs.com
 0.0.0.0	health-club.online
 0.0.0.0	healthfood.syoutikubai.com
