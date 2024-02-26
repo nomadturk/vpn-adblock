@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 26 Feb 13:08:16 +03 2024
-# Total number of blocked hosts are: 28185
+# Ad blocking hosts generated Mon 26 Feb 14:08:17 +03 2024
+# Total number of blocked hosts are: 28186
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -16763,6 +16763,7 @@
 0.0.0.0	neber.112.2o7.net
 0.0.0.0	nebnr.112.2o7.net
 0.0.0.0	nebula-cdn.kampyle.com
+0.0.0.0	nebulacrescent.com
 0.0.0.0	nedstatbasic.net
 0.0.0.0	nedstat.s0.nl
 0.0.0.0	nedstat.tripod.com
