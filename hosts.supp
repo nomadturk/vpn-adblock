@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 2 Mar 03:08:24 +03 2024
-# Total number of blocked hosts are: 28185
+# Ad blocking hosts generated Sat 2 Mar 04:08:16 +03 2024
+# Total number of blocked hosts are: 28186
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -6160,6 +6160,7 @@
 0.0.0.0	be-ms.teads.tv
 0.0.0.0	benchemail.bmetrack.com
 0.0.0.0	benchmarkemail.fr
+0.0.0.0	benefitsgov.info
 0.0.0.0	benefitsorganic.com
 0.0.0.0	benefits.sovendus.com
 0.0.0.0	benfly.net
