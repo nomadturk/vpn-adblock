@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 5 Mar 02:08:16 +03 2024
-# Total number of blocked hosts are: 28186
+# Ad blocking hosts generated Tue 5 Mar 03:08:17 +03 2024
+# Total number of blocked hosts are: 28187
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -5547,6 +5547,7 @@
 0.0.0.0	authenticangry.com
 0.0.0.0	authenticated-origin.com
 0.0.0.0	auth.follow-apps.com
+0.0.0.0	authscotia-signinscotia.com
 0.0.0.0	auth.split.io
 0.0.0.0	autoads.asia
 0.0.0.0	auto.allewagen.de
