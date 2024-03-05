@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 5 Mar 06:08:16 +03 2024
-# Total number of blocked hosts are: 28187
+# Ad blocking hosts generated Tue 5 Mar 07:08:16 +03 2024
+# Total number of blocked hosts are: 28188
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -11198,6 +11198,7 @@
 0.0.0.0	fi-analytics.mgsn.it
 0.0.0.0	fichier-pdfr.fr
 0.0.0.0	fidelity-media.com
+0.0.0.0	fido-team.com
 0.0.0.0	figato.fr
 0.0.0.0	fightline.us.intellitxt.com
 0.0.0.0	figlobal.112.2o7.net
