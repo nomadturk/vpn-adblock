@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 6 Mar 23:08:17 +03 2024
-# Total number of blocked hosts are: 28188
+# Ad blocking hosts generated Thu 7 Mar 00:08:18 +03 2024
+# Total number of blocked hosts are: 28190
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -11906,6 +11906,7 @@
 0.0.0.0	get.mycounter.com.ua
 0.0.0.0	get.mycounter.ua
 0.0.0.0	getmyfreegiftcard.com
+0.0.0.0	getnexuscard.com
 0.0.0.0	get.optad360.io
 0.0.0.0	getoutofyourmind.com
 0.0.0.0	getpoints.net
@@ -26717,6 +26718,7 @@
 0.0.0.0	www.getloan.com
 0.0.0.0	www.getmyads24.com
 0.0.0.0	www.getmyfreegiftcard.com
+0.0.0.0	www.getnexuscard.com
 0.0.0.0	www.getsmart.com
 0.0.0.0	www.getspecialgifts.com
 0.0.0.0	www.gezinti.com
