@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 15 Mar 14:08:17 +03 2024
-# Total number of blocked hosts are: 28190
+# Ad blocking hosts generated Fri 15 Mar 15:08:17 +03 2024
+# Total number of blocked hosts are: 28183
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -133,7 +133,6 @@
 0.0.0.0	1in.cqcounter.com
 0.0.0.0	1it.cqcounter.com
 0.0.0.0	1jo.cqcounter.com
-0.0.0.0	1link2020.com
 0.0.0.0	1l-view.mail.ru
 0.0.0.0	1man1jar.org
 0.0.0.0	1man2needles.com
@@ -201,7 +200,6 @@
 0.0.0.0	24log.com
 0.0.0.0	24m.nuggad.net
 0.0.0.0	24ora.eu
-0.0.0.0	24pm-affiliation.com
 0.0.0.0	24ratownik.hit.gemius.pl
 0.0.0.0	24trk.com
 0.0.0.0	24wrestling.us.intellitxt.com
@@ -2560,7 +2558,6 @@
 0.0.0.0	adserver.hispanoclick.com
 0.0.0.0	adserver.home.pl
 0.0.0.0	adserver.hostinteractive.com
-0.0.0.0	adserver.html.it
 0.0.0.0	adserver.humanux.com
 0.0.0.0	adserver.hwupgrade.it
 0.0.0.0	adserver.icmedienhaus.de
@@ -4023,7 +4020,6 @@
 0.0.0.0	affiliate.rusvpn.com
 0.0.0.0	affiliates.allposters.com
 0.0.0.0	affiliates.arvixe.com
-0.0.0.0	affiliates.babylon.com
 0.0.0.0	affiliates.bet-at-home.com
 0.0.0.0	affiliates.bhphotovideo.com
 0.0.0.0	affiliates.digitalriver.com
@@ -10496,7 +10492,6 @@
 0.0.0.0	eks-prod-1b.vungle.com
 0.0.0.0	eks-prod-1c.vungle.com
 0.0.0.0	elasticchange.com
-0.0.0.0	elasticducks.com
 0.0.0.0	elboncoin.fr
 0.0.0.0	elderlyscissors.com
 0.0.0.0	elderlytown.com
@@ -10944,7 +10939,6 @@
 0.0.0.0	expired-targeted.com
 0.0.0.0	explorads.com
 0.0.0.0	exploreemail.net
-0.0.0.0	expmediadirect1.com
 0.0.0.0	expo-max.com
 0.0.0.0	exponea.com
 0.0.0.0	exponential54894892.s.moatpixel.com
@@ -18099,6 +18093,7 @@
 0.0.0.0	pelmorexmedia.122.2o7.net
 0.0.0.0	penix.nl
 0.0.0.0	pennwellcorp.112.2o7.net
+0.0.0.0	pennyweb.com
 0.0.0.0	penseedepascal.fr
 0.0.0.0	pension-pentacon.de
 0.0.0.0	pentonmedia.122.2o7.net
@@ -18856,7 +18851,6 @@
 0.0.0.0	prmtracking.com
 0.0.0.0	prnewswire.122.2o7.net
 0.0.0.0	pro-accesssoires.fr
-0.0.0.0	pro-advertising.com
 0.0.0.0	probablepartner.com
 0.0.0.0	probes.cedexis.com
 0.0.0.0	probe.yieldlab.net
@@ -19561,7 +19555,6 @@
 0.0.0.0	redirectit.net
 0.0.0.0	redirect-link.com
 0.0.0.0	redirectload.com
-0.0.0.0	re-directme.com
 0.0.0.0	redirect-net.com
 0.0.0.0	redirectnet.net
 0.0.0.0	redirect-protocol.com
