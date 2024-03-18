@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 18 Mar 09:08:16 +03 2024
-# Total number of blocked hosts are: 28183
+# Ad blocking hosts generated Mon 18 Mar 10:08:16 +03 2024
+# Total number of blocked hosts are: 28184
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -10726,6 +10726,7 @@
 0.0.0.0	et.nytimes.com
 0.0.0.0	etracker.com
 0.0.0.0	etracker.de
+0.0.0.0	etransfer-23799.com
 0.0.0.0	etribunaldunet.fr
 0.0.0.0	etrk.asus.com
 0.0.0.0	e-trn-incm.com
