@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 26 Mar 03:08:30 +03 2024
-# Total number of blocked hosts are: 28183
+# Ad blocking hosts generated Tue 26 Mar 04:08:26 +03 2024
+# Total number of blocked hosts are: 28182
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -23911,7 +23911,6 @@
 0.0.0.0	transferkeep.com
 0.0.0.0	transferlights.com
 0.0.0.0	transfer-rate.com
-0.0.0.0	transfer.sh
 0.0.0.0	transferwiser.io
 0.0.0.0	trans.hiido.com
 0.0.0.0	transplugin.io
