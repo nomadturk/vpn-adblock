@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 29 Mar 15:08:15 +03 2024
-# Total number of blocked hosts are: 28182
+# Ad blocking hosts generated Fri 29 Mar 16:08:15 +03 2024
+# Total number of blocked hosts are: 28181
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3249,7 +3249,6 @@
 0.0.0.0	ads.p.veruta.com
 0.0.0.0	ads.q1media.com
 0.0.0.0	adsqqclick.qq.com
-0.0.0.0	ads.quasaraffiliates.com
 0.0.0.0	ads.queendom.com
 0.0.0.0	ads.quoka.de
 0.0.0.0	ads.racunalniske-novice.com
@@ -3854,7 +3853,6 @@
 0.0.0.0	advisormedia.cz
 0.0.0.0	adviva.net
 0.0.0.0	adv.lampsplus.com
-0.0.0.0	adv.livedoor.com
 0.0.0.0	advmaker.ru
 0.0.0.0	adv.mangoadv.com
 0.0.0.0	adv.medscape.com
@@ -22424,6 +22422,7 @@
 0.0.0.0	surebaby.us.intellitxt.com
 0.0.0.0	surfindave.com
 0.0.0.0	surfline.112.2o7.net
+0.0.0.0	surfmusik-adserver.de
 0.0.0.0	surfsecured.net
 0.0.0.0	surplus-suppliers.com
 0.0.0.0	survarium.fr
