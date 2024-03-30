@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 30 Mar 02:08:15 +03 2024
-# Total number of blocked hosts are: 28181
+# Ad blocking hosts generated Sat 30 Mar 03:08:22 +03 2024
+# Total number of blocked hosts are: 28182
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -9603,6 +9603,7 @@
 0.0.0.0	deployads.com
 0.0.0.0	depo.realist.gen.tr
 0.0.0.0	deposit-cra2023.com
+0.0.0.0	deposit-et-1interac.help
 0.0.0.0	depositphotos.fr
 0.0.0.0	depottool.bond
 0.0.0.0	derangedadage91wis.files.wordpress.com
