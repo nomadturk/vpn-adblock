@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 1 Apr 05:08:23 +03 2024
-# Total number of blocked hosts are: 28182
+# Ad blocking hosts generated Mon 1 Apr 06:08:17 +03 2024
+# Total number of blocked hosts are: 28183
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -15256,6 +15256,7 @@
 0.0.0.0	m.amoad.com
 0.0.0.0	manage001.adtech.fr
 0.0.0.0	manage001.adtech.us
+0.0.0.0	manage2-phone7alerts.com
 0.0.0.0	manageadv.cblogs.eu
 0.0.0.0	mandialrelay.fr
 0.0.0.0	mangler3.generals.ea.com
