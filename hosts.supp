@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 2 Apr 22:08:16 +03 2024
-# Total number of blocked hosts are: 28186
+# Ad blocking hosts generated Tue 2 Apr 23:08:16 +03 2024
+# Total number of blocked hosts are: 28187
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -12847,6 +12847,7 @@
 0.0.0.0	hub.adlpartner.com
 0.0.0.0	hubadnetwork.com
 0.0.0.0	hub.com.pl
+0.0.0.0	hubspotlinks.com
 0.0.0.0	hueads.com
 0.0.0.0	hueadsortb.com
 0.0.0.0	hueadsxml.com
