@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 3 Apr 23:08:17 +03 2024
-# Total number of blocked hosts are: 28187
+# Ad blocking hosts generated Thu 4 Apr 00:08:20 +03 2024
+# Total number of blocked hosts are: 28188
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1711,6 +1711,7 @@
 0.0.0.0	ad.n2434.doubleclick.net
 0.0.0.0	ad.nachtagenten.de
 0.0.0.0	adn.admixer.co.kr
+0.0.0.0	adnami.io
 0.0.0.0	ad.naver.com
 0.0.0.0	adn-d.sp.gmossp-sp.jp
 0.0.0.0	adn.ebay.com
