@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 4 Apr 02:08:16 +03 2024
-# Total number of blocked hosts are: 28188
+# Ad blocking hosts generated Thu 4 Apr 03:08:17 +03 2024
+# Total number of blocked hosts are: 28189
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -5669,6 +5669,7 @@
 0.0.0.0	b3d.com
 0.0.0.0	b3.mookie1.com
 0.0.0.0	b3-uk.mookie1.com
+0.0.0.0	b3.videoamp.com
 0.0.0.0	b400393baba7cd476a3.com
 0.0.0.0	b5057c.r.axf8.net
 0.0.0.0	b5media.us.intellitxt.com
