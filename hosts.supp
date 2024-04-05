@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 5 Apr 14:08:16 +03 2024
-# Total number of blocked hosts are: 28189
+# Ad blocking hosts generated Fri 5 Apr 15:08:16 +03 2024
+# Total number of blocked hosts are: 28182
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4032,7 +4032,6 @@
 0.0.0.0	affiliates.lifeselector.com
 0.0.0.0	affiliates.neteller.com
 0.0.0.0	affiliates.pinnaclesports.com
-0.0.0.0	affiliates.rozetka.com.ua
 0.0.0.0	affiliates.streamray.com
 0.0.0.0	affiliates.thinkhost.net
 0.0.0.0	affiliates.thrixxx.com
@@ -4311,7 +4310,6 @@
 0.0.0.0	amp.adpushup.com
 0.0.0.0	amp.casalemedia.com
 0.0.0.0	amp-error-reporting.appspot.com
-0.0.0.0	ampleclick.com
 0.0.0.0	amplify-com-mktg.imgix.net
 0.0.0.0	amplify-imp.outbrain.com
 0.0.0.0	amplify.outbrain.com
@@ -5800,7 +5798,6 @@
 0.0.0.0	bannerco-op.com
 0.0.0.0	banner.cotedazurpalace.com
 0.0.0.0	banner.coza.com
-0.0.0.0	banner.cz
 0.0.0.0	banner.diamondclubcasino.com
 0.0.0.0	banner.dspcdn.com
 0.0.0.0	banner.easyspace.com
@@ -11804,7 +11801,6 @@
 0.0.0.0	geekstogo.us.intellitxt.com
 0.0.0.0	geek.us.intellitxt.com
 0.0.0.0	geizhals.oewabox.at
-0.0.0.0	gekko.spiceworks.com
 0.0.0.0	gem.gbc.criteo.com
 0.0.0.0	gemini.yahoo.com
 0.0.0.0	gemius.pl
@@ -12509,7 +12505,6 @@
 0.0.0.0	heavy-flood.com
 0.0.0.0	hebdotop.com
 0.0.0.0	hefever.fr
-0.0.0.0	heias.com
 0.0.0.0	helios.fvn.no
 0.0.0.0	helium.us.intellitxt.com
 0.0.0.0	hellobar.com
@@ -16092,7 +16087,6 @@
 0.0.0.0	mlbstlouis.112.2o7.net
 0.0.0.0	mlbtoronto.112.2o7.net
 0.0.0.0	mlefigaro.fr
-0.0.0.0	mlm.de
 0.0.0.0	mlntracker.com
 0.0.0.0	mlog.hiido.com
 0.0.0.0	m.loopme.me
@@ -23374,7 +23368,6 @@
 0.0.0.0	topshape.me
 0.0.0.0	topsir.com
 0.0.0.0	top-site-list.com
-0.0.0.0	topsite.lv
 0.0.0.0	topsites.blogflux.com
 0.0.0.0	topsites.com.br
 0.0.0.0	topsocialite.us.intellitxt.com
