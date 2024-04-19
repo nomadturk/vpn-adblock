@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 19 Apr 14:08:16 +03 2024
-# Total number of blocked hosts are: 28165
+# Ad blocking hosts generated Fri 19 Apr 15:08:16 +03 2024
+# Total number of blocked hosts are: 28161
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -8177,7 +8177,6 @@
 0.0.0.0	cloudcrown.com
 0.0.0.0	cloud-emea.analytics-egain.com
 0.0.0.0	cloudflareinsights.com
-0.0.0.0	cloudiq.com
 0.0.0.0	cloudmobi.net
 0.0.0.0	cloud-observer.ip-label.net
 0.0.0.0	cloud.ogury.io
@@ -16081,6 +16080,7 @@
 0.0.0.0	mlbstlouis.112.2o7.net
 0.0.0.0	mlbtoronto.112.2o7.net
 0.0.0.0	mlefigaro.fr
+0.0.0.0	mlm.de
 0.0.0.0	mlntracker.com
 0.0.0.0	mlog.hiido.com
 0.0.0.0	m.loopme.me
@@ -17833,7 +17833,6 @@
 0.0.0.0	paas-push-api-log.immomo.com
 0.0.0.0	pacific-poker.e-online-poker-4u.net
 0.0.0.0	paclitor.com
-0.0.0.0	paddleangle.com
 0.0.0.0	p.addthis.com
 0.0.0.0	p.ad.gt
 0.0.0.0	p.adnxs.com
@@ -20390,7 +20389,6 @@
 0.0.0.0	s.cpx.to
 0.0.0.0	scratch2cash.com
 0.0.0.0	screechingfurniture.com
-0.0.0.0	screechingslip.com
 0.0.0.0	screechingstocking.com
 0.0.0.0	screechingstove.com
 0.0.0.0	screenaddict.thewhizproducts.com
@@ -21019,7 +21017,6 @@
 0.0.0.0	shallownation.us.intellitxt.com
 0.0.0.0	shalltry.com
 0.0.0.0	shapado.com
-0.0.0.0	shareadspace.com
 0.0.0.0	shareaholic.com
 0.0.0.0	shareasale.com
 0.0.0.0	sharebar.addthiscdn.com
@@ -24706,7 +24703,6 @@
 0.0.0.0	vengefulgrass.com
 0.0.0.0	ventivmedia.com
 0.0.0.0	venturead.com
-0.0.0.0	verblife-5.co
 0.0.0.0	vericlick.com
 0.0.0.0	verification.jiguang.cn
 0.0.0.0	verify.mob.com
