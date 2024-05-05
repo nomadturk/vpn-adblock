@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun 5 May 22:08:18 +03 2024
-# Total number of blocked hosts are: 28157
+# Ad blocking hosts generated Sun 5 May 23:08:16 +03 2024
+# Total number of blocked hosts are: 28159
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -5216,6 +5216,7 @@
 0.0.0.0	ap-southeast-1.prod.pr.analytics.console.aws.a2z.com
 0.0.0.0	apsoutheast-match.deepintent.com
 0.0.0.0	apsu.fr
+0.0.0.0	aptabase.com
 0.0.0.0	ap.tnkfactory.com
 0.0.0.0	apture.com
 0.0.0.0	a.pub.network
@@ -24296,6 +24297,7 @@
 0.0.0.0	unetbootin.net
 0.0.0.0	unetbootin.org
 0.0.0.0	uniclick.openv.com
+0.0.0.0	unidentifiedanalytics.web.app
 0.0.0.0	unid.go.com
 0.0.0.0	unified.adsafeprotected.com
 0.0.0.0	unifiedbidding.ad.smaato.net
