@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 6 May 07:08:17 +03 2024
+# Ad blocking hosts generated Mon 6 May 08:08:15 +03 2024
 # Total number of blocked hosts are: 28159
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -12798,7 +12798,6 @@
 0.0.0.0	hs-analytics.net
 0.0.0.0	hs-banner.com
 0.0.0.0	hsb-canada.com
-0.0.0.0	h.seznam.cz
 0.0.0.0	hs.interpolls.com
 0.0.0.0	hsleadflows.net
 0.0.0.0	hsn.uqhv.net
@@ -25447,6 +25446,7 @@
 0.0.0.0	widget3.linkwithin.com
 0.0.0.0	widget5.linkwithin.com
 0.0.0.0	widget.achetezfacile.com
+0.0.0.0	widget.adcovery.com
 0.0.0.0	widget.as.criteo.com
 0.0.0.0	widget.beop.io
 0.0.0.0	widget-cdn.rpxnow.com
