@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 10 May 20:08:18 +03 2024
-# Total number of blocked hosts are: 28158
+# Ad blocking hosts generated Fri 10 May 21:08:16 +03 2024
+# Total number of blocked hosts are: 28159
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -19514,6 +19514,7 @@
 0.0.0.0	record.mrwin.com
 0.0.0.0	recordnetcom.112.2o7.net
 0.0.0.0	recordonlinecom.112.2o7.net
+0.0.0.0	recover-subscription.com
 0.0.0.0	recreativ.ru
 0.0.0.0	recs.engageya.com
 0.0.0.0	recs.richrelevance.com
