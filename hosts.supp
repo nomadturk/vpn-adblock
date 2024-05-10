@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 10 May 14:08:16 +03 2024
-# Total number of blocked hosts are: 28160
+# Ad blocking hosts generated Fri 10 May 15:08:16 +03 2024
+# Total number of blocked hosts are: 28158
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -5283,7 +5283,6 @@
 0.0.0.0	artcomix.com
 0.0.0.0	arteradio.fr
 0.0.0.0	arthritis.atspace.com
-0.0.0.0	artisany.net
 0.0.0.0	artissanat.fr
 0.0.0.0	artistdirect.us.intellitxt.com
 0.0.0.0	ar.tns-counter.ru
@@ -11088,7 +11087,6 @@
 0.0.0.0	fastonlineusers.com
 0.0.0.0	fast.philly.demdex.net
 0.0.0.0	fastpopunder.com
-0.0.0.0	fast-redirecting.com
 0.0.0.0	fasts-downloads.com
 0.0.0.0	fast.td.demdex.net
 0.0.0.0	fast.timeinc.demdex.net
@@ -23264,7 +23262,6 @@
 0.0.0.0	t.notif-colissimo-laposte.info
 0.0.0.0	t.nrelate.com
 0.0.0.0	tns-counter.ru
-0.0.0.0	tntclix.co.uk
 0.0.0.0	tnttv.112.2o7.net
 0.0.0.0	toads.osdn.com
 0.0.0.0	tobepure.com
@@ -23351,6 +23348,7 @@
 0.0.0.0	topshape.me
 0.0.0.0	topsir.com
 0.0.0.0	top-site-list.com
+0.0.0.0	topsite.lv
 0.0.0.0	topsites.blogflux.com
 0.0.0.0	topsites.com.br
 0.0.0.0	topsocialite.us.intellitxt.com
