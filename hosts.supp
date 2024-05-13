@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 13 May 08:08:16 +03 2024
-# Total number of blocked hosts are: 28159
+# Ad blocking hosts generated Mon 13 May 09:08:29 +03 2024
+# Total number of blocked hosts are: 28161
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -44,6 +44,7 @@
 0.0.0.0	102.122.2o7.net
 0.0.0.0	103532.hittail.com
 0.0.0.0	104231.dtiblog.com
+0.0.0.0	105915624.com
 0.0.0.0	106242.hittail.com
 0.0.0.0	108411.hittail.com
 0.0.0.0	10870841.collect.igodigital.com
@@ -19871,6 +19872,7 @@
 0.0.0.0	rockthebretzel.fr
 0.0.0.0	rodale.d1.sc.omtrdc.net
 0.0.0.0	rodeoconfig.yodo1api.com
+0.0.0.0	rogers-wirelessphone.com
 0.0.0.0	ro-gmtdmp.mookie1.com
 0.0.0.0	roia.biz
 0.0.0.0	roimedia.advertserve.com
