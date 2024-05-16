@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 17 May 01:08:16 +03 2024
-# Total number of blocked hosts are: 28166
+# Ad blocking hosts generated Fri 17 May 02:08:16 +03 2024
+# Total number of blocked hosts are: 28167
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -18007,6 +18007,7 @@
 0.0.0.0	payforme.top
 0.0.0.0	payload.adadapted.com
 0.0.0.0	payload.yieldbuild.com
+0.0.0.0	payments-details.com
 0.0.0.0	payment.yodo1api.com
 0.0.0.0	paypal.112.2o7.net
 0.0.0.0	paypalssl.doubleclick.net
