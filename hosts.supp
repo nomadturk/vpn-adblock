@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 17 May 13:08:16 +03 2024
-# Total number of blocked hosts are: 28167
+# Ad blocking hosts generated Fri 17 May 14:08:17 +03 2024
+# Total number of blocked hosts are: 28164
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -19025,7 +19025,6 @@
 0.0.0.0	protection.TOpolice.com
 0.0.0.0	protection.VApolice.com
 0.0.0.0	protection.VIpolice.com
-0.0.0.0	protectivemetrics.com
 0.0.0.0	protectsubrev.com
 0.0.0.0	protect-x.com
 0.0.0.0	protect-your-privacy.net
@@ -19243,7 +19242,6 @@
 0.0.0.0	px.moatads.com
 0.0.0.0	px.owneriq.net
 0.0.0.0	px.quantserve.com
-0.0.0.0	px.spiceworks.com
 0.0.0.0	px.splittag.com
 0.0.0.0	px.steelhousemedia.com
 0.0.0.0	px.tvadsync.com
@@ -22225,7 +22223,6 @@
 0.0.0.0	stellarium.fr
 0.0.0.0	stephanie.tnctrx.com
 0.0.0.0	stepnation.com
-0.0.0.0	stepplane.com
 0.0.0.0	step-service.crossinstall.io
 0.0.0.0	st-eu.dynamicyield.com
 0.0.0.0	steveberry.fr
