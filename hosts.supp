@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 24 May 14:08:18 +03 2024
-# Total number of blocked hosts are: 28167
+# Ad blocking hosts generated Fri 24 May 15:08:16 +03 2024
+# Total number of blocked hosts are: 28166
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -25361,7 +25361,6 @@
 0.0.0.0	webtrekk.net
 0.0.0.0	webtrendslive.com
 0.0.0.0	webtrends.randallpub.com
-0.0.0.0	webtrends.telegraph.co.uk
 0.0.0.0	webtrends.thisis.co.uk
 0.0.0.0	web.unltd.info
 0.0.0.0	webupdater.net
