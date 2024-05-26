@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun 26 May 23:08:17 +03 2024
-# Total number of blocked hosts are: 28166
+# Ad blocking hosts generated Mon 27 May 00:08:15 +03 2024
+# Total number of blocked hosts are: 28168
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -7986,6 +7986,7 @@
 0.0.0.0	click.e.bbcmail.co.uk
 0.0.0.0	clickedyclick.com
 0.0.0.0	click.email.bbc.com
+0.0.0.0	click.email.lhh.com
 0.0.0.0	click.email.microsoftemail.com
 0.0.0.0	click.emails.argos.co.uk
 0.0.0.0	click.email.sonos.com
@@ -24146,6 +24147,7 @@
 0.0.0.0	twyn.com
 0.0.0.0	tx2returnhome.com
 0.0.0.0	tx.5.p2l.info
+0.0.0.0	t.x.co
 0.0.0.0	tx.micro.net.pk
 0.0.0.0	txn.ingest.crittercism.com
 0.0.0.0	t.yesware.com
