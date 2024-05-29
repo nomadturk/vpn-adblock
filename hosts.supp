@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 30 May 00:08:16 +03 2024
-# Total number of blocked hosts are: 28168
+# Ad blocking hosts generated Thu 30 May 01:08:17 +03 2024
+# Total number of blocked hosts are: 28169
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -22716,6 +22716,7 @@
 0.0.0.0	tags.viewdeos.com
 0.0.0.0	tags.w55c.net
 0.0.0.0	tag.targeting.unrulymedia.com
+0.0.0.0	tagtoo.com
 0.0.0.0	tagular.com
 0.0.0.0	tag.userreport.com
 0.0.0.0	tag.webcompteur.com
