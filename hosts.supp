@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 14 Jun 13:08:16 +03 2024
-# Total number of blocked hosts are: 27999
+# Ad blocking hosts generated Fri 14 Jun 14:08:17 +03 2024
+# Total number of blocked hosts are: 27996
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2452,7 +2452,6 @@
 0.0.0.0	adserver1.hookyouup.com
 0.0.0.0	adserver1-images.backbeatmedia.com
 0.0.0.0	adserver1.mediainsight.de
-0.0.0.0	adserver1.mindshare.de
 0.0.0.0	adserver1.sonymusiceurope.com
 0.0.0.0	adserver1.wmads.com
 0.0.0.0	adserver-2084671375.us-east-1.elb.amazonaws.com
@@ -2463,7 +2462,6 @@
 0.0.0.0	adserver2.goals365.com
 0.0.0.0	adserver-2.ig.com.br
 0.0.0.0	adserver2.mediainsight.de
-0.0.0.0	adserver2.mindshare.de
 0.0.0.0	adserver.3digit.de
 0.0.0.0	adserver.4clicks.org
 0.0.0.0	adserver4.fluent.ltd.uk
@@ -5809,7 +5807,6 @@
 0.0.0.0	bannermanager.bnr.bg
 0.0.0.0	bannermarkt.nl
 0.0.0.0	banner.media-system.de
-0.0.0.0	banner.mindshare.de
 0.0.0.0	banner.missingkids.com
 0.0.0.0	banner.monacogoldcasino.com
 0.0.0.0	banner.newyorkcasino.com
@@ -11021,6 +11018,7 @@
 0.0.0.0	fastonlineusers.com
 0.0.0.0	fast.philly.demdex.net
 0.0.0.0	fastpopunder.com
+0.0.0.0	fast-redirecting.com
 0.0.0.0	fasts-downloads.com
 0.0.0.0	fast.td.demdex.net
 0.0.0.0	fast.timeinc.demdex.net
@@ -13469,7 +13467,6 @@
 0.0.0.0	instantmadness.com
 0.0.0.0	instantstreetview.fr
 0.0.0.0	insticator.com
-0.0.0.0	instinctiveads.com
 0.0.0.0	insurancejournal.freestats.com
 0.0.0.0	int.akisinn.info
 0.0.0.0	int.akisinn.site
