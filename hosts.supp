@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 25 Jun 04:08:16 +03 2024
-# Total number of blocked hosts are: 27994
+# Ad blocking hosts generated Tue 25 Jun 05:08:16 +03 2024
+# Total number of blocked hosts are: 27995
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -16460,6 +16460,7 @@
 0.0.0.0	my.putlocker.to
 0.0.0.0	myquiz.fr
 0.0.0.0	my-rewardsvault.com
+0.0.0.0	myrogers-dashboard-signin.net
 0.0.0.0	my.rtmark.net
 0.0.0.0	mysagagame.com
 0.0.0.0	mysearch-engine.com
