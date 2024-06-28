@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 28 Jun 13:08:16 +03 2024
-# Total number of blocked hosts are: 27996
+# Ad blocking hosts generated Fri 28 Jun 14:08:17 +03 2024
+# Total number of blocked hosts are: 27992
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -835,7 +835,6 @@
 0.0.0.0	ace-tag.advertising.com
 0.0.0.0	acglgoa.com
 0.0.0.0	achetezfacile.com
-0.0.0.0	acid-adserver.click
 0.0.0.0	acjs.aliyun.com
 0.0.0.0	aclasscelebs.us.intellitxt.com
 0.0.0.0	aclickads.com
@@ -3934,7 +3933,6 @@
 0.0.0.0	adx-winners-us-east-1-rtb.adroll.com
 0.0.0.0	adx-winners-us-west-2-rtb.adroll.com
 0.0.0.0	ad.yadro.ru
-0.0.0.0	adyea.com
 0.0.0.0	ad.yemeksepeti.com
 0.0.0.0	ad.yieldlab.net
 0.0.0.0	ad.yieldmanager.com
@@ -11018,6 +11016,7 @@
 0.0.0.0	fastonlineusers.com
 0.0.0.0	fast.philly.demdex.net
 0.0.0.0	fastpopunder.com
+0.0.0.0	fast-redirecting.com
 0.0.0.0	fasts-downloads.com
 0.0.0.0	fast.td.demdex.net
 0.0.0.0	fast.timeinc.demdex.net
@@ -11172,7 +11171,6 @@
 0.0.0.0	findyourcasino.com
 0.0.0.0	find-your-profithere11.com
 0.0.0.0	fineboost-loghub.ap-southeast-1.log.aliyuncs.com
-0.0.0.0	fineoffer.net
 0.0.0.0	fingahvf.top
 0.0.0.0	fin.tips
 0.0.0.0	fiona.ai.net
@@ -16469,12 +16467,10 @@
 0.0.0.0	myseostats.com
 0.0.0.0	my-ssl.effectivemeasure.net
 0.0.0.0	my.statcounter.com
-0.0.0.0	mystat-in.net
 0.0.0.0	mystat.pl
 0.0.0.0	my.surveypopups.com
 0.0.0.0	mytee.fr
 0.0.0.0	mytimerpro.com
-0.0.0.0	mytop-in.net
 0.0.0.0	my.trackjs.com
 0.0.0.0	mytraf.info
 0.0.0.0	my.trgino.com
