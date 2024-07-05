@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 5 Jul 14:08:16 +03 2024
-# Total number of blocked hosts are: 27991
+# Ad blocking hosts generated Fri 5 Jul 15:08:16 +03 2024
+# Total number of blocked hosts are: 27990
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -790,6 +790,7 @@
 0.0.0.0	abshop.fr
 0.0.0.0	absolutewrite.fr
 0.0.0.0	absorbingband.com
+0.0.0.0	absorbingcorn.com
 0.0.0.0	abs.proxistore.com
 0.0.0.0	abstractedauthority.com
 0.0.0.0	abtasty.com
@@ -2380,7 +2381,6 @@
 0.0.0.0	ads.ecircles.com
 0.0.0.0	ads.economist.com
 0.0.0.0	ads.ecrush.com
-0.0.0.0	ads.edbindex.dk
 0.0.0.0	ad.se.doubleclick.net
 0.0.0.0	ads.ehealthcaresolutions.com
 0.0.0.0	ads.einmedia.com
@@ -2599,7 +2599,6 @@
 0.0.0.0	adserver.mindshare.de
 0.0.0.0	adserver.mobi
 0.0.0.0	adserver.mobsmith.com
-0.0.0.0	adserver.msmb.biz
 0.0.0.0	adserver.myownemail.com
 0.0.0.0	adserver.netcreators.nl
 0.0.0.0	adserver.news.com.au
@@ -2756,7 +2755,6 @@
 0.0.0.0	ads.fairfax.com.au
 0.0.0.0	ads.fastcomgroup.it
 0.0.0.0	ads.fasttrack-ignite.com
-0.0.0.0	ads.faxo.com
 0.0.0.0	ads.fayettevillenc.com
 0.0.0.0	adsfeed3.brabys.co.za
 0.0.0.0	adsfeed.brabys.com
@@ -8022,7 +8020,6 @@
 0.0.0.0	clicks.izea.com
 0.0.0.0	clicks.m4n.nl
 0.0.0.0	clicks.minimob.com
-0.0.0.0	clicks.mods.de
 0.0.0.0	clicks.monzo.com
 0.0.0.0	clicks.nastydollars.com
 0.0.0.0	clicks.natwest.com
@@ -11171,6 +11168,7 @@
 0.0.0.0	findyourcasino.com
 0.0.0.0	find-your-profithere11.com
 0.0.0.0	fineboost-loghub.ap-southeast-1.log.aliyuncs.com
+0.0.0.0	fineoffer.net
 0.0.0.0	fingahvf.top
 0.0.0.0	fin.tips
 0.0.0.0	fiona.ai.net
@@ -12630,6 +12628,7 @@
 0.0.0.0	hongkiat.us.intellitxt.com
 0.0.0.0	h.online-metrix.net
 0.0.0.0	honolulu.app.ur.gcion.com
+0.0.0.0	honorablehall.com
 0.0.0.0	honorableland.com
 0.0.0.0	hookedmediagroup.com
 0.0.0.0	hook.integromat.com
