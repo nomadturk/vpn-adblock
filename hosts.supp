@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 9 Jul 19:08:18 +03 2024
-# Total number of blocked hosts are: 27992
+# Ad blocking hosts generated Tue 9 Jul 20:08:18 +03 2024
+# Total number of blocked hosts are: 27996
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4717,6 +4717,7 @@
 0.0.0.0	api-a.op-mobile.opera.com
 0.0.0.0	apiapple.com
 0.0.0.0	api.applink.mob.com
+0.0.0.0	api.appmetrica.yandex.ru
 0.0.0.0	api.appodeal.com
 0.0.0.0	api.appodealx.com
 0.0.0.0	api.appsee.com
@@ -5102,7 +5103,6 @@
 0.0.0.0	app-measurement.com
 0.0.0.0	app.medyanetads.com
 0.0.0.0	app.meltwater.com
-0.0.0.0	appmetrica.yandex.ru
 0.0.0.0	appmm.zapr.in
 0.0.0.0	app.monetizze.com.br
 0.0.0.0	appmontize.gotrackier.com
@@ -19547,7 +19547,10 @@
 0.0.0.0	replaycontroller.4seeresults.com
 0.0.0.0	report02.adtech.fr
 0.0.0.0	report02.adtech.us
+0.0.0.0	report-1.appmetrica.webvisor.com
+0.0.0.0	report-2.appmetrica.webvisor.com
 0.0.0.0	report.appmetrica.yandex.net
+0.0.0.0	report.ap.yandex-net.ru
 0.0.0.0	reporter001.adtech.fr
 0.0.0.0	reporter001.adtech.us
 0.0.0.0	reporter.adtech.fr
@@ -19558,6 +19561,7 @@
 0.0.0.0	reporting.singlefeed.com
 0.0.0.0	reporting.tapstream.com
 0.0.0.0	report.mitsubishicars.com
+0.0.0.0	report-partners.appmetrica.yandex.net
 0.0.0.0	reports.extreme-dm.com
 0.0.0.0	reports.ubimo.com
 0.0.0.0	reports.wes.df.telemetry.microsoft.com
