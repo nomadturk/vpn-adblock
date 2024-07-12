@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 12 Jul 13:08:17 +03 2024
-# Total number of blocked hosts are: 27997
+# Ad blocking hosts generated Fri 12 Jul 14:08:17 +03 2024
+# Total number of blocked hosts are: 27993
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3212,7 +3212,6 @@
 0.0.0.0	ads.popfolkstars.com
 0.0.0.0	ads.powweb.com
 0.0.0.0	ads.po-zdravidnes.com
-0.0.0.0	ads.ppvmedien.de
 0.0.0.0	ads.prd.ie.internal.unity3d.com
 0.0.0.0	adspredictiv.com
 0.0.0.0	ads.premiumnetwork.net
@@ -11421,7 +11420,6 @@
 0.0.0.0	freerobux.men
 0.0.0.0	freesam.kt.com
 0.0.0.0	freeshoemoon.com
-0.0.0.0	freeskreen.com
 0.0.0.0	free-stats.com
 0.0.0.0	freestats.com
 0.0.0.0	freestats.tv
@@ -13126,7 +13124,6 @@
 0.0.0.0	imago-tv.fr
 0.0.0.0	imarker.com
 0.0.0.0	imarker.ru
-0.0.0.0	imarketservices.com
 0.0.0.0	i.matheranalytics.com
 0.0.0.0	im.banner.t-online.de
 0.0.0.0	imc2.122.2o7.net
@@ -23369,7 +23366,6 @@
 0.0.0.0	tracking-1611167402.us-east-1.elb.amazonaws.com
 0.0.0.0	tracking.1-a1502-bi.co.uk
 0.0.0.0	tracking.1betternetwork.com
-0.0.0.0	tracking.1-kv015-ap.co.uk
 0.0.0.0	tracking.21-a4652-bi.co.uk
 0.0.0.0	tracking22.com
 0.0.0.0	tracking.28-91473-wbm.co.uk
