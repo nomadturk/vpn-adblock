@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 23 Jul 13:08:17 +03 2024
-# Total number of blocked hosts are: 27997
+# Ad blocking hosts generated Tue 23 Jul 14:08:18 +03 2024
+# Total number of blocked hosts are: 27998
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -14570,6 +14570,7 @@
 0.0.0.0	link-crawler.com
 0.0.0.0	link.email.usmagazine.com
 0.0.0.0	linkexchange.com
+0.0.0.0	link.go.chase
 0.0.0.0	linkit.biz
 0.0.0.0	link.ixs1.net
 0.0.0.0	linkjumps.com
