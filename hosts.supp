@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 26 Jul 18:08:25 +03 2024
-# Total number of blocked hosts are: 27997
+# Ad blocking hosts generated Fri 26 Jul 19:08:17 +03 2024
+# Total number of blocked hosts are: 27998
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -24240,6 +24240,7 @@
 0.0.0.0	urchin.lstat.youku.com
 0.0.0.0	urc.taboolasyndication.com
 0.0.0.0	url2all.net
+0.0.0.0	url9467.comms-2.zoopla.co.uk
 0.0.0.0	url9810.tokocrypto.com
 0.0.0.0	urlcash.net
 0.0.0.0	urlconnection.net
