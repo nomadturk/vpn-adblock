@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 26 Jul 03:08:17 +03 2024
-# Total number of blocked hosts are: 28000
+# Ad blocking hosts generated Fri 26 Jul 04:08:17 +03 2024
+# Total number of blocked hosts are: 28001
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -20828,6 +20828,7 @@
 0.0.0.0	setrise.nl
 0.0.0.0	setting.adzcore.com
 0.0.0.0	setting.rayjump.com
+0.0.0.0	setup-mydelivery-date6437-fedex.com
 0.0.0.0	sevenoneintermedia.112.2o7.net
 0.0.0.0	severalheroes.com
 0.0.0.0	seward.net
