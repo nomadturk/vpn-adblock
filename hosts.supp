@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 2 Aug 14:08:16 +03 2024
-# Total number of blocked hosts are: 27998
+# Ad blocking hosts generated Fri 2 Aug 15:08:16 +03 2024
+# Total number of blocked hosts are: 27997
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -5789,7 +5789,6 @@
 0.0.0.0	banner-img.haber7.com
 0.0.0.0	banner.inyourpocket.com
 0.0.0.0	banner.kiev.ua
-0.0.0.0	bannerlandia.com.ar
 0.0.0.0	banner.linksynergy.com
 0.0.0.0	bannerlink.xxxtreams.com
 0.0.0.0	banner.linux.se
@@ -16467,10 +16466,12 @@
 0.0.0.0	myseostats.com
 0.0.0.0	my-ssl.effectivemeasure.net
 0.0.0.0	my.statcounter.com
+0.0.0.0	mystat-in.net
 0.0.0.0	mystat.pl
 0.0.0.0	my.surveypopups.com
 0.0.0.0	mytee.fr
 0.0.0.0	mytimerpro.com
+0.0.0.0	mytop-in.net
 0.0.0.0	my.trackjs.com
 0.0.0.0	mytraf.info
 0.0.0.0	my.trgino.com
@@ -17722,7 +17723,6 @@
 0.0.0.0	p.ad.gt
 0.0.0.0	p.adnxs.com
 0.0.0.0	p.adrta.com
-0.0.0.0	padsbrown.com
 0.0.0.0	pads.cdnads.com
 0.0.0.0	padsdel.com
 0.0.0.0	p.ads.roku.com
@@ -25005,7 +25005,6 @@
 0.0.0.0	wa.kuwo.cn
 0.0.0.0	waldenfarms.com
 0.0.0.0	walgrns.112.2o7.net
-0.0.0.0	walkets.click
 0.0.0.0	walkthedinosaur.com
 0.0.0.0	wall.adgaterewards.com
 0.0.0.0	wallflore.de
