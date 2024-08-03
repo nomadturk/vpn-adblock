@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 3 Aug 19:08:17 +03 2024
-# Total number of blocked hosts are: 27997
+# Ad blocking hosts generated Sat 3 Aug 20:08:17 +03 2024
+# Total number of blocked hosts are: 27998
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -27706,6 +27706,7 @@
 0.0.0.0	xmlserving.mobagent.com
 0.0.0.0	xml.yepmedia.com
 0.0.0.0	x.mochiads.com
+0.0.0.0	xn--80afden1bnch4a.xn--p1ai
 0.0.0.0	xn--oogle-wmc.com
 0.0.0.0	xoomer.alice.it
 0.0.0.0	xovq5nemr.com
