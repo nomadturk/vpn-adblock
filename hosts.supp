@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 8 Aug 13:08:15 +03 2024
-# Total number of blocked hosts are: 28010
+# Ad blocking hosts generated Thu 8 Aug 14:08:16 +03 2024
+# Total number of blocked hosts are: 28011
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -13990,6 +13990,7 @@
 0.0.0.0	juggler.inetinteractive.com
 0.0.0.0	juggler.services.disqus.com
 0.0.0.0	juiceadv.com
+0.0.0.0	juiceblocks.com
 0.0.0.0	juicyads.com
 0.0.0.0	juicyads.me
 0.0.0.0	juicyceleb.us.intellitxt.com
