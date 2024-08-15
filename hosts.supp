@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 15 Aug 20:08:17 +03 2024
-# Total number of blocked hosts are: 28009
+# Ad blocking hosts generated Thu 15 Aug 21:08:17 +03 2024
+# Total number of blocked hosts are: 28010
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -253,6 +253,7 @@
 0.0.0.0	2snaps.us.intellitxt.com
 0.0.0.0	2.speedknow.co
 0.0.0.0	2spyware.us.intellitxt.com
+0.0.0.0	2x1gratis.com
 0.0.0.0	2znp09oa.com
 0.0.0.0	30001.hittail.com
 0.0.0.0	30280827a.l2m.net
