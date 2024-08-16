@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 16 Aug 13:08:17 +03 2024
-# Total number of blocked hosts are: 28010
+# Ad blocking hosts generated Fri 16 Aug 14:08:18 +03 2024
+# Total number of blocked hosts are: 28002
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -37,7 +37,6 @@
 0.0.0.0	10168.hittail.com
 0.0.0.0	1018d7.r.axf8.net
 0.0.0.0	101com.com
-0.0.0.0	101order.com
 0.0.0.0	102106151057.c.mystat-in.net
 0.0.0.0	102.112.207.net
 0.0.0.0	102.112.2o7.net
@@ -791,7 +790,6 @@
 0.0.0.0	abshop.fr
 0.0.0.0	absolutewrite.fr
 0.0.0.0	absorbingband.com
-0.0.0.0	absorbingcorn.com
 0.0.0.0	abs.proxistore.com
 0.0.0.0	abstractedauthority.com
 0.0.0.0	abtasty.com
@@ -2057,7 +2055,6 @@
 0.0.0.0	ads.adroar.com
 0.0.0.0	ads.adsag.com
 0.0.0.0	ads.adsbookie.com
-0.0.0.0	ads.adsbtc.fun
 0.0.0.0	ads.adshareware.net
 0.0.0.0	ads.adsinimages.com
 0.0.0.0	ads.ads.netlog.com
@@ -7763,7 +7760,6 @@
 0.0.0.0	cheatingdome.us.intellitxt.com
 0.0.0.0	chechla.cnixon.com
 0.0.0.0	checkfreevideos.net
-0.0.0.0	checkm8.com
 0.0.0.0	checkout360now.net
 0.0.0.0	check.rayjump.com
 0.0.0.0	checkstat.nl
@@ -8122,7 +8118,6 @@
 0.0.0.0	clktrk.com
 0.0.0.0	clkuk.tradedoubler.com
 0.0.0.0	cl.netseer.com
-0.0.0.0	cloisteredcord.com
 0.0.0.0	c.lomadee.com
 0.0.0.0	clonezilla.es
 0.0.0.0	clonezilla.fr
@@ -12627,7 +12622,6 @@
 0.0.0.0	hongkiat.us.intellitxt.com
 0.0.0.0	h.online-metrix.net
 0.0.0.0	honolulu.app.ur.gcion.com
-0.0.0.0	honorablehall.com
 0.0.0.0	honorableland.com
 0.0.0.0	hookedmediagroup.com
 0.0.0.0	hook.integromat.com
@@ -16476,7 +16470,6 @@
 0.0.0.0	my.surveypopups.com
 0.0.0.0	mytee.fr
 0.0.0.0	mytimerpro.com
-0.0.0.0	mytop-in.net
 0.0.0.0	my.trackjs.com
 0.0.0.0	mytraf.info
 0.0.0.0	my.trgino.com
@@ -23709,7 +23702,6 @@
 0.0.0.0	traffic.outbrain.com
 0.0.0.0	traffic.prod.cobaltgroup.com
 0.0.0.0	traffic.pubexchange.com
-0.0.0.0	traffic-redirecting.com
 0.0.0.0	traffic.revenuedirect.com
 0.0.0.0	trafficrevenue.net
 0.0.0.0	trafficrouter.io
