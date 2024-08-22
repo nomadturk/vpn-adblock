@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 22 Aug 02:08:17 +03 2024
-# Total number of blocked hosts are: 28002
+# Ad blocking hosts generated Thu 22 Aug 03:08:16 +03 2024
+# Total number of blocked hosts are: 28003
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -20258,6 +20258,7 @@
 0.0.0.0	scopelight.com
 0.0.0.0	scorecardresearch.com
 0.0.0.0	scotiahelp-loginscotia.com
+0.0.0.0	scotiaonline-verification.com
 0.0.0.0	scottishstuff-online.com
 0.0.0.0	scottrade.112.2o7.net
 0.0.0.0	sc.pages03.net
