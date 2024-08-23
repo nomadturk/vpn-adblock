@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 23 Aug 14:08:17 +03 2024
-# Total number of blocked hosts are: 28003
+# Ad blocking hosts generated Fri 23 Aug 15:08:15 +03 2024
+# Total number of blocked hosts are: 28001
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -16687,7 +16687,6 @@
 0.0.0.0	netflix-memberships.com
 0.0.0.0	netflix-updateinfo.com
 0.0.0.0	nethit-free.nl
-0.0.0.0	netincap.com
 0.0.0.0	netmera.com
 0.0.0.0	netmera-web.com
 0.0.0.0	netmng.com
@@ -18447,7 +18446,6 @@
 0.0.0.0	pm.w55c.net
 0.0.0.0	pn1.adserver.yahoo.com
 0.0.0.0	pn2.adserver.yahoo.com
-0.0.0.0	p.nag.ru
 0.0.0.0	pnapi.invoca.net
 0.0.0.0	p.nexac.com
 0.0.0.0	p-n.io
