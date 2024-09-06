@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 6 Sep 14:08:17 +03 2024
-# Total number of blocked hosts are: 28004
+# Ad blocking hosts generated Fri 6 Sep 15:08:15 +03 2024
+# Total number of blocked hosts are: 27999
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1476,7 +1476,6 @@
 0.0.0.0	ad.himediadx.com
 0.0.0.0	adhitzads.com
 0.0.0.0	ad.hk.doubleclick.net
-0.0.0.0	adhoc4.net
 0.0.0.0	ad-hoc-news.de.intellitxt.com
 0.0.0.0	ad.hodomobile.com
 0.0.0.0	adhood.com
@@ -3079,7 +3078,6 @@
 0.0.0.0	ads.nationalreview.com
 0.0.0.0	ads.nationchannel.com
 0.0.0.0	adsnative.com
-0.0.0.0	ads.nccwebs.com
 0.0.0.0	ads.ncm.com
 0.0.0.0	ads.ndtv1.com
 0.0.0.0	ads.nerve.com
@@ -14386,7 +14384,6 @@
 0.0.0.0	leader.linkexchange.com
 0.0.0.0	leadinfo.net
 0.0.0.0	leadingedgecash.com
-0.0.0.0	leadplace.fr
 0.0.0.0	lead.program3.com
 0.0.0.0	leadpub.com
 0.0.0.0	leadspace.com
@@ -21436,7 +21433,6 @@
 0.0.0.0	sponsorpay.com
 0.0.0.0	sponsorpro.de
 0.0.0.0	sponsorships.net
-0.0.0.0	sponsors.thoughtsmedia.com
 0.0.0.0	spookysleet.com
 0.0.0.0	sportat.oewabox.at
 0.0.0.0	sportingbeteur.adsrv.eacdn.com
@@ -23374,7 +23370,6 @@
 0.0.0.0	tracking101.com
 0.0.0.0	tracking.10e20.com
 0.0.0.0	tracking-1611167402.us-east-1.elb.amazonaws.com
-0.0.0.0	tracking.1-a1502-bi.co.uk
 0.0.0.0	tracking.1betternetwork.com
 0.0.0.0	tracking.21-a4652-bi.co.uk
 0.0.0.0	tracking22.com
