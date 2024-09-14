@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 14 Sep 20:08:17 +03 2024
-# Total number of blocked hosts are: 28001
+# Ad blocking hosts generated Sat 14 Sep 21:08:15 +03 2024
+# Total number of blocked hosts are: 28002
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -16062,6 +16062,7 @@
 0.0.0.0	mobilelog.upqzfile.com
 0.0.0.0	mobile.measurelib.com
 0.0.0.0	mobile.mng-ads.com
+0.0.0.0	mobile.parkandpay-ca.com
 0.0.0.0	mobileposse.com
 0.0.0.0	mobile-production.content-square.net
 0.0.0.0	mobile-sdk-config.gservice.emarsys.net
