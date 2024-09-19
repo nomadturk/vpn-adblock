@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 19 Sep 12:08:17 +03 2024
-# Total number of blocked hosts are: 28002
+# Ad blocking hosts generated Thu 19 Sep 13:08:17 +03 2024
+# Total number of blocked hosts are: 28008
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -5613,6 +5613,7 @@
 0.0.0.0	axion.iad.appboy.com
 0.0.0.0	axonix.com
 0.0.0.0	axp.zedo.com
+0.0.0.0	ayads.co
 0.0.0.0	ayboll.sgsrv.com
 0.0.0.0	ay.delivery
 0.0.0.0	ay.eastmoney.com
@@ -15480,6 +15481,7 @@
 0.0.0.0	media.sexinyourcity.com
 0.0.0.0	mediasmart.io
 0.0.0.0	medias.presage.io
+0.0.0.0	mediasquare.fr
 0.0.0.0	media.superstats.com
 0.0.0.0	mediaterre.fr
 0.0.0.0	mediatext.com
@@ -17278,6 +17280,7 @@
 0.0.0.0	offspringperform.net
 0.0.0.0	of.inviziads.com
 0.0.0.0	ofracosmetics.fr
+0.0.0.0	ogads-pa.googleapis.com
 0.0.0.0	oglasi.posjetnica.com
 0.0.0.0	ogury.com
 0.0.0.0	oh.5.p2l.info
@@ -17715,6 +17718,7 @@
 0.0.0.0	p7.preppypm.com
 0.0.0.0	pa.5.p2l.info
 0.0.0.0	paalp.fr
+0.0.0.0	paa-reporting-advertising.amazon
 0.0.0.0	paas-push-api.immomo.com
 0.0.0.0	paas-push-api-log.immomo.com
 0.0.0.0	pacific-poker.e-online-poker-4u.net
@@ -19674,6 +19678,7 @@
 0.0.0.0	rhtag.com
 0.0.0.0	rhythmone.com
 0.0.0.0	ri.5.p2l.info
+0.0.0.0	richaudience.com
 0.0.0.0	richmails.com
 0.0.0.0	richmedia.pushwoosh.com
 0.0.0.0	richmedia.yimg.com
@@ -21542,6 +21547,7 @@
 0.0.0.0	s.shopify.com
 0.0.0.0	sshowads.pubmatic.com
 0.0.0.0	s.skimresources.com
+0.0.0.0	sskzlabs.com
 0.0.0.0	ssl-avd.innity.net
 0.0.0.0	sslbind.com
 0.0.0.0	ssl.cdne.cpmstar.com
