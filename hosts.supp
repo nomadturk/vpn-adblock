@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 20 Sep 14:08:17 +03 2024
-# Total number of blocked hosts are: 28008
+# Ad blocking hosts generated Fri 20 Sep 15:08:17 +03 2024
+# Total number of blocked hosts are: 28007
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2056,6 +2056,7 @@
 0.0.0.0	ads.adroar.com
 0.0.0.0	ads.adsag.com
 0.0.0.0	ads.adsbookie.com
+0.0.0.0	ads.adsbtc.fun
 0.0.0.0	ads.adshareware.net
 0.0.0.0	ads.adsinimages.com
 0.0.0.0	ads.ads.netlog.com
@@ -2779,7 +2780,6 @@
 0.0.0.0	ads.fortunecity.com
 0.0.0.0	ads.fotosidan.se
 0.0.0.0	ads.fox.com
-0.0.0.0	ads.foxnetworks.com
 0.0.0.0	ads.foxnews.com
 0.0.0.0	ads.fredericksburg.com
 0.0.0.0	ads.freebannertrade.com
@@ -22519,7 +22519,6 @@
 0.0.0.0	tag.getdrip.com
 0.0.0.0	tag.imonomy.com
 0.0.0.0	tag.leadplace.fr
-0.0.0.0	tag.links-analytics.com
 0.0.0.0	tagmanager.smartadserver.com
 0.0.0.0	tagmanager.toast.com
 0.0.0.0	tagmans3.adsolutions.com
