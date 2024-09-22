@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 23 Sep 01:08:17 +03 2024
-# Total number of blocked hosts are: 28008
+# Ad blocking hosts generated Mon 23 Sep 02:08:17 +03 2024
+# Total number of blocked hosts are: 28010
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -7901,6 +7901,7 @@
 0.0.0.0	click2.yllix.com
 0.0.0.0	click360v2-ingest.azurewebsites.net
 0.0.0.0	click.a-ads.com
+0.0.0.0	clickadddilla.com
 0.0.0.0	clickad.eo.pl
 0.0.0.0	click.admedia.com
 0.0.0.0	click.adpia.vn
@@ -9701,6 +9702,7 @@
 0.0.0.0	display.provenpixel.com
 0.0.0.0	display.ravm.tv
 0.0.0.0	displaytag.net
+0.0.0.0	displayvertising.com
 0.0.0.0	disqusads.com
 0.0.0.0	dist.belnk.com
 0.0.0.0	distillery.wistia.com
