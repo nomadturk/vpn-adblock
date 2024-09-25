@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 25 Sep 17:08:17 +03 2024
-# Total number of blocked hosts are: 28012
+# Ad blocking hosts generated Wed 25 Sep 18:08:15 +03 2024
+# Total number of blocked hosts are: 28013
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -19756,6 +19756,7 @@
 0.0.0.0	robot.royalcactus.com
 0.0.0.0	robotscan.net
 0.0.0.0	rockabox.co
+0.0.0.0	rockagainst.com
 0.0.0.0	rockrose.fr
 0.0.0.0	rocks.io
 0.0.0.0	rockthebretzel.fr
