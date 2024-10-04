@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 4 Oct 14:08:17 +03 2024
-# Total number of blocked hosts are: 28009
+# Ad blocking hosts generated Fri 4 Oct 15:08:15 +03 2024
+# Total number of blocked hosts are: 28002
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1952,7 +1952,6 @@
 0.0.0.0	ads2.servebom.com
 0.0.0.0	ads2.speedbit.com
 0.0.0.0	ads2srv.com
-0.0.0.0	ads2.techads.info
 0.0.0.0	ads2.vasmg.com
 0.0.0.0	ads2.virtual-nights.com
 0.0.0.0	ads2.vortexmediagroup.com
@@ -3875,7 +3874,6 @@
 0.0.0.0	ad.wavu.hu
 0.0.0.0	ad.weatherbug.com
 0.0.0.0	ad.webisleri.com
-0.0.0.0	adwebone.com
 0.0.0.0	ad.weplayer.cc
 0.0.0.0	ad.where.com
 0.0.0.0	adwhirl.com
@@ -9104,7 +9102,6 @@
 0.0.0.0	c.uk.msn.com
 0.0.0.0	cullligan.fr
 0.0.0.0	culturalfoundation.fr
-0.0.0.0	cumbersomecloud.com
 0.0.0.0	cumc-hmb.com
 0.0.0.0	cuntwars.com
 0.0.0.0	currency.prebid.org
@@ -22908,7 +22905,6 @@
 0.0.0.0	thecarconnection.us.intellitxt.com
 0.0.0.0	thecelebritycafe.us.intellitxt.com
 0.0.0.0	thechive.fr
-0.0.0.0	theclickads.com
 0.0.0.0	thecoffeeilove.com
 0.0.0.0	the-counter.net
 0.0.0.0	thedailystarcom.112.2o7.net
@@ -23360,7 +23356,6 @@
 0.0.0.0	trackers.voodoo-analytics.io
 0.0.0.0	tracker.tradedoubler.com
 0.0.0.0	tracker.truehits.net
-0.0.0.0	tracker.vgame.us
 0.0.0.0	tracker.winudf.com
 0.0.0.0	tracker.wordstream.com
 0.0.0.0	track.eyeviewads.com
@@ -23382,7 +23377,6 @@
 0.0.0.0	tracking.10e20.com
 0.0.0.0	tracking-1611167402.us-east-1.elb.amazonaws.com
 0.0.0.0	tracking.1betternetwork.com
-0.0.0.0	tracking.21-a4652-bi.co.uk
 0.0.0.0	tracking22.com
 0.0.0.0	tracking.28-91473-wbm.co.uk
 0.0.0.0	tracking2.channeladvisor.com
@@ -24832,7 +24826,6 @@
 0.0.0.0	voduscdn.azureedge.net
 0.0.0.0	vodus.com
 0.0.0.0	voicefive.com
-0.0.0.0	voicelessvein.com
 0.0.0.0	voiciu.fr
 0.0.0.0	voil-le-travail.fr
 0.0.0.0	voipwise.fr
