@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 11 Oct 13:08:15 +03 2024
-# Total number of blocked hosts are: 28006
+# Ad blocking hosts generated Fri 11 Oct 14:08:16 +03 2024
+# Total number of blocked hosts are: 28013
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -6971,6 +6971,7 @@
 0.0.0.0	canwestcom.112.2o7.net
 0.0.0.0	canwestglobal.112.2o7.net
 0.0.0.0	c.anytrx.com
+0.0.0.0	capablecows.com
 0.0.0.0	ca-pac.fr
 0.0.0.0	capath.com
 0.0.0.0	capcityadvcom.112.2o7.net
@@ -8472,6 +8473,7 @@
 0.0.0.0	com-upday-main.collector.snplow.net
 0.0.0.0	comvelgmbh.d1.sc.omtrdc.net
 0.0.0.0	com-vw.netmng.com
+0.0.0.0	concernedchange.com
 0.0.0.0	concertads-configs.vox-cdn.com
 0.0.0.0	concert.io
 0.0.0.0	condeconsumermarketing.112.2o7.net
@@ -9117,6 +9119,7 @@
 0.0.0.0	customtraffic.impactradius.com
 0.0.0.0	custom-wrs.api.responsys.net
 0.0.0.0	custom.yieldify.com
+0.0.0.0	cutcurrent.com
 0.0.0.0	cutechin.com
 0.0.0.0	cutesaucepuppy.com
 0.0.0.0	cv.bsvideos.com
@@ -18692,6 +18695,7 @@
 0.0.0.0	preventadmission.com
 0.0.0.0	preview.msn.com
 0.0.0.0	previousplayground.com
+0.0.0.0	previouspotato.com
 0.0.0.0	prexyone.appspot.com
 0.0.0.0	prfctlivs.click
 0.0.0.0	prf.hn
@@ -19170,6 +19174,7 @@
 0.0.0.0	qrlsx.com
 0.0.0.0	qsearch.media.net
 0.0.0.0	qss-client.qq.com
+0.0.0.0	quacksquirrel.com
 0.0.0.0	quaidesbulles.fr
 0.0.0.0	quaintcan.com
 0.0.0.0	qualifiedourspecialoffer.com
@@ -20226,6 +20231,7 @@
 0.0.0.0	scarf.ensighten.com
 0.0.0.0	scarfsmash.com
 0.0.0.0	scatteredheat.com
+0.0.0.0	scatteredquiver.com
 0.0.0.0	scdn.cxense.com
 0.0.0.0	s-cdn.innovid.com
 0.0.0.0	s-cdn-tag.medialytics.com
@@ -21462,7 +21468,6 @@
 0.0.0.0	sportydesktops.com
 0.0.0.0	s.po.st
 0.0.0.0	spotchannel02.com
-0.0.0.0	spot.fitness.com
 0.0.0.0	spotlessstamp.com
 0.0.0.0	spotscenered.info
 0.0.0.0	spotxcdn.com.edgekey.net
@@ -22090,6 +22095,7 @@
 0.0.0.0	steelbitepro24.com
 0.0.0.0	steelhouse.com
 0.0.0.0	steelhousemedia.com
+0.0.0.0	steepscale.com
 0.0.0.0	steepto.com
 0.0.0.0	stellarium.fr
 0.0.0.0	stephanie.tnctrx.com
@@ -24830,6 +24836,7 @@
 0.0.0.0	voduscdn.azureedge.net
 0.0.0.0	vodus.com
 0.0.0.0	voicefive.com
+0.0.0.0	voicelessvein.com
 0.0.0.0	voiciu.fr
 0.0.0.0	voil-le-travail.fr
 0.0.0.0	voipwise.fr
