@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun 13 Oct 22:08:17 +03 2024
-# Total number of blocked hosts are: 28013
+# Ad blocking hosts generated Sun 13 Oct 23:08:15 +03 2024
+# Total number of blocked hosts are: 28015
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -9609,6 +9609,7 @@
 0.0.0.0	dhauzja511.co.cc
 0.0.0.0	dhcpserver.net
 0.0.0.0	dhg-logging.us-east-1.elasticbeanstalk.com
+0.0.0.0	dhlmyorder82662-info-can.com
 0.0.0.0	diagnosis.ad.intl.xiaomi.com
 0.0.0.0	diagram-shape.com
 0.0.0.0	diag-wd.gridsumdissector.com
@@ -19413,6 +19414,7 @@
 0.0.0.0	redeastbay.com
 0.0.0.0	redefine2.hit.stat24.com
 0.0.0.0	redefine.hit.stat24.com
+0.0.0.0	redelivauthcentre.com
 0.0.0.0	redelivercadpost.com
 0.0.0.0	redelivtls.online
 0.0.0.0	redemptionengine.com
