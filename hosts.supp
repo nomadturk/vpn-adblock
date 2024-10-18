@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 18 Oct 14:08:17 +03 2024
-# Total number of blocked hosts are: 28015
+# Ad blocking hosts generated Fri 18 Oct 15:08:15 +03 2024
+# Total number of blocked hosts are: 28012
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1253,7 +1253,6 @@
 0.0.0.0	adbunker.com
 0.0.0.0	adbutler.com
 0.0.0.0	adbuyer3.lycos.com
-0.0.0.0	adbuyer.com
 0.0.0.0	adb.wp.pl
 0.0.0.0	adc2.adcentriconline.com
 0.0.0.0	adc3-assets.adcolony.com
@@ -2896,7 +2895,6 @@
 0.0.0.0	ads.imagistica.com
 0.0.0.0	ads.imarketservices.com
 0.0.0.0	ads.imeem.com
-0.0.0.0	ad.simflight.com
 0.0.0.0	ad.simgames.net
 0.0.0.0	ads.img.globo.com
 0.0.0.0	ads.imguol.com
@@ -8425,7 +8423,6 @@
 0.0.0.0	commdev.fr
 0.0.0.0	commerce.campaignmonitor.com
 0.0.0.0	commerce.www.ibm.com
-0.0.0.0	commindo-media-ressourcen.de
 0.0.0.0	commissionmonster.com
 0.0.0.0	com-mitsubishi.netmng.com
 0.0.0.0	common.duapps.com
