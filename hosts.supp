@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 25 Oct 14:08:16 +03 2024
-# Total number of blocked hosts are: 28012
+# Ad blocking hosts generated Fri 25 Oct 15:08:16 +03 2024
+# Total number of blocked hosts are: 28008
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2748,7 +2748,6 @@
 0.0.0.0	ads.expekt.com
 0.0.0.0	adsfac.eu
 0.0.0.0	adsfac.net
-0.0.0.0	adsfactor.net
 0.0.0.0	adsfac.us
 0.0.0.0	ads.fairfax.com.au
 0.0.0.0	ads.fastcomgroup.it
@@ -3741,7 +3740,6 @@
 0.0.0.0	adv.blogupp.com
 0.0.0.0	adv.consadbg.com
 0.0.0.0	advconversion.com
-0.0.0.0	adv.cooperhosting.net
 0.0.0.0	adv.donejty.pl
 0.0.0.0	adv.dontcrack.com
 0.0.0.0	adv.drtuber.com
@@ -3872,6 +3870,7 @@
 0.0.0.0	ad.wavu.hu
 0.0.0.0	ad.weatherbug.com
 0.0.0.0	ad.webisleri.com
+0.0.0.0	adwebone.com
 0.0.0.0	ad.weplayer.cc
 0.0.0.0	ad.where.com
 0.0.0.0	adwhirl.com
@@ -6230,7 +6229,6 @@
 0.0.0.0	bid.pubmatic.com
 0.0.0.0	bidr.io
 0.0.0.0	bids.concert.io
-0.0.0.0	bidsopt.com
 0.0.0.0	bidstream.advertserve.com
 0.0.0.0	bidswitch.net
 0.0.0.0	bidsystem.com
@@ -9440,7 +9438,6 @@
 0.0.0.0	dealerdotcomdisplay576919175878.s.moatpixel.com
 0.0.0.0	dealiveroo.fr
 0.0.0.0	dealnews.122.2o7.net
-0.0.0.0	debtbusterloans.com
 0.0.0.0	debt.shengen.ru
 0.0.0.0	debug.aerserv.com
 0.0.0.0	decenterads.com
@@ -25546,7 +25543,6 @@
 0.0.0.0	wtag.adaptv.advertising.com
 0.0.0.0	wt.bankmillennium.pl
 0.0.0.0	wt-eu02.net
-0.0.0.0	wtlive.com
 0.0.0.0	wtnj.worldnow.com
 0.0.0.0	wt.o.nytimes.com
 0.0.0.0	wtp101.com
