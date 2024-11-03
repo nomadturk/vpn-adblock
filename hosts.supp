@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun 3 Nov 11:08:16 +03 2024
-# Total number of blocked hosts are: 28010
+# Ad blocking hosts generated Sun 3 Nov 12:08:16 +03 2024
+# Total number of blocked hosts are: 28012
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4299,6 +4299,7 @@
 0.0.0.0	ams1-ib.adnxs.com
 0.0.0.0	ams1.ib.adnxs.com
 0.0.0.0	ams1-mobile.adnxs.com
+0.0.0.0	ams2.rumourobey.com
 0.0.0.0	ams2.rumourrubicon.com
 0.0.0.0	ams.toxity.biz
 0.0.0.0	am-sync.taboola.com
@@ -11814,6 +11815,7 @@
 0.0.0.0	getrank.net
 0.0.0.0	getrelator.com
 0.0.0.0	getrockerbox.com
+0.0.0.0	getrunkhomuto.info
 0.0.0.0	getrxhere.co
 0.0.0.0	get.s-onetag.com
 0.0.0.0	getspecialgifts.com
