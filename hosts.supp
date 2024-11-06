@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 6 Nov 11:08:17 +03 2024
-# Total number of blocked hosts are: 28013
+# Ad blocking hosts generated Wed 6 Nov 12:08:15 +03 2024
+# Total number of blocked hosts are: 28014
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -121,6 +121,7 @@
 0.0.0.0	1bb261.r.axf8.net
 0.0.0.0	1bg.net
 0.0.0.0	1bm.cqcounter.com
+0.0.0.0	1-bmo-client-login.com
 0.0.0.0	1c6e2.v.fwmrm.net
 0.0.0.0	1ca.cqcounter.com
 0.0.0.0	1de.cqcounter.com
