@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 8 Nov 20:08:16 +03 2024
-# Total number of blocked hosts are: 28015
+# Ad blocking hosts generated Fri 8 Nov 21:08:16 +03 2024
+# Total number of blocked hosts are: 28017
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -11530,6 +11530,7 @@
 0.0.0.0	g7.com.tw
 0.0.0.0	ga.5.p2l.info
 0.0.0.0	ga-beacon.appspot.com
+0.0.0.0	gabrielahlavack.samcart.com
 0.0.0.0	ga.clearbit.com
 0.0.0.0	gadgeteer.pdamart.com
 0.0.0.0	gadgetproof.net
@@ -17904,6 +17905,7 @@
 0.0.0.0	payment.yodo1api.com
 0.0.0.0	paypal.112.2o7.net
 0.0.0.0	paypalssl.doubleclick.net
+0.0.0.0	payplintelverify3.site
 0.0.0.0	paypopup.com
 0.0.0.0	paysdepieces.fr
 0.0.0.0	paytel.fr
