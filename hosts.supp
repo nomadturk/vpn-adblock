@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 12 Nov 15:08:16 +03 2024
-# Total number of blocked hosts are: 28023
+# Ad blocking hosts generated Tue 12 Nov 16:08:16 +03 2024
+# Total number of blocked hosts are: 28031
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -7895,11 +7895,13 @@
 0.0.0.0	clevernt.com
 0.0.0.0	cl-gmtdmp.mookie1.com
 0.0.0.0	clhctrk.com
+0.0.0.0	click-1.pl
 0.0.0.0	click2commission.gotrackier.com
 0.0.0.0	click-2.eu
 0.0.0.0	click2freemoney.com
 0.0.0.0	click2.yllix.com
 0.0.0.0	click360v2-ingest.azurewebsites.net
+0.0.0.0	click4.pro
 0.0.0.0	click.a-ads.com
 0.0.0.0	clickadddilla.com
 0.0.0.0	clickad.eo.pl
@@ -12003,6 +12005,7 @@
 0.0.0.0	goldstats.com
 0.0.0.0	golem.de.intellitxt.com
 0.0.0.0	go.lfstmedia.com
+0.0.0.0	go-link.network
 0.0.0.0	goload.wecloud.io
 0.0.0.0	go.mmstat.com
 0.0.0.0	go.mobisla.com
@@ -12048,6 +12051,7 @@
 0.0.0.0	go-rank.de
 0.0.0.0	go.realvu.net
 0.0.0.0	go.redirectingat.com
+0.0.0.0	go-redirect.pl
 0.0.0.0	goroskop.co
 0.0.0.0	go.scmagazine.com
 0.0.0.0	go.searchlock.com
@@ -14384,6 +14388,7 @@
 0.0.0.0	ldsfch.112.2o7.net
 0.0.0.0	ldynamicspublicapi.leadforensics.com
 0.0.0.0	le1er.net
+0.0.0.0	lead02.com
 0.0.0.0	lead-123.com
 0.0.0.0	lead-analytics.nl
 0.0.0.0	leadboltads.net
@@ -16455,6 +16460,7 @@
 0.0.0.0	myhitbox.com
 0.0.0.0	my.iheartradio.com
 0.0.0.0	my.iwon.com
+0.0.0.0	mylead-tracking.tracknow.info
 0.0.0.0	mylike.co.uk
 0.0.0.0	mylink-today.com
 0.0.0.0	mylovelypet.net
@@ -19450,6 +19456,7 @@
 0.0.0.0	redirectload.com
 0.0.0.0	redirect-net.com
 0.0.0.0	redirectnet.net
+0.0.0.0	re-direct.pl
 0.0.0.0	redirect-protocol.com
 0.0.0.0	redirectprotocol.net
 0.0.0.0	re.directrev.com
@@ -19463,6 +19470,7 @@
 0.0.0.0	redir.juicyads.com
 0.0.0.0	redline-boutique.fr
 0.0.0.0	redonetype.com
+0.0.0.0	redrection.pro
 0.0.0.0	redrocks.fr
 0.0.0.0	redroomnetwork.com
 0.0.0.0	redshell.io
