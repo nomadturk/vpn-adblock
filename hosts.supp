@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 22 Nov 15:08:16 +03 2024
-# Total number of blocked hosts are: 28015
+# Ad blocking hosts generated Fri 22 Nov 16:08:17 +03 2024
+# Total number of blocked hosts are: 28008
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -135,7 +135,6 @@
 0.0.0.0	1in.cqcounter.com
 0.0.0.0	1it.cqcounter.com
 0.0.0.0	1jo.cqcounter.com
-0.0.0.0	1link2020.com
 0.0.0.0	1l-view.mail.ru
 0.0.0.0	1man1jar.org
 0.0.0.0	1man2needles.com
@@ -3238,7 +3237,6 @@
 0.0.0.0	ads.queendom.com
 0.0.0.0	ads.quoka.de
 0.0.0.0	ads.racunalniske-novice.com
-0.0.0.0	ads.radialserver.com
 0.0.0.0	ads.radio1.lv
 0.0.0.0	adsradios.adswizz.com
 0.0.0.0	ads.rampidads.com
@@ -5349,6 +5347,7 @@
 0.0.0.0	asset.pagefair.com
 0.0.0.0	asset.pagefair.net
 0.0.0.0	assets1.adroll.com
+0.0.0.0	assets1.exgfnetwork.com
 0.0.0.0	assets.abbi.io
 0.0.0.0	assets.adnuntius.com
 0.0.0.0	assets.anzuinfra.com
@@ -6969,7 +6968,6 @@
 0.0.0.0	canwestcom.112.2o7.net
 0.0.0.0	canwestglobal.112.2o7.net
 0.0.0.0	c.anytrx.com
-0.0.0.0	capablecows.com
 0.0.0.0	ca-pac.fr
 0.0.0.0	capath.com
 0.0.0.0	capcityadvcom.112.2o7.net
@@ -8427,6 +8425,7 @@
 0.0.0.0	commdev.fr
 0.0.0.0	commerce.campaignmonitor.com
 0.0.0.0	commerce.www.ibm.com
+0.0.0.0	commindo-media-ressourcen.de
 0.0.0.0	commissionmonster.com
 0.0.0.0	com-mitsubishi.netmng.com
 0.0.0.0	common.duapps.com
@@ -8474,7 +8473,6 @@
 0.0.0.0	com-upday-main.collector.snplow.net
 0.0.0.0	comvelgmbh.d1.sc.omtrdc.net
 0.0.0.0	com-vw.netmng.com
-0.0.0.0	concernedchange.com
 0.0.0.0	concertads-configs.vox-cdn.com
 0.0.0.0	concert.io
 0.0.0.0	condeconsumermarketing.112.2o7.net
@@ -9121,7 +9119,6 @@
 0.0.0.0	customtraffic.impactradius.com
 0.0.0.0	custom-wrs.api.responsys.net
 0.0.0.0	custom.yieldify.com
-0.0.0.0	cutcurrent.com
 0.0.0.0	cutechin.com
 0.0.0.0	cutesaucepuppy.com
 0.0.0.0	cv.bsvideos.com
@@ -14317,7 +14314,6 @@
 0.0.0.0	latrubune.fr
 0.0.0.0	latticescience.com
 0.0.0.0	latticescipub.com
-0.0.0.0	laughcloth.com
 0.0.0.0	launch.adserver.yahoo.com
 0.0.0.0	launchbit.com
 0.0.0.0	launches.appsflyer.com
@@ -17796,6 +17792,7 @@
 0.0.0.0	pangle.io
 0.0.0.0	pangle.io.edgekey.net
 0.0.0.0	pangolin16.isnssdk.com
+0.0.0.0	panickycurtain.com
 0.0.0.0	panickypancake.com
 0.0.0.0	panimi.fr
 0.0.0.0	panoramicplane.com
@@ -18699,7 +18696,6 @@
 0.0.0.0	preventadmission.com
 0.0.0.0	preview.msn.com
 0.0.0.0	previousplayground.com
-0.0.0.0	previouspotato.com
 0.0.0.0	prexyone.appspot.com
 0.0.0.0	prfctlivs.click
 0.0.0.0	prf.hn
@@ -19176,7 +19172,6 @@
 0.0.0.0	qrlsx.com
 0.0.0.0	qsearch.media.net
 0.0.0.0	qss-client.qq.com
-0.0.0.0	quacksquirrel.com
 0.0.0.0	quaidesbulles.fr
 0.0.0.0	quaintcan.com
 0.0.0.0	qualifiedourspecialoffer.com
@@ -20237,7 +20232,6 @@
 0.0.0.0	scarf.ensighten.com
 0.0.0.0	scarfsmash.com
 0.0.0.0	scatteredheat.com
-0.0.0.0	scatteredquiver.com
 0.0.0.0	scdn.cxense.com
 0.0.0.0	s-cdn.innovid.com
 0.0.0.0	s-cdn-tag.medialytics.com
@@ -21361,6 +21355,7 @@
 0.0.0.0	soports.fr
 0.0.0.0	s.optnx.com
 0.0.0.0	sorbone.fr
+0.0.0.0	sordidsmile.com
 0.0.0.0	so.rlcdn.com
 0.0.0.0	s.oroll.com
 0.0.0.0	sor-sdk.follow-apps.com
@@ -22099,7 +22094,6 @@
 0.0.0.0	steelbitepro24.com
 0.0.0.0	steelhouse.com
 0.0.0.0	steelhousemedia.com
-0.0.0.0	steepscale.com
 0.0.0.0	steepto.com
 0.0.0.0	stellarium.fr
 0.0.0.0	stephanie.tnctrx.com
@@ -24840,7 +24834,6 @@
 0.0.0.0	voduscdn.azureedge.net
 0.0.0.0	vodus.com
 0.0.0.0	voicefive.com
-0.0.0.0	voicelessvein.com
 0.0.0.0	voiciu.fr
 0.0.0.0	voil-le-travail.fr
 0.0.0.0	voipwise.fr
