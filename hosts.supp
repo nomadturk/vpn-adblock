@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 29 Nov 15:08:17 +03 2024
+# Ad blocking hosts generated Fri 29 Nov 16:08:15 +03 2024
 # Total number of blocked hosts are: 28016
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -6231,6 +6231,7 @@
 0.0.0.0	bid.pubmatic.com
 0.0.0.0	bidr.io
 0.0.0.0	bids.concert.io
+0.0.0.0	bidsopt.com
 0.0.0.0	bidstream.advertserve.com
 0.0.0.0	bidswitch.net
 0.0.0.0	bidsystem.com
@@ -23652,7 +23653,6 @@
 0.0.0.0	track.tooplay.com
 0.0.0.0	tracktrue.clicktrue.biz
 0.0.0.0	track.uc.cn
-0.0.0.0	trackuhub.com
 0.0.0.0	track.ultragaming.biz
 0.0.0.0	track.ultravpn.com
 0.0.0.0	track.unear.net
