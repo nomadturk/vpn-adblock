@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 29 Nov 22:08:18 +03 2024
-# Total number of blocked hosts are: 28016
+# Ad blocking hosts generated Fri 29 Nov 23:08:16 +03 2024
+# Total number of blocked hosts are: 28017
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -767,6 +767,7 @@
 0.0.0.0	able2know.us.intellitxt.com
 0.0.0.0	a.blesk.cz
 0.0.0.0	ablink.comms.trainline.com
+0.0.0.0	ablink.info.wise.com
 0.0.0.0	ablink.news.emails-puregym.com
 0.0.0.0	ablinks.mail.hinge.co
 0.0.0.0	a-blog.eu
