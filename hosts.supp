@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun 1 Dec 03:08:17 +03 2024
-# Total number of blocked hosts are: 28017
+# Ad blocking hosts generated Sun 1 Dec 04:08:15 +03 2024
+# Total number of blocked hosts are: 28018
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -25479,6 +25479,7 @@
 0.0.0.0	wowanalytics.co.uk
 0.0.0.0	wowinterface.us.intellitxt.com
 0.0.0.0	wp1.cor-natty.com
+0.0.0.0	wpad
 0.0.0.0	wpcgt.comfortykive.xyz
 0.0.0.0	wp-club.net
 0.0.0.0	wpm.neustar.biz
