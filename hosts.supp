@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 4 Dec 14:08:16 +03 2024
-# Total number of blocked hosts are: 28021
+# Ad blocking hosts generated Wed 4 Dec 15:08:16 +03 2024
+# Total number of blocked hosts are: 28023
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -159,6 +159,7 @@
 0.0.0.0	2000greetings.com
 0.0.0.0	2001positions.com
 0.0.0.0	2006mindfreaklike.blogspot.com
+0.0.0.0	2020mustang.com
 0.0.0.0	2023cradep0sit.com
 0.0.0.0	20298.engine.mobileapptracking.com
 0.0.0.0	20585485p.rfihub.com
@@ -17595,6 +17596,7 @@
 0.0.0.0	orange.npix.net
 0.0.0.0	orange-updates.com
 0.0.0.0	orangf.fr
+0.0.0.0	orbsrv.com
 0.0.0.0	orca.qubitproducts.com
 0.0.0.0	orderadipex.findmenow.info
 0.0.0.0	ordersildenafil.com
