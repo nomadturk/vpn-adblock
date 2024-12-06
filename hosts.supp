@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 6 Dec 15:08:16 +03 2024
-# Total number of blocked hosts are: 28025
+# Ad blocking hosts generated Fri 6 Dec 16:08:17 +03 2024
+# Total number of blocked hosts are: 28023
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -12758,7 +12758,6 @@
 0.0.0.0	ht.xtube.com
 0.0.0.0	hu.2.cqcounter.com
 0.0.0.0	hub.adlpartner.com
-0.0.0.0	hubadnetwork.com
 0.0.0.0	hub.com.pl
 0.0.0.0	hubspotlinks.com
 0.0.0.0	hueads.com
@@ -19479,6 +19478,7 @@
 0.0.0.0	redstarnews.net
 0.0.0.0	reductions-impots.fr
 0.0.0.0	reduxads.valuead.com
+0.0.0.0	reduxmedia.com
 0.0.0.0	reed-cw.grapeshot.co.uk
 0.0.0.0	refer100.outster.com
 0.0.0.0	refer102.outster.com
@@ -19668,7 +19668,6 @@
 0.0.0.0	revid.centech.glulive.com
 0.0.0.0	reviewcentrecom.skimlinks.com
 0.0.0.0	reviews.domainplayersclub.com
-0.0.0.0	revive.docmatic.org
 0.0.0.0	revive.dubcnm.com
 0.0.0.0	revive.haskovo.net
 0.0.0.0	revive.netriota.hu
@@ -21371,7 +21370,6 @@
 0.0.0.0	soports.fr
 0.0.0.0	s.optnx.com
 0.0.0.0	sorbone.fr
-0.0.0.0	sordidsmile.com
 0.0.0.0	so.rlcdn.com
 0.0.0.0	s.oroll.com
 0.0.0.0	sor-sdk.follow-apps.com
