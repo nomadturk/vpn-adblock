@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 7 Dec 12:08:16 +03 2024
-# Total number of blocked hosts are: 28023
+# Ad blocking hosts generated Sat 7 Dec 13:08:16 +03 2024
+# Total number of blocked hosts are: 28025
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -11178,6 +11178,7 @@
 0.0.0.0	fioricet.3.p2l.info
 0.0.0.0	fioricet.4.p2l.info
 0.0.0.0	fioricet-online.blogspot.com
+0.0.0.0	fireads.org
 0.0.0.0	firebaselogging.googleapis.com
 0.0.0.0	firefox-updater.com
 0.0.0.0	fireworkadservices.com
@@ -16462,6 +16463,7 @@
 0.0.0.0	myhitbox.com
 0.0.0.0	my.iheartradio.com
 0.0.0.0	my.iwon.com
+0.0.0.0	mylead.global
 0.0.0.0	mylead-tracking.tracknow.info
 0.0.0.0	mylike.co.uk
 0.0.0.0	mylink-today.com
