@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 13 Dec 15:08:17 +03 2024
-# Total number of blocked hosts are: 28035
+# Ad blocking hosts generated Fri 13 Dec 16:08:15 +03 2024
+# Total number of blocked hosts are: 28034
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4537,7 +4537,6 @@
 0.0.0.0	angieslist.tt.omtrdc.net
 0.0.0.0	angmar.112.2o7.net
 0.0.0.0	angmil.112.2o7.net
-0.0.0.0	angossa.com
 0.0.0.0	angpar.112.2o7.net
 0.0.0.0	angtr.112.2o7.net
 0.0.0.0	angts.112.2o7.net
@@ -14549,7 +14548,6 @@
 0.0.0.0	li.gatehousemedia.com
 0.0.0.0	ligatus.com
 0.0.0.0	ligatus.de
-0.0.0.0	lightcast.leadscoringcenter.com
 0.0.0.0	lightning.cnn.com
 0.0.0.0	lightspeedcash.com
 0.0.0.0	lightstep-collector.api.ua.com
@@ -18651,6 +18649,7 @@
 0.0.0.0	p.raasnet.com
 0.0.0.0	practeddagek.club
 0.0.0.0	practicehazard.com
+0.0.0.0	praddpro.de
 0.0.0.0	praktijkewalts.info
 0.0.0.0	praktijkmariekehuisman.nl
 0.0.0.0	pr.analytics.console.aws.a2z.com
@@ -21381,6 +21380,7 @@
 0.0.0.0	soports.fr
 0.0.0.0	s.optnx.com
 0.0.0.0	sorbone.fr
+0.0.0.0	sordidsmile.com
 0.0.0.0	so.rlcdn.com
 0.0.0.0	s.oroll.com
 0.0.0.0	sor-sdk.follow-apps.com
@@ -23358,7 +23358,6 @@
 0.0.0.0	tracker.bonnint.net
 0.0.0.0	tracker.brainsins.com
 0.0.0.0	tracker.bt.uol.com.br
-0.0.0.0	tracker.cdnbye.com
 0.0.0.0	tracker.cl1.fidelizador.com
 0.0.0.0	tracker.clicktrade.com
 0.0.0.0	tracker.consumerpackage.net
