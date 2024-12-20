@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 20 Dec 15:08:16 +03 2024
-# Total number of blocked hosts are: 28036
+# Ad blocking hosts generated Fri 20 Dec 16:08:17 +03 2024
+# Total number of blocked hosts are: 28035
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -7980,7 +7980,6 @@
 0.0.0.0	click.mail.hotels.com
 0.0.0.0	click.mailing.ticketmaster.com
 0.0.0.0	click.mail.salesforce.com
-0.0.0.0	clickmate.io
 0.0.0.0	clickmedia.ro
 0.0.0.0	clickmeter.com
 0.0.0.0	click.mkt.grab.com
@@ -23359,6 +23358,7 @@
 0.0.0.0	tracker.bonnint.net
 0.0.0.0	tracker.brainsins.com
 0.0.0.0	tracker.bt.uol.com.br
+0.0.0.0	tracker.cdnbye.com
 0.0.0.0	tracker.cl1.fidelizador.com
 0.0.0.0	tracker.clicktrade.com
 0.0.0.0	tracker.consumerpackage.net
@@ -25225,7 +25225,6 @@
 0.0.0.0	webtracker.apicasystem.com
 0.0.0.0	webtracker.jp
 0.0.0.0	webtrackerplus.com
-0.0.0.0	webtracky.com
 0.0.0.0	webtraffic.se
 0.0.0.0	webtraxx.de
 0.0.0.0	webtrekk.mediaset.net
