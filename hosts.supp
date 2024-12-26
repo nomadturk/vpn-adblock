@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 26 Dec 22:08:15 +03 2024
-# Total number of blocked hosts are: 28036
+# Ad blocking hosts generated Thu 26 Dec 23:08:17 +03 2024
+# Total number of blocked hosts are: 28037
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -12063,6 +12063,7 @@
 0.0.0.0	go.realvu.net
 0.0.0.0	go.redirectingat.com
 0.0.0.0	go-redirect.pl
+0.0.0.0	go.rightdailyfeed.com
 0.0.0.0	goroskop.co
 0.0.0.0	go.scmagazine.com
 0.0.0.0	go.searchlock.com
