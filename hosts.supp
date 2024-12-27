@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 27 Dec 15:08:17 +03 2024
-# Total number of blocked hosts are: 28037
+# Ad blocking hosts generated Fri 27 Dec 16:08:15 +03 2024
+# Total number of blocked hosts are: 28034
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1482,7 +1482,6 @@
 0.0.0.0	ad.hk.doubleclick.net
 0.0.0.0	adhoc4.net
 0.0.0.0	ad-hoc-news.de.intellitxt.com
-0.0.0.0	ad.hodomobile.com
 0.0.0.0	adhood.com
 0.0.0.0	ad.horvitznewspapers.net
 0.0.0.0	ad.hot-mob.com
@@ -5794,7 +5793,6 @@
 0.0.0.0	banner.linux.se
 0.0.0.0	bannermall.com
 0.0.0.0	bannermanager.bnr.bg
-0.0.0.0	bannermarkt.nl
 0.0.0.0	banner.media-system.de
 0.0.0.0	banner.missingkids.com
 0.0.0.0	banner.monacogoldcasino.com
@@ -11458,7 +11456,6 @@
 0.0.0.0	frightenedpotato.com
 0.0.0.0	frnafinance.fr
 0.0.0.0	froancefootball.fr
-0.0.0.0	frogator.com
 0.0.0.0	froggytest.fr.intellitxt.com
 0.0.0.0	froling.bee.pl
 0.0.0.0	fromjoytohappiness.com
@@ -14332,6 +14329,7 @@
 0.0.0.0	latrubune.fr
 0.0.0.0	latticescience.com
 0.0.0.0	latticescipub.com
+0.0.0.0	laughcloth.com
 0.0.0.0	launch.adserver.yahoo.com
 0.0.0.0	launchbit.com
 0.0.0.0	launches.appsflyer.com
@@ -25058,7 +25056,6 @@
 0.0.0.0	warcry.us.intellitxt.com
 0.0.0.0	warda.oewabox.at
 0.0.0.0	warlog.info
-0.0.0.0	warlog.ru
 0.0.0.0	warmafterthought.com
 0.0.0.0	warnerbros.112.2o7.net
 0.0.0.0	warnerbrothersrecords.112.2o7.net
