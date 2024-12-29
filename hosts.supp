@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun 29 Dec 22:08:16 +03 2024
-# Total number of blocked hosts are: 28036
+# Ad blocking hosts generated Sun 29 Dec 23:08:16 +03 2024
+# Total number of blocked hosts are: 28037
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -23632,6 +23632,7 @@
 0.0.0.0	track.omg2.com
 0.0.0.0	track.omgpl.com
 0.0.0.0	track.omguk.com
+0.0.0.0	track-on.eu
 0.0.0.0	track-on.pl
 0.0.0.0	track.oxcash.com
 0.0.0.0	track.pplnk.com
