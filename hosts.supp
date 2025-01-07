@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 7 Jan 04:08:16 +03 2025
-# Total number of blocked hosts are: 28036
+# Ad blocking hosts generated Tue 7 Jan 05:08:16 +03 2025
+# Total number of blocked hosts are: 28037
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -16468,6 +16468,7 @@
 0.0.0.0	mygummyjelly.com
 0.0.0.0	myheartbuild.com
 0.0.0.0	myhitbox.com
+0.0.0.0	myhst2024.com
 0.0.0.0	my.iheartradio.com
 0.0.0.0	my.iwon.com
 0.0.0.0	mylead.global
