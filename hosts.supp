@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun 12 Jan 14:08:17 +03 2025
-# Total number of blocked hosts are: 28036
+# Ad blocking hosts generated Sun 12 Jan 15:08:15 +03 2025
+# Total number of blocked hosts are: 28037
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -15183,6 +15183,7 @@
 0.0.0.0	mantodea.mantisadnetwork.com
 0.0.0.0	manuel.theonion.com
 0.0.0.0	m.anycast.adnxs.com
+0.0.0.0	mapcommand.com
 0.0.0.0	map.go.affec.tv
 0.0.0.0	maphonortea.com
 0.0.0.0	ma-plastifieuse.info
