@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 17 Jan 21:08:16 +03 2025
+# Ad blocking hosts generated Fri 17 Jan 22:08:17 +03 2025
 # Total number of blocked hosts are: 28041
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -24563,6 +24563,7 @@
 0.0.0.0	vcdn.media.innity.net
 0.0.0.0	v.cf.ssacdn.com
 0.0.0.0	vc.hotjar.io
+0.0.0.0	vc-login.com
 0.0.0.0	vcm.oewabox.at
 0.0.0.0	vcomdeepdiscount.112.2o7.net
 0.0.0.0	vcommerce.112.2o7.net
@@ -26933,7 +26934,6 @@
 0.0.0.0	www.myuitm.com
 0.0.0.0	www.myusersonline.com
 0.0.0.0	www.mywebsearch.com
-0.0.0.0	www.mywot.com
 0.0.0.0	www.na47.com
 0.0.0.0	www.naiadsystems.com
 0.0.0.0	www.nakhit.com
