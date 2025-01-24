@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 24 Jan 15:08:17 +03 2025
-# Total number of blocked hosts are: 28041
+# Ad blocking hosts generated Fri 24 Jan 16:08:15 +03 2025
+# Total number of blocked hosts are: 28038
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -882,6 +882,7 @@
 0.0.0.0	actualite-de-stars.fr.intellitxt.com
 0.0.0.0	actuallysheep.com
 0.0.0.0	actuallysnake.com
+0.0.0.0	actuallything.com
 0.0.0.0	actvtrack.com
 0.0.0.0	ac.tynt.com
 0.0.0.0	acuityads.com
@@ -1196,7 +1197,6 @@
 0.0.0.0	adap.tv
 0.0.0.0	adaptv.pixel.invitemedia.com
 0.0.0.0	ad.aquamediadirect.com
-0.0.0.0	adaranth.com
 0.0.0.0	ad.ar.doubleclick.net
 0.0.0.0	adashx4ae.ut.taobao.com
 0.0.0.0	adashx.ut.taobao.com
@@ -2274,7 +2274,6 @@
 0.0.0.0	ads.clickability.com
 0.0.0.0	ads.clickad.com.pl
 0.0.0.0	ads.clickagents.com
-0.0.0.0	ads-click.com
 0.0.0.0	adsclick.qq.com
 0.0.0.0	ads-cloud.rovio.com
 0.0.0.0	ads.clovenetwork.com
@@ -3476,7 +3475,6 @@
 0.0.0.0	ads.tw.adsonar.com
 0.0.0.0	ads-twitter.com
 0.0.0.0	ads.twitter.com
-0.0.0.0	ads.twojatv.info
 0.0.0.0	ad.style
 0.0.0.0	ads.uberads.com
 0.0.0.0	ads.uigc.net
@@ -8057,7 +8055,6 @@
 0.0.0.0	click.trafikkfondet.no
 0.0.0.0	clicktraq.mtree.com
 0.0.0.0	clicktripz.com
-0.0.0.0	click.twcwigs.com
 0.0.0.0	click.uamtrk.com
 0.0.0.0	click.udimg.com
 0.0.0.0	click.union.ucweb.com
