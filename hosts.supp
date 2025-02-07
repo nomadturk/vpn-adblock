@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 7 Feb 15:08:15 +03 2025
-# Total number of blocked hosts are: 28040
+# Ad blocking hosts generated Fri 7 Feb 16:08:18 +03 2025
+# Total number of blocked hosts are: 28035
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -62,7 +62,6 @@
 0.0.0.0	118605-5437.link.iwanttodeliver.com
 0.0.0.0	1188.api.swrve.com
 0.0.0.0	1188.content.swrve.com
-0.0.0.0	1-1ads.com
 0.0.0.0	11zz.com
 0.0.0.0	121807150325.c.mystat-in.net
 0.0.0.0	121media.com
@@ -2219,7 +2218,6 @@
 0.0.0.0	ads.bridgetrack.com.edgesuite.net
 0.0.0.0	ads.bsplayer.com
 0.0.0.0	ads.bulldogcpi.com
-0.0.0.0	ads.bumq.com
 0.0.0.0	ads.burgasinfo.com
 0.0.0.0	ads.buscape.com.br
 0.0.0.0	ads.businessclick.com
@@ -2265,7 +2263,6 @@
 0.0.0.0	ads.chipcenter.com
 0.0.0.0	adscholar.com
 0.0.0.0	ads.chumcity.com
-0.0.0.0	adscience.nl
 0.0.0.0	ads.cinemaden.com
 0.0.0.0	ads.cineville.nl
 0.0.0.0	ads.citymagazine.si
@@ -3475,6 +3472,7 @@
 0.0.0.0	ads.tw.adsonar.com
 0.0.0.0	ads-twitter.com
 0.0.0.0	ads.twitter.com
+0.0.0.0	ads.twojatv.info
 0.0.0.0	ad.style
 0.0.0.0	ads.uberads.com
 0.0.0.0	ads.uigc.net
@@ -5435,6 +5433,7 @@
 0.0.0.0	atlassian.122.2o7.net
 0.0.0.0	atlauncher.fr
 0.0.0.0	at.m1.nedstatbasic.net
+0.0.0.0	ato.mx
 0.0.0.0	at-o.net
 0.0.0.0	at.ontargetjobs.com
 0.0.0.0	a.total-media.net
@@ -10904,7 +10903,6 @@
 0.0.0.0	extrovert.122.2o7.net
 0.0.0.0	ext.royalcactus.com
 0.0.0.0	eyeblaster.akadns.net
-0.0.0.0	eyeblaster.com
 0.0.0.0	eyeota.net
 0.0.0.0	eyereact.eyereturn.com
 0.0.0.0	eyestoip.com
@@ -12240,7 +12238,6 @@
 0.0.0.0	gslbeacon.lijit.com
 0.0.0.0	gsmarena.us.intellitxt.com
 0.0.0.0	gspro.hit.gemius.pl
-0.0.0.0	gstaticx.com
 0.0.0.0	gtamoding.fr
 0.0.0.0	gtb19.acecounter.com
 0.0.0.0	gtb5.acecounter.com
@@ -16792,7 +16789,6 @@
 0.0.0.0	news.iadsdk.apple.com
 0.0.0.0	newsinteractive.112.2o7.net
 0.0.0.0	newsinternational.122.2o7.net
-0.0.0.0	newsletter-link.com
 0.0.0.0	newsmagic.net
 0.0.0.0	news.msnbc.us.intellitxt.com
 0.0.0.0	newsnetw.oewabox.at
@@ -16805,7 +16801,6 @@
 0.0.0.0	newsquestdigitalmedia.122.2o7.net
 0.0.0.0	newsquest.fr
 0.0.0.0	news-server17-yahoo.com
-0.0.0.0	newstarads.com
 0.0.0.0	newstimeslivecom.112.2o7.net
 0.0.0.0	newstoob.us.intellitxt.com
 0.0.0.0	newt1.adultadworld.com
