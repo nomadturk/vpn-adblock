@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 11 Feb 23:08:16 +03 2025
-# Total number of blocked hosts are: 28036
+# Ad blocking hosts generated Wed 12 Feb 00:08:19 +03 2025
+# Total number of blocked hosts are: 28044
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1914,6 +1914,7 @@
 0.0.0.0	ads20.focalink.com
 0.0.0.0	ads21.focalink.com
 0.0.0.0	ads22.focalink.com
+0.0.0.0	ads22.host-cdn.net
 0.0.0.0	ads234.com
 0.0.0.0	ads23.focalink.com
 0.0.0.0	ads24.focalink.com
@@ -6629,6 +6630,7 @@
 0.0.0.0	bulktheft.com
 0.0.0.0	bulldog.122.2o7.net
 0.0.0.0	bullgame.net
+0.0.0.0	bullionglidingscuttle.com
 0.0.0.0	bullseye.backbeatmedia.com
 0.0.0.0	bullz-eye.us.intellitxt.com
 0.0.0.0	bumerangshowsites.hurriyet.com.tr
@@ -6904,6 +6906,7 @@
 0.0.0.0	c.admob.com
 0.0.0.0	c.adroll.com
 0.0.0.0	cadsans.com
+0.0.0.0	c.adsco.re
 0.0.0.0	c.ad-srv.co
 0.0.0.0	caea4e.r.axf8.net
 0.0.0.0	caea4e.t.axf8.net
@@ -10702,6 +10705,8 @@
 0.0.0.0	euros4click.de
 0.0.0.0	eurospoprt.fr
 0.0.0.0	eurostar.122.2o7.net
+0.0.0.0	eurostreaming.myproxy.help
+0.0.0.0	eurostreaming.superproxy.lol
 0.0.0.0	eus.rubiconproject.com
 0.0.0.0	eus.rubiconproject.com.edgekey.net
 0.0.0.0	eu-srv.apptornado.com
@@ -17646,6 +17651,7 @@
 0.0.0.0	ostalgie.fr
 0.0.0.0	ostg.us.intellitxt.com
 0.0.0.0	ota.cartrawler.com
+0.0.0.0	otakutee.com
 0.0.0.0	otf.msn.com
 0.0.0.0	otherlevels.com
 0.0.0.0	otherprofit.com
@@ -18971,6 +18977,7 @@
 0.0.0.0	p.skimresources.com
 0.0.0.0	ps.l.admedo.com
 0.0.0.0	ps.ns-cdn.com
+0.0.0.0	psoabojaksou.net
 0.0.0.0	pson.logging.admicro.vn
 0.0.0.0	psorias.atspace.com
 0.0.0.0	pspcave.uk.intellitxt.com
@@ -24758,6 +24765,7 @@
 0.0.0.0	viglink.fr
 0.0.0.0	viglink.pgpartner.com
 0.0.0.0	vihit.gotrackier.com
+0.0.0.0	vi-improved.org
 0.0.0.0	vik-analytics-gke.moonactive.net
 0.0.0.0	vik-analytics.moonactive.net
 0.0.0.0	vilagfigyelo.com
