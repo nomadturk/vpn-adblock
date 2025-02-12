@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 12 Feb 17:08:15 +03 2025
-# Total number of blocked hosts are: 28044
+# Ad blocking hosts generated Wed 12 Feb 18:08:17 +03 2025
+# Total number of blocked hosts are: 28046
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -9125,7 +9125,6 @@
 0.0.0.0	customads.co
 0.0.0.0	customer.cludo.com
 0.0.0.0	customer.iad-03.braze.com
-0.0.0.0	customeriomail.com
 0.0.0.0	customers.kameleoon.com
 0.0.0.0	customtraffic.impactradius.com
 0.0.0.0	custom-wrs.api.responsys.net
@@ -10217,6 +10216,7 @@
 0.0.0.0	ecs.mantisadnetwork.com
 0.0.0.0	ecs.mb.moatads.com
 0.0.0.0	ectestlampsplus1.112.2o7.net
+0.0.0.0	e.customeriomail.com
 0.0.0.0	edaa.eu
 0.0.0.0	ed.at.thamaster.de
 0.0.0.0	edchargina.pro
@@ -10261,6 +10261,7 @@
 0.0.0.0	eelsoup.net
 0.0.0.0	e.email.simon.com
 0.0.0.0	eepn.us.intellitxt.com
+0.0.0.0	e-eu.customeriomail.com
 0.0.0.0	eeude.comfortykive.xyz
 0.0.0.0	efanguide.us.intellitxt.com
 0.0.0.0	efashionsolutions.122.2o7.net
@@ -23397,6 +23398,7 @@
 0.0.0.0	tracker.truehits.net
 0.0.0.0	tracker.winudf.com
 0.0.0.0	tracker.wordstream.com
+0.0.0.0	track-eu.customer.io
 0.0.0.0	track.eyeviewads.com
 0.0.0.0	track.flexlinks.com
 0.0.0.0	track.flexlinkspro.com
