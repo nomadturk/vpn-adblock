@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 21 Feb 15:08:15 +03 2025
-# Total number of blocked hosts are: 27983
+# Ad blocking hosts generated Fri 21 Feb 16:08:15 +03 2025
+# Total number of blocked hosts are: 27978
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1189,7 +1189,6 @@
 0.0.0.0	ad.appier.net
 0.0.0.0	ad.apps.fm
 0.0.0.0	adapter.kaffnet.com
-0.0.0.0	adapt.tv
 0.0.0.0	adap.tv
 0.0.0.0	adaptv.pixel.invitemedia.com
 0.0.0.0	ad.aquamediadirect.com
@@ -2183,7 +2182,6 @@
 0.0.0.0	ads-bilek.com
 0.0.0.0	ads.bing.com
 0.0.0.0	ads.biscom.net
-0.0.0.0	ads.bittorrent.com
 0.0.0.0	ads.bizhut.com
 0.0.0.0	ads.bizx.info
 0.0.0.0	ads.bl-consulting.net
@@ -2741,7 +2739,6 @@
 0.0.0.0	ads.exdynsrv.com
 0.0.0.0	ads.exoclick.com
 0.0.0.0	ads.exosrv.com
-0.0.0.0	ads.expat-blog.biz
 0.0.0.0	ads.expekt.com
 0.0.0.0	adsfac.eu
 0.0.0.0	adsfac.net
@@ -3470,6 +3467,7 @@
 0.0.0.0	ads.tw.adsonar.com
 0.0.0.0	ads-twitter.com
 0.0.0.0	ads.twitter.com
+0.0.0.0	ads.twojatv.info
 0.0.0.0	ad.style
 0.0.0.0	ads.uberads.com
 0.0.0.0	ads.uigc.net
@@ -13504,7 +13502,6 @@
 0.0.0.0	interyield.td573.com
 0.0.0.0	intevry.fr
 0.0.0.0	intljs.rmtag.com
-0.0.0.0	intnotif.club
 0.0.0.0	intogossip.us.intellitxt.com
 0.0.0.0	intomobile.us.intellitxt.com
 0.0.0.0	intouch.arcsoft.com
@@ -14130,7 +14127,6 @@
 0.0.0.0	klove.fr
 0.0.0.0	klowns4phun.com
 0.0.0.0	klsdee.com
-0.0.0.0	kmpiframe.keepmeposted.com.mt
 0.0.0.0	knac.us.intellitxt.com
 0.0.0.0	knc.lv
 0.0.0.0	knitstamp.com
@@ -16887,7 +16883,6 @@
 0.0.0.0	noah.reddion.com
 0.0.0.0	nobrain.dk
 0.0.0.0	noc.hitbox.com
-0.0.0.0	nocturnalloom.com
 0.0.0.0	nodeny.targetspot.com
 0.0.0.0	nodevice.uk.intellitxt.com
 0.0.0.0	noella-voyance.fr
