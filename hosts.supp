@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 28 Feb 14:08:18 +03 2025
-# Total number of blocked hosts are: 27981
+# Ad blocking hosts generated Fri 28 Feb 15:08:16 +03 2025
+# Total number of blocked hosts are: 27979
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1189,6 +1189,7 @@
 0.0.0.0	ad.appier.net
 0.0.0.0	ad.apps.fm
 0.0.0.0	adapter.kaffnet.com
+0.0.0.0	adapt.tv
 0.0.0.0	adap.tv
 0.0.0.0	adaptv.pixel.invitemedia.com
 0.0.0.0	ad.aquamediadirect.com
@@ -2182,6 +2183,7 @@
 0.0.0.0	ads-bilek.com
 0.0.0.0	ads.bing.com
 0.0.0.0	ads.biscom.net
+0.0.0.0	ads.bittorrent.com
 0.0.0.0	ads.bizhut.com
 0.0.0.0	ads.bizx.info
 0.0.0.0	ads.bl-consulting.net
@@ -5427,7 +5429,6 @@
 0.0.0.0	atlassian.122.2o7.net
 0.0.0.0	atlauncher.fr
 0.0.0.0	at.m1.nedstatbasic.net
-0.0.0.0	ato.mx
 0.0.0.0	at-o.net
 0.0.0.0	at.ontargetjobs.com
 0.0.0.0	a.total-media.net
@@ -14364,7 +14365,6 @@
 0.0.0.0	ldsfch.112.2o7.net
 0.0.0.0	ldynamicspublicapi.leadforensics.com
 0.0.0.0	le1er.net
-0.0.0.0	lead02.com
 0.0.0.0	lead-123.com
 0.0.0.0	lead-analytics.nl
 0.0.0.0	leadboltads.net
@@ -19055,11 +19055,9 @@
 0.0.0.0	pushaction.foxpush.com
 0.0.0.0	push-ad.com
 0.0.0.0	pushagim.com
-0.0.0.0	pushame.com
 0.0.0.0	pushance.com
 0.0.0.0	push-api.topaz-analytics.com
 0.0.0.0	pushazam.com
-0.0.0.0	pushazer.com
 0.0.0.0	pushbaddy.com
 0.0.0.0	pushbasic.com
 0.0.0.0	push.connecto.io
