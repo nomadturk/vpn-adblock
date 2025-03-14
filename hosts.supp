@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 14 Mar 15:08:16 +03 2025
-# Total number of blocked hosts are: 27979
+# Ad blocking hosts generated Fri 14 Mar 16:08:16 +03 2025
+# Total number of blocked hosts are: 27975
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3994,7 +3994,6 @@
 0.0.0.0	affiliates.babylon.com
 0.0.0.0	affiliates.bet-at-home.com
 0.0.0.0	affiliates.bhphotovideo.com
-0.0.0.0	affiliates.digitalriver.com
 0.0.0.0	affiliates.eblastengine.com
 0.0.0.0	affiliateserver.hangikredi.com
 0.0.0.0	affiliates.genealogybank.com
@@ -5923,7 +5922,6 @@
 0.0.0.0	banners.ztod.com
 0.0.0.0	banner.tanto.de
 0.0.0.0	banner.techarp.com
-0.0.0.0	bannertesting.com
 0.0.0.0	banner.titan-dsl.de
 0.0.0.0	banner.titanpoker.com
 0.0.0.0	bannertrack.net
@@ -8436,6 +8434,7 @@
 0.0.0.0	compass-events.deliverimp.com
 0.0.0.0	compass-v2.deliverimp.com
 0.0.0.0	compe-nickel.fr
+0.0.0.0	compiledoctor.com
 0.0.0.0	complexcom.skimlinks.com
 0.0.0.0	complex.us.intellitxt.com
 0.0.0.0	compnet.us.intellitxt.com
@@ -9353,6 +9352,7 @@
 0.0.0.0	datplus.springserve.com
 0.0.0.0	d.audienceiq.com
 0.0.0.0	dau.fyber.com
+0.0.0.0	daughterstone.com
 0.0.0.0	da.us.criteo.com
 0.0.0.0	da.us.criteo.net
 0.0.0.0	davidhuynh.fr
@@ -11142,7 +11142,6 @@
 0.0.0.0	fin.adbureau.net
 0.0.0.0	finance-offer.com
 0.0.0.0	financialtimesdfp415669142494.s.moatpixel.com
-0.0.0.0	findcommerce.com
 0.0.0.0	finder.cox.net
 0.0.0.0	findfavour.com
 0.0.0.0	findgoodfood.co
@@ -22728,7 +22727,6 @@
 0.0.0.0	techworld.nl.intellitxt.com
 0.0.0.0	techzine.nl.intellitxt.com
 0.0.0.0	te.cleveland.net
-0.0.0.0	tediousticket.com
 0.0.0.0	tedioustooth.com
 0.0.0.0	teenrevenue.com
 0.0.0.0	teens24h.com
@@ -23157,7 +23155,6 @@
 0.0.0.0	top.artcomix.com
 0.0.0.0	topbestgames.com
 0.0.0.0	topcashvibes.com
-0.0.0.0	top-casting-termine.de
 0.0.0.0	topconsumergifts.com
 0.0.0.0	topdemaroc.com
 0.0.0.0	topdownloads.nl.intellitxt.com
@@ -24231,7 +24228,6 @@
 0.0.0.0	urlcash.net
 0.0.0.0	urlconnection.net
 0.0.0.0	urlcut.net
-0.0.0.0	urldata.net
 0.0.0.0	url-hoster.com
 0.0.0.0	urlpage-redirect.com
 0.0.0.0	urlpush.net
