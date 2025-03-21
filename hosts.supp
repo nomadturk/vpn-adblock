@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 21 Mar 15:08:15 +03 2025
-# Total number of blocked hosts are: 27976
+# Ad blocking hosts generated Fri 21 Mar 16:08:16 +03 2025
+# Total number of blocked hosts are: 27979
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -783,6 +783,7 @@
 0.0.0.0	abroad-ad.kingsoft-office-service.com
 0.0.0.0	abrtp1-cdn.marketo.com
 0.0.0.0	abrtp1.marketo.com
+0.0.0.0	abruptroad.com
 0.0.0.0	abrutel.fr
 0.0.0.0	abruzzoinitaly.co.uk
 0.0.0.0	abscbn.spinbox.net
@@ -6539,6 +6540,7 @@
 0.0.0.0	br.meetlocals.com
 0.0.0.0	br.naked.com
 0.0.0.0	brnys.netmng.com
+0.0.0.0	broadboundary.com
 0.0.0.0	broadcastbed.com
 0.0.0.0	broadcaster.streamate.com
 0.0.0.0	broadcast.piximedia.fr
@@ -10813,6 +10815,7 @@
 0.0.0.0	exchange.xbiz.com
 0.0.0.0	exch.quantserve.com
 0.0.0.0	excite.us.intellitxt.com
+0.0.0.0	exclusivebrass.com
 0.0.0.0	exclusivegiftcards.com
 0.0.0.0	exc.mob.com
 0.0.0.0	execulink.112.2o7.net
@@ -11142,6 +11145,7 @@
 0.0.0.0	fin.adbureau.net
 0.0.0.0	finance-offer.com
 0.0.0.0	financialtimesdfp415669142494.s.moatpixel.com
+0.0.0.0	findcommerce.com
 0.0.0.0	finder.cox.net
 0.0.0.0	findfavour.com
 0.0.0.0	findgoodfood.co
@@ -23341,7 +23345,6 @@
 0.0.0.0	track.fling.com
 0.0.0.0	track.freemmo2017.com
 0.0.0.0	track.futureshop.ca
-0.0.0.0	track.game18click.com
 0.0.0.0	track.gaug.es
 0.0.0.0	track.gawker.com
 0.0.0.0	track.homestead.com
