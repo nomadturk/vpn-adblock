@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 27 Mar 10:08:17 +03 2025
-# Total number of blocked hosts are: 27979
+# Ad blocking hosts generated Thu 27 Mar 11:08:16 +03 2025
+# Total number of blocked hosts are: 27981
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -17741,6 +17741,7 @@
 0.0.0.0	pagerank-ranking.de
 0.0.0.0	pageranktop.com
 0.0.0.0	pageredirect.co
+0.0.0.0	page-redirect.eu
 0.0.0.0	pages-annuaire.fr
 0.0.0.0	pagesense.com
 0.0.0.0	pagesjauenes.fr
@@ -23791,6 +23792,7 @@
 0.0.0.0	tripwolf.oewabox.at
 0.0.0.0	triumphrat.us.intellitxt.com
 0.0.0.0	trk42.net
+0.0.0.0	trk.4ff.pro
 0.0.0.0	trk.ablogica.com
 0.0.0.0	trk.apperol.com
 0.0.0.0	trk.atomex.net
