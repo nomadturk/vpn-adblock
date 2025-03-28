@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 28 Mar 15:08:16 +03 2025
-# Total number of blocked hosts are: 27981
+# Ad blocking hosts generated Fri 28 Mar 16:08:14 +03 2025
+# Total number of blocked hosts are: 27966
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1674,7 +1674,6 @@
 0.0.0.0	adminec1.hitbox.com
 0.0.0.0	admin.hotkeys.com
 0.0.0.0	admin.iovation.com
-0.0.0.0	adminshop.com
 0.0.0.0	admitad.com
 0.0.0.0	admixer.co.kr
 0.0.0.0	admixer.net
@@ -1904,7 +1903,6 @@
 0.0.0.0	ads1.speedbit.com
 0.0.0.0	ads1.tripod.com
 0.0.0.0	ads1.updated.com
-0.0.0.0	ads1.virtual-nights.com
 0.0.0.0	ads2000.hw.net
 0.0.0.0	ads2004.treiberupdate.de
 0.0.0.0	ads20.adcolony.com
@@ -1951,7 +1949,6 @@
 0.0.0.0	ads2.speedbit.com
 0.0.0.0	ads2srv.com
 0.0.0.0	ads2.vasmg.com
-0.0.0.0	ads2.virtual-nights.com
 0.0.0.0	ads2.vortexmediagroup.com
 0.0.0.0	ads2.webdrive.no
 0.0.0.0	ads2.weblogssl.com
@@ -1978,7 +1975,6 @@
 0.0.0.0	ads3.realcities.com
 0.0.0.0	ads.3sfmedia.com
 0.0.0.0	ads3.speedbit.com
-0.0.0.0	ads3.virtual-nights.com
 0.0.0.0	ads4.admatic.com.tr
 0.0.0.0	ads4.advance.net
 0.0.0.0	ads4cheap.com
@@ -1987,7 +1983,6 @@
 0.0.0.0	ads4.realcities.com
 0.0.0.0	ads4.speedbit.com
 0.0.0.0	ads.4tube.com
-0.0.0.0	ads4.virtual-nights.com
 0.0.0.0	ads5.admatic.com.tr
 0.0.0.0	ads5-adnow.com
 0.0.0.0	ads5.advance.net
@@ -1996,7 +1991,6 @@
 0.0.0.0	ads5-noneu.truecaller.com
 0.0.0.0	ads5.sabah.com.tr
 0.0.0.0	ads5.speedbit.com
-0.0.0.0	ads5.virtual-nights.com
 0.0.0.0	ads6.admatic.com.tr
 0.0.0.0	ads6.advance.net
 0.0.0.0	ads6.gamecity.net
@@ -2126,7 +2120,6 @@
 0.0.0.0	ads.as.criteo.com
 0.0.0.0	ads.asexstories.com
 0.0.0.0	ads.asiafriendfinder.com
-0.0.0.0	ads.a-snag-smartmoney.fyi
 0.0.0.0	ads.aspalliance.com
 0.0.0.0	ads.aspentimes.com
 0.0.0.0	ads.asredas.com
@@ -3526,7 +3519,6 @@
 0.0.0.0	ads.vipcams.com
 0.0.0.0	ads.virginislandsdailynews.com
 0.0.0.0	ads.virtualcountries.com
-0.0.0.0	ads.virtual-nights.com
 0.0.0.0	ads.virtuopolitan.com
 0.0.0.0	ads.vjaffiliates.com
 0.0.0.0	ads.v-lazer.com
@@ -3823,7 +3815,6 @@
 0.0.0.0	ad.vidverto.io
 0.0.0.0	adview.com
 0.0.0.0	adview.pl
-0.0.0.0	ad.virtual-nights.com
 0.0.0.0	advisormedia.cz
 0.0.0.0	adviva.net
 0.0.0.0	adv.lampsplus.com
@@ -3936,7 +3927,6 @@
 0.0.0.0	ad.zodera.hu
 0.0.0.0	adzone.ro
 0.0.0.0	adz.rashflash.com
-0.0.0.0	adzrevads.com
 0.0.0.0	adztec.com
 0.0.0.0	ad.ztylez.com
 0.0.0.0	ae.adserver.yahoo.com
@@ -5428,6 +5418,7 @@
 0.0.0.0	atlassian.122.2o7.net
 0.0.0.0	atlauncher.fr
 0.0.0.0	at.m1.nedstatbasic.net
+0.0.0.0	ato.mx
 0.0.0.0	at-o.net
 0.0.0.0	at.ontargetjobs.com
 0.0.0.0	a.total-media.net
@@ -9663,7 +9654,6 @@
 0.0.0.0	directorym.com
 0.0.0.0	direct-re2.pl
 0.0.0.0	direct-space.com
-0.0.0.0	directtrack.com
 0.0.0.0	di.rlcdn.com
 0.0.0.0	dir.opank.com
 0.0.0.0	dirtmountainbike.fr
@@ -16672,7 +16662,6 @@
 0.0.0.0	netbulvar.eu
 0.0.0.0	netclickstats.com
 0.0.0.0	netcomm.spinbox.net
-0.0.0.0	netcommunities.com
 0.0.0.0	netdirect.nl
 0.0.0.0	netech.postaffiliatepro.com
 0.0.0.0	neteco.fr.intellitxt.com
@@ -17394,7 +17383,6 @@
 0.0.0.0	oneid.mmstat.com
 0.0.0.0	onelink.appsflyer.com
 0.0.0.0	onemanga.fr
-0.0.0.0	onenetworkdirect.com
 0.0.0.0	onepager.fr
 0.0.0.0	onepush.query.yahoo.com
 0.0.0.0	onesignal.com
@@ -19475,7 +19463,6 @@
 0.0.0.0	register.silverscreen.cc
 0.0.0.0	registration.gimbal.com
 0.0.0.0	registration.tiltingpoint.io
-0.0.0.0	regnow.com
 0.0.0.0	regularplants.com
 0.0.0.0	rek2.tascatlasa.com
 0.0.0.0	reklam-1.com
@@ -20292,7 +20279,6 @@
 0.0.0.0	script.crazyegg.com
 0.0.0.0	script.crsspxl.com
 0.0.0.0	script.dotmetrics.net
-0.0.0.0	scripte-monster.de
 0.0.0.0	script.fixel.ai
 0.0.0.0	script.hotjar.com
 0.0.0.0	script.leadboxer.com
@@ -23364,7 +23350,6 @@
 0.0.0.0	tracking-3-9f58.trnox.com
 0.0.0.0	tracking.3com.com
 0.0.0.0	tracking.42-01pr5-osm-secure.co.uk
-0.0.0.0	tracking.5-47737-bi.co.uk
 0.0.0.0	tracking.aatkit.com
 0.0.0.0	tracking.adalyser.com
 0.0.0.0	tracking.adgoon.it
