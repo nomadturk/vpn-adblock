@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 4 Apr 14:08:17 +03 2025
-# Total number of blocked hosts are: 27967
+# Ad blocking hosts generated Fri 4 Apr 15:08:15 +03 2025
+# Total number of blocked hosts are: 27970
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -202,7 +202,6 @@
 0.0.0.0	24log.com
 0.0.0.0	24m.nuggad.net
 0.0.0.0	24ora.eu
-0.0.0.0	24pm-affiliation.com
 0.0.0.0	24ratownik.hit.gemius.pl
 0.0.0.0	24trk.com
 0.0.0.0	24wrestling.us.intellitxt.com
@@ -1903,6 +1902,7 @@
 0.0.0.0	ads1.speedbit.com
 0.0.0.0	ads1.tripod.com
 0.0.0.0	ads1.updated.com
+0.0.0.0	ads1.virtual-nights.com
 0.0.0.0	ads2000.hw.net
 0.0.0.0	ads2004.treiberupdate.de
 0.0.0.0	ads20.adcolony.com
@@ -1949,6 +1949,7 @@
 0.0.0.0	ads2.speedbit.com
 0.0.0.0	ads2srv.com
 0.0.0.0	ads2.vasmg.com
+0.0.0.0	ads2.virtual-nights.com
 0.0.0.0	ads2.vortexmediagroup.com
 0.0.0.0	ads2.webdrive.no
 0.0.0.0	ads2.weblogssl.com
@@ -1975,6 +1976,7 @@
 0.0.0.0	ads3.realcities.com
 0.0.0.0	ads.3sfmedia.com
 0.0.0.0	ads3.speedbit.com
+0.0.0.0	ads3.virtual-nights.com
 0.0.0.0	ads4.admatic.com.tr
 0.0.0.0	ads4.advance.net
 0.0.0.0	ads4cheap.com
@@ -1983,6 +1985,7 @@
 0.0.0.0	ads4.realcities.com
 0.0.0.0	ads4.speedbit.com
 0.0.0.0	ads.4tube.com
+0.0.0.0	ads4.virtual-nights.com
 0.0.0.0	ads5.admatic.com.tr
 0.0.0.0	ads5-adnow.com
 0.0.0.0	ads5.advance.net
@@ -1991,6 +1994,7 @@
 0.0.0.0	ads5-noneu.truecaller.com
 0.0.0.0	ads5.sabah.com.tr
 0.0.0.0	ads5.speedbit.com
+0.0.0.0	ads5.virtual-nights.com
 0.0.0.0	ads6.admatic.com.tr
 0.0.0.0	ads6.advance.net
 0.0.0.0	ads6.gamecity.net
@@ -3519,6 +3523,7 @@
 0.0.0.0	ads.vipcams.com
 0.0.0.0	ads.virginislandsdailynews.com
 0.0.0.0	ads.virtualcountries.com
+0.0.0.0	ads.virtual-nights.com
 0.0.0.0	ads.virtuopolitan.com
 0.0.0.0	ads.vjaffiliates.com
 0.0.0.0	ads.v-lazer.com
@@ -3815,6 +3820,7 @@
 0.0.0.0	ad.vidverto.io
 0.0.0.0	adview.com
 0.0.0.0	adview.pl
+0.0.0.0	ad.virtual-nights.com
 0.0.0.0	advisormedia.cz
 0.0.0.0	adviva.net
 0.0.0.0	adv.lampsplus.com
@@ -5604,7 +5610,6 @@
 0.0.0.0	azoaltou.com
 0.0.0.0	azoogleads.com
 0.0.0.0	aztbeszelik.com
-0.0.0.0	aztracking.net
 0.0.0.0	azureus.es
 0.0.0.0	azz.badazz.org
 0.0.0.0	b1-chidc2.zemanta.com
@@ -7952,7 +7957,6 @@
 0.0.0.0	click.khingtracking.com
 0.0.0.0	click.kmindex.ru
 0.0.0.0	click.liftoff.io
-0.0.0.0	clicklink.jp
 0.0.0.0	click.maaxmarket.com
 0.0.0.0	click.mail.hotels.com
 0.0.0.0	click.mailing.ticketmaster.com
@@ -14120,7 +14124,6 @@
 0.0.0.0	klog.hiido.com
 0.0.0.0	klove.fr
 0.0.0.0	klowns4phun.com
-0.0.0.0	klsdee.com
 0.0.0.0	knac.us.intellitxt.com
 0.0.0.0	knc.lv
 0.0.0.0	knitstamp.com
@@ -14357,6 +14360,7 @@
 0.0.0.0	ldsfch.112.2o7.net
 0.0.0.0	ldynamicspublicapi.leadforensics.com
 0.0.0.0	le1er.net
+0.0.0.0	lead02.com
 0.0.0.0	lead-123.com
 0.0.0.0	lead-analytics.nl
 0.0.0.0	leadboltads.net
@@ -20280,6 +20284,7 @@
 0.0.0.0	script.crazyegg.com
 0.0.0.0	script.crsspxl.com
 0.0.0.0	script.dotmetrics.net
+0.0.0.0	scripte-monster.de
 0.0.0.0	script.fixel.ai
 0.0.0.0	script.hotjar.com
 0.0.0.0	script.leadboxer.com
@@ -23602,7 +23607,6 @@
 0.0.0.0	track.tend.io
 0.0.0.0	track.tenjin.com
 0.0.0.0	track.tenjin.io
-0.0.0.0	track.themaccleanup.info
 0.0.0.0	track.tiara.daum.net
 0.0.0.0	track.tooplay.com
 0.0.0.0	tracktrue.clicktrue.biz
@@ -24518,7 +24522,6 @@
 0.0.0.0	venetian.evyy.net
 0.0.0.0	venetrigni.com
 0.0.0.0	vengefulgrass.com
-0.0.0.0	ventivmedia.com
 0.0.0.0	venturead.com
 0.0.0.0	vericlick.com
 0.0.0.0	verification.jiguang.cn
