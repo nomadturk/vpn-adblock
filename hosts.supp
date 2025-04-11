@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 11 Apr 14:08:16 +03 2025
-# Total number of blocked hosts are: 27970
+# Ad blocking hosts generated Fri 11 Apr 15:08:16 +03 2025
+# Total number of blocked hosts are: 27964
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1547,7 +1547,6 @@
 0.0.0.0	adition.de
 0.0.0.0	adition.net
 0.0.0.0	adizio.com
-0.0.0.0	ad.jacotei.com.br
 0.0.0.0	ad.jamba.net
 0.0.0.0	ad.jamster.ca
 0.0.0.0	ad.jamster.com
@@ -1673,6 +1672,7 @@
 0.0.0.0	adminec1.hitbox.com
 0.0.0.0	admin.hotkeys.com
 0.0.0.0	admin.iovation.com
+0.0.0.0	adminshop.com
 0.0.0.0	admitad.com
 0.0.0.0	admixer.co.kr
 0.0.0.0	admixer.net
@@ -7605,7 +7605,6 @@
 0.0.0.0	c.eblastengine.com
 0.0.0.0	cebue.magmafurnace.top
 0.0.0.0	cecash.com
-0.0.0.0	ceciliavenus.com
 0.0.0.0	c.ecliks.com
 0.0.0.0	cedato.com
 0.0.0.0	ced.sascdn.com
@@ -7955,7 +7954,6 @@
 0.0.0.0	click.justwatch.com
 0.0.0.0	click.jve.net
 0.0.0.0	click.khingtracking.com
-0.0.0.0	click.kmindex.ru
 0.0.0.0	click.liftoff.io
 0.0.0.0	click.maaxmarket.com
 0.0.0.0	click.mail.hotels.com
@@ -8848,7 +8846,6 @@
 0.0.0.0	counter.yakcash.com
 0.0.0.0	counter.yesky.com
 0.0.0.0	count.freett.com
-0.0.0.0	counting.kmindex.ru
 0.0.0.0	count.ly
 0.0.0.0	count.paycounter.com
 0.0.0.0	count.pcpop.com
@@ -12396,7 +12393,6 @@
 0.0.0.0	heavy-flood.com
 0.0.0.0	hebdotop.com
 0.0.0.0	hefever.fr
-0.0.0.0	heimi-lwx.com
 0.0.0.0	helios.fvn.no
 0.0.0.0	helium.us.intellitxt.com
 0.0.0.0	hellobar.com
@@ -17762,7 +17758,6 @@
 0.0.0.0	pal-item.us.intellitxt.com
 0.0.0.0	palyazatfigyelo.info
 0.0.0.0	pamini.fr
-0.0.0.0	panatenlink.pl
 0.0.0.0	pandasoftware.112.2o7.net
 0.0.0.0	pandg.tapad.com
 0.0.0.0	pandoramedia-mkt-prod1-t.campaign.adobe.com
@@ -23153,6 +23148,7 @@
 0.0.0.0	top.artcomix.com
 0.0.0.0	topbestgames.com
 0.0.0.0	topcashvibes.com
+0.0.0.0	top-casting-termine.de
 0.0.0.0	topconsumergifts.com
 0.0.0.0	topdemaroc.com
 0.0.0.0	topdownloads.nl.intellitxt.com
@@ -23355,7 +23351,6 @@
 0.0.0.0	tracking2.hittail.com
 0.0.0.0	tracking-3-9f58.trnox.com
 0.0.0.0	tracking.3com.com
-0.0.0.0	tracking.42-01pr5-osm-secure.co.uk
 0.0.0.0	tracking.aatkit.com
 0.0.0.0	tracking.adalyser.com
 0.0.0.0	tracking.adgoon.it
@@ -24535,7 +24530,6 @@
 0.0.0.0	vermontteddybear.112.2o7.net
 0.0.0.0	versbaudet.fr
 0.0.0.0	vertamedia.com
-0.0.0.0	verticalmass.com
 0.0.0.0	vervemobile.com
 0.0.0.0	vervewireless.com
 0.0.0.0	vet-us-east-1.track.smaato.net
