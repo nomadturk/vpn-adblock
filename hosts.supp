@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 14 Apr 21:08:15 +03 2025
-# Total number of blocked hosts are: 27964
+# Ad blocking hosts generated Mon 14 Apr 22:08:16 +03 2025
+# Total number of blocked hosts are: 27965
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -10430,6 +10430,7 @@
 0.0.0.0	email-open.adtidy.org
 0.0.0.0	email.positionly.com
 0.0.0.0	email-reflex.com
+0.0.0.0	email-trk.ihg-businessedge.com
 0.0.0.0	e-marketing.entelchile.net
 0.0.0.0	emarketing.sina.com.cn
 0.0.0.0	emaxhealth.us.intellitxt.com
