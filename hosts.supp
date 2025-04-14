@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 15 Apr 00:08:17 +03 2025
-# Total number of blocked hosts are: 27965
+# Ad blocking hosts generated Tue 15 Apr 01:08:17 +03 2025
+# Total number of blocked hosts are: 27966
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -13081,6 +13081,7 @@
 0.0.0.0	images.kolmic.com
 0.0.0.0	images.linkwithin.com
 0.0.0.0	images.mbuyu.nl
+0.0.0.0	images.mediago.io
 0.0.0.0	images.netcomvad.com
 0.0.0.0	images.outbrain.com
 0.0.0.0	images.outbrainimg.com
