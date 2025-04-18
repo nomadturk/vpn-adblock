@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 18 Apr 13:08:16 +03 2025
-# Total number of blocked hosts are: 27966
+# Ad blocking hosts generated Fri 18 Apr 14:08:17 +03 2025
+# Total number of blocked hosts are: 27964
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1248,7 +1248,6 @@
 0.0.0.0	adbsdk.flyermobi.com
 0.0.0.0	adbucks.brandreachsys.com
 0.0.0.0	adbuka.com
-0.0.0.0	adbunker.com
 0.0.0.0	adbutler.com
 0.0.0.0	adbuyer3.lycos.com
 0.0.0.0	adb.wp.pl
@@ -7954,6 +7953,7 @@
 0.0.0.0	click.justwatch.com
 0.0.0.0	click.jve.net
 0.0.0.0	click.khingtracking.com
+0.0.0.0	click.kmindex.ru
 0.0.0.0	click.liftoff.io
 0.0.0.0	click.maaxmarket.com
 0.0.0.0	click.mail.hotels.com
@@ -8846,6 +8846,7 @@
 0.0.0.0	counter.yakcash.com
 0.0.0.0	counter.yesky.com
 0.0.0.0	count.freett.com
+0.0.0.0	counting.kmindex.ru
 0.0.0.0	count.ly
 0.0.0.0	count.paycounter.com
 0.0.0.0	count.pcpop.com
@@ -11528,7 +11529,6 @@
 0.0.0.0	gagy.fr
 0.0.0.0	gahu.hit.gemius.pl
 0.0.0.0	gaiaherbs.fr
-0.0.0.0	galaxien.com
 0.0.0.0	gallys.nastydollars.com
 0.0.0.0	gallysorig.nastydollars.com
 0.0.0.0	gam.adnxs.com
@@ -14177,7 +14177,6 @@
 0.0.0.0	ktrackdata.com
 0.0.0.0	ktu.sv2.biz
 0.0.0.0	ktva.112.2o7.net
-0.0.0.0	kubient.com
 0.0.0.0	kuder.fr
 0.0.0.0	kuhdi.com
 0.0.0.0	kvinit-prod.api.kochava.com
@@ -15250,7 +15249,6 @@
 0.0.0.0	maxbounty.com
 0.0.0.0	max.i12.de
 0.0.0.0	maxim.122.2o7.net
-0.0.0.0	maximiser.net
 0.0.0.0	max-l.mediav.com
 0.0.0.0	maxmusics.com
 0.0.0.0	maxonclick.com
