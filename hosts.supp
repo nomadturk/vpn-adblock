@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 25 Apr 14:08:16 +03 2025
-# Total number of blocked hosts are: 27963
+# Ad blocking hosts generated Fri 25 Apr 15:08:16 +03 2025
+# Total number of blocked hosts are: 27961
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4425,7 +4425,6 @@
 0.0.0.0	analytics-server.gimbal.com
 0.0.0.0	analytics.services.kirra.nl
 0.0.0.0	analytics.shareaholic.com
-0.0.0.0	analytics.shorte.st
 0.0.0.0	analytics.sitewit.com
 0.0.0.0	analytics.slashdotmedia.com
 0.0.0.0	analytics.sleeknote.com
@@ -7604,6 +7603,7 @@
 0.0.0.0	c.eblastengine.com
 0.0.0.0	cebue.magmafurnace.top
 0.0.0.0	cecash.com
+0.0.0.0	ceciliavenus.com
 0.0.0.0	c.ecliks.com
 0.0.0.0	cedato.com
 0.0.0.0	ced.sascdn.com
@@ -8429,7 +8429,6 @@
 0.0.0.0	compass-events.deliverimp.com
 0.0.0.0	compass-v2.deliverimp.com
 0.0.0.0	compe-nickel.fr
-0.0.0.0	compiledoctor.com
 0.0.0.0	complexcom.skimlinks.com
 0.0.0.0	complex.us.intellitxt.com
 0.0.0.0	compnet.us.intellitxt.com
@@ -9347,7 +9346,6 @@
 0.0.0.0	datplus.springserve.com
 0.0.0.0	d.audienceiq.com
 0.0.0.0	dau.fyber.com
-0.0.0.0	daughterstone.com
 0.0.0.0	da.us.criteo.com
 0.0.0.0	da.us.criteo.net
 0.0.0.0	davidhuynh.fr
@@ -11529,6 +11527,7 @@
 0.0.0.0	gagy.fr
 0.0.0.0	gahu.hit.gemius.pl
 0.0.0.0	gaiaherbs.fr
+0.0.0.0	galaxien.com
 0.0.0.0	gallys.nastydollars.com
 0.0.0.0	gallysorig.nastydollars.com
 0.0.0.0	gam.adnxs.com
@@ -13639,7 +13638,6 @@
 0.0.0.0	itmedia.122.2o7.net
 0.0.0.0	itm.ivitrack.com
 0.0.0.0	itnuzleafan.com
-0.0.0.0	itop.cz
 0.0.0.0	i.total-media.net
 0.0.0.0	itpro.uk.intellitxt.com
 0.0.0.0	itrackerpro.com
@@ -15249,6 +15247,7 @@
 0.0.0.0	maxbounty.com
 0.0.0.0	max.i12.de
 0.0.0.0	maxim.122.2o7.net
+0.0.0.0	maximiser.net
 0.0.0.0	max-l.mediav.com
 0.0.0.0	maxmusics.com
 0.0.0.0	maxonclick.com
@@ -25244,7 +25243,6 @@
 0.0.0.0	whitelabel.media.net
 0.0.0.0	white.sexer.com
 0.0.0.0	whoateallthepies.uk.intellitxt.com
-0.0.0.0	whoisonline.net
 0.0.0.0	who.nie.easebar.com
 0.0.0.0	whos.amung.us
 0.0.0.0	wi.5.p2l.info
