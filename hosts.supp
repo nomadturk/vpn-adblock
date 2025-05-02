@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 2 May 14:08:17 +03 2025
-# Total number of blocked hosts are: 27963
+# Ad blocking hosts generated Fri 2 May 15:08:17 +03 2025
+# Total number of blocked hosts are: 27958
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -782,7 +782,6 @@
 0.0.0.0	abroad-ad.kingsoft-office-service.com
 0.0.0.0	abrtp1-cdn.marketo.com
 0.0.0.0	abrtp1.marketo.com
-0.0.0.0	abruptroad.com
 0.0.0.0	abrutel.fr
 0.0.0.0	abruzzoinitaly.co.uk
 0.0.0.0	abscbn.spinbox.net
@@ -1414,7 +1413,6 @@
 0.0.0.0	ad.floq.jp
 0.0.0.0	ad-flow.com
 0.0.0.0	ad.flux.com
-0.0.0.0	adf.ly
 0.0.0.0	adfoc.us
 0.0.0.0	adforce.adtech.fr
 0.0.0.0	adforce.adtech.us
@@ -5777,7 +5775,6 @@
 0.0.0.0	banner.linux.se
 0.0.0.0	bannermall.com
 0.0.0.0	bannermanager.bnr.bg
-0.0.0.0	bannermarkt.nl
 0.0.0.0	banner.media-system.de
 0.0.0.0	banner.missingkids.com
 0.0.0.0	banner.monacogoldcasino.com
@@ -6534,7 +6531,6 @@
 0.0.0.0	br.meetlocals.com
 0.0.0.0	br.naked.com
 0.0.0.0	brnys.netmng.com
-0.0.0.0	broadboundary.com
 0.0.0.0	broadcastbed.com
 0.0.0.0	broadcaster.streamate.com
 0.0.0.0	broadcast.piximedia.fr
@@ -10806,7 +10802,6 @@
 0.0.0.0	exchange.xbiz.com
 0.0.0.0	exch.quantserve.com
 0.0.0.0	excite.us.intellitxt.com
-0.0.0.0	exclusivebrass.com
 0.0.0.0	exclusivegiftcards.com
 0.0.0.0	exc.mob.com
 0.0.0.0	execulink.112.2o7.net
@@ -11136,7 +11131,6 @@
 0.0.0.0	fin.adbureau.net
 0.0.0.0	finance-offer.com
 0.0.0.0	financialtimesdfp415669142494.s.moatpixel.com
-0.0.0.0	findcommerce.com
 0.0.0.0	finder.cox.net
 0.0.0.0	findfavour.com
 0.0.0.0	findgoodfood.co
@@ -13639,6 +13633,7 @@
 0.0.0.0	itmedia.122.2o7.net
 0.0.0.0	itm.ivitrack.com
 0.0.0.0	itnuzleafan.com
+0.0.0.0	itop.cz
 0.0.0.0	i.total-media.net
 0.0.0.0	itpro.uk.intellitxt.com
 0.0.0.0	itrackerpro.com
@@ -19412,7 +19407,6 @@
 0.0.0.0	redirectload.com
 0.0.0.0	redirect-net.com
 0.0.0.0	redirectnet.net
-0.0.0.0	re-direct.pl
 0.0.0.0	redirect-protocol.com
 0.0.0.0	redirectprotocol.net
 0.0.0.0	re.directrev.com
@@ -25245,6 +25239,7 @@
 0.0.0.0	whitelabel.media.net
 0.0.0.0	white.sexer.com
 0.0.0.0	whoateallthepies.uk.intellitxt.com
+0.0.0.0	whoisonline.net
 0.0.0.0	who.nie.easebar.com
 0.0.0.0	whos.amung.us
 0.0.0.0	wi.5.p2l.info
