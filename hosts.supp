@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 2 May 18:08:16 +03 2025
-# Total number of blocked hosts are: 27958
+# Ad blocking hosts generated Fri 2 May 19:08:17 +03 2025
+# Total number of blocked hosts are: 27959
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -13445,6 +13445,7 @@
 0.0.0.0	integration-assets.sharethrough.com
 0.0.0.0	integration.richrelevance.com
 0.0.0.0	intela.com
+0.0.0.0	intelcomasfcmscta.com
 0.0.0.0	intelcorpchan.112.2o7.net
 0.0.0.0	intelcorpcim.112.2o7.net
 0.0.0.0	intelcorperror.112.2o7.net
