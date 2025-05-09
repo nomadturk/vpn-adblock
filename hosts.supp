@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 9 May 14:08:16 +03 2025
+# Ad blocking hosts generated Fri 9 May 15:08:16 +03 2025
 # Total number of blocked hosts are: 27960
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -202,6 +202,7 @@
 0.0.0.0	24log.com
 0.0.0.0	24m.nuggad.net
 0.0.0.0	24ora.eu
+0.0.0.0	24pm-affiliation.com
 0.0.0.0	24ratownik.hit.gemius.pl
 0.0.0.0	24trk.com
 0.0.0.0	24wrestling.us.intellitxt.com
@@ -15244,7 +15245,6 @@
 0.0.0.0	maxbounty.com
 0.0.0.0	max.i12.de
 0.0.0.0	maxim.122.2o7.net
-0.0.0.0	maximiser.net
 0.0.0.0	max-l.mediav.com
 0.0.0.0	maxmusics.com
 0.0.0.0	maxonclick.com
@@ -23791,7 +23791,6 @@
 0.0.0.0	trk.kissmetrics.com
 0.0.0.0	trk.klclick1.com
 0.0.0.0	trkmydomain.com
-0.0.0.0	trknths.com
 0.0.0.0	trkn.us
 0.0.0.0	trkoptimizer.com
 0.0.0.0	trk.pinterest.com
@@ -24513,6 +24512,7 @@
 0.0.0.0	venetian.evyy.net
 0.0.0.0	venetrigni.com
 0.0.0.0	vengefulgrass.com
+0.0.0.0	ventivmedia.com
 0.0.0.0	venturead.com
 0.0.0.0	vericlick.com
 0.0.0.0	verification.jiguang.cn
