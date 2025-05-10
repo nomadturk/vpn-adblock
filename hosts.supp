@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 10 May 19:08:15 +03 2025
-# Total number of blocked hosts are: 27960
+# Ad blocking hosts generated Sat 10 May 20:08:17 +03 2025
+# Total number of blocked hosts are: 27961
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -7906,6 +7906,7 @@
 0.0.0.0	clickbrokers.com
 0.0.0.0	click.cartsguru.io
 0.0.0.0	click.cashengines.com
+0.0.0.0	click.ccg.nintendo.com
 0.0.0.0	clickcdn.shareaholic.com
 0.0.0.0	clickcease.com
 0.0.0.0	click.cheapstuff.com
