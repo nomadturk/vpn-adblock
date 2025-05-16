@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 16 May 13:08:16 +03 2025
-# Total number of blocked hosts are: 27961
+# Ad blocking hosts generated Fri 16 May 14:08:15 +03 2025
+# Total number of blocked hosts are: 27962
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1414,6 +1414,7 @@
 0.0.0.0	ad.floq.jp
 0.0.0.0	ad-flow.com
 0.0.0.0	ad.flux.com
+0.0.0.0	adf.ly
 0.0.0.0	adfoc.us
 0.0.0.0	adforce.adtech.fr
 0.0.0.0	adforce.adtech.us
@@ -11133,6 +11134,7 @@
 0.0.0.0	fin.adbureau.net
 0.0.0.0	finance-offer.com
 0.0.0.0	financialtimesdfp415669142494.s.moatpixel.com
+0.0.0.0	findcommerce.com
 0.0.0.0	finder.cox.net
 0.0.0.0	findfavour.com
 0.0.0.0	findgoodfood.co
@@ -11523,7 +11525,6 @@
 0.0.0.0	gagy.fr
 0.0.0.0	gahu.hit.gemius.pl
 0.0.0.0	gaiaherbs.fr
-0.0.0.0	galaxien.com
 0.0.0.0	gallys.nastydollars.com
 0.0.0.0	gallysorig.nastydollars.com
 0.0.0.0	gam.adnxs.com
@@ -12389,6 +12390,7 @@
 0.0.0.0	heavy-flood.com
 0.0.0.0	hebdotop.com
 0.0.0.0	hefever.fr
+0.0.0.0	heimi-lwx.com
 0.0.0.0	helios.fvn.no
 0.0.0.0	helium.us.intellitxt.com
 0.0.0.0	hellobar.com
@@ -20382,7 +20384,6 @@
 0.0.0.0	sdk.e.qq.com
 0.0.0.0	sdk-events.inner-active.mobi
 0.0.0.0	sdk.fiksu.com
-0.0.0.0	sdkfjxjertertry.com
 0.0.0.0	sdk.follow-apps.com
 0.0.0.0	sdk.fra-01.braze.eu
 0.0.0.0	sdk.guard.mob.com
@@ -21359,7 +21360,6 @@
 0.0.0.0	speakplanet.fr
 0.0.0.0	special-alerts.com
 0.0.0.0	specialdeals.g5e.com
-0.0.0.0	specially4u.net
 0.0.0.0	specialoffers.aol.com
 0.0.0.0	specificmedia.com
 0.0.0.0	specificmedia.co.uk
@@ -24527,6 +24527,7 @@
 0.0.0.0	vermontteddybear.112.2o7.net
 0.0.0.0	versbaudet.fr
 0.0.0.0	vertamedia.com
+0.0.0.0	verticalmass.com
 0.0.0.0	vervemobile.com
 0.0.0.0	vervewireless.com
 0.0.0.0	vet-us-east-1.track.smaato.net
