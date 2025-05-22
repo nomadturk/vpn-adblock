@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 22 May 19:08:17 +03 2025
-# Total number of blocked hosts are: 27961
+# Ad blocking hosts generated Thu 22 May 20:08:17 +03 2025
+# Total number of blocked hosts are: 27963
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2888,6 +2888,7 @@
 0.0.0.0	ads.imeem.com
 0.0.0.0	ad.simgames.net
 0.0.0.0	ads.img.globo.com
+0.0.0.0	ads-img.mozilla.org
 0.0.0.0	ads.imguol.com
 0.0.0.0	ads.imgur.com
 0.0.0.0	adsim.sabah.com.tr
@@ -3207,6 +3208,7 @@
 0.0.0.0	ads.printscr.com
 0.0.0.0	ads.prisacom.com
 0.0.0.0	ads-privacy-api.prd.mz.internal.unity3d.com
+0.0.0.0	ads.prod.webservices.mozgcp.net
 0.0.0.0	ads.profitsdeluxe.com
 0.0.0.0	ads.profootballtalk.com
 0.0.0.0	ads.program3.com
