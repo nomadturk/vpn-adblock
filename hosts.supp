@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 12 Jun 01:08:17 +03 2025
-# Total number of blocked hosts are: 27955
+# Ad blocking hosts generated Thu 12 Jun 02:08:17 +03 2025
+# Total number of blocked hosts are: 27956
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3754,6 +3754,7 @@
 0.0.0.0	advertica-cdn.com
 0.0.0.0	adverticum.com
 0.0.0.0	adverticum.net
+0.0.0.0	advertipros.com
 0.0.0.0	advertise.bingads.microsoft.com
 0.0.0.0	advertise.com
 0.0.0.0	advertiseireland.com
