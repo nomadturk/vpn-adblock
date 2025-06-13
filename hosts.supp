@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 13 Jun 17:08:18 +03 2025
-# Total number of blocked hosts are: 27955
+# Ad blocking hosts generated Fri 13 Jun 18:08:16 +03 2025
+# Total number of blocked hosts are: 27956
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -7928,6 +7928,7 @@
 0.0.0.0	click.emails.argos.co.uk
 0.0.0.0	click.email.sonos.com
 0.0.0.0	click.email.strawberry.no
+0.0.0.0	click.emails.tuclothing.sainsburys.co.uk
 0.0.0.0	click.em.blizzard.com
 0.0.0.0	click.e.progressive.com
 0.0.0.0	click.e.zoom.us
