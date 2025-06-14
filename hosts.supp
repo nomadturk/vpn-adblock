@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 14 Jun 20:08:16 +03 2025
-# Total number of blocked hosts are: 27956
+# Ad blocking hosts generated Sat 14 Jun 21:08:16 +03 2025
+# Total number of blocked hosts are: 27957
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -23430,6 +23430,7 @@
 0.0.0.0	tracking.retargeting.biz
 0.0.0.0	tracking.revimedia.com
 0.0.0.0	tracking.rus.miui.com
+0.0.0.0	tracking.scientific-meets.com
 0.0.0.0	tracking.searchmarketing.com
 0.0.0.0	tracking.sembox.it
 0.0.0.0	tracking-server-prod-1.zenmxapps.com
