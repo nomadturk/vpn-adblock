@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 26 Jun 16:08:16 +03 2025
-# Total number of blocked hosts are: 27948
+# Ad blocking hosts generated Thu 26 Jun 17:08:16 +03 2025
+# Total number of blocked hosts are: 27949
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -10445,6 +10445,7 @@
 0.0.0.0	emisja.adsearch.pl
 0.0.0.0	emisja.contentstream.pl
 0.0.0.0	emjcd.com
+0.0.0.0	eml.blackduck.com
 0.0.0.0	emltrk.com
 0.0.0.0	emodoinc.com
 0.0.0.0	emonitoring-paczki.pl
