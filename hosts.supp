@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 1 Jul 00:08:15 +03 2025
-# Total number of blocked hosts are: 27945
+# Ad blocking hosts generated Tue 1 Jul 01:08:17 +03 2025
+# Total number of blocked hosts are: 27949
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -6259,6 +6259,7 @@
 0.0.0.0	bindfast.com
 0.0.0.0	bingads.microsoft.com
 0.0.0.0	bink.uk.intellitxt.com
+0.0.0.0	biomagin.com
 0.0.0.0	biosmagazine.uk.intellitxt.com
 0.0.0.0	bioware.fr
 0.0.0.0	bip.presage.io
@@ -22100,6 +22101,7 @@
 0.0.0.0	straighttangerine.cz.cc
 0.0.0.0	strategies360.fr
 0.0.0.0	strategy.lmobi.net
+0.0.0.0	stratus.campaign-image.com.cn
 0.0.0.0	strawpoii.me
 0.0.0.0	stream1.livefyre.com
 0.0.0.0	streamate.com
@@ -27854,6 +27856,8 @@
 0.0.0.0	zbiornik.com
 0.0.0.0	z.blogads.com
 0.0.0.0	zb.zeroredirect1.com
+0.0.0.0	zc1.campaign-view.com.cn
+0.0.0.0	zc1.maillist-manage.com.cn
 0.0.0.0	zc1.zeroredirect11.com
 0.0.0.0	zc.adswizz.com
 0.0.0.0	z.cdn.adbetnet.com
