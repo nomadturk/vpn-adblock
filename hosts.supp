@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 4 Jul 14:08:17 +03 2025
-# Total number of blocked hosts are: 27949
+# Ad blocking hosts generated Fri 4 Jul 15:08:15 +03 2025
+# Total number of blocked hosts are: 27948
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2254,7 +2254,6 @@
 0.0.0.0	ads.chipcenter.com
 0.0.0.0	adscholar.com
 0.0.0.0	ads.chumcity.com
-0.0.0.0	adscience.nl
 0.0.0.0	ads.cinemaden.com
 0.0.0.0	ads.cineville.nl
 0.0.0.0	ads.citymagazine.si
@@ -16332,6 +16331,7 @@
 0.0.0.0	multi.xnxx.com
 0.0.0.0	munchkin.marketo.net
 0.0.0.0	mundanenail.com
+0.0.0.0	mundanepollution.com
 0.0.0.0	mundilite.fr
 0.0.0.0	murcia-ban.es
 0.0.0.0	murdoog.com
@@ -23548,7 +23548,6 @@
 0.0.0.0	track.omg2.com
 0.0.0.0	track.omgpl.com
 0.0.0.0	track.omguk.com
-0.0.0.0	track-on.pl
 0.0.0.0	track.oxcash.com
 0.0.0.0	track.pplnk.com
 0.0.0.0	track.pricespider.com
