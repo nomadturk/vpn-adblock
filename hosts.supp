@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 11 Jul 18:08:13 +03 2025
-# Total number of blocked hosts are: 18057
+# Ad blocking hosts generated Fri 11 Jul 19:08:16 +03 2025
+# Total number of blocked hosts are: 18058
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	007.free-counter.co.uk
@@ -5677,6 +5677,7 @@
 0.0.0.0	click.trafikkfondet.no
 0.0.0.0	clicktraq.mtree.com
 0.0.0.0	click.uamtrk.com
+0.0.0.0	click.uber.com
 0.0.0.0	click.udimg.com
 0.0.0.0	click.union.ucweb.com
 0.0.0.0	click.v.visionlab.es
