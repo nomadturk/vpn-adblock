@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 11 Jul 13:08:15 +03 2025
-# Total number of blocked hosts are: 18067
+# Ad blocking hosts generated Fri 11 Jul 14:08:14 +03 2025
+# Total number of blocked hosts are: 18057
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	007.free-counter.co.uk
@@ -362,7 +362,6 @@
 0.0.0.0	7bpeople.com
 0.0.0.0	7cnq.net
 0.0.0.0	7f077.v.fwmrm.net
-0.0.0.0	7search.com
 0.0.0.0	803.stats.misstrends.com
 0.0.0.0	815.hittail.com
 0.0.0.0	8168974.fls.doubleclick.net
@@ -2406,7 +2405,6 @@
 0.0.0.0	ads.webmasterpoint.org
 0.0.0.0	ads.websearch.com
 0.0.0.0	ads.webshots.com
-0.0.0.0	ads.websiteservices.com
 0.0.0.0	ads.webtools24.net
 0.0.0.0	ads.wellsmedia.com
 0.0.0.0	ads.weownthetraffic.com
@@ -2459,7 +2457,6 @@
 0.0.0.0	adtago.s3.amazonaws.com
 0.0.0.0	adtag.primetime.adobe.com
 0.0.0.0	adtag.sympatico.ca
-0.0.0.0	ad.tapthislink.com
 0.0.0.0	adtarget.com.tr
 0.0.0.0	adtech.com
 0.0.0.0	adtech.de
@@ -4286,7 +4283,6 @@
 0.0.0.0	bbelements.com
 0.0.0.0	bbg.d1.sc.omtrdc.net
 0.0.0.0	bbnaut.ibillboard.com
-0.0.0.0	bbn.img.com.ua
 0.0.0.0	bb.o2.eyereturn.com
 0.0.0.0	bbtv.blinkx.com
 0.0.0.0	bc.ad.daum.net
@@ -5630,7 +5626,6 @@
 0.0.0.0	click.i.southwesternrailway.com
 0.0.0.0	click.justwatch.com
 0.0.0.0	click.khingtracking.com
-0.0.0.0	click.kmindex.ru
 0.0.0.0	click.liftoff.io
 0.0.0.0	click.mail.hotels.com
 0.0.0.0	click.mailing.ticketmaster.com
@@ -6244,7 +6239,6 @@
 0.0.0.0	counter.yakcash.com
 0.0.0.0	counter.yesky.com
 0.0.0.0	count.freett.com
-0.0.0.0	counting.kmindex.ru
 0.0.0.0	count.ly
 0.0.0.0	count.pcpop.com
 0.0.0.0	count.personyze.com
@@ -7175,7 +7169,6 @@
 0.0.0.0	eligibility.wootric.com
 0.0.0.0	elitedollars.com
 0.0.0.0	elite.sextracker.com
-0.0.0.0	elitetoplist.com
 0.0.0.0	eloqua.122.2o7.net
 0.0.0.0	elv3-tslogging.touchcommerce.com
 0.0.0.0	em1.yoursantander.co.uk
@@ -10013,8 +10006,6 @@
 0.0.0.0	lonrtp1-cdn.marketo.com
 0.0.0.0	lonrtp1.marketo.com
 0.0.0.0	look.djfiln.com
-0.0.0.0	look.ichlnk.com
-0.0.0.0	look.opskln.com
 0.0.0.0	look.ufinkln.com
 0.0.0.0	lookup.qubit.com
 0.0.0.0	loopme.com
@@ -16904,7 +16895,6 @@
 0.0.0.0	world.rw.yieldmo.com
 0.0.0.0	worldtravelguide.uk.intellitxt.com
 0.0.0.0	worldwide-cash.net
-0.0.0.0	worldwidedigitalads.com
 0.0.0.0	worriednumber.com
 0.0.0.0	wowanalytics.co.uk
 0.0.0.0	wowinterface.us.intellitxt.com
