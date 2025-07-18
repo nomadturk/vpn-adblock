@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 18 Jul 15:08:13 +03 2025
-# Total number of blocked hosts are: 27946
+# Ad blocking hosts generated Fri 18 Jul 16:08:15 +03 2025
+# Total number of blocked hosts are: 27953
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3191,6 +3191,7 @@
 0.0.0.0	adsponse.de
 0.0.0.0	ad-sponsor.com
 0.0.0.0	ads.popfolkstars.com
+0.0.0.0	ads-portal-cdn.vidaatv.net
 0.0.0.0	ads.powweb.com
 0.0.0.0	ads.po-zdravidnes.com
 0.0.0.0	ads.prd.ie.internal.unity3d.com
@@ -6029,6 +6030,7 @@
 0.0.0.0	beacon.livefyre.com
 0.0.0.0	beacon.lynx.cognitivlabs.com
 0.0.0.0	beacon.my.salesforce.com
+0.0.0.0	beacon.netflix.com
 0.0.0.0	beacon-nf.rubiconproject.com
 0.0.0.0	beacon-nf.rubiconproject.net.akadns.net
 0.0.0.0	beacon.qq.com
@@ -9096,6 +9098,7 @@
 0.0.0.0	customad.cnn.com
 0.0.0.0	customads.co
 0.0.0.0	customer.cludo.com
+0.0.0.0	customerevents.netflix.com
 0.0.0.0	customer.iad-03.braze.com
 0.0.0.0	customers.kameleoon.com
 0.0.0.0	customtraffic.impactradius.com
@@ -19773,6 +19776,7 @@
 0.0.0.0	rp.liadm.com
 0.0.0.0	rpm.newrelisc.com
 0.0.0.0	r.popin.cc
+0.0.0.0	rpt-ads.vidaahub.com
 0.0.0.0	rpt.anchorfree.net
 0.0.0.0	rqtrk.eu
 0.0.0.0	rr1.outster.com
@@ -19786,6 +19790,7 @@
 0.0.0.0	rs2.adledge.com
 0.0.0.0	rs2.qq.com
 0.0.0.0	rs6.net
+0.0.0.0	rsc-ads.vidaahub.com
 0.0.0.0	rscdn.cxense.com
 0.0.0.0	r.scoota.co
 0.0.0.0	rsc.scmspain.com
@@ -22756,6 +22761,7 @@
 0.0.0.0	tennis.oewabox.at
 0.0.0.0	tenuate.1.p2l.info
 0.0.0.0	te.nytdigital.com
+0.0.0.0	ter-jrnl-oc.vidaahub.com
 0.0.0.0	terminusdisplay296618589072.s.moatpixel.com
 0.0.0.0	terriblethumb.com
 0.0.0.0	terricole.fr
@@ -24127,6 +24133,7 @@
 0.0.0.0	unme-asso.fr
 0.0.0.0	unodieuxconnard.fr
 0.0.0.0	unonoticias.net
+0.0.0.0	unruly.co
 0.0.0.0	un-ruly.fr
 0.0.0.0	unrulymedia.com
 0.0.0.0	unser-en.de
