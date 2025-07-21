@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 21 Jul 17:08:15 +03 2025
-# Total number of blocked hosts are: 27953
+# Ad blocking hosts generated Mon 21 Jul 18:08:13 +03 2025
+# Total number of blocked hosts are: 27955
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -10850,6 +10850,7 @@
 0.0.0.0	exponential54894892.s.moatpixel.com
 0.0.0.0	exponential.com
 0.0.0.0	exponentialjsint8023749877114.s.moatpixel.com
+0.0.0.0	exportdialog.com
 0.0.0.0	express-submit.de
 0.0.0.0	express.uk.intellitxt.com
 0.0.0.0	extended.dmtracker.com
@@ -14479,6 +14480,7 @@
 0.0.0.0	liberaztion.fr
 0.0.0.0	liberland.fr
 0.0.0.0	liberty.gedads.com
+0.0.0.0	libraryfacts.com
 0.0.0.0	libs.coremetrics.com
 0.0.0.0	libs.lavanetwork.net
 0.0.0.0	libs.outbrain.com
