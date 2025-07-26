@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 26 Jul 22:08:14 +03 2025
-# Total number of blocked hosts are: 27956
+# Ad blocking hosts generated Sat 26 Jul 23:08:14 +03 2025
+# Total number of blocked hosts are: 27958
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -5306,6 +5306,7 @@
 0.0.0.0	askads.ask.com
 0.0.0.0	askbot.com
 0.0.0.0	ask-coder.com
+0.0.0.0	askdriver.com
 0.0.0.0	ask-gps.ru
 0.0.0.0	askjolene.ero-advertising.com
 0.0.0.0	ask.log.kuyun.com
@@ -6211,6 +6212,7 @@
 0.0.0.0	bid.g.doubleclick.net
 0.0.0.0	bidgear.com
 0.0.0.0	bid.openx.net
+0.0.0.0	bidpapers.com
 0.0.0.0	bid.pubmatic.com
 0.0.0.0	bidr.io
 0.0.0.0	bids.concert.io
