@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 29 Jul 16:08:14 +03 2025
+# Ad blocking hosts generated Tue 29 Jul 17:08:13 +03 2025
 # Total number of blocked hosts are: 27958
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -3046,6 +3046,7 @@
 0.0.0.0	ads.morningstar.com
 0.0.0.0	ads.mouseplanet.com
 0.0.0.0	ads.movieweb.com
+0.0.0.0	ads.mozilla.org
 0.0.0.0	ads.mp3searchy.com
 0.0.0.0	ads.mp.mydas.mobi
 0.0.0.0	ads.mrgreen.com
@@ -7853,7 +7854,6 @@
 0.0.0.0	claimcostcobenefits.com
 0.0.0.0	claimfreerewards.com
 0.0.0.0	clair.iad-03.braze.com
-0.0.0.0	claria.com
 0.0.0.0	classicjack.com
 0.0.0.0	classicvacations.112.2o7.net
 0.0.0.0	classifiedscanada.112.2o7.net
