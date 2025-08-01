@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 1 Aug 13:08:14 +03 2025
-# Total number of blocked hosts are: 27959
+# Ad blocking hosts generated Fri 1 Aug 14:08:15 +03 2025
+# Total number of blocked hosts are: 27955
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -102,7 +102,6 @@
 0.0.0.0	17de4c16.akstat.io
 0.0.0.0	17de4c17.akstat.io
 0.0.0.0	1800.stats.misstrends.com
-0.0.0.0	180hits.de
 0.0.0.0	180searchassistant.com
 0.0.0.0	1867.stats.misstrends.com
 0.0.0.0	189358.engine.mobileapptracking.com
@@ -1894,7 +1893,6 @@
 0.0.0.0	ads1.performancingads.com
 0.0.0.0	ads1.realcities.com
 0.0.0.0	ads1.revenue.net
-0.0.0.0	ads1.rne.com
 0.0.0.0	ads1.speedbit.com
 0.0.0.0	ads1.tripod.com
 0.0.0.0	ads1.updated.com
@@ -1940,7 +1938,6 @@
 0.0.0.0	ads2.pittsburghlive.com
 0.0.0.0	ads2.realcities.com
 0.0.0.0	ads2.revenue.net
-0.0.0.0	ads2.rne.com
 0.0.0.0	ads2.servebom.com
 0.0.0.0	ads2.speedbit.com
 0.0.0.0	ads2srv.com
@@ -9255,7 +9252,6 @@
 0.0.0.0	damdoor.com
 0.0.0.0	damnimcute.us.intellitxt.com
 0.0.0.0	danasdirt.us.intellitxt.com
-0.0.0.0	dancemistake.com
 0.0.0.0	da.newstogram.com
 0.0.0.0	danger-phentermine.allforyourlife.com
 0.0.0.0	daniweb.us.intellitxt.com
@@ -9443,7 +9439,6 @@
 0.0.0.0	de-config.sensic.net
 0.0.0.0	decor8.ie
 0.0.0.0	decouvre.la
-0.0.0.0	decoycreation.com
 0.0.0.0	de.demdex.net
 0.0.0.0	ded.gostats.com
 0.0.0.0	deechtebol.com
@@ -24525,6 +24520,7 @@
 0.0.0.0	vermontteddybear.112.2o7.net
 0.0.0.0	versbaudet.fr
 0.0.0.0	vertamedia.com
+0.0.0.0	verticalmass.com
 0.0.0.0	vervemobile.com
 0.0.0.0	vervewireless.com
 0.0.0.0	vet-us-east-1.track.smaato.net
