@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 5 Aug 19:08:15 +03 2025
+# Ad blocking hosts generated Tue 5 Aug 20:08:13 +03 2025
 # Total number of blocked hosts are: 27957
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -11025,7 +11025,6 @@
 0.0.0.0	fe1-au.imrworldwide.com
 0.0.0.0	fe2-au.imrworldwide.com
 0.0.0.0	fe3-au.imrworldwide.com
-0.0.0.0	feathr.co
 0.0.0.0	featured.perfectionholic.com
 0.0.0.0	feature-publish.net
 0.0.0.0	fe-au.imrworldwide.com
@@ -18467,6 +18466,7 @@
 0.0.0.0	politiquemania.fr
 0.0.0.0	pollet-rauen.de
 0.0.0.0	pollserver.interpolls.com
+0.0.0.0	polo.feathr.co
 0.0.0.0	polyad.net
 0.0.0.0	pomp-buerotechnik.de
 0.0.0.0	pool.adhsm.adhese.com
