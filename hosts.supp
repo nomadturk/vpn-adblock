@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 8 Aug 13:08:13 +03 2025
-# Total number of blocked hosts are: 27960
+# Ad blocking hosts generated Fri 8 Aug 14:08:16 +03 2025
+# Total number of blocked hosts are: 27959
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2251,6 +2251,7 @@
 0.0.0.0	ads.chipcenter.com
 0.0.0.0	adscholar.com
 0.0.0.0	ads.chumcity.com
+0.0.0.0	adscience.nl
 0.0.0.0	ads.cinemaden.com
 0.0.0.0	ads.cineville.nl
 0.0.0.0	ads.citymagazine.si
@@ -8260,7 +8261,6 @@
 0.0.0.0	cntj.zj.dcys.ijinshan.com
 0.0.0.0	cntmc.com
 0.0.0.0	cnt.my
-0.0.0.0	cnt.spbland.ru
 0.0.0.0	cnt.statistic.date
 0.0.0.0	cnt.sup.com
 0.0.0.0	cnt.trafficstars.com
@@ -14604,7 +14604,6 @@
 0.0.0.0	liveintent.com
 0.0.0.0	livejournal.tags.crwdcntrl.net
 0.0.0.0	livelylaugh.com
-0.0.0.0	livelyreward.com
 0.0.0.0	live.monitus.net
 0.0.0.0	live-msr.com
 0.0.0.0	livenation.122.2o7.net
