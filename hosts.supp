@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 11 Aug 18:08:14 +03 2025
+# Ad blocking hosts generated Mon 11 Aug 19:08:15 +03 2025
 # Total number of blocked hosts are: 27960
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -4880,6 +4880,7 @@
 0.0.0.0	api.sponsorpay.com
 0.0.0.0	api.stathat.com
 0.0.0.0	api.survicate.com
+0.0.0.0	api.swetrix.com
 0.0.0.0	api.swrve.com
 0.0.0.0	api.taboola.com
 0.0.0.0	api.taplytics.com
@@ -22284,7 +22285,6 @@
 0.0.0.0	sweb.ulta.com
 0.0.0.0	sweetsforfree.com
 0.0.0.0	sweet-water.org
-0.0.0.0	swetrix.com
 0.0.0.0	swfhostltd.com
 0.0.0.0	swflightinfo.bond
 0.0.0.0	swiftype.fr
