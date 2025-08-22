@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 22 Aug 14:08:14 +03 2025
-# Total number of blocked hosts are: 27966
+# Ad blocking hosts generated Fri 22 Aug 15:08:14 +03 2025
+# Total number of blocked hosts are: 27963
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2567,7 +2567,6 @@
 0.0.0.0	adserver.kylemedia.com
 0.0.0.0	adserver.lanacion.com.ar
 0.0.0.0	ad-server-lb-294150285.ap-southeast-1.elb.amazonaws.com
-0.0.0.0	adserver.lecool.com
 0.0.0.0	adserver.legacy-network.com
 0.0.0.0	adserver.libero.it
 0.0.0.0	adserver.linktrader.co.uk
@@ -4333,7 +4332,6 @@
 0.0.0.0	analytics.clickdimensions.com
 0.0.0.0	analytics.clickpathmedia.com
 0.0.0.0	analytics.cloudron.io
-0.0.0.0	analytics.cohesionapps.com
 0.0.0.0	analytics.console.aws.a2z.com
 0.0.0.0	analytics.edgekey.net
 0.0.0.0	analytics.emarketer.com
@@ -20078,7 +20076,6 @@
 0.0.0.0	sa.entireweb.com
 0.0.0.0	sa.etp-prod.com
 0.0.0.0	safaribooks.112.2o7.net
-0.0.0.0	safeanalytics.net
 0.0.0.0	safebrowse.com
 0.0.0.0	safe-es.imrworldwide.com
 0.0.0.0	safe.hyperpaysys.com
