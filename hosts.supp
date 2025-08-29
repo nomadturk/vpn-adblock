@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 29 Aug 13:08:14 +03 2025
-# Total number of blocked hosts are: 27963
+# Ad blocking hosts generated Fri 29 Aug 14:08:15 +03 2025
+# Total number of blocked hosts are: 27962
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -6084,6 +6084,7 @@
 0.0.0.0	beemray.com
 0.0.0.0	beeswaxdisplay108801632049.s.moatpixel.com
 0.0.0.0	be-gmtdmp.mookie1.com
+0.0.0.0	begun.ru
 0.0.0.0	behavioralengine.com
 0.0.0.0	bei.nuggad.net
 0.0.0.0	belambre.fr
@@ -14199,7 +14200,6 @@
 0.0.0.0	l3.zedo.com
 0.0.0.0	l4.zedo.com
 0.0.0.0	l5.zedo.com
-0.0.0.0	l6b587txj1.com
 0.0.0.0	l6.zedo.com
 0.0.0.0	l7.zedo.com
 0.0.0.0	l8.zedo.com
@@ -24287,7 +24287,6 @@
 0.0.0.0	users.cuci.nl
 0.0.0.0	users.effectivebrand.com
 0.0.0.0	usersegment.wpdigital.net
-0.0.0.0	user-shield-check.com
 0.0.0.0	users.maxcluster.net
 0.0.0.0	users.quantumgraph.com
 0.0.0.0	user-stats.rbl.ms
