@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 5 Sep 14:08:14 +03 2025
-# Total number of blocked hosts are: 27964
+# Ad blocking hosts generated Fri 5 Sep 15:08:14 +03 2025
+# Total number of blocked hosts are: 27961
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -102,6 +102,7 @@
 0.0.0.0	17de4c16.akstat.io
 0.0.0.0	17de4c17.akstat.io
 0.0.0.0	1800.stats.misstrends.com
+0.0.0.0	180hits.de
 0.0.0.0	180searchassistant.com
 0.0.0.0	1867.stats.misstrends.com
 0.0.0.0	189358.engine.mobileapptracking.com
@@ -1824,7 +1825,6 @@
 0.0.0.0	adreadytractions.com
 0.0.0.0	ad.realist.gen.tr
 0.0.0.0	ad.realmcdn.net
-0.0.0.0	adreclaim.com
 0.0.0.0	adrecover.com
 0.0.0.0	adrecreate.com
 0.0.0.0	ad.reklamnative.com
@@ -12423,7 +12423,6 @@
 0.0.0.0	heuither.sbs
 0.0.0.0	heute.oewabox.at
 0.0.0.0	hexagon-analytics.com
-0.0.0.0	hexcan.com
 0.0.0.0	hexusads.fluent.ltd.uk
 0.0.0.0	hexus.uk.intellitxt.com
 0.0.0.0	heyos.com
@@ -14370,7 +14369,6 @@
 0.0.0.0	leader.linkexchange.com
 0.0.0.0	leadinfo.net
 0.0.0.0	leadingedgecash.com
-0.0.0.0	leadplace.fr
 0.0.0.0	lead.program3.com
 0.0.0.0	leadpub.com
 0.0.0.0	leadspace.com
@@ -22988,7 +22986,6 @@
 0.0.0.0	tidaltv.com.akadns.net
 0.0.0.0	tidbitscom.skimlinks.com
 0.0.0.0	tidebuy.com
-0.0.0.0	tidint.pro
 0.0.0.0	ti.domainforlite.com
 0.0.0.0	tie.247-inc.net
 0.0.0.0	tie.iprom.net
