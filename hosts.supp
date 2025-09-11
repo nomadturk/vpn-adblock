@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 11 Sep 14:08:14 +03 2025
-# Total number of blocked hosts are: 27961
+# Ad blocking hosts generated Thu 11 Sep 15:08:14 +03 2025
+# Total number of blocked hosts are: 27963
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -14184,6 +14184,7 @@
 0.0.0.0	kvinit-prod.api.kochava.com
 0.0.0.0	kvision.tv
 0.0.0.0	kvors.com
+0.0.0.0	kvsadman.com
 0.0.0.0	kweiqox.beauty
 0.0.0.0	kwserver.adhispanic.com
 0.0.0.0	ky.5.p2l.info
@@ -22870,6 +22871,7 @@
 0.0.0.0	thechive.fr
 0.0.0.0	thecoffeeilove.com
 0.0.0.0	the-counter.net
+0.0.0.0	thecrazychili.com
 0.0.0.0	thedailystarcom.112.2o7.net
 0.0.0.0	thedatesafe.com
 0.0.0.0	theeldergeek.us.intellitxt.com
