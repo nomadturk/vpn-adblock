@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 12 Sep 14:08:15 +03 2025
-# Total number of blocked hosts are: 27963
+# Ad blocking hosts generated Fri 12 Sep 15:08:13 +03 2025
+# Total number of blocked hosts are: 27964
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3621,7 +3621,6 @@
 0.0.0.0	adtarget.com.tr
 0.0.0.0	adtech.com
 0.0.0.0	adtech.de
-0.0.0.0	adtech-digital.ru
 0.0.0.0	adtechjp.com
 0.0.0.0	ad.technoratimedia.com
 0.0.0.0	adtech.panthercustomer.com
@@ -12423,6 +12422,7 @@
 0.0.0.0	heuither.sbs
 0.0.0.0	heute.oewabox.at
 0.0.0.0	hexagon-analytics.com
+0.0.0.0	hexcan.com
 0.0.0.0	hexusads.fluent.ltd.uk
 0.0.0.0	hexus.uk.intellitxt.com
 0.0.0.0	heyos.com
@@ -14370,6 +14370,7 @@
 0.0.0.0	leader.linkexchange.com
 0.0.0.0	leadinfo.net
 0.0.0.0	leadingedgecash.com
+0.0.0.0	leadplace.fr
 0.0.0.0	lead.program3.com
 0.0.0.0	leadpub.com
 0.0.0.0	leadspace.com
