@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 16 Sep 12:08:14 +03 2025
-# Total number of blocked hosts are: 27972
+# Ad blocking hosts generated Tue 16 Sep 13:08:14 +03 2025
+# Total number of blocked hosts are: 27975
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -9195,6 +9195,7 @@
 0.0.0.0	d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0	d2vig74li2resi.cloudfront.net
 0.0.0.0	d2zah9y47r7bi2.cloudfront.net
+0.0.0.0	d2zd0wa1vpt7j9.cloudfront.net
 0.0.0.0	d2.zedo.com
 0.0.0.0	d3fd89.r.axf8.net
 0.0.0.0	d3.moatads.com
@@ -11330,6 +11331,7 @@
 0.0.0.0	fp3.ads.stickyadstv.com.akadns.net
 0.0.0.0	fpctraffic2.com
 0.0.0.0	fpctraffic.com
+0.0.0.0	f.pie.org
 0.0.0.0	fpjs.io
 0.0.0.0	fp.uclo.net
 0.0.0.0	fqint.comfortykive.xyz
@@ -17816,6 +17818,7 @@
 0.0.0.0	partnerearning.com
 0.0.0.0	partner.googleadservices.com
 0.0.0.0	partner.knorex.com
+0.0.0.0	partnerlinks.io
 0.0.0.0	partner.magna.ru
 0.0.0.0	partner.pelikan.cz
 0.0.0.0	partner.pobieraczek.pl
@@ -23217,6 +23220,7 @@
 0.0.0.0	tpbid.com
 0.0.0.0	tpc.googlesyndication.com
 0.0.0.0	tp-emea.exactag.com
+0.0.0.0	t.pie.org
 0.0.0.0	t.podcast.co
 0.0.0.0	tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com
 0.0.0.0	tps10216.doubleverify.com
@@ -27737,7 +27741,6 @@
 0.0.0.0	yasmin.1.p2l.info
 0.0.0.0	yasmin.3.p2l.info
 0.0.0.0	yasmin.4.p2l.info
-0.0.0.0	yastatic.net
 0.0.0.0	yatrk.xyz
 0.0.0.0	yax-winners-ap-southeast-1-rtb.adroll.com
 0.0.0.0	yax-winners-eu-west-1-rtb.adroll.com
