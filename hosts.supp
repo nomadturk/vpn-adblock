@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 17 Sep 18:08:13 +03 2025
-# Total number of blocked hosts are: 27976
+# Ad blocking hosts generated Wed 17 Sep 19:08:16 +03 2025
+# Total number of blocked hosts are: 27977
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -23130,6 +23130,7 @@
 0.0.0.0	toolbar.baidu.com
 0.0.0.0	toolbarpartner.com
 0.0.0.0	toolbar.soso.com
+0.0.0.0	toolforthought.com
 0.0.0.0	tools2.hitbox.com
 0.0.0.0	tools.3g.qq.com
 0.0.0.0	tools.ad-net.co.uk
