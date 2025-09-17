@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 17 Sep 10:08:14 +03 2025
-# Total number of blocked hosts are: 27975
+# Ad blocking hosts generated Wed 17 Sep 11:08:15 +03 2025
+# Total number of blocked hosts are: 27976
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -27926,6 +27926,7 @@
 0.0.0.0	zeus.developershed.com
 0.0.0.0	zevents.com
 0.0.0.0	z.extreme-dm.com
+0.0.0.0	zeydoo.com
 0.0.0.0	zfm.oewabox.at
 0.0.0.0	zgsdk.zhugeio.com
 0.0.0.0	zhirok.com
