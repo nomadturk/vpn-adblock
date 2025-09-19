@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 19 Sep 13:08:15 +03 2025
-# Total number of blocked hosts are: 27983
+# Ad blocking hosts generated Fri 19 Sep 14:08:14 +03 2025
+# Total number of blocked hosts are: 27981
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2045,7 +2045,6 @@
 0.0.0.0	ads.adroar.com
 0.0.0.0	ads.adsag.com
 0.0.0.0	ads.adsbookie.com
-0.0.0.0	ads.adsbtc.fun
 0.0.0.0	ads.adshareware.net
 0.0.0.0	ads.adsinimages.com
 0.0.0.0	ads.ads.netlog.com
@@ -8902,7 +8901,6 @@
 0.0.0.0	cpxigen865632366955.s.moatpixel.com
 0.0.0.0	cpxinteractive.com
 0.0.0.0	cpx.to
-0.0.0.0	cpx-traffic.com
 0.0.0.0	cqcounter.com
 0.0.0.0	cra-arc-gc-ca.noads.biz
 0.0.0.0	crabbychin.com
