@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 20 Sep 00:08:13 +03 2025
-# Total number of blocked hosts are: 27981
+# Ad blocking hosts generated Sat 20 Sep 01:08:14 +03 2025
+# Total number of blocked hosts are: 27983
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -6412,6 +6412,7 @@
 0.0.0.0	boffoadsapi.com
 0.0.0.0	bo.goadservices.com
 0.0.0.0	boilingbeetle.com
+0.0.0.0	boilingmadsoup.com
 0.0.0.0	bokee.allyes.com
 0.0.0.0	bokotraffic.com
 0.0.0.0	boksy.dir.onet.pl
@@ -23039,6 +23040,7 @@
 0.0.0.0	t.insigit.com
 0.0.0.0	t.invitemedia.com
 0.0.0.0	tinybar.com
+0.0.0.0	tinybluewhale.com
 0.0.0.0	tinytendency.com
 0.0.0.0	tiplanet.fr
 0.0.0.0	tips.oewabox.at
