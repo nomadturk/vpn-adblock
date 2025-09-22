@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 22 Sep 16:08:15 +03 2025
-# Total number of blocked hosts are: 27983
+# Ad blocking hosts generated Mon 22 Sep 17:08:14 +03 2025
+# Total number of blocked hosts are: 27986
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1480,6 +1480,7 @@
 0.0.0.0	ad.hr.doubleclick.net
 0.0.0.0	adhref.pl
 0.0.0.0	ad-hub.dable.io
+0.0.0.0	adhub.media
 0.0.0.0	ad.hu.doubleclick.net
 0.0.0.0	adhunter.media
 0.0.0.0	ad.hyena.cz
@@ -4091,6 +4092,7 @@
 0.0.0.0	aiqua-sdk.c.appier.net
 0.0.0.0	aiqua-user.c.appier.net
 0.0.0.0	airlytics.airlock.twcmobile.weather.com
+0.0.0.0	airplanecoffee.com
 0.0.0.0	airpush.com
 0.0.0.0	aistat.net
 0.0.0.0	a.itpro.co.uk
@@ -24637,6 +24639,7 @@
 0.0.0.0	video-ads.rubiconproject.com
 0.0.0.0	video-ads.rubiconproject.com-v1.edgekey.net
 0.0.0.0	video-ad-stats.googlesyndication.com
+0.0.0.0	videoadstech.org
 0.0.0.0	videoamp.com
 0.0.0.0	video-assets.mathtag.com
 0.0.0.0	video-bazis.com
