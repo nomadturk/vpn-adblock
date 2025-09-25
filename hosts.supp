@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 25 Sep 14:08:14 +03 2025
-# Total number of blocked hosts are: 27986
+# Ad blocking hosts generated Thu 25 Sep 15:08:14 +03 2025
+# Total number of blocked hosts are: 27990
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -828,6 +828,7 @@
 0.0.0.0	acdn.adnxs-simple.com
 0.0.0.0	a.cdn.intentmedia.net
 0.0.0.0	ace.adoftheyear.com
+0.0.0.0	acebunny.com
 0.0.0.0	acemlnb.com
 0.0.0.0	a.centrum.cz
 0.0.0.0	aceshowbiz.us.intellitxt.com
@@ -10161,6 +10162,7 @@
 0.0.0.0	ece5stats1.theglobeandmail.com
 0.0.0.0	ecess1.cdn.continent8.com
 0.0.0.0	ecestats.theglobeandmail.com
+0.0.0.0	echoacloud.com
 0.0.0.0	echo.teasernet.ru
 0.0.0.0	ecircle-ag.com
 0.0.0.0	ecirque.fr
@@ -14119,6 +14121,7 @@
 0.0.0.0	kitaramedia.com
 0.0.0.0	kitchenmagic.fr
 0.0.0.0	kithrup.matchlogic.com
+0.0.0.0	kittycatking.com
 0.0.0.0	kixer.com
 0.0.0.0	klclick1.com
 0.0.0.0	klclick.com
@@ -22208,6 +22211,7 @@
 0.0.0.0	sunny.oewabox.at
 0.0.0.0	sunonesearch.112.2o7.net
 0.0.0.0	sunrise-brink.net
+0.0.0.0	sunsetcampfires.com
 0.0.0.0	sunsetdnsnow.com
 0.0.0.0	suocietegenerale.fr
 0.0.0.0	s.update.3lift.com
