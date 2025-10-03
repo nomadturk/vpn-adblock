@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 3 Oct 13:08:13 +03 2025
-# Total number of blocked hosts are: 27988
+# Ad blocking hosts generated Fri 3 Oct 14:08:14 +03 2025
+# Total number of blocked hosts are: 27983
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1676,7 +1676,6 @@
 0.0.0.0	admitad.com
 0.0.0.0	admixer.co.kr
 0.0.0.0	admixer.net
-0.0.0.0	admix.in
 0.0.0.0	admized.com
 0.0.0.0	admob.com
 0.0.0.0	ad.mobiuspace.net
@@ -11484,7 +11483,6 @@
 0.0.0.0	fusion-iad-dev-clogs-eqbrmmvphc.elasticbeanstalk.com
 0.0.0.0	fusionquest.com
 0.0.0.0	futurepublications.uk.intellitxt.com
-0.0.0.0	futuristicapparatus.com
 0.0.0.0	futuristicfifth.com
 0.0.0.0	futuristicframe.com
 0.0.0.0	fuuze.net
@@ -12402,7 +12400,6 @@
 0.0.0.0	heavy-flood.com
 0.0.0.0	hebdotop.com
 0.0.0.0	hefever.fr
-0.0.0.0	heimi-lwx.com
 0.0.0.0	helios.fvn.no
 0.0.0.0	helium.us.intellitxt.com
 0.0.0.0	hellobar.com
@@ -13208,7 +13205,6 @@
 0.0.0.0	im.jiguang.cn
 0.0.0.0	immanalytics.com
 0.0.0.0	immediatemedia.amp.permutive.com
-0.0.0.0	immensehoney.com
 0.0.0.0	immobili.oewabox.at
 0.0.0.0	immosuch.oewabox.at
 0.0.0.0	imnotobsessed.us.intellitxt.com
@@ -14247,7 +14243,6 @@
 0.0.0.0	laiberation.fr
 0.0.0.0	laineygossip.us.intellitxt.com
 0.0.0.0	lajna.fr
-0.0.0.0	lakequincy.com
 0.0.0.0	lakeshore.d1.sc.omtrdc.net
 0.0.0.0	laleh.itrc.ac.ir
 0.0.0.0	laltraimmagine.ss.it
@@ -14345,6 +14340,7 @@
 0.0.0.0	lbdata.tj.ijinshan.com
 0.0.0.0	l.betrad.com
 0.0.0.0	lb.fruitflan.com
+0.0.0.0	lbn.ru
 0.0.0.0	lbouyguestelecom.fr
 0.0.0.0	lbrtry.com
 0.0.0.0	lb.web-stat.com
@@ -24303,7 +24299,6 @@
 0.0.0.0	userflows.ingest.crittercism.com
 0.0.0.0	usermatch.krxd.net
 0.0.0.0	usermatch.targeting.unrulymedia.com
-0.0.0.0	userreplay.com
 0.0.0.0	userreplay.net
 0.0.0.0	userreporting.cloud.unity3d.com
 0.0.0.0	users16.jabry.com
