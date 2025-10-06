@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 7 Oct 00:08:14 +03 2025
-# Total number of blocked hosts are: 27983
+# Ad blocking hosts generated Tue 7 Oct 01:08:15 +03 2025
+# Total number of blocked hosts are: 27986
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -5543,6 +5543,7 @@
 0.0.0.0	avazutracking.net
 0.0.0.0	avd.innity.com
 0.0.0.0	avd.innity.net
+0.0.0.0	a.vdo.ai
 0.0.0.0	avenuea.com
 0.0.0.0	a.vertamedia.com
 0.0.0.0	a.vfghd.com
@@ -7980,6 +7981,7 @@
 0.0.0.0	clicks.about.com
 0.0.0.0	clicks.adultplex.com
 0.0.0.0	clicksagent.com
+0.0.0.0	clicks.checkatrade.com
 0.0.0.0	clicks.deliveroo.co.uk
 0.0.0.0	clicks.deskbabes.com
 0.0.0.0	click.searchnation.net
@@ -12202,6 +12204,7 @@
 0.0.0.0	groupom.fr
 0.0.0.0	growlr.adsbynimbus.com
 0.0.0.0	growstart.net
+0.0.0.0	growthrx.in
 0.0.0.0	grtexch.com
 0.0.0.0	grunerandjahr.112.2o7.net
 0.0.0.0	gscontxt.net
