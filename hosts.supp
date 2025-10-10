@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 10 Oct 14:08:15 +03 2025
-# Total number of blocked hosts are: 27988
+# Ad blocking hosts generated Fri 10 Oct 15:08:13 +03 2025
+# Total number of blocked hosts are: 27982
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3916,7 +3916,6 @@
 0.0.0.0	adyoulike.com
 0.0.0.0	adyoulike.omnitagjs.com
 0.0.0.0	adywind.com
-0.0.0.0	adz2you.com
 0.0.0.0	ad.za.doubleclick.net
 0.0.0.0	ad.zaman.com
 0.0.0.0	ad.zaman.com.tr
@@ -6244,7 +6243,6 @@
 0.0.0.0	bighop.com
 0.0.0.0	bighow.net
 0.0.0.0	bigpond.122.2o7.net
-0.0.0.0	bigreal.org
 0.0.0.0	bigseatsout.net
 0.0.0.0	bikeforumsnet.skimlinks.com
 0.0.0.0	bilbob.com
@@ -7877,9 +7875,7 @@
 0.0.0.0	clevernt.com
 0.0.0.0	cl-gmtdmp.mookie1.com
 0.0.0.0	clhctrk.com
-0.0.0.0	click-1.pl
 0.0.0.0	click2commission.gotrackier.com
-0.0.0.0	click-2.eu
 0.0.0.0	click2freemoney.com
 0.0.0.0	click2.yllix.com
 0.0.0.0	click360v2-ingest.azurewebsites.net
@@ -12404,6 +12400,7 @@
 0.0.0.0	heavy-flood.com
 0.0.0.0	hebdotop.com
 0.0.0.0	hefever.fr
+0.0.0.0	heimi-lwx.com
 0.0.0.0	helios.fvn.no
 0.0.0.0	helium.us.intellitxt.com
 0.0.0.0	hellobar.com
@@ -14642,7 +14639,6 @@
 0.0.0.0	livingsleet.com
 0.0.0.0	livreral.fr
 0.0.0.0	livrval.fr
-0.0.0.0	li.walmart.com
 0.0.0.0	lizardslaugh.com
 0.0.0.0	li.ziffimages.com
 0.0.0.0	lizzardsnail.com
@@ -23848,7 +23844,6 @@
 0.0.0.0	truoptik.com
 0.0.0.0	tr-us.adsmoloco.com
 0.0.0.0	trustaffs.com
-0.0.0.0	trustpid.com
 0.0.0.0	trust.titanhq.com
 0.0.0.0	trusturl.top
 0.0.0.0	trustx.org
@@ -27980,7 +27975,6 @@
 0.0.0.0	zucks.net
 0.0.0.0	zug.us.intellitxt.com
 0.0.0.0	zulu.r867qq.net
-0.0.0.0	zy16eoat1w.com
 0.0.0.0	zyban.1.p2l.info
 0.0.0.0	zyban-store.shengen.ru
 0.0.0.0	zyrtec.1.p2l.info
