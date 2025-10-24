@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 24 Oct 14:08:15 +03 2025
-# Total number of blocked hosts are: 27991
+# Ad blocking hosts generated Fri 24 Oct 15:08:13 +03 2025
+# Total number of blocked hosts are: 27990
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -8902,6 +8902,7 @@
 0.0.0.0	cpxigen865632366955.s.moatpixel.com
 0.0.0.0	cpxinteractive.com
 0.0.0.0	cpx.to
+0.0.0.0	cpx-traffic.com
 0.0.0.0	cqcounter.com
 0.0.0.0	cra-arc-gc-ca.noads.biz
 0.0.0.0	crabbychin.com
@@ -19088,7 +19089,6 @@
 0.0.0.0	pushsar.com
 0.0.0.0	push.scloud.lfengmobile.com
 0.0.0.0	pushtrack.co
-0.0.0.0	pushwhy.com
 0.0.0.0	pushwoosh.g5e.com
 0.0.0.0	push.xdrig.com
 0.0.0.0	pu.trafficshop.com
@@ -23803,7 +23803,6 @@
 0.0.0.0	trk.ablogica.com
 0.0.0.0	trk.apperol.com
 0.0.0.0	trk.atomex.net
-0.0.0.0	trk.bad-tool-tell-doubt.xyz
 0.0.0.0	trk.bc.shutterfly.com
 0.0.0.0	trk.cachemetracking.com
 0.0.0.0	trk.cetrk.com
