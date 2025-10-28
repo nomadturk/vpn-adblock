@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 28 Oct 22:08:14 +03 2025
-# Total number of blocked hosts are: 27997
+# Ad blocking hosts generated Tue 28 Oct 23:08:14 +03 2025
+# Total number of blocked hosts are: 28000
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -11378,6 +11378,7 @@
 0.0.0.0	free-counter.co.uk
 0.0.0.0	freecounterstat.com
 0.0.0.0	freedailydownload.com
+0.0.0.0	freedomgrail.com
 0.0.0.0	freedominfo.net
 0.0.0.0	freedon.fr
 0.0.0.0	freedownloadcenter.uk.intellitxt.com
@@ -14578,6 +14579,7 @@
 0.0.0.0	links.email.crunchbase.com
 0.0.0.0	links.housekeep.com
 0.0.0.0	links.industrybrains.com
+0.0.0.0	linksoutside.com
 0.0.0.0	links.outster.com
 0.0.0.0	links.prosservice.fr
 0.0.0.0	links-ranking.de
@@ -27756,6 +27758,7 @@
 0.0.0.0	yahoo.nuggad.net
 0.0.0.0	yamaha.122.2o7.net
 0.0.0.0	yandexadexchange.net
+0.0.0.0	yandexmetrica.com
 0.0.0.0	yang.hitbox.com
 0.0.0.0	yardbarker.tags.crwdcntrl.net
 0.0.0.0	yas-jr.com
