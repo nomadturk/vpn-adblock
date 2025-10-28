@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 28 Oct 19:08:15 +03 2025
-# Total number of blocked hosts are: 27995
+# Ad blocking hosts generated Tue 28 Oct 20:08:15 +03 2025
+# Total number of blocked hosts are: 27997
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -19181,6 +19181,7 @@
 0.0.0.0	query-us-east1.petametrics.com
 0.0.0.0	questiacom.112.2o7.net
 0.0.0.0	question2answer.com
+0.0.0.0	questrade-pypip.com
 0.0.0.0	questsoftware.112.2o7.net
 0.0.0.0	queuer-prod-elb.53.localytics.com
 0.0.0.0	quickadsmedia.gotrackier.com
@@ -25057,6 +25058,7 @@
 0.0.0.0	wdfl.co
 0.0.0.0	wdm29.com
 0.0.0.0	wdpro-mkt-prod2-lb.campaign.adobe.com
+0.0.0.0	wealthsimple-dwvip.com
 0.0.0.0	weapfuh.originalriver-tone.top
 0.0.0.0	we-are-gamers.com
 0.0.0.0	w.eastus.trafficmanager.inmobi.com
