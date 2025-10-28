@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 28 Oct 12:08:14 +03 2025
-# Total number of blocked hosts are: 27992
+# Ad blocking hosts generated Tue 28 Oct 13:08:14 +03 2025
+# Total number of blocked hosts are: 27995
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -6250,6 +6250,7 @@
 0.0.0.0	billboard.cz
 0.0.0.0	bill.ecsuite.com
 0.0.0.0	billing.speedboink.com
+0.0.0.0	billtable.com
 0.0.0.0	bi.medscape.com
 0.0.0.0	bimg.abv.bg
 0.0.0.0	b.imonomy.com
@@ -9097,6 +9098,7 @@
 0.0.0.0	currency.prebid.org
 0.0.0.0	cursor.kvada.globescale.com
 0.0.0.0	curtaincows.com
+0.0.0.0	curveshore.com
 0.0.0.0	c.us1.dyntrk.com
 0.0.0.0	cushiondrum.com
 0.0.0.0	customad.cnn.com
@@ -15569,6 +15571,7 @@
 0.0.0.0	mes-bon-plans.fr
 0.0.0.0	mesotherapy.jino-net.ru
 0.0.0.0	message-hub-svc.usw2.cordial.com
+0.0.0.0	messagelists.com
 0.0.0.0	messagent.duvalguillaume.com
 0.0.0.0	messagerie-lcl.fr
 0.0.0.0	messaging.influencemobile.com
