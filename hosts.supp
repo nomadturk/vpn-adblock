@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 29 Oct 22:08:15 +03 2025
-# Total number of blocked hosts are: 28000
+# Ad blocking hosts generated Wed 29 Oct 23:08:13 +03 2025
+# Total number of blocked hosts are: 28002
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -18535,6 +18535,7 @@
 0.0.0.0	popfill.us.intellitxt.com
 0.0.0.0	popfree.adultcash.com
 0.0.0.0	popit.mediumpimpin.com
+0.0.0.0	popmixradio.com
 0.0.0.0	popmyads.com
 0.0.0.0	popmycash.com
 0.0.0.0	popoholic.us.intellitxt.com
@@ -22445,6 +22446,7 @@
 0.0.0.0	sysip.net
 0.0.0.0	systadin.fr
 0.0.0.0	systematixinfotech.fr
+0.0.0.0	systemssummit.com
 0.0.0.0	systemtrees.com
 0.0.0.0	systweak.com
 0.0.0.0	sy-v1.presage.io
