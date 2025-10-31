@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 31 Oct 18:08:13 +03 2025
-# Total number of blocked hosts are: 28005
+# Ad blocking hosts generated Fri 31 Oct 19:08:14 +03 2025
+# Total number of blocked hosts are: 28006
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -21246,6 +21246,7 @@
 0.0.0.0	snapmobile.asia
 0.0.0.0	snap.snapmobile.asia
 0.0.0.0	snaps.vidiemi.com
+0.0.0.0	snazzypoodle.com
 0.0.0.0	sniff.visistat.com
 0.0.0.0	snip.answers.com
 0.0.0.0	snippet.minute.ly
