@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 31 Oct 15:08:14 +03 2025
-# Total number of blocked hosts are: 28007
+# Ad blocking hosts generated Fri 31 Oct 16:08:14 +03 2025
+# Total number of blocked hosts are: 28005
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2945,7 +2945,6 @@
 0.0.0.0	ads.kompass.com
 0.0.0.0	ads.koreanfriendfinder.com
 0.0.0.0	ads.kozmetika-bg.com
-0.0.0.0	adskpak.com
 0.0.0.0	adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com
 0.0.0.0	ads.krawall.de
 0.0.0.0	ads.ksl.com
@@ -2958,7 +2957,6 @@
 0.0.0.0	ads.lesbianpersonals.com
 0.0.0.0	ads.lfstmedia.com
 0.0.0.0	ads.liberte.pl
-0.0.0.0	ads.lifethink.net
 0.0.0.0	ads.link4ads.com
 0.0.0.0	ads.linkedin.com
 0.0.0.0	ads.linktracking.net
@@ -19267,7 +19265,6 @@
 0.0.0.0	randevumads.com
 0.0.0.0	randki-sex.com
 0.0.0.0	randkuj.xyz
-0.0.0.0	randkula.online
 0.0.0.0	randomlane.net
 0.0.0.0	rankchamp.de
 0.0.0.0	rankingchart.de
@@ -24321,6 +24318,7 @@
 0.0.0.0	userflows.ingest.crittercism.com
 0.0.0.0	usermatch.krxd.net
 0.0.0.0	usermatch.targeting.unrulymedia.com
+0.0.0.0	userreplay.com
 0.0.0.0	userreplay.net
 0.0.0.0	userreporting.cloud.unity3d.com
 0.0.0.0	users16.jabry.com
