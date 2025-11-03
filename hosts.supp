@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 3 Nov 19:08:15 +03 2025
-# Total number of blocked hosts are: 28010
+# Ad blocking hosts generated Mon 3 Nov 20:08:15 +03 2025
+# Total number of blocked hosts are: 28012
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -17646,6 +17646,7 @@
 0.0.0.0	otto-images.developershed.com
 0.0.0.0	ouplog.umeng.com
 0.0.0.0	our.affiliatetracking.net
+0.0.0.0	ourdreamstaticpages.pages.dev
 0.0.0.0	ourorder.info
 0.0.0.0	ourtoolbar.com
 0.0.0.0	ou.shutterfly.com
@@ -17836,6 +17837,7 @@
 0.0.0.0	partner.ceneo.pl
 0.0.0.0	partnerearning.com
 0.0.0.0	partner.googleadservices.com
+0.0.0.0	partnerhut.com
 0.0.0.0	partner.knorex.com
 0.0.0.0	partnerlinks.io
 0.0.0.0	partner.magna.ru
