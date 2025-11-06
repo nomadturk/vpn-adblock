@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 6 Nov 23:08:15 +03 2025
-# Total number of blocked hosts are: 28016
+# Ad blocking hosts generated Fri 7 Nov 00:08:14 +03 2025
+# Total number of blocked hosts are: 28018
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -787,6 +787,7 @@
 0.0.0.0	abscbn.spinbox.net
 0.0.0.0	abseckw.adtlgc.com
 0.0.0.0	abshop.fr
+0.0.0.0	absolutering.com
 0.0.0.0	absolutewrite.fr
 0.0.0.0	absorbingband.com
 0.0.0.0	abs.proxistore.com
@@ -14591,6 +14592,7 @@
 0.0.0.0	links.services.disqus.com
 0.0.0.0	links.sexlist.com
 0.0.0.0	links.sextracker.com
+0.0.0.0	linkstable.com
 0.0.0.0	linkstorms.com
 0.0.0.0	linkswaper.com
 0.0.0.0	links.worldbannerexchange.com
