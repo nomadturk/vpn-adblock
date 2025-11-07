@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 7 Nov 14:08:15 +03 2025
-# Total number of blocked hosts are: 28018
+# Ad blocking hosts generated Fri 7 Nov 15:08:15 +03 2025
+# Total number of blocked hosts are: 28017
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1176,7 +1176,6 @@
 0.0.0.0	ad.allyes.cn
 0.0.0.0	ad.altervista.org
 0.0.0.0	ad.amgdgt.com
-0.0.0.0	adanging.blog
 0.0.0.0	ad.anuntis.com
 0.0.0.0	adaos-ads.net
 0.0.0.0	ad-apac.doubleclick.net
