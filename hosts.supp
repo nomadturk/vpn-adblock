@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 12 Nov 11:08:15 +03 2025
-# Total number of blocked hosts are: 28027
+# Ad blocking hosts generated Wed 12 Nov 12:08:15 +03 2025
+# Total number of blocked hosts are: 28028
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -16484,6 +16484,7 @@
 0.0.0.0	mysearch-engine.com
 0.0.0.0	mysearchweb.net
 0.0.0.0	myseostats.com
+0.0.0.0	mysketchpad.com
 0.0.0.0	my-ssl.effectivemeasure.net
 0.0.0.0	my.statcounter.com
 0.0.0.0	mystat-in.net
