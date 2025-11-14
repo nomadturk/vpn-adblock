@@ -1,6 +1,6 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 14 Nov 15:08:14 +03 2025
+# Ad blocking hosts generated Fri 14 Nov 16:08:14 +03 2025
 # Total number of blocked hosts are: 28029
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -1569,7 +1569,6 @@
 0.0.0.0	adjust.net.in
 0.0.0.0	adjustnetwork.com
 0.0.0.0	adjust.world
-0.0.0.0	adk2.co
 0.0.0.0	adk2.com
 0.0.0.0	ad.kataweb.it
 0.0.0.0	ad.kau.li
@@ -2945,6 +2944,7 @@
 0.0.0.0	ads.kompass.com
 0.0.0.0	ads.koreanfriendfinder.com
 0.0.0.0	ads.kozmetika-bg.com
+0.0.0.0	adskpak.com
 0.0.0.0	adsk-pnxproxy-prd-1753980530.us-east-1.elb.amazonaws.com
 0.0.0.0	ads.krawall.de
 0.0.0.0	ads.ksl.com
@@ -6240,6 +6240,7 @@
 0.0.0.0	bighop.com
 0.0.0.0	bighow.net
 0.0.0.0	bigpond.122.2o7.net
+0.0.0.0	bigreal.org
 0.0.0.0	bigseatsout.net
 0.0.0.0	bigworldfashion.com
 0.0.0.0	bikeforumsnet.skimlinks.com
@@ -23152,7 +23153,6 @@
 0.0.0.0	todayshow.us.intellitxt.com
 0.0.0.0	t-odx.op-mobile.opera.com
 0.0.0.0	toggletools.com
-0.0.0.0	to-go1.eu
 0.0.0.0	toiletpaper.life
 0.0.0.0	token.api.kochava.com
 0.0.0.0	token.rubiconproject.com
