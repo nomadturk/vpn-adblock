@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 14 Nov 17:08:15 +03 2025
-# Total number of blocked hosts are: 28029
+# Ad blocking hosts generated Fri 14 Nov 18:08:13 +03 2025
+# Total number of blocked hosts are: 28030
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -9870,6 +9870,7 @@
 0.0.0.0	dqs001.adtech.us
 0.0.0.0	dra.amazon-adsystem.com
 0.0.0.0	draco-artgallery.wz.cz
+0.0.0.0	dragonbats.com
 0.0.0.0	dramatic-challenge.com
 0.0.0.0	drdobbs.us.intellitxt.com
 0.0.0.0	dreamad.org
