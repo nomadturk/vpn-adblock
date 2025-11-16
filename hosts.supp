@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun 16 Nov 23:08:19 +03 2025
-# Total number of blocked hosts are: 28030
+# Ad blocking hosts generated Mon 17 Nov 00:08:13 +03 2025
+# Total number of blocked hosts are: 28031
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -6600,6 +6600,7 @@
 0.0.0.0	bt.webwise.org
 0.0.0.0	bubblesmoke.net
 0.0.0.0	bubblesweetcake.com
+0.0.0.0	bubblyaction.com
 0.0.0.0	budapest1873.net
 0.0.0.0	bufetgarrigosa.com
 0.0.0.0	buf.lemonde.fr
