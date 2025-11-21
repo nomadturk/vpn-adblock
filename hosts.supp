@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 21 Nov 14:08:15 +03 2025
-# Total number of blocked hosts are: 28032
+# Ad blocking hosts generated Fri 21 Nov 15:08:13 +03 2025
+# Total number of blocked hosts are: 28027
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2735,7 +2735,6 @@
 0.0.0.0	adsfac.us
 0.0.0.0	ads.fairfax.com.au
 0.0.0.0	ads.fastcomgroup.it
-0.0.0.0	ads.fasttrack-ignite.com
 0.0.0.0	ads.fayettevillenc.com
 0.0.0.0	adsfeed3.brabys.co.za
 0.0.0.0	adsfeed.brabys.com
@@ -2851,6 +2850,7 @@
 0.0.0.0	ads.hollywood.com
 0.0.0.0	ads.hookedmediagroup.com
 0.0.0.0	ads.hornypharaoh.com
+0.0.0.0	ads.horsehero.com
 0.0.0.0	ads.horyzon-media.com
 0.0.0.0	ads.host.camz.com
 0.0.0.0	adshow.it168.com
@@ -4330,7 +4330,6 @@
 0.0.0.0	analytics.cloudron.io
 0.0.0.0	analytics.console.aws.a2z.com
 0.0.0.0	analytics.edgekey.net
-0.0.0.0	analytics.emarketer.com
 0.0.0.0	analytics-eu.clickdimensions.com
 0.0.0.0	analytics-eu.tactilews.com
 0.0.0.0	analytics-events.inshorts.com
@@ -7931,7 +7930,6 @@
 0.0.0.0	click.email.microsoftemail.com
 0.0.0.0	click.emails.argos.co.uk
 0.0.0.0	click.email.sonos.com
-0.0.0.0	click.email.strawberry.no
 0.0.0.0	click.emails.tuclothing.sainsburys.co.uk
 0.0.0.0	click.em.blizzard.com
 0.0.0.0	click.e.progressive.com
@@ -11714,7 +11712,6 @@
 0.0.0.0	gemius.pl
 0.0.0.0	gem.pl
 0.0.0.0	gen2server.com
-0.0.0.0	generateoffice.com
 0.0.0.0	generation-nt.fr.intellitxt.com
 0.0.0.0	genetree.112.2o7.net
 0.0.0.0	genieessp.com
@@ -21315,7 +21312,6 @@
 0.0.0.0	software-updates.co
 0.0.0.0	software-wenc.co.cc
 0.0.0.0	soggysponge.com
-0.0.0.0	soggyzoo.com
 0.0.0.0	sohh.us.intellitxt.com
 0.0.0.0	soicos.com
 0.0.0.0	soidog.fr
@@ -23518,7 +23514,6 @@
 0.0.0.0	tracking.truthfinder.com
 0.0.0.0	tracking.trutv.com
 0.0.0.0	tracking.ukwm.co.uk
-0.0.0.0	tracking.utlservice.com
 0.0.0.0	tracking.v2.yieldlove-ad-serving.net
 0.0.0.0	tracking.validclick.com
 0.0.0.0	tracking.vcommission.com
