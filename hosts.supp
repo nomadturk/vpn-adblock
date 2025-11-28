@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 28 Nov 19:08:16 +03 2025
-# Total number of blocked hosts are: 28025
+# Ad blocking hosts generated Fri 28 Nov 20:08:14 +03 2025
+# Total number of blocked hosts are: 28026
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3927,6 +3927,7 @@
 0.0.0.0	ae.amgdgt.com
 0.0.0.0	aehistory.112.2o7.net
 0.0.0.0	a.environmentaldefense.org
+0.0.0.0	aerialapps.com
 0.0.0.0	aerserv.com
 0.0.0.0	a.et.nytimes.com
 0.0.0.0	aetv.112.2o7.net
