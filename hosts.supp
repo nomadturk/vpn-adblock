@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun 30 Nov 23:08:15 +03 2025
-# Total number of blocked hosts are: 28031
+# Ad blocking hosts generated Mon 1 Dec 00:08:15 +03 2025
+# Total number of blocked hosts are: 28032
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -10617,6 +10617,7 @@
 0.0.0.0	espn.hb.omtrdc.net
 0.0.0.0	espresso-reklam.eu
 0.0.0.0	espub.fr
+0.0.0.0	essaygiants.com
 0.0.0.0	e-ssl.apsalar.com
 0.0.0.0	estat.com
 0.0.0.0	estatearea.net
