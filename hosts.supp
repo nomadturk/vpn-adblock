@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 2 Dec 19:08:14 +03 2025
-# Total number of blocked hosts are: 28033
+# Ad blocking hosts generated Tue 2 Dec 20:08:14 +03 2025
+# Total number of blocked hosts are: 28034
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -23651,6 +23651,7 @@
 0.0.0.0	track.sitetag.us
 0.0.0.0	tracksitetraffic1.com
 0.0.0.0	track.smaato.net
+0.0.0.0	track.smtpmessage.com
 0.0.0.0	track.software-codes.com
 0.0.0.0	track.special-promotions.online
 0.0.0.0	track.spe.schoolmessenger.com
