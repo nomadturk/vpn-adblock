@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 12 Dec 14:08:14 +03 2025
-# Total number of blocked hosts are: 28037
+# Ad blocking hosts generated Fri 12 Dec 15:08:14 +03 2025
+# Total number of blocked hosts are: 28034
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1270,6 +1270,7 @@
 0.0.0.0	ad.cctv.com
 0.0.0.0	adcdn.goo.ne.jp
 0.0.0.0	ad-cdn.technoratimedia.com
+0.0.0.0	adcel.co
 0.0.0.0	adcell.de
 0.0.0.0	adcenter.net
 0.0.0.0	adcentre.it-advanced.com
@@ -2734,7 +2735,6 @@
 0.0.0.0	ads.fastcomgroup.it
 0.0.0.0	ads.fayettevillenc.com
 0.0.0.0	adsfeed3.brabys.co.za
-0.0.0.0	adsfeed.brabys.com
 0.0.0.0	ads.femmefab.nl
 0.0.0.0	ads.ferianc.com
 0.0.0.0	ads.fiat-bg.org
@@ -15670,7 +15670,6 @@
 0.0.0.0	metrics.cnn.com
 0.0.0.0	metricscollector.lp.xcal.tv
 0.0.0.0	metrics.compactappliance.com
-0.0.0.0	metrics.consumerreports.org
 0.0.0.0	metrics.corus.ca
 0.0.0.0	metrics.cosmopolitan.co.uk
 0.0.0.0	metrics.crystalcruises.com
@@ -15963,7 +15962,6 @@
 0.0.0.0	missjia.us.intellitxt.com
 0.0.0.0	mitsubishi.112.2o7.net
 0.0.0.0	mittencattle.com
-0.0.0.0	mix2ads.com
 0.0.0.0	mixadvert.com
 0.0.0.0	mixedreading.com
 0.0.0.0	mixmarket.biz
@@ -18018,7 +18016,6 @@
 0.0.0.0	pepsico.demdex.net
 0.0.0.0	perabetads.com
 0.0.0.0	percantil.fr
-0.0.0.0	perceivequarter.com
 0.0.0.0	percentmobile.com
 0.0.0.0	peremiere.fr
 0.0.0.0	perezhilton.us.intellitxt.com
