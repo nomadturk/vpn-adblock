@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 27 Dec 23:08:16 +03 2025
-# Total number of blocked hosts are: 28040
+# Ad blocking hosts generated Sun 28 Dec 00:08:14 +03 2025
+# Total number of blocked hosts are: 28042
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4672,6 +4672,7 @@
 0.0.0.0	api.adtimaserver.vn
 0.0.0.0	api.adtrade.com
 0.0.0.0	api.ad.xiaomi.com
+0.0.0.0	api.affiliations.site
 0.0.0.0	api.affinesystems.com
 0.0.0.0	api.airpush.com
 0.0.0.0	api.altamob.com
@@ -27893,6 +27894,7 @@
 0.0.0.0	your-gift-zone.com
 0.0.0.0	yourgiftzone.com
 0.0.0.0	youripad4free.com
+0.0.0.0	yourofficialsurveysplace.store
 0.0.0.0	yourrewardzone.com
 0.0.0.0	yoursmartrewards.com
 0.0.0.0	yourstats.net
