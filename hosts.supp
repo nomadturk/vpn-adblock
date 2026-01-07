@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 7 Jan 15:08:14 +03 2026
-# Total number of blocked hosts are: 28055
+# Ad blocking hosts generated Wed 7 Jan 16:08:14 +03 2026
+# Total number of blocked hosts are: 28060
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1762,6 +1762,7 @@
 0.0.0.0	adonspot.com
 0.0.0.0	adop.cc
 0.0.0.0	ado.pro-market.net
+0.0.0.0	adopsboost.com
 0.0.0.0	adopt.euroclick.com
 0.0.0.0	adopt.precisead.com
 0.0.0.0	adopt.specificclick.net
@@ -8476,6 +8477,7 @@
 0.0.0.0	conexionesymanguerashidrocalidas.com.mx
 0.0.0.0	confg.fr
 0.0.0.0	confiant-integrations.global.ssl.fastly.net
+0.0.0.0	confiant-integrations.net
 0.0.0.0	confidencetalks.com
 0.0.0.0	config1.veinteractive.com
 0.0.0.0	config2.mparticle.com
@@ -14227,6 +14229,7 @@
 0.0.0.0	ktu.sv2.biz
 0.0.0.0	ktva.112.2o7.net
 0.0.0.0	kuder.fr
+0.0.0.0	kueezrtb.com
 0.0.0.0	kuhdi.com
 0.0.0.0	kvinit-prod.api.kochava.com
 0.0.0.0	kvision.tv
@@ -17754,6 +17757,7 @@
 0.0.0.0	p5.preppypm.com
 0.0.0.0	p69523.clksite.com
 0.0.0.0	p6.preppypm.com
+0.0.0.0	p7cloud.net
 0.0.0.0	p7.preppypm.com
 0.0.0.0	pa.5.p2l.info
 0.0.0.0	paalp.fr
@@ -21255,6 +21259,7 @@
 0.0.0.0	smibs.112.2o7.net
 0.0.0.0	smicaval.fr
 0.0.0.0	smile-angel.com
+0.0.0.0	smilewanted.com
 0.0.0.0	smilingcattle.com
 0.0.0.0	smitt.nl
 0.0.0.0	s.moatads.com
