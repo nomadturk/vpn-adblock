@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 9 Jan 15:08:14 +03 2026
-# Total number of blocked hosts are: 28060
+# Ad blocking hosts generated Fri 9 Jan 16:08:14 +03 2026
+# Total number of blocked hosts are: 28051
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1249,7 +1249,6 @@
 0.0.0.0	adbucks.brandreachsys.com
 0.0.0.0	adbuka.com
 0.0.0.0	adbutler.com
-0.0.0.0	adbuyer3.lycos.com
 0.0.0.0	adb.wp.pl
 0.0.0.0	adc2.adcentriconline.com
 0.0.0.0	adc3-assets.adcolony.com
@@ -1616,7 +1615,6 @@
 0.0.0.0	adm.265g.com
 0.0.0.0	adm3.autoimg.cn
 0.0.0.0	ad.m5prod.net
-0.0.0.0	admagnet.net
 0.0.0.0	ad.mail.ru
 0.0.0.0	admailtiser.com
 0.0.0.0	admanage.com
@@ -3443,8 +3441,6 @@
 0.0.0.0	ads.tripod.lycos.co.uk
 0.0.0.0	ads.tripod.lycos.de
 0.0.0.0	ads.tripod.lycos.es
-0.0.0.0	ads.tripod.lycos.it
-0.0.0.0	ads.tripod.lycos.nl
 0.0.0.0	ads.tromaville.com
 0.0.0.0	ads-t.ru
 0.0.0.0	ads.trutv.com
@@ -11255,7 +11251,6 @@
 0.0.0.0	fluoxetine.1.p2l.info
 0.0.0.0	flurry.com
 0.0.0.0	flury-ycpi.gycpi.b.yahoodns.net
-0.0.0.0	fly-analytics.com
 0.0.0.0	flycast.com
 0.0.0.0	flyingmag.com.122.2o7.net
 0.0.0.0	flyingmag.us.intellitxt.com
@@ -12586,7 +12581,6 @@
 0.0.0.0	hittail.com
 0.0.0.0	hit.topc.org
 0.0.0.0	hit.ua
-0.0.0.0	hit.webcentre.lycos.co.uk
 0.0.0.0	hitwebcounter.com
 0.0.0.0	hiuinder.beauty
 0.0.0.0	hk5.vip.prod.criteo.net
@@ -12832,7 +12826,6 @@
 0.0.0.0	i16-tb.isnssdk.com
 0.0.0.0	i16-tb.isnssdk.com.edgekey.net
 0.0.0.0	i1.ictorganisers.com
-0.0.0.0	i1media.no
 0.0.0.0	i1.teaser-goods.ru
 0.0.0.0	i1.vaishnaviinterior.com
 0.0.0.0	i2ad.jp
@@ -19327,7 +19320,6 @@
 0.0.0.0	rate.opinionlab.com
 0.0.0.0	rate.ru
 0.0.0.0	rat.fr.eu.criteo.com
-0.0.0.0	ratings.lycos.com
 0.0.0.0	rat.nl.eu.criteo.com
 0.0.0.0	ravm.tv
 0.0.0.0	rayjump.com
@@ -20874,7 +20866,6 @@
 0.0.0.0	serwisy.gremimedia.pl
 0.0.0.0	serw.myroitracking.com
 0.0.0.0	se.sitestat.com
-0.0.0.0	sessioncam.com
 0.0.0.0	sessions.bugsnag.com
 0.0.0.0	setrise.nl
 0.0.0.0	setting.adzcore.com
@@ -21023,7 +21014,6 @@
 0.0.0.0	s.iaudienc.com
 0.0.0.0	sicksmash.com
 0.0.0.0	sidare.homes
-0.0.0.0	sidebar.angelfire.com
 0.0.0.0	sideshow.directtrack.com
 0.0.0.0	s.idio.co
 0.0.0.0	siemens.d1.sc.omtrdc.net
@@ -25208,6 +25198,7 @@
 0.0.0.0	webprog.oewabox.at
 0.0.0.0	webprotector.co
 0.0.0.0	webprotocol.net
+0.0.0.0	webreseau.com
 0.0.0.0	webresourcer.com
 0.0.0.0	webroot.112.2o7.net
 0.0.0.0	web-scanner.co
