@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 10 Jan 02:08:14 +03 2026
-# Total number of blocked hosts are: 28052
+# Ad blocking hosts generated Sat 10 Jan 03:08:15 +03 2026
+# Total number of blocked hosts are: 28057
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -9113,6 +9113,7 @@
 0.0.0.0	customerevents.netflix.com
 0.0.0.0	customer.iad-03.braze.com
 0.0.0.0	customers.kameleoon.com
+0.0.0.0	customsoftwaredeveloper.com.au
 0.0.0.0	customtraffic.impactradius.com
 0.0.0.0	custom-wrs.api.responsys.net
 0.0.0.0	custom.yieldify.com
@@ -17323,6 +17324,7 @@
 0.0.0.0	oimg.nbcuni.com
 0.0.0.0	oimsgad.qq.com
 0.0.0.0	oiseau-perdu.fr
+0.0.0.0	ois.is
 0.0.0.0	oix0.net
 0.0.0.0	oix1.net
 0.0.0.0	oix2.net
@@ -18795,6 +18797,7 @@
 0.0.0.0	prod-dcs-eventlog.decagames.com
 0.0.0.0	prod-defaulting-subscriptiontool.gismart.xyz
 0.0.0.0	prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com
+0.0.0.0	prodentim101.com
 0.0.0.0	prod.fraud.adjoe.zone
 0.0.0.0	prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 0.0.0.0	prod-js.aws.y-track.com
@@ -21303,6 +21306,7 @@
 0.0.0.0	soccergaming.us.intellitxt.com
 0.0.0.0	socdm.com
 0.0.0.0	sochr.com
+0.0.0.0	sociagil.fr
 0.0.0.0	socialanxietysupport.us.intellitxt.com
 0.0.0.0	social.bidsystem.com
 0.0.0.0	socialcanvas-cdn.kargo.com
@@ -26178,6 +26182,7 @@
 0.0.0.0	www.cadaver.org
 0.0.0.0	www.cadvision.com
 0.0.0.0	www.cafecoquin.com
+0.0.0.0	www.calnanflack.com
 0.0.0.0	www.cam4.fr
 0.0.0.0	www.cambodiaoutsourcing.com
 0.0.0.0	www.cambonanza.com
