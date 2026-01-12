@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 12 Jan 06:08:14 +03 2026
-# Total number of blocked hosts are: 28059
+# Ad blocking hosts generated Mon 12 Jan 07:08:14 +03 2026
+# Total number of blocked hosts are: 28060
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -17911,6 +17911,7 @@
 0.0.0.0	par.vip.prod.criteo.net
 0.0.0.0	passeura.com
 0.0.0.0	passivemarcoanyhow.com
+0.0.0.0	passport.acla.org.cn
 0.0.0.0	passportindex.fr
 0.0.0.0	passpport.com
 0.0.0.0	pasta.da.duapps.com
