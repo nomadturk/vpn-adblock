@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 13 Jan 13:08:13 +03 2026
-# Total number of blocked hosts are: 28064
+# Ad blocking hosts generated Tue 13 Jan 14:08:14 +03 2026
+# Total number of blocked hosts are: 28065
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -10711,6 +10711,7 @@
 0.0.0.0	evbeacon.networksolutions.com
 0.0.0.0	evbk.gamooga.com
 0.0.0.0	e-vcdn.anthill.vn
+0.0.0.0	evencoating.com
 0.0.0.0	evening-badlands-6215.herokuapp.com
 0.0.0.0	event.allnews.uodoo.com
 0.0.0.0	eventbrite.122.2o7.net
