@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 15 Jan 08:08:13 +03 2026
-# Total number of blocked hosts are: 28071
+# Ad blocking hosts generated Thu 15 Jan 09:08:14 +03 2026
+# Total number of blocked hosts are: 28073
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -19032,6 +19032,7 @@
 0.0.0.0	pttsite.com
 0.0.0.0	p.ttwitter.com
 0.0.0.0	p.tvpixel.com
+0.0.0.0	pub-251d6c694a0641dd9e95aeca9e3219e8.r2.dev
 0.0.0.0	pub2srv.com
 0.0.0.0	pubads.g.doubleclick.net
 0.0.0.0	pub.chez.com
@@ -23169,6 +23170,7 @@
 0.0.0.0	tnc16-useast1a.isnssdk.com
 0.0.0.0	t.neodatagroup.com
 0.0.0.0	t.news.browns-restaurants.co.uk
+0.0.0.0	tnews.day
 0.0.0.0	tnkexchange.com
 0.0.0.0	tnkfactory.com
 0.0.0.0	t.notif-colissimo-laposte.info
