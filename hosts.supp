@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 17 Jan 00:08:14 +03 2026
-# Total number of blocked hosts are: 28081
+# Ad blocking hosts generated Sat 17 Jan 01:08:15 +03 2026
+# Total number of blocked hosts are: 28082
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -17989,6 +17989,7 @@
 0.0.0.0	pcinpact.fr.intellitxt.com
 0.0.0.0	pckgatups.bond
 0.0.0.0	pclick.yahoo.com
+0.0.0.0	pclt.net
 0.0.0.0	pcmag.us.intellitxt.com
 0.0.0.0	pcmightymax.net
 0.0.0.0	pcmuzic.com
