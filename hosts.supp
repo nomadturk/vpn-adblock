@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 16 Jan 14:08:15 +03 2026
-# Total number of blocked hosts are: 28075
+# Ad blocking hosts generated Fri 16 Jan 15:08:15 +03 2026
+# Total number of blocked hosts are: 28079
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1249,6 +1249,7 @@
 0.0.0.0	adbucks.brandreachsys.com
 0.0.0.0	adbuka.com
 0.0.0.0	adbutler.com
+0.0.0.0	adbuyer3.lycos.com
 0.0.0.0	adb.wp.pl
 0.0.0.0	adc2.adcentriconline.com
 0.0.0.0	adc3-assets.adcolony.com
@@ -3441,6 +3442,8 @@
 0.0.0.0	ads.tripod.lycos.co.uk
 0.0.0.0	ads.tripod.lycos.de
 0.0.0.0	ads.tripod.lycos.es
+0.0.0.0	ads.tripod.lycos.it
+0.0.0.0	ads.tripod.lycos.nl
 0.0.0.0	ads.tromaville.com
 0.0.0.0	ads-t.ru
 0.0.0.0	ads.trutv.com
@@ -6118,7 +6121,6 @@
 0.0.0.0	bestbuy.7tiv.net
 0.0.0.0	bestbuy.demdex.net
 0.0.0.0	bestcandyever.com
-0.0.0.0	best-click.pro
 0.0.0.0	bestfoods.co
 0.0.0.0	bestgore.fun
 0.0.0.0	bestheadphones4u.com
@@ -9208,7 +9210,6 @@
 0.0.0.0	d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0	d2vig74li2resi.cloudfront.net
 0.0.0.0	d2zah9y47r7bi2.cloudfront.net
-0.0.0.0	d2zd0wa1vpt7j9.cloudfront.net
 0.0.0.0	d2.zedo.com
 0.0.0.0	d3fd89.r.axf8.net
 0.0.0.0	d3.moatads.com
@@ -12585,6 +12586,7 @@
 0.0.0.0	hittail.com
 0.0.0.0	hit.topc.org
 0.0.0.0	hit.ua
+0.0.0.0	hit.webcentre.lycos.co.uk
 0.0.0.0	hitwebcounter.com
 0.0.0.0	hiuinder.beauty
 0.0.0.0	hk5.vip.prod.criteo.net
@@ -15567,7 +15569,6 @@
 0.0.0.0	megacash.de
 0.0.0.0	megapanel.gem.pl
 0.0.0.0	megaplex.oewabox.at
-0.0.0.0	megapu.sh
 0.0.0.0	megastats.com
 0.0.0.0	megawealthbiz.com
 0.0.0.0	megawerbung.de
@@ -15979,6 +15980,7 @@
 0.0.0.0	missjia.us.intellitxt.com
 0.0.0.0	mitsubishi.112.2o7.net
 0.0.0.0	mittencattle.com
+0.0.0.0	mix2ads.com
 0.0.0.0	mixadvert.com
 0.0.0.0	mixedreading.com
 0.0.0.0	mixmarket.biz
@@ -19332,6 +19334,7 @@
 0.0.0.0	rate.opinionlab.com
 0.0.0.0	rate.ru
 0.0.0.0	rat.fr.eu.criteo.com
+0.0.0.0	ratings.lycos.com
 0.0.0.0	rat.nl.eu.criteo.com
 0.0.0.0	ravm.tv
 0.0.0.0	rayjump.com
@@ -19697,7 +19700,6 @@
 0.0.0.0	revive.haskovo.net
 0.0.0.0	revive.netriota.hu
 0.0.0.0	revive.plays.bg
-0.0.0.0	revlift.io
 0.0.0.0	revmob.com
 0.0.0.0	revoke-dashboard.com
 0.0.0.0	revolution.ign.us.intellitxt.com
@@ -20878,6 +20880,7 @@
 0.0.0.0	serwisy.gremimedia.pl
 0.0.0.0	serw.myroitracking.com
 0.0.0.0	se.sitestat.com
+0.0.0.0	sessioncam.com
 0.0.0.0	sessions.bugsnag.com
 0.0.0.0	setrise.nl
 0.0.0.0	setting.adzcore.com
@@ -21026,6 +21029,7 @@
 0.0.0.0	s.iaudienc.com
 0.0.0.0	sicksmash.com
 0.0.0.0	sidare.homes
+0.0.0.0	sidebar.angelfire.com
 0.0.0.0	sideshow.directtrack.com
 0.0.0.0	s.idio.co
 0.0.0.0	siemens.d1.sc.omtrdc.net
