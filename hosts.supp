@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 17 Jan 22:08:15 +03 2026
-# Total number of blocked hosts are: 28082
+# Ad blocking hosts generated Sat 17 Jan 23:08:15 +03 2026
+# Total number of blocked hosts are: 28083
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -23845,6 +23845,7 @@
 0.0.0.0	trends.revcontent.com
 0.0.0.0	trendsymbol.net
 0.0.0.0	tr-eu.adsmoloco.com
+0.0.0.0	trevia.za.com
 0.0.0.0	trgde.adocean.pl
 0.0.0.0	tr-gmtdmp.mookie1.com
 0.0.0.0	tr.iadsdk.apple.com
