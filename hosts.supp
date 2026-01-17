@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sun 18 Jan 00:08:13 +03 2026
-# Total number of blocked hosts are: 28083
+# Ad blocking hosts generated Sun 18 Jan 01:08:14 +03 2026
+# Total number of blocked hosts are: 28084
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -17721,6 +17721,7 @@
 0.0.0.0	owneriq.net
 0.0.0.0	owneriq.net.edgekey.net
 0.0.0.0	own-eu-cloud.com
+0.0.0.0	ownpathway.digital
 0.0.0.0	ow.pubmatic.com
 0.0.0.0	oxado.com
 0.0.0.0	oxcash.com
