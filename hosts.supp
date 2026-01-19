@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 19 Jan 20:08:14 +03 2026
-# Total number of blocked hosts are: 28088
+# Ad blocking hosts generated Mon 19 Jan 21:08:14 +03 2026
+# Total number of blocked hosts are: 28090
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -13691,6 +13691,7 @@
 0.0.0.0	itreviews.uk.intellitxt.com
 0.0.0.0	i.trkjmp.com
 0.0.0.0	itsfree123.com
+0.0.0.0	itssure.shop
 0.0.0.0	its-that-easy.com
 0.0.0.0	ittoolbox.us.intellitxt.com
 0.0.0.0	itv.112.2o7.net
@@ -18658,6 +18659,7 @@
 0.0.0.0	powellsbooks.122.2o7.net
 0.0.0.0	powerad.ai
 0.0.0.0	poweredlock.com
+0.0.0.0	poweroff.pt
 0.0.0.0	poweronemedia.122.2o7.net
 0.0.0.0	powertrfic.fr
 0.0.0.0	powr-counter.herokuapp.com
