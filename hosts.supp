@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 21 Jan 20:08:14 +03 2026
-# Total number of blocked hosts are: 28097
+# Ad blocking hosts generated Wed 21 Jan 21:08:14 +03 2026
+# Total number of blocked hosts are: 28098
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -26710,6 +26710,7 @@
 0.0.0.0	www.iesnare.co.uk
 0.0.0.0	www.ifileyou.com
 0.0.0.0	www.iframes.us
+0.0.0.0	www.igameup.com
 0.0.0.0	www.ihaberadserver.com
 0.0.0.0	www.iicdn.com
 0.0.0.0	www.ili.net
