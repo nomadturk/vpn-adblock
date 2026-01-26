@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 26 Jan 02:08:14 +03 2026
-# Total number of blocked hosts are: 28119
+# Ad blocking hosts generated Mon 26 Jan 03:08:15 +03 2026
+# Total number of blocked hosts are: 28120
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -19481,6 +19481,7 @@
 0.0.0.0	redir9.alteabz.it
 0.0.0.0	redir.adap.tv
 0.0.0.0	redir.bebi.com
+0.0.0.0	redircpapp.co.za
 0.0.0.0	redirect2url.net
 0.0.0.0	redirect.appleads-trk.com
 0.0.0.0	redirectchannel.net
