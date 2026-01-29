@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 29 Jan 03:08:18 +03 2026
-# Total number of blocked hosts are: 28145
+# Ad blocking hosts generated Thu 29 Jan 04:08:18 +03 2026
+# Total number of blocked hosts are: 28146
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -10443,6 +10443,7 @@
 0.0.0.0	em1.yoursantander.co.uk
 0.0.0.0	emagicone.fr
 0.0.0.0	emailer.stockbit.com
+0.0.0.0	email.headers.digital
 0.0.0.0	email-link.adtidy.info
 0.0.0.0	email-link.adtidy.net
 0.0.0.0	email-link.adtidy.org
