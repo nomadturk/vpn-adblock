@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 30 Jan 14:08:19 +03 2026
-# Total number of blocked hosts are: 28215
+# Ad blocking hosts generated Fri 30 Jan 15:08:15 +03 2026
+# Total number of blocked hosts are: 28212
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -5418,7 +5418,6 @@
 0.0.0.0	atlassian.122.2o7.net
 0.0.0.0	atlauncher.fr
 0.0.0.0	at.m1.nedstatbasic.net
-0.0.0.0	ato.mx
 0.0.0.0	at-o.net
 0.0.0.0	at.ontargetjobs.com
 0.0.0.0	a.total-media.net
@@ -5815,7 +5814,6 @@
 0.0.0.0	banners.amigos.com
 0.0.0.0	banners.asiafriendfinder.com
 0.0.0.0	banners.askmecca.com
-0.0.0.0	banners.babylon-x.com
 0.0.0.0	banners.betcris.com
 0.0.0.0	banners.bgmaps.com
 0.0.0.0	banners.bigchurch.com
@@ -8427,6 +8425,7 @@
 0.0.0.0	commdev.fr
 0.0.0.0	commerce.campaignmonitor.com
 0.0.0.0	commerce.www.ibm.com
+0.0.0.0	commindo-media-ressourcen.de
 0.0.0.0	commissionmonster.com
 0.0.0.0	com-mitsubishi.netmng.com
 0.0.0.0	common.duapps.com
@@ -15150,7 +15149,6 @@
 0.0.0.0	m.addthisedge.com
 0.0.0.0	madeleinekrook.nl
 0.0.0.0	madinad.com
-0.0.0.0	madisonavenue.com
 0.0.0.0	m.admedia.com
 0.0.0.0	m.admob.com
 0.0.0.0	m.adnxs.com
@@ -19377,7 +19375,6 @@
 0.0.0.0	randki-sex.com
 0.0.0.0	randkuj.xyz
 0.0.0.0	randomlane.net
-0.0.0.0	rankchamp.de
 0.0.0.0	rankingchart.de
 0.0.0.0	ranking-charts.de
 0.0.0.0	ranking-hits.de
