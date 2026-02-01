@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 2 Feb 00:08:21 +03 2026
-# Total number of blocked hosts are: 28229
+# Ad blocking hosts generated Mon 2 Feb 01:08:15 +03 2026
+# Total number of blocked hosts are: 28230
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -20800,6 +20800,7 @@
 0.0.0.0	sendingurl.net
 0.0.0.0	sendmepixel.com
 0.0.0.0	send.microadinc.com
+0.0.0.0	seniului.v6.navy
 0.0.0.0	sensahome.fr
 0.0.0.0	sensic.net
 0.0.0.0	sensors.yodo1api.com
