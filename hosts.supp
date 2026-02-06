@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 6 Feb 15:08:14 +03 2026
-# Total number of blocked hosts are: 28244
+# Ad blocking hosts generated Fri 6 Feb 16:08:14 +03 2026
+# Total number of blocked hosts are: 28241
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1722,7 +1722,6 @@
 0.0.0.0	ad.network60.com
 0.0.0.0	adnetwork.adasiaholdings.com
 0.0.0.0	adnetwork.admicro.vn
-0.0.0.0	adnetwork.net
 0.0.0.0	adnetwork.nextgen.net
 0.0.0.0	adnetworkperformance.com
 0.0.0.0	adnetwork.rovicorp.com
@@ -3718,7 +3717,6 @@
 0.0.0.0	advancelocal.blueconic.net
 0.0.0.0	advangelists.com
 0.0.0.0	adv.aport.ru
-0.0.0.0	advariant.com
 0.0.0.0	adv.bbanner.it
 0.0.0.0	adv.blogupp.com
 0.0.0.0	adv.consadbg.com
@@ -5421,6 +5419,7 @@
 0.0.0.0	atlassian.122.2o7.net
 0.0.0.0	atlauncher.fr
 0.0.0.0	at.m1.nedstatbasic.net
+0.0.0.0	ato.mx
 0.0.0.0	at-o.net
 0.0.0.0	at.ontargetjobs.com
 0.0.0.0	a.total-media.net
@@ -19389,7 +19388,6 @@
 0.0.0.0	randki-sex.com
 0.0.0.0	randkuj.xyz
 0.0.0.0	randomlane.net
-0.0.0.0	rankingchart.de
 0.0.0.0	ranking-charts.de
 0.0.0.0	ranking-hits.de
 0.0.0.0	ranking-links.de
@@ -23757,7 +23755,6 @@
 0.0.0.0	track.privacyatclearbit.com
 0.0.0.0	track.prizeglobal.net
 0.0.0.0	track.promptfile.com
-0.0.0.0	track.przejdzdostrony.pl
 0.0.0.0	track.publeadmedia.com
 0.0.0.0	track.pubmatic.com
 0.0.0.0	track.realitykings.com
