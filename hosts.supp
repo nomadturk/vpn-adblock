@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 7 Feb 21:08:15 +03 2026
-# Total number of blocked hosts are: 28252
+# Ad blocking hosts generated Sat 7 Feb 22:08:14 +03 2026
+# Total number of blocked hosts are: 28255
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -6909,6 +6909,7 @@
 0.0.0.0	cafe-express.fr
 0.0.0.0	cafemom.d2.sc.omtrdc.net
 0.0.0.0	cafemom.us.intellitxt.com
+0.0.0.0	cafhanoi.dorps.info
 0.0.0.0	cafj.fr
 0.0.0.0	cafranchecomte.fr
 0.0.0.0	ca-gmtdmp.mookie1.com
@@ -19667,6 +19668,7 @@
 0.0.0.0	remote-data.urbanairship.com
 0.0.0.0	remox.com
 0.0.0.0	rem.rezonmedia.eu
+0.0.0.0	renacious.nwwadq.cn
 0.0.0.0	rencontreavenue.com
 0.0.0.0	renderer.apester.com
 0.0.0.0	reninet.com
@@ -24457,6 +24459,7 @@
 0.0.0.0	us.cqcounter.com
 0.0.0.0	us.criteo.com
 0.0.0.0	us.criteo.net
+0.0.0.0	usdeeds.acemlna.com
 0.0.0.0	us.dev.zeronaught.com
 0.0.0.0	usdm.122.2o7.net
 0.0.0.0	us-east-1.dc.ads.linkedin.com
