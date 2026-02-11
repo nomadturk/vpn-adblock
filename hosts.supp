@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 12 Feb 01:08:15 +03 2026
-# Total number of blocked hosts are: 28372
+# Ad blocking hosts generated Thu 12 Feb 02:08:15 +03 2026
+# Total number of blocked hosts are: 28373
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -5698,6 +5698,7 @@
 0.0.0.0	b1sync.zemanta.com
 0.0.0.0	b1t-chidc2.zemanta.com
 0.0.0.0	b1t-nydc1.zemanta.com
+0.0.0.0	b2b-update.appwrite.network
 0.0.0.0	b2c.com
 0.0.0.0	b2c-msm.marketo.com
 0.0.0.0	b34rightym.com
