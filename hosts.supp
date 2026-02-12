@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 12 Feb 07:08:15 +03 2026
-# Total number of blocked hosts are: 28373
+# Ad blocking hosts generated Thu 12 Feb 08:08:13 +03 2026
+# Total number of blocked hosts are: 28374
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -6439,6 +6439,7 @@
 0.0.0.0	blogcounter.de
 0.0.0.0	bloggers.fuckyoucash.com
 0.0.0.0	blogherads.com
+0.0.0.0	blog.ivup.cn
 0.0.0.0	b.logly.co.jp
 0.0.0.0	blogreseller.net
 0.0.0.0	blogtalkradio.crwdcntrl.net
