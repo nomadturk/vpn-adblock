@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 13 Feb 15:08:15 +03 2026
-# Total number of blocked hosts are: 28381
+# Ad blocking hosts generated Fri 13 Feb 16:08:13 +03 2026
+# Total number of blocked hosts are: 28384
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3797,6 +3797,7 @@
 0.0.0.0	advancelocal.blueconic.net
 0.0.0.0	advangelists.com
 0.0.0.0	adv.aport.ru
+0.0.0.0	advariant.com
 0.0.0.0	adv.bbanner.it
 0.0.0.0	adv.blogupp.com
 0.0.0.0	adv.consadbg.com
@@ -5899,6 +5900,7 @@
 0.0.0.0	banners.amigos.com
 0.0.0.0	banners.asiafriendfinder.com
 0.0.0.0	banners.askmecca.com
+0.0.0.0	banners.babylon-x.com
 0.0.0.0	banners.betcris.com
 0.0.0.0	banners.bgmaps.com
 0.0.0.0	banners.bigchurch.com
@@ -15253,6 +15255,7 @@
 0.0.0.0	m.addthisedge.com
 0.0.0.0	madeleinekrook.nl
 0.0.0.0	madinad.com
+0.0.0.0	madisonavenue.com
 0.0.0.0	m.admedia.com
 0.0.0.0	m.admob.com
 0.0.0.0	m.adnxs.com
@@ -19485,6 +19488,7 @@
 0.0.0.0	randki-sex.com
 0.0.0.0	randkuj.xyz
 0.0.0.0	randomlane.net
+0.0.0.0	rankchamp.de
 0.0.0.0	ranking-charts.de
 0.0.0.0	ranking-hits.de
 0.0.0.0	ranking-links.de
@@ -20923,7 +20927,6 @@
 0.0.0.0	servad.mynet.com
 0.0.0.0	serv.ad-rotator.com
 0.0.0.0	servads.fansshare.com
-0.0.0.0	servads.net
 0.0.0.0	serv.adspeed.com
 0.0.0.0	serv-api.target2sell.com
 0.0.0.0	serv-canada2024.com
