@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 20 Feb 09:08:14 +03 2026
-# Total number of blocked hosts are: 28429
+# Ad blocking hosts generated Fri 20 Feb 10:08:14 +03 2026
+# Total number of blocked hosts are: 28430
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -22960,6 +22960,7 @@
 0.0.0.0	teads.tv
 0.0.0.0	teads.tv.edgekey.net
 0.0.0.0	te.advance.net
+0.0.0.0	teak.gen.tr
 0.0.0.0	tealand.cmcm.com
 0.0.0.0	tealeaf.com
 0.0.0.0	tealeaf.ibmcloud.com
