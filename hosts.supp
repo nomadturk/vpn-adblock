@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 20 Feb 15:08:14 +03 2026
-# Total number of blocked hosts are: 28430
+# Ad blocking hosts generated Fri 20 Feb 16:08:14 +03 2026
+# Total number of blocked hosts are: 28427
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3550,7 +3550,6 @@
 0.0.0.0	ads.uncrate.com
 0.0.0.0	ads.undertone.com
 0.0.0.0	adsunflower.com
-0.0.0.0	ads.unison.bg
 0.0.0.0	ads.univision.com
 0.0.0.0	adsupplyads.net
 0.0.0.0	adsupply.com
@@ -8517,7 +8516,6 @@
 0.0.0.0	commdev.fr
 0.0.0.0	commerce.campaignmonitor.com
 0.0.0.0	commerce.www.ibm.com
-0.0.0.0	commindo-media-ressourcen.de
 0.0.0.0	commissionmonster.com
 0.0.0.0	com-mitsubishi.netmng.com
 0.0.0.0	common.duapps.com
@@ -20537,7 +20535,6 @@
 0.0.0.0	script.crazyegg.com
 0.0.0.0	script.crsspxl.com
 0.0.0.0	script.dotmetrics.net
-0.0.0.0	scripte-monster.de
 0.0.0.0	script.fixel.ai
 0.0.0.0	script.hotjar.com
 0.0.0.0	script.leadboxer.com
