@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Tue 24 Feb 22:08:15 +03 2026
-# Total number of blocked hosts are: 28453
+# Ad blocking hosts generated Tue 24 Feb 23:08:15 +03 2026
+# Total number of blocked hosts are: 28460
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -8990,6 +8990,7 @@
 0.0.0.0	cpatrack.leadn.com
 0.0.0.0	cpays.com
 0.0.0.0	c.pebblemedia.be
+0.0.0.0	cp.forest-host.cc
 0.0.0.0	c.ph.msn.com
 0.0.0.0	c-piscine.fr
 0.0.0.0	cplelangues.fr
@@ -16106,6 +16107,7 @@
 0.0.0.0	milkfountain.com
 0.0.0.0	milotree.com
 0.0.0.0	milyondolar.com
+0.0.0.0	mimikacooney.acemlnc.com
 0.0.0.0	min.admicro.vn
 0.0.0.0	mindenegybenblog.hu
 0.0.0.0	mindenegybenblog.net
@@ -26907,12 +26909,15 @@
 0.0.0.0	www.goatsegirl.org
 0.0.0.0	www.goatse.ru
 0.0.0.0	www.goggle.com
+0.0.0.0	www.googdiy.com
 0.0.0.0	www.googleadservices.com
 0.0.0.0	www.google-analytics.com
 0.0.0.0	www-google-analytics.l.google.com
 0.0.0.0	www-googletagmanager.l.google.com
 0.0.0.0	www.googletagservices.com
+0.0.0.0	www.gotorobeks.com
 0.0.0.0	www.gparted.fr
+0.0.0.0	www.gpolitico.com
 0.0.0.0	www.grabbit-rabbit.com
 0.0.0.0	www.gradedoctortutoring.com
 0.0.0.0	www.greasypalm.com
@@ -27172,6 +27177,7 @@
 0.0.0.0	www.maaxmarket.com
 0.0.0.0	www.macatawa.org
 0.0.0.0	www.magento-analytics.com
+0.0.0.0	www.maillazy.com
 0.0.0.0	www.mainadv.com
 0.0.0.0	www.ma-kaeser.ch
 0.0.0.0	www.makearestaurant.com
@@ -28047,6 +28053,7 @@
 0.0.0.0	www.zbippirad.info
 0.0.0.0	www.zedo.com
 0.0.0.0	www.zemgo.com
+0.0.0.0	www.zenithvault.uk
 0.0.0.0	www.zentastic.com
 0.0.0.0	www.zergnet.com
 0.0.0.0	www.zevents.com
