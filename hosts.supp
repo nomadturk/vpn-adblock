@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 27 Feb 00:08:16 +03 2026
-# Total number of blocked hosts are: 28485
+# Ad blocking hosts generated Fri 27 Feb 01:08:14 +03 2026
+# Total number of blocked hosts are: 28487
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -18627,6 +18627,7 @@
 0.0.0.0	playnow.guru
 0.0.0.0	play-poker-free.forsearch.net
 0.0.0.0	play.rayjump.com
+0.0.0.0	playstogether.live
 0.0.0.0	playstream.co
 0.0.0.0	play.sunmediaads.com
 0.0.0.0	playtest-api.topaz-analytics.com
@@ -27728,6 +27729,7 @@
 0.0.0.0	www.stellarium.fr
 0.0.0.0	www.stickylogic.com
 0.0.0.0	www.stiffnetwork.com
+0.0.0.0	www.stihil.com
 0.0.0.0	www.stopphoulplay.com
 0.0.0.0	www.storygize.net
 0.0.0.0	www.strawpoii.me
