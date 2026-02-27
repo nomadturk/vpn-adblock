@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 27 Feb 14:08:15 +03 2026
-# Total number of blocked hosts are: 28488
+# Ad blocking hosts generated Fri 27 Feb 15:08:13 +03 2026
+# Total number of blocked hosts are: 28489
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -24107,6 +24107,7 @@
 0.0.0.0	trkoptimizer.com
 0.0.0.0	trk.pinterest.com
 0.0.0.0	trkpnt.ongage.net
+0.0.0.0	trk.sayerfinancial.com
 0.0.0.0	trk.securesmrt-dt.com
 0.0.0.0	trk.superads.cn
 0.0.0.0	trk.techtarget.com
