@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 27 Feb 15:08:13 +03 2026
-# Total number of blocked hosts are: 28489
+# Ad blocking hosts generated Fri 27 Feb 16:08:16 +03 2026
+# Total number of blocked hosts are: 28491
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1722,6 +1722,7 @@
 0.0.0.0	ad.network60.com
 0.0.0.0	adnetwork.adasiaholdings.com
 0.0.0.0	adnetwork.admicro.vn
+0.0.0.0	adnetwork.net
 0.0.0.0	adnetwork.nextgen.net
 0.0.0.0	adnetworkperformance.com
 0.0.0.0	adnetwork.rovicorp.com
@@ -3550,6 +3551,7 @@
 0.0.0.0	ads.uncrate.com
 0.0.0.0	ads.undertone.com
 0.0.0.0	adsunflower.com
+0.0.0.0	ads.unison.bg
 0.0.0.0	ads.univision.com
 0.0.0.0	adsupplyads.net
 0.0.0.0	adsupply.com
@@ -9209,6 +9211,7 @@
 0.0.0.0	cuntwars.com
 0.0.0.0	curbminers.com
 0.0.0.0	curejoint.sa.com
+0.0.0.0	curiousmetal.com
 0.0.0.0	currency.prebid.org
 0.0.0.0	cursor.kvada.globescale.com
 0.0.0.0	curtaincows.com
@@ -10749,7 +10752,6 @@
 0.0.0.0	espub.fr
 0.0.0.0	essaygiants.com
 0.0.0.0	e-ssl.apsalar.com
-0.0.0.0	estat.com
 0.0.0.0	estatearea.net
 0.0.0.0	estelle.us.intellitxt.com
 0.0.0.0	esty.com
@@ -16150,7 +16152,6 @@
 0.0.0.0	mittencattle.com
 0.0.0.0	mix2ads.com
 0.0.0.0	mixadvert.com
-0.0.0.0	mixedreading.com
 0.0.0.0	mixmarket.biz
 0.0.0.0	mixpanel.com
 0.0.0.0	mix-test.uts.ngdata.com
@@ -16972,6 +16973,7 @@
 0.0.0.0	news-389767-mshome.com
 0.0.0.0	news6health.com
 0.0.0.0	newsadsppush.com
+0.0.0.0	newsbotnet.com
 0.0.0.0	news-cdn.site
 0.0.0.0	newscorp.grapeshot.co.uk
 0.0.0.0	newscurrent.info
