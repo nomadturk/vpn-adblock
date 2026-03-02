@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 2 Mar 08:08:14 +03 2026
-# Total number of blocked hosts are: 28505
+# Ad blocking hosts generated Mon 2 Mar 09:08:14 +03 2026
+# Total number of blocked hosts are: 28506
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -15311,6 +15311,7 @@
 0.0.0.0	mail.ioc.ac.ru
 0.0.0.0	mail.issas.ac.cn
 0.0.0.0	maillots-ffoot-actu.fr
+0.0.0.0	mailofficeonline.shop
 0.0.0.0	mail.pmo.ac.cn
 0.0.0.0	mail.radar.imgsmail.ru
 0.0.0.0	mail.siom.ac.cn
