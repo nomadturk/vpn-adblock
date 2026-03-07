@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Sat 7 Mar 23:08:14 +03 2026
-# Total number of blocked hosts are: 28560
+# Ad blocking hosts generated Sun 8 Mar 00:08:14 +03 2026
+# Total number of blocked hosts are: 28562
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -6367,6 +6367,7 @@
 0.0.0.0	bitcast-a.v1.iad1.bitgravity.com
 0.0.0.0	bitcast-d.bitgravity.com
 0.0.0.0	bitcoadz.io
+0.0.0.0	bitcoinexchangemonero.com
 0.0.0.0	bitcoinplus.com
 0.0.0.0	bitcoin-upappl.com
 0.0.0.0	bitmedia.io
@@ -11445,6 +11446,7 @@
 0.0.0.0	formumactif.fr
 0.0.0.0	forsi.net
 0.0.0.0	fortunecity.us.intellitxt.com
+0.0.0.0	forumdread.com
 0.0.0.0	forumediainc.us.intellitxt.com
 0.0.0.0	forurm-candaulisme.fr
 0.0.0.0	forvideo.at
