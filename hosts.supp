@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 9 Mar 05:08:13 +03 2026
-# Total number of blocked hosts are: 28567
+# Ad blocking hosts generated Mon 9 Mar 06:08:16 +03 2026
+# Total number of blocked hosts are: 28568
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -6615,6 +6615,7 @@
 0.0.0.0	bricolo-blogger.fr
 0.0.0.0	bridgebase.fr
 0.0.0.0	bridge.lga1.admarketplace.net
+0.0.0.0	bridgemanstt.com
 0.0.0.0	bridge.sfo1.admarketplace.net
 0.0.0.0	bridgetrack.com
 0.0.0.0	bridgetrack.speedera.r3h.net
