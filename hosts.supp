@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 9 Mar 04:08:15 +03 2026
-# Total number of blocked hosts are: 28566
+# Ad blocking hosts generated Mon 9 Mar 05:08:13 +03 2026
+# Total number of blocked hosts are: 28567
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -19158,6 +19158,7 @@
 0.0.0.0	protection.TOpolice.com
 0.0.0.0	protection.VApolice.com
 0.0.0.0	protection.VIpolice.com
+0.0.0.0	protectpool.com
 0.0.0.0	protectsubrev.com
 0.0.0.0	protect-x.com
 0.0.0.0	protect-your-privacy.net
