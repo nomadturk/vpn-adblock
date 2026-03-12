@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Thu 12 Mar 20:08:14 +03 2026
-# Total number of blocked hosts are: 28603
+# Ad blocking hosts generated Thu 12 Mar 21:08:14 +03 2026
+# Total number of blocked hosts are: 28604
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -22757,6 +22757,7 @@
 0.0.0.0	t0.extreme-dm.com
 0.0.0.0	t1.adserver.com
 0.0.0.0	t1.extreme-dm.com
+0.0.0.0	t1.rorytravelclub-news.co.uk
 0.0.0.0	t1.trackalyzer.com
 0.0.0.0	t2.chartboost.com
 0.0.0.0	t2.hulu.com
