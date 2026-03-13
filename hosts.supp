@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Fri 13 Mar 15:08:13 +03 2026
-# Total number of blocked hosts are: 28615
+# Ad blocking hosts generated Fri 13 Mar 16:08:16 +03 2026
+# Total number of blocked hosts are: 28613
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4075,6 +4075,7 @@
 0.0.0.0	affiliates.streamray.com
 0.0.0.0	affiliates.thinkhost.net
 0.0.0.0	affiliates.thrixxx.com
+0.0.0.0	affiliates.ultrahosting.com
 0.0.0.0	affiliate.superbahis542.com
 0.0.0.0	affiliates.yourapprovaltracker.com
 0.0.0.0	affiliatetracking.com
@@ -7870,7 +7871,6 @@
 0.0.0.0	chi.outbrain.com
 0.0.0.0	chip.de.intellitxt.com
 0.0.0.0	chip.popmarker.com
-0.0.0.0	chitika.net
 0.0.0.0	c.hit.ua
 0.0.0.0	c.hk.msn.com
 0.0.0.0	chlcotrk.com
@@ -16888,7 +16888,6 @@
 0.0.0.0	nedstat.tripod.com
 0.0.0.0	needadvertising.com
 0.0.0.0	needlepoint.fr
-0.0.0.0	needlessnorth.com
 0.0.0.0	needyneedle.com
 0.0.0.0	neighborlywatch.com
 0.0.0.0	nei.hitbox.com
@@ -18000,7 +17999,6 @@
 0.0.0.0	pagerank-ranking.de
 0.0.0.0	pageranktop.com
 0.0.0.0	pageredirect.co
-0.0.0.0	page-redirect.eu
 0.0.0.0	pages-annuaire.fr
 0.0.0.0	pagesense.com
 0.0.0.0	pagesjauenes.fr
