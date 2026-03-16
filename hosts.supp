@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 16 Mar 23:08:15 +03 2026
-# Total number of blocked hosts are: 28633
+# Ad blocking hosts generated Tue 17 Mar 00:08:16 +03 2026
+# Total number of blocked hosts are: 28636
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -26575,6 +26575,7 @@
 0.0.0.0	www.clickhouse.com
 0.0.0.0	www.clickmanage.com
 0.0.0.0	www.clickmeter.com
+0.0.0.0	www.clickrents.com
 0.0.0.0	www.clicksagent.com
 0.0.0.0	www.clicksgear.com
 0.0.0.0	www.clicksor.com
@@ -26599,6 +26600,7 @@
 0.0.0.0	www.cloudtracked.com
 0.0.0.0	www.cloudverge.uk
 0.0.0.0	www.clownsong.com
+0.0.0.0	www.clubplanning.com
 0.0.0.0	www.clustrmaps.com
 0.0.0.0	www.cnstats.com
 0.0.0.0	www.co2stats.com
@@ -27432,6 +27434,7 @@
 0.0.0.0	www.nobetsjustfun.com
 0.0.0.0	www.nobrain.dk
 0.0.0.0	www.noowho.com
+0.0.0.0	www.northvalesgrids.uk
 0.0.0.0	www.nospartenaires.com
 0.0.0.0	www.notepad2.com
 0.0.0.0	www.novelsys.co
