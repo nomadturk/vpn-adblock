@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Mon 16 Mar 14:08:14 +03 2026
-# Total number of blocked hosts are: 28626
+# Ad blocking hosts generated Mon 16 Mar 15:08:14 +03 2026
+# Total number of blocked hosts are: 28628
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -521,6 +521,7 @@
 0.0.0.0	a1000.casalemedia.com
 0.0.0.0	a1015.casalemedia.com
 0.0.0.0	a1020.casalemedia.com
+0.0.0.0	a11.click
 0.0.0.0	a1222.casalemedia.com
 0.0.0.0	a1223.casalemedia.com
 0.0.0.0	a1232.casalemedia.com
@@ -17583,6 +17584,7 @@
 0.0.0.0	ometrics.netapp.com
 0.0.0.0	ometrics.warnerbros.com
 0.0.0.0	om.expedia.com
+0.0.0.0	omg10.com
 0.0.0.0	omgmta.qq.com
 0.0.0.0	om.lonelyplanet.com
 0.0.0.0	om.metacrawler.com
