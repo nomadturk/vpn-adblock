@@ -1,7 +1,7 @@
 #<local-data>
 
-# Ad blocking hosts generated Wed 18 Mar 03:08:14 +03 2026
-# Total number of blocked hosts are: 28653
+# Ad blocking hosts generated Wed 18 Mar 04:08:14 +03 2026
+# Total number of blocked hosts are: 28654
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -26859,6 +26859,7 @@
 0.0.0.0	www.filezilla.fr
 0.0.0.0	www.finance-offer.com
 0.0.0.0	www.findalgorithm.com
+0.0.0.0	www.findlobster.com
 0.0.0.0	www.fineclicks.com
 0.0.0.0	www.fingertimer.com
 0.0.0.0	www.firebanner.com
