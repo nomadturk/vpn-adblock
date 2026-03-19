@@ -342,6 +342,7 @@
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 ad.medyanetads.com
 0.0.0.0 test-t.capra.solutions
+0.0.0.0 t.capra.solutions
 0.0.0.0 sdk.mrf.io
 0.0.0.0 cdn.p.analitik.bik.gov.tr
 0.0.0.0 cdn-v2.p.analitik.bik.gov.tr
@@ -372,7 +373,23 @@
 0.0.0.0 av2.sozcu.com.tr
 0.0.0.0 cdn.membrana.media
 0.0.0.0 fws.forinvestcdn.com
+0.0.0.0 matomo.drupart.com.tr
+0.0.0.0 tags.refinery89.com
+0.0.0.0 analytics.cdnstr.com
+0.0.0.0 adsturk.com
+0.0.0.0 ep1.adtrafficquality.google
+0.0.0.0 ep2.adtrafficquality.google
+0.0.0.0 cook.geeunlessarcade.com
+0.0.0.0 0.cook.geeunlessarcade.com
+0.0.0.0 1.cook.geeunlessarcade.com
+0.0.0.0 2.cook.geeunlessarcade.com
+0.0.0.0 3.cook.geeunlessarcade.com
+0.0.0.0 4.cook.geeunlessarcade.com
+0.0.0.0 5.cook.geeunlessarcade.com
+0.0.0.0 6.cook.geeunlessarcade.com
+0.0.0.0 7.cook.geeunlessarcade.com
+0.0.0.0 8.cook.geeunlessarcade.com
+0.0.0.0 9.cook.geeunlessarcade.com
+0.0.0.0 10.cook.geeunlessarcade.com
+0.0.0.0 run.adxxxxxmost.co
 #</local-data>
-
-
-
