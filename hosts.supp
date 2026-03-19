@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 19 Mar 19:06:05 +03 2026
-# Total number of blocked lines: 60602
+# Ad blocking hosts generated Thu 19 Mar 20:06:04 +03 2026
+# Total number of blocked lines: 60612
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -28365,6 +28365,7 @@
 0.0.0.0	www.down1oads.com
 0.0.0.0	www.dpbolvw.net
 0.0.0.0	www.dragonawaken.com
+0.0.0.0	www.drivegoals.com
 0.0.0.0	www.drowle.com
 0.0.0.0	www.dt1blog.com
 0.0.0.0	www.dunlop.force9.co.uk
@@ -28373,6 +28374,7 @@
 0.0.0.0	www.dwin1.com
 0.0.0.0	www.dwin2.com
 0.0.0.0	www.dymor.cfd
+0.0.0.0	www.dynamictyres.com
 0.0.0.0	www.eaglesfanclub.com
 0.0.0.0	www.earnify.com
 0.0.0.0	www.eastwood35.idps.co.uk
@@ -28399,6 +28401,7 @@
 0.0.0.0	www.eliteconcepts.com
 0.0.0.0	www.ellads.com
 0.0.0.0	www.emadesign.net
+0.0.0.0	www.emailspend.com
 0.0.0.0	www.emarketmakers.com
 0.0.0.0	www.emjcd.com
 0.0.0.0	www.energiazoque.com
@@ -28409,6 +28412,7 @@
 0.0.0.0	www.errornuker.com
 0.0.0.0	www.eshopads2.com
 0.0.0.0	www.etahub.com
+0.0.0.0	www.ethicsstore.com
 0.0.0.0	www.e-traffic.com
 0.0.0.0	www.etraffic.com
 0.0.0.0	www.e-transfer-cra.com
@@ -28616,6 +28620,7 @@
 0.0.0.0	www.gradedoctortutoring.com
 0.0.0.0	www.grandtables.com
 0.0.0.0	www.greasypalm.com
+0.0.0.0	www.greatdeposit.com
 0.0.0.0	www.greatdexchange.com
 0.0.0.0	www.greencentral.plus.com
 0.0.0.0	www.greenshot.fr
@@ -58666,6 +58671,7 @@
 ::	www.down1oads.com
 ::	www.dpbolvw.net
 ::	www.dragonawaken.com
+::	www.drivegoals.com
 ::	www.drowle.com
 ::	www.dt1blog.com
 ::	www.dunlop.force9.co.uk
@@ -58674,6 +58680,7 @@
 ::	www.dwin1.com
 ::	www.dwin2.com
 ::	www.dymor.cfd
+::	www.dynamictyres.com
 ::	www.eaglesfanclub.com
 ::	www.earnify.com
 ::	www.eastwood35.idps.co.uk
@@ -58700,6 +58707,7 @@
 ::	www.eliteconcepts.com
 ::	www.ellads.com
 ::	www.emadesign.net
+::	www.emailspend.com
 ::	www.emarketmakers.com
 ::	www.emjcd.com
 ::	www.energiazoque.com
@@ -58710,6 +58718,7 @@
 ::	www.errornuker.com
 ::	www.eshopads2.com
 ::	www.etahub.com
+::	www.ethicsstore.com
 ::	www.e-traffic.com
 ::	www.etraffic.com
 ::	www.e-transfer-cra.com
@@ -58917,6 +58926,7 @@
 ::	www.gradedoctortutoring.com
 ::	www.grandtables.com
 ::	www.greasypalm.com
+::	www.greatdeposit.com
 ::	www.greatdexchange.com
 ::	www.greencentral.plus.com
 ::	www.greenshot.fr
