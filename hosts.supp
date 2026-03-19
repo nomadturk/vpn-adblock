@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 19 Mar 21:06:05 +03 2026
-# Total number of blocked lines: 60612
+# Ad blocking hosts generated Thu 19 Mar 22:06:05 +03 2026
+# Total number of blocked lines: 60616
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -12828,6 +12828,7 @@
 0.0.0.0	gifastcompanycom.112.2o7.net
 0.0.0.0	gifii.fr
 0.0.0.0	giftcardchallenge.com
+0.0.0.0	giftcard.cx
 0.0.0.0	giftcardsurveys.us.com
 0.0.0.0	giftscom.122.2o7.net
 0.0.0.0	gigaonclick.com
@@ -28433,6 +28434,7 @@
 0.0.0.0	www.exitforcash.com
 0.0.0.0	www.exitmoney.com
 0.0.0.0	www.experclick.com
+0.0.0.0	www.expolearn.com
 0.0.0.0	www.expoteam.net
 0.0.0.0	www.exteriorteam.com
 0.0.0.0	www.extreme-dm.com
@@ -43134,6 +43136,7 @@
 ::	gifastcompanycom.112.2o7.net
 ::	gifii.fr
 ::	giftcardchallenge.com
+::	giftcard.cx
 ::	giftcardsurveys.us.com
 ::	giftscom.122.2o7.net
 ::	gigaonclick.com
@@ -58739,6 +58742,7 @@
 ::	www.exitforcash.com
 ::	www.exitmoney.com
 ::	www.experclick.com
+::	www.expolearn.com
 ::	www.expoteam.net
 ::	www.exteriorteam.com
 ::	www.extreme-dm.com
