@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 19 Mar 05:06:05 +03 2026
-# Total number of blocked lines: 60600
+# Ad blocking hosts generated Thu 19 Mar 06:06:04 +03 2026
+# Total number of blocked lines: 60602
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -29308,6 +29308,7 @@
 0.0.0.0	www.rewardsflow.com
 0.0.0.0	www.rewardszoneusa.com
 0.0.0.0	www.rickrolling.com
+0.0.0.0	www.rightchanges.com
 0.0.0.0	www.rightmedia.com
 0.0.0.0	www.rightmedia.net
 0.0.0.0	www.rightstats.com
@@ -59608,6 +59609,7 @@
 ::	www.rewardsflow.com
 ::	www.rewardszoneusa.com
 ::	www.rickrolling.com
+::	www.rightchanges.com
 ::	www.rightmedia.com
 ::	www.rightmedia.net
 ::	www.rightstats.com
