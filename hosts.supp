@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 20 Mar 23:06:05 +03 2026
-# Total number of blocked lines: 60638
+# Ad blocking hosts generated Sat 21 Mar 00:06:04 +03 2026
+# Total number of blocked lines: 60648
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3204,6 +3204,7 @@
 0.0.0.0	ads.mgnetwork.com
 0.0.0.0	ads.miarroba.com
 0.0.0.0	ads.mic.com
+0.0.0.0	ads.microsoft.com
 0.0.0.0	ads.millionairemate.com
 0.0.0.0	ads.milliyet.cubecdn.net
 0.0.0.0	ads.mindsetnetwork.com
@@ -3716,6 +3717,7 @@
 0.0.0.0	ads.virtual-nights.com
 0.0.0.0	ads.virtuopolitan.com
 0.0.0.0	ads.vjaffiliates.com
+0.0.0.0	ads.vk.com
 0.0.0.0	ads.v-lazer.com
 0.0.0.0	ads.vntsm.com
 0.0.0.0	ads.vnumedia.com
@@ -3768,6 +3770,7 @@
 0.0.0.0	ads.x17online.com
 0.0.0.0	ads.xbiz.com
 0.0.0.0	ads.xbox-scene.com
+0.0.0.0	ads.x.com
 0.0.0.0	adsx.greystripe.com
 0.0.0.0	ads.xhamster.com
 0.0.0.0	ad.sxp.smartclip.net
@@ -9614,6 +9617,7 @@
 0.0.0.0	crystalboulevard.com
 0.0.0.0	cs.admanmedia.com
 0.0.0.0	cs.adxpansion.com
+0.0.0.0	cs.avito.ru
 0.0.0.0	cs-cart.jp
 0.0.0.0	cs.co
 0.0.0.0	c.scorecardresearch.com
@@ -16962,6 +16966,7 @@
 0.0.0.0	metrics.ilsole24ore.com
 0.0.0.0	metrics.impactengine.com
 0.0.0.0	metrics.imvu.com
+0.0.0.0	metrics-ingress-web.svc.vinted.com
 0.0.0.0	metrics.ireport.com
 0.0.0.0	metrics.kbb.com
 0.0.0.0	metrics.kgw.com
@@ -22020,7 +22025,6 @@
 0.0.0.0	sdk-orion.appboy.com
 0.0.0.0	sdk.out.usbla.net
 0.0.0.0	sdk.playtem.com
-0.0.0.0	sdk.postscrip.io
 0.0.0.0	sdk.postscript.io
 0.0.0.0	sdk.pulse.schibsted.com
 0.0.0.0	sdk.push.mob.com
@@ -23602,6 +23606,7 @@
 0.0.0.0	stats.askmen.com
 0.0.0.0	stats.askmoses.com
 0.0.0.0	stats.avast.com
+0.0.0.0	stats.avito.ru
 0.0.0.0	stats.aws.rubiconproject.com
 0.0.0.0	stats.backcountry.com
 0.0.0.0	stats.bannersnack.com
@@ -33523,6 +33528,7 @@
 ::	ads.mgnetwork.com
 ::	ads.miarroba.com
 ::	ads.mic.com
+::	ads.microsoft.com
 ::	ads.millionairemate.com
 ::	ads.milliyet.cubecdn.net
 ::	ads.mindsetnetwork.com
@@ -34035,6 +34041,7 @@
 ::	ads.virtual-nights.com
 ::	ads.virtuopolitan.com
 ::	ads.vjaffiliates.com
+::	ads.vk.com
 ::	ads.v-lazer.com
 ::	ads.vntsm.com
 ::	ads.vnumedia.com
@@ -34087,6 +34094,7 @@
 ::	ads.x17online.com
 ::	ads.xbiz.com
 ::	ads.xbox-scene.com
+::	ads.x.com
 ::	adsx.greystripe.com
 ::	ads.xhamster.com
 ::	ad.sxp.smartclip.net
@@ -39933,6 +39941,7 @@
 ::	crystalboulevard.com
 ::	cs.admanmedia.com
 ::	cs.adxpansion.com
+::	cs.avito.ru
 ::	cs-cart.jp
 ::	cs.co
 ::	c.scorecardresearch.com
@@ -47281,6 +47290,7 @@
 ::	metrics.ilsole24ore.com
 ::	metrics.impactengine.com
 ::	metrics.imvu.com
+::	metrics-ingress-web.svc.vinted.com
 ::	metrics.ireport.com
 ::	metrics.kbb.com
 ::	metrics.kgw.com
@@ -52339,7 +52349,6 @@
 ::	sdk-orion.appboy.com
 ::	sdk.out.usbla.net
 ::	sdk.playtem.com
-::	sdk.postscrip.io
 ::	sdk.postscript.io
 ::	sdk.pulse.schibsted.com
 ::	sdk.push.mob.com
@@ -53921,6 +53930,7 @@
 ::	stats.askmen.com
 ::	stats.askmoses.com
 ::	stats.avast.com
+::	stats.avito.ru
 ::	stats.aws.rubiconproject.com
 ::	stats.backcountry.com
 ::	stats.bannersnack.com
