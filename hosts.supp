@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 20 Mar 20:06:06 +03 2026
-# Total number of blocked lines: 60634
+# Ad blocking hosts generated Fri 20 Mar 21:06:05 +03 2026
+# Total number of blocked lines: 60638
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -28210,6 +28210,7 @@
 0.0.0.0	www.coinad.com
 0.0.0.0	www.coinimp.com
 0.0.0.0	www.coinzilla.io
+0.0.0.0	www.combinebasic.com
 0.0.0.0	www.comclick.com
 0.0.0.0	www.comfortykive.xyz
 0.0.0.0	www.commissionempire.com
@@ -29220,6 +29221,7 @@
 0.0.0.0	www.postmasterbannernet.com
 0.0.0.0	www.postmasterdirect.com
 0.0.0.0	www.postnewsads.com
+0.0.0.0	www.postsavings.com
 0.0.0.0	www.powerlinks.com
 0.0.0.0	www.ppoi.org
 0.0.0.0	www.praktijkmariekehuisman.nl
@@ -58527,6 +58529,7 @@
 ::	www.coinad.com
 ::	www.coinimp.com
 ::	www.coinzilla.io
+::	www.combinebasic.com
 ::	www.comclick.com
 ::	www.comfortykive.xyz
 ::	www.commissionempire.com
@@ -59537,6 +59540,7 @@
 ::	www.postmasterbannernet.com
 ::	www.postmasterdirect.com
 ::	www.postnewsads.com
+::	www.postsavings.com
 ::	www.powerlinks.com
 ::	www.ppoi.org
 ::	www.praktijkmariekehuisman.nl
