@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 20 Mar 15:06:05 +03 2026
-# Total number of blocked lines: 60634
+# Ad blocking hosts generated Fri 20 Mar 16:06:05 +03 2026
+# Total number of blocked lines: 60630
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2015,7 +2015,6 @@
 0.0.0.0	ads1.destructoid.com
 0.0.0.0	ads1.erotism.com
 0.0.0.0	ads1.jev.co.za
-0.0.0.0	ads1.mediacapital.pt
 0.0.0.0	ads1.msads.net
 0.0.0.0	ads1.msn.com
 0.0.0.0	ads1.nexdra.com
@@ -12903,7 +12902,6 @@
 0.0.0.0	glochatuji.com
 0.0.0.0	gloriousbeef.com
 0.0.0.0	glotchat.click
-0.0.0.0	gloyah.net
 0.0.0.0	glsdk.logsss.com
 0.0.0.0	glucont.shop
 0.0.0.0	gma.alicdn.com
@@ -32332,7 +32330,6 @@
 ::	ads1.destructoid.com
 ::	ads1.erotism.com
 ::	ads1.jev.co.za
-::	ads1.mediacapital.pt
 ::	ads1.msads.net
 ::	ads1.msn.com
 ::	ads1.nexdra.com
@@ -43220,7 +43217,6 @@
 ::	glochatuji.com
 ::	gloriousbeef.com
 ::	glotchat.click
-::	gloyah.net
 ::	glsdk.logsss.com
 ::	glucont.shop
 ::	gma.alicdn.com
