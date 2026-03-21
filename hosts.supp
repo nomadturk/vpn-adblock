@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat 21 Mar 02:06:05 +03 2026
-# Total number of blocked lines: 60648
+# Ad blocking hosts generated Sat 21 Mar 03:06:05 +03 2026
+# Total number of blocked lines: 60650
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -28901,6 +28901,7 @@
 0.0.0.0	www.localytics.com
 0.0.0.0	www.lockupouseburn.com
 0.0.0.0	www.loggerx.com
+0.0.0.0	www.logoradar.com
 0.0.0.0	www.lolhello.com
 0.0.0.0	www.lolshock.com
 0.0.0.0	www.loltrain.com
@@ -59225,6 +59226,7 @@
 ::	www.localytics.com
 ::	www.lockupouseburn.com
 ::	www.loggerx.com
+::	www.logoradar.com
 ::	www.lolhello.com
 ::	www.lolshock.com
 ::	www.loltrain.com
