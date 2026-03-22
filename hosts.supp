@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sun 22 Mar 21:06:04 +03 2026
-# Total number of blocked lines: 60660
+# Ad blocking hosts generated Sun 22 Mar 22:06:04 +03 2026
+# Total number of blocked lines: 60662
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -21690,6 +21690,7 @@
 0.0.0.0	salesforcecom.tt.omtrdc.net
 0.0.0.0	sales.idio.co
 0.0.0.0	saletrybest.su
+0.0.0.0	salezone.sa.com
 0.0.0.0	saltyapplepie.com
 0.0.0.0	salzburg.oewabox.at
 0.0.0.0	sam4m.com
@@ -52020,6 +52021,7 @@
 ::	salesforcecom.tt.omtrdc.net
 ::	sales.idio.co
 ::	saletrybest.su
+::	salezone.sa.com
 ::	saltyapplepie.com
 ::	salzburg.oewabox.at
 ::	sam4m.com
