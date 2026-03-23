@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 23 Mar 23:06:04 +03 2026
-# Total number of blocked lines: 60664
+# Ad blocking hosts generated Tue 24 Mar 00:06:04 +03 2026
+# Total number of blocked lines: 60672
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -28334,6 +28334,7 @@
 0.0.0.0	www.defaultinternet.com
 0.0.0.0	www.dejamesertuvoz.com
 0.0.0.0	www.delton.com
+0.0.0.0	www.dentistkids.com
 0.0.0.0	www.deperiodista.com
 0.0.0.0	www.derekrjones.plus.com
 0.0.0.0	www.designbloxlive.com
@@ -28670,6 +28671,7 @@
 0.0.0.0	www.hibids10.com
 0.0.0.0	www.hieroglyph.freeuk.com
 0.0.0.0	www.hiewa.com.my
+0.0.0.0	www.higherteam.com
 0.0.0.0	www.highleycoupons.com
 0.0.0.0	www.hightrafficads.com
 0.0.0.0	www.hiperstat.com
@@ -29468,6 +29470,7 @@
 0.0.0.0	www.smokyshadecj.name
 0.0.0.0	www.smsmovies.net
 0.0.0.0	www.smspop.com
+0.0.0.0	www.snowhandball.com
 0.0.0.0	www.snurrlyspin.com
 0.0.0.0	www.sochr.com
 0.0.0.0	www.sociallypublish.com
@@ -29571,6 +29574,7 @@
 0.0.0.0	www.tattooshaha.info
 0.0.0.0	www.tbitcoin.me
 0.0.0.0	www.td583.com
+0.0.0.0	www.teafortune.com
 0.0.0.0	www.techadvisorpro.name
 0.0.0.0	www.teltech.hu
 0.0.0.0	www.telusplanet.net
@@ -58666,6 +58670,7 @@
 ::	www.defaultinternet.com
 ::	www.dejamesertuvoz.com
 ::	www.delton.com
+::	www.dentistkids.com
 ::	www.deperiodista.com
 ::	www.derekrjones.plus.com
 ::	www.designbloxlive.com
@@ -59002,6 +59007,7 @@
 ::	www.hibids10.com
 ::	www.hieroglyph.freeuk.com
 ::	www.hiewa.com.my
+::	www.higherteam.com
 ::	www.highleycoupons.com
 ::	www.hightrafficads.com
 ::	www.hiperstat.com
@@ -59800,6 +59806,7 @@
 ::	www.smokyshadecj.name
 ::	www.smsmovies.net
 ::	www.smspop.com
+::	www.snowhandball.com
 ::	www.snurrlyspin.com
 ::	www.sochr.com
 ::	www.sociallypublish.com
@@ -59903,6 +59910,7 @@
 ::	www.tattooshaha.info
 ::	www.tbitcoin.me
 ::	www.td583.com
+::	www.teafortune.com
 ::	www.techadvisorpro.name
 ::	www.teltech.hu
 ::	www.telusplanet.net
