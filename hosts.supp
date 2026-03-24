@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 24 Mar 23:06:04 +03 2026
-# Total number of blocked lines: 60690
+# Ad blocking hosts generated Wed 25 Mar 00:06:07 +03 2026
+# Total number of blocked lines: 60694
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -28216,6 +28216,7 @@
 0.0.0.0	www.clustrmaps.com
 0.0.0.0	www.cnstats.com
 0.0.0.0	www.co2stats.com
+0.0.0.0	www.coconutsport.com
 0.0.0.0	www.codeads.com
 0.0.0.0	www.coin-ad.com
 0.0.0.0	www.coinad.com
@@ -29128,6 +29129,7 @@
 0.0.0.0	www.ontheweb.com
 0.0.0.0	www.oofun.com
 0.0.0.0	www.opalcasinohotel.com
+0.0.0.0	www.opencharms.com
 0.0.0.0	www.opendownload.de
 0.0.0.0	www.openinternetexchange.com
 0.0.0.0	www.openload.de
@@ -58561,6 +58563,7 @@
 ::	www.clustrmaps.com
 ::	www.cnstats.com
 ::	www.co2stats.com
+::	www.coconutsport.com
 ::	www.codeads.com
 ::	www.coin-ad.com
 ::	www.coinad.com
@@ -59473,6 +59476,7 @@
 ::	www.ontheweb.com
 ::	www.oofun.com
 ::	www.opalcasinohotel.com
+::	www.opencharms.com
 ::	www.opendownload.de
 ::	www.openinternetexchange.com
 ::	www.openload.de
