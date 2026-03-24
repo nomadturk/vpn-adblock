@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 24 Mar 21:06:06 +03 2026
-# Total number of blocked lines: 60672
+# Ad blocking hosts generated Tue 24 Mar 22:06:04 +03 2026
+# Total number of blocked lines: 60690
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -27985,6 +27985,7 @@
 0.0.0.0	www.baiakstyle.com
 0.0.0.0	www.ballsack.org
 0.0.0.0	www.balnakiel.plus.com
+0.0.0.0	www.bandexperts.com
 0.0.0.0	www.bangbuddy.com
 0.0.0.0	www.bannerads.de
 0.0.0.0	www.bannerbackup.com
@@ -28085,6 +28086,7 @@
 0.0.0.0	www.budsinc.com
 0.0.0.0	www.buglife.com
 0.0.0.0	www.buildtraffic.com
+0.0.0.0	www.builtinfo.com
 0.0.0.0	www.bulkclicks.com
 0.0.0.0	www.bulletads.com
 0.0.0.0	www.bumerang.cc
@@ -28486,6 +28488,7 @@
 0.0.0.0	www.fischereszter.hu
 0.0.0.0	www.fishclix.com
 0.0.0.0	www.fixedshine.com
+0.0.0.0	www.fixingfast.com
 0.0.0.0	www.flagcounter.com
 0.0.0.0	www.flashadtools.com
 0.0.0.0	www.flexibleadmin.com
@@ -28876,6 +28879,7 @@
 0.0.0.0	www.lifeforminc.com
 0.0.0.0	www.lightboxcdn.com
 0.0.0.0	www.lightcontest.com
+0.0.0.0	www.lightstylist.com
 0.0.0.0	www.lijit.com
 0.0.0.0	www.likeportal.com
 0.0.0.0	www.likespike.com
@@ -29450,6 +29454,7 @@
 0.0.0.0	www.sitetagger.co.uk
 0.0.0.0	www.sitetracker.com
 0.0.0.0	www.sixsigmatraffic.com
+0.0.0.0	www.sizecart.com
 0.0.0.0	www.skassets.com
 0.0.0.0	www.skattabrain.com
 0.0.0.0	www.skegness.net
@@ -29474,6 +29479,7 @@
 0.0.0.0	www.snurrlyspin.com
 0.0.0.0	www.sochr.com
 0.0.0.0	www.sociallypublish.com
+0.0.0.0	www.softcarp.com
 0.0.0.0	www.softcha.com
 0.0.0.0	www.softmillon.com
 0.0.0.0	www.softwareadvice.com
@@ -29525,6 +29531,7 @@
 0.0.0.0	www.stickylogic.com
 0.0.0.0	www.stiffnetwork.com
 0.0.0.0	www.stihil.com
+0.0.0.0	www.stocksrate.com
 0.0.0.0	www.stopphoulplay.com
 0.0.0.0	www.stormhelix.uk
 0.0.0.0	www.storygize.net
@@ -29554,6 +29561,7 @@
 0.0.0.0	www.swallowwire.sa.com
 0.0.0.0	www.swanksoft.com
 0.0.0.0	www.sweetdominique.com
+0.0.0.0	www.sweetdreamiu.com
 0.0.0.0	www.sweetiesecrets.com
 0.0.0.0	www.sweetsforfree.com
 0.0.0.0	www.syncaccess.net
@@ -29780,6 +29788,7 @@
 0.0.0.0	www.walkthedinosaur.com
 0.0.0.0	www.wantsfly.com
 0.0.0.0	www.warrenmovers.net
+0.0.0.0	www.waterchalk.com
 0.0.0.0	www.waterchamber.com
 0.0.0.0	www.wctc.net
 0.0.0.0	www.wdm29.com
@@ -58321,6 +58330,7 @@
 ::	www.baiakstyle.com
 ::	www.ballsack.org
 ::	www.balnakiel.plus.com
+::	www.bandexperts.com
 ::	www.bangbuddy.com
 ::	www.bannerads.de
 ::	www.bannerbackup.com
@@ -58421,6 +58431,7 @@
 ::	www.budsinc.com
 ::	www.buglife.com
 ::	www.buildtraffic.com
+::	www.builtinfo.com
 ::	www.bulkclicks.com
 ::	www.bulletads.com
 ::	www.bumerang.cc
@@ -58822,6 +58833,7 @@
 ::	www.fischereszter.hu
 ::	www.fishclix.com
 ::	www.fixedshine.com
+::	www.fixingfast.com
 ::	www.flagcounter.com
 ::	www.flashadtools.com
 ::	www.flexibleadmin.com
@@ -59212,6 +59224,7 @@
 ::	www.lifeforminc.com
 ::	www.lightboxcdn.com
 ::	www.lightcontest.com
+::	www.lightstylist.com
 ::	www.lijit.com
 ::	www.likeportal.com
 ::	www.likespike.com
@@ -59786,6 +59799,7 @@
 ::	www.sitetagger.co.uk
 ::	www.sitetracker.com
 ::	www.sixsigmatraffic.com
+::	www.sizecart.com
 ::	www.skassets.com
 ::	www.skattabrain.com
 ::	www.skegness.net
@@ -59810,6 +59824,7 @@
 ::	www.snurrlyspin.com
 ::	www.sochr.com
 ::	www.sociallypublish.com
+::	www.softcarp.com
 ::	www.softcha.com
 ::	www.softmillon.com
 ::	www.softwareadvice.com
@@ -59861,6 +59876,7 @@
 ::	www.stickylogic.com
 ::	www.stiffnetwork.com
 ::	www.stihil.com
+::	www.stocksrate.com
 ::	www.stopphoulplay.com
 ::	www.stormhelix.uk
 ::	www.storygize.net
@@ -59890,6 +59906,7 @@
 ::	www.swallowwire.sa.com
 ::	www.swanksoft.com
 ::	www.sweetdominique.com
+::	www.sweetdreamiu.com
 ::	www.sweetiesecrets.com
 ::	www.sweetsforfree.com
 ::	www.syncaccess.net
@@ -60116,6 +60133,7 @@
 ::	www.walkthedinosaur.com
 ::	www.wantsfly.com
 ::	www.warrenmovers.net
+::	www.waterchalk.com
 ::	www.waterchamber.com
 ::	www.wctc.net
 ::	www.wdm29.com
