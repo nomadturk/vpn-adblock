@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 25 Mar 19:06:04 +03 2026
-# Total number of blocked lines: 60710
+# Ad blocking hosts generated Wed 25 Mar 20:06:04 +03 2026
+# Total number of blocked lines: 60714
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -15199,6 +15199,7 @@
 0.0.0.0	kampyle.com
 0.0.0.0	kanojo.fr
 0.0.0.0	kanoodle.com
+0.0.0.0	kantoexuziiv.com
 0.0.0.0	kanzlei-borchers.de
 0.0.0.0	kaprazatos.club
 0.0.0.0	karat.hu
@@ -28918,6 +28919,7 @@
 0.0.0.0	www.localytics.com
 0.0.0.0	www.lockupouseburn.com
 0.0.0.0	www.loggerx.com
+0.0.0.0	www.loginhunter.com
 0.0.0.0	www.logoradar.com
 0.0.0.0	www.lolhello.com
 0.0.0.0	www.lolshock.com
@@ -45554,6 +45556,7 @@
 ::	kampyle.com
 ::	kanojo.fr
 ::	kanoodle.com
+::	kantoexuziiv.com
 ::	kanzlei-borchers.de
 ::	kaprazatos.club
 ::	karat.hu
@@ -59273,6 +59276,7 @@
 ::	www.localytics.com
 ::	www.lockupouseburn.com
 ::	www.loggerx.com
+::	www.loginhunter.com
 ::	www.logoradar.com
 ::	www.lolhello.com
 ::	www.lolshock.com
