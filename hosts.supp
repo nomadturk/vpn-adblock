@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 25 Mar 05:06:04 +03 2026
-# Total number of blocked lines: 60706
+# Ad blocking hosts generated Wed 25 Mar 06:06:04 +03 2026
+# Total number of blocked lines: 60710
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -12128,6 +12128,7 @@
 0.0.0.0	firstrowsports.fr
 0.0.0.0	fishadz.pressflex.net
 0.0.0.0	fishclix.com
+0.0.0.0	fishingtoolsbox.com
 0.0.0.0	fi.sitestat.com
 0.0.0.0	fit4form.fr
 0.0.0.0	fitges.oewabox.at
@@ -14538,6 +14539,7 @@
 0.0.0.0	inseee.fr
 0.0.0.0	insgly.net
 0.0.0.0	insidemacgames.us.intellitxt.com
+0.0.0.0	insidepsych.net
 0.0.0.0	insiderpagescom.122.2o7.net
 0.0.0.0	insight.adsrvr.org
 0.0.0.0	insightexpressai.com
@@ -42481,6 +42483,7 @@
 ::	firstrowsports.fr
 ::	fishadz.pressflex.net
 ::	fishclix.com
+::	fishingtoolsbox.com
 ::	fi.sitestat.com
 ::	fit4form.fr
 ::	fitges.oewabox.at
@@ -44891,6 +44894,7 @@
 ::	inseee.fr
 ::	insgly.net
 ::	insidemacgames.us.intellitxt.com
+::	insidepsych.net
 ::	insiderpagescom.122.2o7.net
 ::	insight.adsrvr.org
 ::	insightexpressai.com
