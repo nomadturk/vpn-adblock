@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 26 Mar 21:06:05 +03 2026
-# Total number of blocked lines: 60720
+# Ad blocking hosts generated Thu 26 Mar 22:06:04 +03 2026
+# Total number of blocked lines: 60728
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -27918,10 +27918,12 @@
 0.0.0.0	www.alexrc.plus.com
 0.0.0.0	www.alexyastro.com
 0.0.0.0	www.algocashmaster.com
+0.0.0.0	www.alittlelewd.com
 0.0.0.0	www.allhqpics.com
 0.0.0.0	www.allosponsor.com
 0.0.0.0	www.allscrabble.com
 0.0.0.0	www.allstateproteectionplans.com
+0.0.0.0	www.allusermanual.com
 0.0.0.0	www.almondnetworks.com
 0.0.0.0	www.amazingcounters.com
 0.0.0.0	www.amazing-opportunities.info
@@ -28485,6 +28487,7 @@
 0.0.0.0	www.filezilla.fr
 0.0.0.0	www.finance-offer.com
 0.0.0.0	www.findalgorithm.com
+0.0.0.0	www.findalign.com
 0.0.0.0	www.findlobster.com
 0.0.0.0	www.fineclicks.com
 0.0.0.0	www.fingertimer.com
@@ -28975,6 +28978,7 @@
 0.0.0.0	www.medyanative.com
 0.0.0.0	www.meetic-partners.com
 0.0.0.0	www.megacounter.de
+0.0.0.0	www.megapurchase.com
 0.0.0.0	www.megastats.com
 0.0.0.0	www.megawealthbiz.com
 0.0.0.0	www.mellowads.com
@@ -58278,10 +58282,12 @@
 ::	www.alexrc.plus.com
 ::	www.alexyastro.com
 ::	www.algocashmaster.com
+::	www.alittlelewd.com
 ::	www.allhqpics.com
 ::	www.allosponsor.com
 ::	www.allscrabble.com
 ::	www.allstateproteectionplans.com
+::	www.allusermanual.com
 ::	www.almondnetworks.com
 ::	www.amazingcounters.com
 ::	www.amazing-opportunities.info
@@ -58845,6 +58851,7 @@
 ::	www.filezilla.fr
 ::	www.finance-offer.com
 ::	www.findalgorithm.com
+::	www.findalign.com
 ::	www.findlobster.com
 ::	www.fineclicks.com
 ::	www.fingertimer.com
@@ -59335,6 +59342,7 @@
 ::	www.medyanative.com
 ::	www.meetic-partners.com
 ::	www.megacounter.de
+::	www.megapurchase.com
 ::	www.megastats.com
 ::	www.megawealthbiz.com
 ::	www.mellowads.com
