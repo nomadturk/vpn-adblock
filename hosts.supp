@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 27 Mar 15:06:05 +03 2026
-# Total number of blocked lines: 60734
+# Ad blocking hosts generated Fri 27 Mar 16:06:04 +03 2026
+# Total number of blocked lines: 60736
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3445,6 +3445,7 @@
 0.0.0.0	adsrevenue.net
 0.0.0.0	ads.revjet.com
 0.0.0.0	ads.revsci.net
+0.0.0.0	ads.reward-hunt.com
 0.0.0.0	adsrich.qq.com
 0.0.0.0	ads.right-ads.com
 0.0.0.0	ads.ripoffreport.com
@@ -33812,6 +33813,7 @@
 ::	adsrevenue.net
 ::	ads.revjet.com
 ::	ads.revsci.net
+::	ads.reward-hunt.com
 ::	adsrich.qq.com
 ::	ads.right-ads.com
 ::	ads.ripoffreport.com
