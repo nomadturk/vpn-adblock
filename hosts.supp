@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 27 Mar 23:06:05 +03 2026
-# Total number of blocked lines: 60744
+# Ad blocking hosts generated Sat 28 Mar 00:06:04 +03 2026
+# Total number of blocked lines: 60748
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -28007,6 +28007,7 @@
 0.0.0.0	www.barilliance.net
 0.0.0.0	www.barjacity.com
 0.0.0.0	www.bar.ry2002.02-ry014.snpr.hotmx.hair.zaam.net
+0.0.0.0	www.basealloys.com
 0.0.0.0	www.baseequip.com
 0.0.0.0	www.bazarusmassazha.com
 0.0.0.0	www.bbelements.com
@@ -29099,6 +29100,7 @@
 0.0.0.0	www.newnorth.net
 0.0.0.0	www.news6health.com
 0.0.0.0	www.newsbreak.com
+0.0.0.0	www.newshello.com
 0.0.0.0	www.newtrees.plus.com
 0.0.0.0	www.nextgenstats.com
 0.0.0.0	www.nextlnk7.com
@@ -58379,6 +58381,7 @@
 ::	www.barilliance.net
 ::	www.barjacity.com
 ::	www.bar.ry2002.02-ry014.snpr.hotmx.hair.zaam.net
+::	www.basealloys.com
 ::	www.baseequip.com
 ::	www.bazarusmassazha.com
 ::	www.bbelements.com
@@ -59471,6 +59474,7 @@
 ::	www.newnorth.net
 ::	www.news6health.com
 ::	www.newsbreak.com
+::	www.newshello.com
 ::	www.newtrees.plus.com
 ::	www.nextgenstats.com
 ::	www.nextlnk7.com
