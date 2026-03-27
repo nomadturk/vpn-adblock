@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 27 Mar 19:06:05 +03 2026
-# Total number of blocked lines: 60736
+# Ad blocking hosts generated Fri 27 Mar 20:06:05 +03 2026
+# Total number of blocked lines: 60742
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -27743,6 +27743,7 @@
 0.0.0.0	www.acint.net
 0.0.0.0	www.acmexxx.com
 0.0.0.0	www.actiondesk.com
+0.0.0.0	www.activetrap.com
 0.0.0.0	www.ad6media.fr
 0.0.0.0	www.adadvisor.net
 0.0.0.0	www.adalyser.com
@@ -27822,6 +27823,7 @@
 0.0.0.0	www.adscampaign.com
 0.0.0.0	www.adscience.nl
 0.0.0.0	www.adsedo.com
+0.0.0.0	www.adselector.com
 0.0.0.0	www.adsensecustomsearchads.com
 0.0.0.0	www.adserver.co.il
 0.0.0.0	www.adserver.com
@@ -28326,6 +28328,7 @@
 0.0.0.0	www.cydoor.com
 0.0.0.0	www.da-ads.com
 0.0.0.0	www.dadparty.com
+0.0.0.0	www.dailyazure.com
 0.0.0.0	www.dalesnewzealand.co.nz
 0.0.0.0	www.danair.es
 0.0.0.0	www.darkrro.com
@@ -58111,6 +58114,7 @@
 ::	www.acint.net
 ::	www.acmexxx.com
 ::	www.actiondesk.com
+::	www.activetrap.com
 ::	www.ad6media.fr
 ::	www.adadvisor.net
 ::	www.adalyser.com
@@ -58190,6 +58194,7 @@
 ::	www.adscampaign.com
 ::	www.adscience.nl
 ::	www.adsedo.com
+::	www.adselector.com
 ::	www.adsensecustomsearchads.com
 ::	www.adserver.co.il
 ::	www.adserver.com
@@ -58694,6 +58699,7 @@
 ::	www.cydoor.com
 ::	www.da-ads.com
 ::	www.dadparty.com
+::	www.dailyazure.com
 ::	www.dalesnewzealand.co.nz
 ::	www.danair.es
 ::	www.darkrro.com
