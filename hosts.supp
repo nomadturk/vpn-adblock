@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 27 Mar 14:06:05 +03 2026
-# Total number of blocked lines: 60736
+# Ad blocking hosts generated Fri 27 Mar 15:06:05 +03 2026
+# Total number of blocked lines: 60734
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -17227,6 +17227,7 @@
 0.0.0.0	mittencattle.com
 0.0.0.0	mix2ads.com
 0.0.0.0	mixadvert.com
+0.0.0.0	mixedreading.com
 0.0.0.0	mixmarket.biz
 0.0.0.0	mixpanel.com
 0.0.0.0	mix-test.uts.ngdata.com
@@ -20460,7 +20461,6 @@
 0.0.0.0	pubdirecte.com
 0.0.0.0	pub.doubleverify.com
 0.0.0.0	pub.funshion.com
-0.0.0.0	pub.hardware.fr
 0.0.0.0	pubimgs.sapo.pt
 0.0.0.0	pub.lavanetwork.net
 0.0.0.0	publiads.com
@@ -20725,7 +20725,6 @@
 0.0.0.0	r7.ritikajoshi.com
 0.0.0.0	r7.romeflirt.com
 0.0.0.0	r8qs.adj.st
-0.0.0.0	raac33.net
 0.0.0.0	rabbitrifle.com
 0.0.0.0	rackforstorage.com
 0.0.0.0	radar.cedexis.com
@@ -47595,6 +47594,7 @@
 ::	mittencattle.com
 ::	mix2ads.com
 ::	mixadvert.com
+::	mixedreading.com
 ::	mixmarket.biz
 ::	mixpanel.com
 ::	mix-test.uts.ngdata.com
@@ -50828,7 +50828,6 @@
 ::	pubdirecte.com
 ::	pub.doubleverify.com
 ::	pub.funshion.com
-::	pub.hardware.fr
 ::	pubimgs.sapo.pt
 ::	pub.lavanetwork.net
 ::	publiads.com
@@ -51093,7 +51092,6 @@
 ::	r7.ritikajoshi.com
 ::	r7.romeflirt.com
 ::	r8qs.adj.st
-::	raac33.net
 ::	rabbitrifle.com
 ::	rackforstorage.com
 ::	radar.cedexis.com
