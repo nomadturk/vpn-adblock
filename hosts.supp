@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 27 Mar 03:06:05 +03 2026
-# Total number of blocked lines: 60734
+# Ad blocking hosts generated Fri 27 Mar 04:06:04 +03 2026
+# Total number of blocked lines: 60736
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -28726,6 +28726,7 @@
 0.0.0.0	www.hypeprop.com
 0.0.0.0	www.hypercounter.com
 0.0.0.0	www.hypertracker.com
+0.0.0.0	www.hypetrust.com
 0.0.0.0	www.iboard.com
 0.0.0.0	www.iccee.com
 0.0.0.0	www.icecars.com
@@ -59093,6 +59094,7 @@
 ::	www.hypeprop.com
 ::	www.hypercounter.com
 ::	www.hypertracker.com
+::	www.hypetrust.com
 ::	www.iboard.com
 ::	www.iccee.com
 ::	www.icecars.com
