@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 27 Mar 20:06:05 +03 2026
-# Total number of blocked lines: 60742
+# Ad blocking hosts generated Fri 27 Mar 21:07:48 +03 2026
+# Total number of blocked lines: 60744
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -3651,6 +3651,7 @@
 0.0.0.0	ads-t.ru
 0.0.0.0	ads.trutv.com
 0.0.0.0	ads.tso.dennisnet.co.uk
+0.0.0.0	adstub.net
 0.0.0.0	adstune.com
 0.0.0.0	ads.tunein.com
 0.0.0.0	adsturk.com
@@ -34022,6 +34023,7 @@
 ::	ads-t.ru
 ::	ads.trutv.com
 ::	ads.tso.dennisnet.co.uk
+::	adstub.net
 ::	adstune.com
 ::	ads.tunein.com
 ::	adsturk.com
