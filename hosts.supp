@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat 28 Mar 21:06:05 +03 2026
-# Total number of blocked lines: 60752
+# Ad blocking hosts generated Sat 28 Mar 22:06:04 +03 2026
+# Total number of blocked lines: 60766
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -28058,6 +28058,7 @@
 0.0.0.0	www.blockchaintop.nl
 0.0.0.0	www.blogads.com
 0.0.0.0	www.blogcatalog.com
+0.0.0.0	www.blogmaking.com
 0.0.0.0	www.blogrankers.com
 0.0.0.0	www.blogtopsites.com
 0.0.0.0	www.blossomtel.com
@@ -28183,6 +28184,7 @@
 0.0.0.0	www.cig-arrete.com
 0.0.0.0	www.civicscience.com
 0.0.0.0	www.cjkassociates.co.in
+0.0.0.0	www.claimedmoney.com
 0.0.0.0	www.claimfreerewards.com
 0.0.0.0	www.clarity.ms
 0.0.0.0	www.classifieds1000.com
@@ -28465,6 +28467,7 @@
 0.0.0.0	www.experclick.com
 0.0.0.0	www.expolearn.com
 0.0.0.0	www.expoteam.net
+0.0.0.0	www.expressmails.com
 0.0.0.0	www.exteriorteam.com
 0.0.0.0	www.extrabrick.com
 0.0.0.0	www.extreme-dm.com
@@ -28609,6 +28612,7 @@
 0.0.0.0	www.gbinnie.plus.com
 0.0.0.0	www.gcmadvertising.com
 0.0.0.0	www.gekorn.com
+0.0.0.0	www.generaldocs.com
 0.0.0.0	www.gentleshadeox.pro
 0.0.0.0	www.geolocation.performgroup.com
 0.0.0.0	www.geoplugin.net
@@ -28713,6 +28717,7 @@
 0.0.0.0	www.holika.com
 0.0.0.0	www.homeoffun.com
 0.0.0.0	www.homewares.org
+0.0.0.0	www.homininfossil.cfd
 0.0.0.0	www.hookedmediagroup.com
 0.0.0.0	www.hooqy.com
 0.0.0.0	www.hotchatdate.com
@@ -28846,6 +28851,7 @@
 0.0.0.0	www.kickassratios.com
 0.0.0.0	www.kids-in-sandbox.com
 0.0.0.0	www.kidsinsandbox.info
+0.0.0.0	www.kindnations.com
 0.0.0.0	www.kindwebdg.site
 0.0.0.0	www.kitaramarketplace.com
 0.0.0.0	www.kitaramedia.com
@@ -29615,6 +29621,7 @@
 0.0.0.0	www.td583.com
 0.0.0.0	www.teafortune.com
 0.0.0.0	www.techadvisorpro.name
+0.0.0.0	www.technocost.com
 0.0.0.0	www.teltech.hu
 0.0.0.0	www.telusplanet.net
 0.0.0.0	www.tenantbackgronudsearch.com
@@ -58434,6 +58441,7 @@
 ::	www.blockchaintop.nl
 ::	www.blogads.com
 ::	www.blogcatalog.com
+::	www.blogmaking.com
 ::	www.blogrankers.com
 ::	www.blogtopsites.com
 ::	www.blossomtel.com
@@ -58559,6 +58567,7 @@
 ::	www.cig-arrete.com
 ::	www.civicscience.com
 ::	www.cjkassociates.co.in
+::	www.claimedmoney.com
 ::	www.claimfreerewards.com
 ::	www.clarity.ms
 ::	www.classifieds1000.com
@@ -58841,6 +58850,7 @@
 ::	www.experclick.com
 ::	www.expolearn.com
 ::	www.expoteam.net
+::	www.expressmails.com
 ::	www.exteriorteam.com
 ::	www.extrabrick.com
 ::	www.extreme-dm.com
@@ -58985,6 +58995,7 @@
 ::	www.gbinnie.plus.com
 ::	www.gcmadvertising.com
 ::	www.gekorn.com
+::	www.generaldocs.com
 ::	www.gentleshadeox.pro
 ::	www.geolocation.performgroup.com
 ::	www.geoplugin.net
@@ -59089,6 +59100,7 @@
 ::	www.holika.com
 ::	www.homeoffun.com
 ::	www.homewares.org
+::	www.homininfossil.cfd
 ::	www.hookedmediagroup.com
 ::	www.hooqy.com
 ::	www.hotchatdate.com
@@ -59222,6 +59234,7 @@
 ::	www.kickassratios.com
 ::	www.kids-in-sandbox.com
 ::	www.kidsinsandbox.info
+::	www.kindnations.com
 ::	www.kindwebdg.site
 ::	www.kitaramarketplace.com
 ::	www.kitaramedia.com
@@ -59991,6 +60004,7 @@
 ::	www.td583.com
 ::	www.teafortune.com
 ::	www.techadvisorpro.name
+::	www.technocost.com
 ::	www.teltech.hu
 ::	www.telusplanet.net
 ::	www.tenantbackgronudsearch.com
