@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 30 Mar 23:06:05 +03 2026
-# Total number of blocked lines: 60790
+# Ad blocking hosts generated Tue 31 Mar 00:06:05 +03 2026
+# Total number of blocked lines: 60796
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -28465,6 +28465,7 @@
 0.0.0.0	www.everifymatch.com
 0.0.0.0	www.evidencenuker.com
 0.0.0.0	www.exactadvertising.com
+0.0.0.0	www.exactpharm.com
 0.0.0.0	www.exambased.com
 0.0.0.0	www.exchangead.com
 0.0.0.0	www.exchange-it.com
@@ -29005,6 +29006,7 @@
 0.0.0.0	www.megastats.com
 0.0.0.0	www.megawealthbiz.com
 0.0.0.0	www.mellowads.com
+0.0.0.0	www.memorieson.com
 0.0.0.0	www.merijntjeaanderijn.nl
 0.0.0.0	www.merlin.co.il
 0.0.0.0	www.merryholidays.org
@@ -29357,6 +29359,7 @@
 0.0.0.0	www.raremosssr.name
 0.0.0.0	www.reachtaxi.com
 0.0.0.0	www.readnotify.com
+0.0.0.0	www.readyviews.com
 0.0.0.0	www.realincestvideos.com
 0.0.0.0	www.realtextads.com
 0.0.0.0	www.reandrogames.com
@@ -58860,6 +58863,7 @@
 ::	www.everifymatch.com
 ::	www.evidencenuker.com
 ::	www.exactadvertising.com
+::	www.exactpharm.com
 ::	www.exambased.com
 ::	www.exchangead.com
 ::	www.exchange-it.com
@@ -59400,6 +59404,7 @@
 ::	www.megastats.com
 ::	www.megawealthbiz.com
 ::	www.mellowads.com
+::	www.memorieson.com
 ::	www.merijntjeaanderijn.nl
 ::	www.merlin.co.il
 ::	www.merryholidays.org
@@ -59752,6 +59757,7 @@
 ::	www.raremosssr.name
 ::	www.reachtaxi.com
 ::	www.readnotify.com
+::	www.readyviews.com
 ::	www.realincestvideos.com
 ::	www.realtextads.com
 ::	www.reandrogames.com
