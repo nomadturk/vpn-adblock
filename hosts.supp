@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 30 Mar 21:06:04 +03 2026
-# Total number of blocked lines: 60786
+# Ad blocking hosts generated Mon 30 Mar 22:06:04 +03 2026
+# Total number of blocked lines: 60790
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -28034,6 +28034,7 @@
 0.0.0.0	www.bettertextads.com
 0.0.0.0	www.bgbaner.com
 0.0.0.0	www.bicoinsprofit.com
+0.0.0.0	www.bicyclefan.com
 0.0.0.0	www.bidclix.com
 0.0.0.0	www.bidclix.net
 0.0.0.0	www.bidtraffic.com
@@ -29256,6 +29257,7 @@
 0.0.0.0	www.play-fever.com
 0.0.0.0	www.playroyaluk.com
 0.0.0.0	www.playtactics-hub.com
+0.0.0.0	www.pluseconomy.com
 0.0.0.0	www.pointclicktrack.com
 0.0.0.0	www.poker4spain.com
 0.0.0.0	www.poker-new.com
@@ -58427,6 +58429,7 @@
 ::	www.bettertextads.com
 ::	www.bgbaner.com
 ::	www.bicoinsprofit.com
+::	www.bicyclefan.com
 ::	www.bidclix.com
 ::	www.bidclix.net
 ::	www.bidtraffic.com
@@ -59649,6 +59652,7 @@
 ::	www.play-fever.com
 ::	www.playroyaluk.com
 ::	www.playtactics-hub.com
+::	www.pluseconomy.com
 ::	www.pointclicktrack.com
 ::	www.poker4spain.com
 ::	www.poker-new.com
