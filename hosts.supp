@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 31 Mar 19:06:04 +03 2026
-# Total number of blocked lines: 60810
+# Ad blocking hosts generated Tue 31 Mar 20:06:04 +03 2026
+# Total number of blocked lines: 60824
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -5413,6 +5413,7 @@
 0.0.0.0	app.redretarget.com
 0.0.0.0	app.reflectivedata.com
 0.0.0.0	app.roximity.com
+0.0.0.0	apps-500star.com
 0.0.0.0	apps5.oingo.com
 0.0.0.0	apps.admob.com
 0.0.0.0	apps.ad-x.co.uk
@@ -5941,6 +5942,7 @@
 0.0.0.0	ayboll.sgsrv.com
 0.0.0.0	ay.delivery
 0.0.0.0	ay.eastmoney.com
+0.0.0.0	aymxv.com
 0.0.0.0	az361816.vo.msecnd.net
 0.0.0.0	az512334.vo.msecnd.net
 0.0.0.0	az.5.p2l.info
@@ -18076,6 +18078,7 @@
 0.0.0.0	newouest.fr
 0.0.0.0	newpipe.app
 0.0.0.0	newpipe.cc
+0.0.0.0	new-ramboplay.com
 0.0.0.0	newre-conversions.clickmeter.com
 0.0.0.0	news.2xclick.ru
 0.0.0.0	news-37876-mshome.com
@@ -28360,6 +28363,7 @@
 0.0.0.0	www.davion.plus.com
 0.0.0.0	www.dayanitastore.com
 0.0.0.0	www.dealresponse.com
+0.0.0.0	www.dealsrate.com
 0.0.0.0	www.debbo.plus.com
 0.0.0.0	www.deelen-wageningen.nl
 0.0.0.0	www.deepmetrix.com
@@ -28741,6 +28745,7 @@
 0.0.0.0	www.hotgiftzone.com
 0.0.0.0	www.hotkeys.com
 0.0.0.0	www.hotranks.com
+0.0.0.0	www.hoursales.com
 0.0.0.0	www.howmanyview.com
 0.0.0.0	www.howtotroll.org
 0.0.0.0	www.hubtraffic.com
@@ -29126,6 +29131,7 @@
 0.0.0.0	www.newsbreak.com
 0.0.0.0	www.newshello.com
 0.0.0.0	www.newtrees.plus.com
+0.0.0.0	www.nextfeatures.com
 0.0.0.0	www.nextgenstats.com
 0.0.0.0	www.nextlnk7.com
 0.0.0.0	www.nextstudent.com
@@ -29535,6 +29541,7 @@
 0.0.0.0	www.softcarp.com
 0.0.0.0	www.softcha.com
 0.0.0.0	www.softmillon.com
+0.0.0.0	www.softpebble.com
 0.0.0.0	www.softwareadvice.com
 0.0.0.0	www.sourmath.com
 0.0.0.0	www.spamnuker.com
@@ -35818,6 +35825,7 @@
 ::	app.redretarget.com
 ::	app.reflectivedata.com
 ::	app.roximity.com
+::	apps-500star.com
 ::	apps5.oingo.com
 ::	apps.admob.com
 ::	apps.ad-x.co.uk
@@ -36346,6 +36354,7 @@
 ::	ayboll.sgsrv.com
 ::	ay.delivery
 ::	ay.eastmoney.com
+::	aymxv.com
 ::	az361816.vo.msecnd.net
 ::	az512334.vo.msecnd.net
 ::	az.5.p2l.info
@@ -48481,6 +48490,7 @@
 ::	newouest.fr
 ::	newpipe.app
 ::	newpipe.cc
+::	new-ramboplay.com
 ::	newre-conversions.clickmeter.com
 ::	news.2xclick.ru
 ::	news-37876-mshome.com
@@ -58765,6 +58775,7 @@
 ::	www.davion.plus.com
 ::	www.dayanitastore.com
 ::	www.dealresponse.com
+::	www.dealsrate.com
 ::	www.debbo.plus.com
 ::	www.deelen-wageningen.nl
 ::	www.deepmetrix.com
@@ -59146,6 +59157,7 @@
 ::	www.hotgiftzone.com
 ::	www.hotkeys.com
 ::	www.hotranks.com
+::	www.hoursales.com
 ::	www.howmanyview.com
 ::	www.howtotroll.org
 ::	www.hubtraffic.com
@@ -59531,6 +59543,7 @@
 ::	www.newsbreak.com
 ::	www.newshello.com
 ::	www.newtrees.plus.com
+::	www.nextfeatures.com
 ::	www.nextgenstats.com
 ::	www.nextlnk7.com
 ::	www.nextstudent.com
@@ -59940,6 +59953,7 @@
 ::	www.softcarp.com
 ::	www.softcha.com
 ::	www.softmillon.com
+::	www.softpebble.com
 ::	www.softwareadvice.com
 ::	www.sourmath.com
 ::	www.spamnuker.com
