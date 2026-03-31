@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 31 Mar 16:06:08 +03 2026
-# Total number of blocked lines: 60806
+# Ad blocking hosts generated Tue 31 Mar 17:06:05 +03 2026
+# Total number of blocked lines: 60810
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -12985,6 +12985,7 @@
 0.0.0.0	gocarrot.com
 0.0.0.0	goclick.com
 0.0.0.0	go-clicks.de
+0.0.0.0	go.clickwww.com
 0.0.0.0	gocm.c.appier.net
 0.0.0.0	go.cz.bbelements.com
 0.0.0.0	go.data1rtb.com
@@ -13030,6 +13031,7 @@
 0.0.0.0	go.oclaserver.com
 0.0.0.0	go.oclasrv.com
 0.0.0.0	goodbookbook.com
+0.0.0.0	goodcontentservice.top
 0.0.0.0	good-games.org
 0.0.0.0	goodreader.fr
 0.0.0.0	goodsp.admicro.vn
@@ -43388,6 +43390,7 @@
 ::	gocarrot.com
 ::	goclick.com
 ::	go-clicks.de
+::	go.clickwww.com
 ::	gocm.c.appier.net
 ::	go.cz.bbelements.com
 ::	go.data1rtb.com
@@ -43433,6 +43436,7 @@
 ::	go.oclaserver.com
 ::	go.oclasrv.com
 ::	goodbookbook.com
+::	goodcontentservice.top
 ::	good-games.org
 ::	goodreader.fr
 ::	goodsp.admicro.vn
