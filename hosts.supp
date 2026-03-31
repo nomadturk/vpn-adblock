@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed  1 Apr 01:06:04 +03 2026
-# Total number of blocked lines: 60824
+# Ad blocking hosts generated Wed  1 Apr 02:06:04 +03 2026
+# Total number of blocked lines: 60830
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -29164,6 +29164,7 @@
 0.0.0.0	www.octopusgirl.com
 0.0.0.0	www.odyssey.on.ca
 0.0.0.0	www.offerx.co.uk
+0.0.0.0	www.oilbasics.com
 0.0.0.0	www.oix.com
 0.0.0.0	www.ojrq.net
 0.0.0.0	www.oktrk.com
@@ -29654,6 +29655,7 @@
 0.0.0.0	www.terraclicks.com
 0.0.0.0	www.terrapops.com
 0.0.0.0	www.textbanners.net
+0.0.0.0	www.textdynamics.com
 0.0.0.0	www.text-link-ads.com
 0.0.0.0	www.textlinkads.com
 0.0.0.0	www.textsrv.com
@@ -29669,6 +29671,7 @@
 0.0.0.0	www.thefriday.net
 0.0.0.0	www.thehomo.org
 0.0.0.0	www.themacuser.org
+0.0.0.0	www.themesets.com
 0.0.0.0	www.thepornsurvey.com
 0.0.0.0	www.thepounder.com
 0.0.0.0	www.thepringlefamily.plus.com
@@ -59576,6 +59579,7 @@
 ::	www.octopusgirl.com
 ::	www.odyssey.on.ca
 ::	www.offerx.co.uk
+::	www.oilbasics.com
 ::	www.oix.com
 ::	www.ojrq.net
 ::	www.oktrk.com
@@ -60066,6 +60070,7 @@
 ::	www.terraclicks.com
 ::	www.terrapops.com
 ::	www.textbanners.net
+::	www.textdynamics.com
 ::	www.text-link-ads.com
 ::	www.textlinkads.com
 ::	www.textsrv.com
@@ -60081,6 +60086,7 @@
 ::	www.thefriday.net
 ::	www.thehomo.org
 ::	www.themacuser.org
+::	www.themesets.com
 ::	www.thepornsurvey.com
 ::	www.thepounder.com
 ::	www.thepringlefamily.plus.com
