@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 31 Mar 03:06:05 +03 2026
-# Total number of blocked lines: 60796
+# Ad blocking hosts generated Tue 31 Mar 04:06:05 +03 2026
+# Total number of blocked lines: 60804
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -27976,6 +27976,7 @@
 0.0.0.0	www.audacity.es
 0.0.0.0	www.audacity.fr
 0.0.0.0	www.audienceexposure.com
+0.0.0.0	www.auditprint.com
 0.0.0.0	www.aureate.com
 0.0.0.0	www.autohipnose.com
 0.0.0.0	www.autoinkoopbedrijf.com
@@ -28410,6 +28411,7 @@
 0.0.0.0	www.drowle.com
 0.0.0.0	www.dt1blog.com
 0.0.0.0	www.dunlop.force9.co.uk
+0.0.0.0	www.duotrader.com
 0.0.0.0	www.dutchsales.org
 0.0.0.0	www.dwclick.com
 0.0.0.0	www.dwin1.com
@@ -28457,6 +28459,7 @@
 0.0.0.0	www.e-traffic.com
 0.0.0.0	www.etraffic.com
 0.0.0.0	www.e-transfer-cra.com
+0.0.0.0	www.europelinen.com
 0.0.0.0	www.europerank.com
 0.0.0.0	www.euros4click.de
 0.0.0.0	www.eva.hi-ho.ne.jp
@@ -29840,6 +29843,7 @@
 0.0.0.0	www.walkthedinosaur.com
 0.0.0.0	www.wantsfly.com
 0.0.0.0	www.warrenmovers.net
+0.0.0.0	www.watchesnew.com
 0.0.0.0	www.waterchalk.com
 0.0.0.0	www.waterchamber.com
 0.0.0.0	www.wctc.net
@@ -58374,6 +58378,7 @@
 ::	www.audacity.es
 ::	www.audacity.fr
 ::	www.audienceexposure.com
+::	www.auditprint.com
 ::	www.aureate.com
 ::	www.autohipnose.com
 ::	www.autoinkoopbedrijf.com
@@ -58808,6 +58813,7 @@
 ::	www.drowle.com
 ::	www.dt1blog.com
 ::	www.dunlop.force9.co.uk
+::	www.duotrader.com
 ::	www.dutchsales.org
 ::	www.dwclick.com
 ::	www.dwin1.com
@@ -58855,6 +58861,7 @@
 ::	www.e-traffic.com
 ::	www.etraffic.com
 ::	www.e-transfer-cra.com
+::	www.europelinen.com
 ::	www.europerank.com
 ::	www.euros4click.de
 ::	www.eva.hi-ho.ne.jp
@@ -60238,6 +60245,7 @@
 ::	www.walkthedinosaur.com
 ::	www.wantsfly.com
 ::	www.warrenmovers.net
+::	www.watchesnew.com
 ::	www.waterchalk.com
 ::	www.waterchamber.com
 ::	www.wctc.net
