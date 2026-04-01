@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed  1 Apr 03:06:04 +03 2026
-# Total number of blocked lines: 60830
+# Ad blocking hosts generated Wed  1 Apr 04:06:04 +03 2026
+# Total number of blocked lines: 60836
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -28272,6 +28272,7 @@
 0.0.0.0	www.conversantmedia.com
 0.0.0.0	www.conversionruler.com
 0.0.0.0	www.cookingtiprewards.com
+0.0.0.0	www.cookoven.com
 0.0.0.0	www.coolconcepts.nl
 0.0.0.0	www.cool-downloads.com
 0.0.0.0	www.cool-downloads.net
@@ -28543,6 +28544,7 @@
 0.0.0.0	www.folloyu.com
 0.0.0.0	www.food-offer.com
 0.0.0.0	www.ford7.plus.com
+0.0.0.0	www.forexhelps.com
 0.0.0.0	www.forexwood.com
 0.0.0.0	www.formalcenter.com
 0.0.0.0	www.formalyzer.com
@@ -29649,6 +29651,7 @@
 0.0.0.0	www.teafortune.com
 0.0.0.0	www.techadvisorpro.name
 0.0.0.0	www.technocost.com
+0.0.0.0	www.technygrow.com
 0.0.0.0	www.teltech.hu
 0.0.0.0	www.telusplanet.net
 0.0.0.0	www.tenantbackgronudsearch.com
@@ -58687,6 +58690,7 @@
 ::	www.conversantmedia.com
 ::	www.conversionruler.com
 ::	www.cookingtiprewards.com
+::	www.cookoven.com
 ::	www.coolconcepts.nl
 ::	www.cool-downloads.com
 ::	www.cool-downloads.net
@@ -58958,6 +58962,7 @@
 ::	www.folloyu.com
 ::	www.food-offer.com
 ::	www.ford7.plus.com
+::	www.forexhelps.com
 ::	www.forexwood.com
 ::	www.formalcenter.com
 ::	www.formalyzer.com
@@ -60064,6 +60069,7 @@
 ::	www.teafortune.com
 ::	www.techadvisorpro.name
 ::	www.technocost.com
+::	www.technygrow.com
 ::	www.teltech.hu
 ::	www.telusplanet.net
 ::	www.tenantbackgronudsearch.com
