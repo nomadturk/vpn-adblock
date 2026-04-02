@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu  2 Apr 19:06:05 +03 2026
-# Total number of blocked lines: 60866
+# Ad blocking hosts generated Thu  2 Apr 20:06:05 +03 2026
+# Total number of blocked lines: 60884
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4904,6 +4904,7 @@
 0.0.0.0	a.optnmstr.com
 0.0.0.0	a.orbsrv.com
 0.0.0.0	aorta.clickagy.com
+0.0.0.0	aosldz.com
 0.0.0.0	ap101.curves.com
 0.0.0.0	apac.rel.msn.com
 0.0.0.0	apac-sg-ad-track.aralego.com
@@ -21922,6 +21923,7 @@
 0.0.0.0	scripts.webspectator.com
 0.0.0.0	script.tailsweep.com
 0.0.0.0	script.tapfiliate.com
+0.0.0.0	scr-jiebaoscore.com
 0.0.0.0	scr.kliksaya.com
 0.0.0.0	scrollbelow.com
 0.0.0.0	scrollingads.hustlermegapass.com
@@ -22600,6 +22602,7 @@
 0.0.0.0	shrek.6.cn
 0.0.0.0	shrillspoon.com
 0.0.0.0	shrimpsqueezed.com
+0.0.0.0	shrsgame.com
 0.0.0.0	shulugoo.net
 0.0.0.0	shxtrk.com
 0.0.0.0	si.2.cqcounter.com
@@ -24859,6 +24862,7 @@
 0.0.0.0	tinybluewhale.com
 0.0.0.0	tinytendency.com
 0.0.0.0	tiplanet.fr
+0.0.0.0	tip-leisusports.com
 0.0.0.0	tips.oewabox.at
 0.0.0.0	tipsurf.com
 0.0.0.0	tiqcdn.com
@@ -25790,6 +25794,7 @@
 0.0.0.0	t.vi-serve.com
 0.0.0.0	t.visit.disneydestinations.com
 0.0.0.0	t.visitorqueue.com
+0.0.0.0	tv-jiangnantiyu.com
 0.0.0.0	tvn.adocean.pl
 0.0.0.0	tvn.hit.gemius.pl
 0.0.0.0	tv-now.us.intellitxt.com
@@ -26075,6 +26080,7 @@
 0.0.0.0	update.adsrvr.org
 0.0.0.0	updateapps.net
 0.0.0.0	updateauto.preparevideosafesystem4unow.space
+0.0.0.0	update-expiry-notification-report.appwrite.network
 0.0.0.0	update.hiconversion.com
 0.0.0.0	update.indexww.com
 0.0.0.0	update-java.kit.net
@@ -26783,6 +26789,7 @@
 0.0.0.0	vst.c.appier.net
 0.0.0.0	vstvstsa.com
 0.0.0.0	v-support.free.bg
+0.0.0.0	vs-wending.com
 0.0.0.0	vt.5.p2l.info
 0.0.0.0	vt.adition.com
 0.0.0.0	vte.nexteramedia.com
@@ -27946,6 +27953,7 @@
 0.0.0.0	www.almondnetworks.com
 0.0.0.0	www.amazingcounters.com
 0.0.0.0	www.amazing-opportunities.info
+0.0.0.0	www.amintart.com
 0.0.0.0	www.amomales.com
 0.0.0.0	www.analyticsb2c.com
 0.0.0.0	www.anastasiasaffiliate.com
@@ -30396,6 +30404,7 @@
 0.0.0.0	ziphoumt.net
 0.0.0.0	zippingcare.com
 0.0.0.0	z.irs01.com
+0.0.0.0	zjchao.com
 0.0.0.0	zj.dcys.ijinshan.com
 0.0.0.0	zkustats.ziraatkatilim.com.tr
 0.0.0.0	zlhoteckelinie.wz.cz
@@ -35337,6 +35346,7 @@
 ::	a.optnmstr.com
 ::	a.orbsrv.com
 ::	aorta.clickagy.com
+::	aosldz.com
 ::	ap101.curves.com
 ::	apac.rel.msn.com
 ::	apac-sg-ad-track.aralego.com
@@ -52355,6 +52365,7 @@
 ::	scripts.webspectator.com
 ::	script.tailsweep.com
 ::	script.tapfiliate.com
+::	scr-jiebaoscore.com
 ::	scr.kliksaya.com
 ::	scrollbelow.com
 ::	scrollingads.hustlermegapass.com
@@ -53033,6 +53044,7 @@
 ::	shrek.6.cn
 ::	shrillspoon.com
 ::	shrimpsqueezed.com
+::	shrsgame.com
 ::	shulugoo.net
 ::	shxtrk.com
 ::	si.2.cqcounter.com
@@ -55292,6 +55304,7 @@
 ::	tinybluewhale.com
 ::	tinytendency.com
 ::	tiplanet.fr
+::	tip-leisusports.com
 ::	tips.oewabox.at
 ::	tipsurf.com
 ::	tiqcdn.com
@@ -56223,6 +56236,7 @@
 ::	t.vi-serve.com
 ::	t.visit.disneydestinations.com
 ::	t.visitorqueue.com
+::	tv-jiangnantiyu.com
 ::	tvn.adocean.pl
 ::	tvn.hit.gemius.pl
 ::	tv-now.us.intellitxt.com
@@ -56508,6 +56522,7 @@
 ::	update.adsrvr.org
 ::	updateapps.net
 ::	updateauto.preparevideosafesystem4unow.space
+::	update-expiry-notification-report.appwrite.network
 ::	update.hiconversion.com
 ::	update.indexww.com
 ::	update-java.kit.net
@@ -57216,6 +57231,7 @@
 ::	vst.c.appier.net
 ::	vstvstsa.com
 ::	v-support.free.bg
+::	vs-wending.com
 ::	vt.5.p2l.info
 ::	vt.adition.com
 ::	vte.nexteramedia.com
@@ -58379,6 +58395,7 @@
 ::	www.almondnetworks.com
 ::	www.amazingcounters.com
 ::	www.amazing-opportunities.info
+::	www.amintart.com
 ::	www.amomales.com
 ::	www.analyticsb2c.com
 ::	www.anastasiasaffiliate.com
@@ -60829,6 +60846,7 @@
 ::	ziphoumt.net
 ::	zippingcare.com
 ::	z.irs01.com
+::	zjchao.com
 ::	zj.dcys.ijinshan.com
 ::	zkustats.ziraatkatilim.com.tr
 ::	zlhoteckelinie.wz.cz
