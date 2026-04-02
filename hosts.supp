@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu  2 Apr 23:06:05 +03 2026
-# Total number of blocked lines: 60884
+# Ad blocking hosts generated Fri  3 Apr 00:06:05 +03 2026
+# Total number of blocked lines: 60892
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -27930,6 +27930,7 @@
 0.0.0.0	www.afgr1.com
 0.0.0.0	www.afterdownload.com
 0.0.0.0	www.agkn.com
+0.0.0.0	www.agreementnow.com
 0.0.0.0	www.agt.net
 0.0.0.0	www.aim4media.com
 0.0.0.0	www.airfrance.life
@@ -28017,6 +28018,7 @@
 0.0.0.0	www.baba-t.com
 0.0.0.0	www.badassjv.com
 0.0.0.0	www.bagslap.com
+0.0.0.0	www.bahartonu.com
 0.0.0.0	www.baiakstyle.com
 0.0.0.0	www.ballsack.org
 0.0.0.0	www.balnakiel.plus.com
@@ -29135,6 +29137,7 @@
 0.0.0.0	www.ndbsoft.be
 0.0.0.0	www.ndparking.com
 0.0.0.0	www.nearbyad.com
+0.0.0.0	www.nearestsalon.com
 0.0.0.0	www.nebulus30.plus.com
 0.0.0.0	www.nedstat.com
 0.0.0.0	www.needadvertising.com
@@ -29519,6 +29522,7 @@
 0.0.0.0	www.shoppingjobshere.com
 0.0.0.0	www.shoppingminds.net
 0.0.0.0	www.shopping-offer.com
+0.0.0.0	www.shopvisitors.com
 0.0.0.0	www.shorthouse.com
 0.0.0.0	www.showcaserealestate.net
 0.0.0.0	www.sidneyman.com
@@ -58372,6 +58376,7 @@
 ::	www.afgr1.com
 ::	www.afterdownload.com
 ::	www.agkn.com
+::	www.agreementnow.com
 ::	www.agt.net
 ::	www.aim4media.com
 ::	www.airfrance.life
@@ -58459,6 +58464,7 @@
 ::	www.baba-t.com
 ::	www.badassjv.com
 ::	www.bagslap.com
+::	www.bahartonu.com
 ::	www.baiakstyle.com
 ::	www.ballsack.org
 ::	www.balnakiel.plus.com
@@ -59577,6 +59583,7 @@
 ::	www.ndbsoft.be
 ::	www.ndparking.com
 ::	www.nearbyad.com
+::	www.nearestsalon.com
 ::	www.nebulus30.plus.com
 ::	www.nedstat.com
 ::	www.needadvertising.com
@@ -59961,6 +59968,7 @@
 ::	www.shoppingjobshere.com
 ::	www.shoppingminds.net
 ::	www.shopping-offer.com
+::	www.shopvisitors.com
 ::	www.shorthouse.com
 ::	www.showcaserealestate.net
 ::	www.sidneyman.com
