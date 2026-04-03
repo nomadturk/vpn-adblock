@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri  3 Apr 03:06:05 +03 2026
-# Total number of blocked lines: 60892
+# Ad blocking hosts generated Fri  3 Apr 04:06:05 +03 2026
+# Total number of blocked lines: 60894
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4143,6 +4143,7 @@
 0.0.0.0	a.environmentaldefense.org
 0.0.0.0	aerialapps.com
 0.0.0.0	aerserv.com
+0.0.0.0	aesthetist.org
 0.0.0.0	a.et.nytimes.com
 0.0.0.0	aetv.112.2o7.net
 0.0.0.0	aetv.tt.omtrdc.net
@@ -34589,6 +34590,7 @@
 ::	a.environmentaldefense.org
 ::	aerialapps.com
 ::	aerserv.com
+::	aesthetist.org
 ::	a.et.nytimes.com
 ::	aetv.112.2o7.net
 ::	aetv.tt.omtrdc.net
