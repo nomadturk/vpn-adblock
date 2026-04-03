@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri  3 Apr 14:06:05 +03 2026
-# Total number of blocked lines: 60894
+# Ad blocking hosts generated Fri  3 Apr 15:06:05 +03 2026
+# Total number of blocked lines: 60892
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2096,7 +2096,6 @@
 0.0.0.0	ads2.vasmg.com
 0.0.0.0	ads2.virtual-nights.com
 0.0.0.0	ads2.vortexmediagroup.com
-0.0.0.0	ads2.webdrive.no
 0.0.0.0	ads2.weblogssl.com
 0.0.0.0	ads2.xnet.cz
 0.0.0.0	ads2.zeusclicks.com
@@ -3953,7 +3952,6 @@
 0.0.0.0	advertipros.com
 0.0.0.0	advertise.bingads.microsoft.com
 0.0.0.0	advertise.com
-0.0.0.0	advertiseireland.com
 0.0.0.0	advertise.ldplayer.net
 0.0.0.0	advertisement.avosapps.us
 0.0.0.0	advertisementnl.112.2o7.net
@@ -20476,6 +20474,7 @@
 0.0.0.0	pubdirecte.com
 0.0.0.0	pub.doubleverify.com
 0.0.0.0	pub.funshion.com
+0.0.0.0	pub.hardware.fr
 0.0.0.0	pubimgs.sapo.pt
 0.0.0.0	pub.lavanetwork.net
 0.0.0.0	publiads.com
@@ -32543,7 +32542,6 @@
 ::	ads2.vasmg.com
 ::	ads2.virtual-nights.com
 ::	ads2.vortexmediagroup.com
-::	ads2.webdrive.no
 ::	ads2.weblogssl.com
 ::	ads2.xnet.cz
 ::	ads2.zeusclicks.com
@@ -34400,7 +34398,6 @@
 ::	advertipros.com
 ::	advertise.bingads.microsoft.com
 ::	advertise.com
-::	advertiseireland.com
 ::	advertise.ldplayer.net
 ::	advertisement.avosapps.us
 ::	advertisementnl.112.2o7.net
@@ -50923,6 +50920,7 @@
 ::	pubdirecte.com
 ::	pub.doubleverify.com
 ::	pub.funshion.com
+::	pub.hardware.fr
 ::	pubimgs.sapo.pt
 ::	pub.lavanetwork.net
 ::	publiads.com
