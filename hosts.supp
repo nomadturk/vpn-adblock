@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat  4 Apr 23:06:04 +03 2026
-# Total number of blocked lines: 60900
+# Ad blocking hosts generated Sun  5 Apr 00:06:05 +03 2026
+# Total number of blocked lines: 60904
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -28154,6 +28154,7 @@
 0.0.0.0	www.cadaver.org
 0.0.0.0	www.cadvision.com
 0.0.0.0	www.cafecoquin.com
+0.0.0.0	www.calmde.com
 0.0.0.0	www.calmdockpb.name
 0.0.0.0	www.calnanflack.com
 0.0.0.0	www.cam4.fr
@@ -28187,6 +28188,7 @@
 0.0.0.0	www.cassink.com
 0.0.0.0	www.catabcde.com
 0.0.0.0	www.cati.com.tw
+0.0.0.0	www.catjre.com
 0.0.0.0	www.cbeckads.com
 0.0.0.0	www.cbproads.com
 0.0.0.0	www.ccmiocw.com
@@ -58604,6 +58606,7 @@
 ::	www.cadaver.org
 ::	www.cadvision.com
 ::	www.cafecoquin.com
+::	www.calmde.com
 ::	www.calmdockpb.name
 ::	www.calnanflack.com
 ::	www.cam4.fr
@@ -58637,6 +58640,7 @@
 ::	www.cassink.com
 ::	www.catabcde.com
 ::	www.cati.com.tw
+::	www.catjre.com
 ::	www.cbeckads.com
 ::	www.cbproads.com
 ::	www.ccmiocw.com
