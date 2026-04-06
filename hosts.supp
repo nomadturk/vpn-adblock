@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon  6 Apr 17:06:05 +03 2026
-# Total number of blocked lines: 60904
+# Ad blocking hosts generated Mon  6 Apr 18:06:04 +03 2026
+# Total number of blocked lines: 60908
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -28644,6 +28644,7 @@
 0.0.0.0	www.gadgetbonanzamarket.com
 0.0.0.0	www.gainwintz.com
 0.0.0.0	www.game-advertising-online.com
+0.0.0.0	www.gamemeltbe.com
 0.0.0.0	www.gameplaylabs.com
 0.0.0.0	www.gameqnt.com
 0.0.0.0	www.gamersigns.com
@@ -29167,6 +29168,7 @@
 0.0.0.0	www.ngads.com
 0.0.0.0	www.nimp.org
 0.0.0.0	www.ninjadollars.com
+0.0.0.0	www.nnews.net
 0.0.0.0	www.nobetsjustfun.com
 0.0.0.0	www.nobrain.dk
 0.0.0.0	www.noowho.com
@@ -59096,6 +59098,7 @@
 ::	www.gadgetbonanzamarket.com
 ::	www.gainwintz.com
 ::	www.game-advertising-online.com
+::	www.gamemeltbe.com
 ::	www.gameplaylabs.com
 ::	www.gameqnt.com
 ::	www.gamersigns.com
@@ -59619,6 +59622,7 @@
 ::	www.ngads.com
 ::	www.nimp.org
 ::	www.ninjadollars.com
+::	www.nnews.net
 ::	www.nobetsjustfun.com
 ::	www.nobrain.dk
 ::	www.noowho.com
