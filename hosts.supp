@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue  7 Apr 01:06:05 +03 2026
-# Total number of blocked lines: 60908
+# Ad blocking hosts generated Tue  7 Apr 02:06:05 +03 2026
+# Total number of blocked lines: 60914
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -434,6 +434,7 @@
 0.0.0.0	55.2myip.com
 0.0.0.0	5548155.fls.doubleclick.net
 0.0.0.0	5582200.fls.doubleclick.net
+0.0.0.0	5.59.249.154
 0.0.0.0	55995-519009.link.iwanttodeliver.com
 0.0.0.0	5726.bapi.adsafeprotected.com
 0.0.0.0	5-7-3-ios.userflows.ingest.crittercism.com
@@ -28561,6 +28562,7 @@
 0.0.0.0	www.flu23.com
 0.0.0.0	www.fluffyappyp.com
 0.0.0.0	www.fluidfiber.com
+0.0.0.0	www.flydrivenest.com
 0.0.0.0	www.flyingcroc.com
 0.0.0.0	www.fmoviehd.com
 0.0.0.0	www.fncash.com
@@ -28644,6 +28646,7 @@
 0.0.0.0	www.gadgetbonanzamarket.com
 0.0.0.0	www.gainwintz.com
 0.0.0.0	www.game-advertising-online.com
+0.0.0.0	www.gamelthae.com
 0.0.0.0	www.gamemeltbe.com
 0.0.0.0	www.gameplaylabs.com
 0.0.0.0	www.gameqnt.com
@@ -30888,6 +30891,7 @@
 ::	55.2myip.com
 ::	5548155.fls.doubleclick.net
 ::	5582200.fls.doubleclick.net
+::	5.59.249.154
 ::	55995-519009.link.iwanttodeliver.com
 ::	5726.bapi.adsafeprotected.com
 ::	5-7-3-ios.userflows.ingest.crittercism.com
@@ -59015,6 +59019,7 @@
 ::	www.flu23.com
 ::	www.fluffyappyp.com
 ::	www.fluidfiber.com
+::	www.flydrivenest.com
 ::	www.flyingcroc.com
 ::	www.fmoviehd.com
 ::	www.fncash.com
@@ -59098,6 +59103,7 @@
 ::	www.gadgetbonanzamarket.com
 ::	www.gainwintz.com
 ::	www.game-advertising-online.com
+::	www.gamelthae.com
 ::	www.gamemeltbe.com
 ::	www.gameplaylabs.com
 ::	www.gameqnt.com
