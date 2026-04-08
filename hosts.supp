@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed  8 Apr 14:06:04 +03 2026
-# Total number of blocked lines: 60952
+# Ad blocking hosts generated Wed  8 Apr 15:06:05 +03 2026
+# Total number of blocked lines: 60960
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -1760,6 +1760,7 @@
 0.0.0.0	admin.hotkeys.com
 0.0.0.0	admin.iovation.com
 0.0.0.0	adminshop.com
+0.0.0.0	ad.missena.io
 0.0.0.0	admitad.com
 0.0.0.0	admixer.co.kr
 0.0.0.0	admixer.net
@@ -4496,6 +4497,7 @@
 0.0.0.0	ameritradeogilvy.112.2o7.net
 0.0.0.0	amer.rel.msn.com
 0.0.0.0	a.mgid.com
+0.0.0.0	amidsttruly.com
 0.0.0.0	a.mktw.net
 0.0.0.0	am-match.taboola.com
 0.0.0.0	amoad.com
@@ -13066,6 +13068,7 @@
 0.0.0.0	goplayz.com
 0.0.0.0	go.pl.bbelements.com
 0.0.0.0	go.pub2srv.com
+0.0.0.0	goqon.com
 0.0.0.0	gorange.fr
 0.0.0.0	go-rank.de
 0.0.0.0	go.realvu.net
@@ -21205,6 +21208,7 @@
 0.0.0.0	revid.centech.glulive.com
 0.0.0.0	reviewcentrecom.skimlinks.com
 0.0.0.0	reviews.domainplayersclub.com
+0.0.0.0	rev.iq
 0.0.0.0	revive.haskovo.net
 0.0.0.0	revive.netriota.hu
 0.0.0.0	revive.plays.bg
@@ -32236,6 +32240,7 @@
 ::	admin.hotkeys.com
 ::	admin.iovation.com
 ::	adminshop.com
+::	ad.missena.io
 ::	admitad.com
 ::	admixer.co.kr
 ::	admixer.net
@@ -34972,6 +34977,7 @@
 ::	ameritradeogilvy.112.2o7.net
 ::	amer.rel.msn.com
 ::	a.mgid.com
+::	amidsttruly.com
 ::	a.mktw.net
 ::	am-match.taboola.com
 ::	amoad.com
@@ -43542,6 +43548,7 @@
 ::	goplayz.com
 ::	go.pl.bbelements.com
 ::	go.pub2srv.com
+::	goqon.com
 ::	gorange.fr
 ::	go-rank.de
 ::	go.realvu.net
@@ -51681,6 +51688,7 @@
 ::	revid.centech.glulive.com
 ::	reviewcentrecom.skimlinks.com
 ::	reviews.domainplayersclub.com
+::	rev.iq
 ::	revive.haskovo.net
 ::	revive.netriota.hu
 ::	revive.plays.bg
