@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed  8 Apr 21:06:05 +03 2026
-# Total number of blocked lines: 60960
+# Ad blocking hosts generated Wed  8 Apr 22:06:05 +03 2026
+# Total number of blocked lines: 60972
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -13275,6 +13275,7 @@
 0.0.0.0	gtb5.acecounter.com
 0.0.0.0	gtcc1.acecounter.com
 0.0.0.0	g.thinktarget.com
+0.0.0.0	gtiruto.shop
 0.0.0.0	gtm04.nexac.com
 0.0.0.0	gtmedia.us.intellitxt.com
 0.0.0.0	gtm.flo.com.tr
@@ -21741,6 +21742,7 @@
 0.0.0.0	sanalytics.tbs.com
 0.0.0.0	sanalytics.verizon.com
 0.0.0.0	sanalytics.verizonwireless.com
+0.0.0.0	sanbuzs.com
 0.0.0.0	sandbox.tinypass.com
 0.0.0.0	sanity-dataplane.rudderstack.com
 0.0.0.0	san.push.io.edgekey.net
@@ -25866,6 +25868,7 @@
 0.0.0.0	typicalteeth.com
 0.0.0.0	tyroo.com
 0.0.0.0	tz284.com
+0.0.0.0	tzmqyj.com
 0.0.0.0	t.zqtk.net
 0.0.0.0	u0.extreme-dm.com
 0.0.0.0	u10506.19.spylog.com
@@ -29660,6 +29663,7 @@
 0.0.0.0	www.studiomugnaini.eu
 0.0.0.0	www.studioorientbay.com
 0.0.0.0	www.stylistnet.com
+0.0.0.0	www.styxwise.com
 0.0.0.0	www.subsitesadserver.co.uk
 0.0.0.0	www.subwayfast.com
 0.0.0.0	www.suckdude.com
@@ -30013,6 +30017,7 @@
 0.0.0.0	www.yieldmanager.net
 0.0.0.0	www.yieldpartners.com
 0.0.0.0	www.yieldtraffic.com
+0.0.0.0	www.yodobashi.com
 0.0.0.0	www.youaresogay.com
 0.0.0.0	www.youfck.com
 0.0.0.0	www.youfiletor.com
@@ -30156,6 +30161,7 @@
 0.0.0.0	xmlserving.mobagent.com
 0.0.0.0	xml.yepmedia.com
 0.0.0.0	x.mochiads.com
+0.0.0.0	xmssxx.com
 0.0.0.0	xmtvreklam3d.com
 0.0.0.0	xn--80afden1bnch4a.xn--p1ai
 0.0.0.0	xngqoc.com
@@ -43755,6 +43761,7 @@
 ::	gtb5.acecounter.com
 ::	gtcc1.acecounter.com
 ::	g.thinktarget.com
+::	gtiruto.shop
 ::	gtm04.nexac.com
 ::	gtmedia.us.intellitxt.com
 ::	gtm.flo.com.tr
@@ -52221,6 +52228,7 @@
 ::	sanalytics.tbs.com
 ::	sanalytics.verizon.com
 ::	sanalytics.verizonwireless.com
+::	sanbuzs.com
 ::	sandbox.tinypass.com
 ::	sanity-dataplane.rudderstack.com
 ::	san.push.io.edgekey.net
@@ -56346,6 +56354,7 @@
 ::	typicalteeth.com
 ::	tyroo.com
 ::	tz284.com
+::	tzmqyj.com
 ::	t.zqtk.net
 ::	u0.extreme-dm.com
 ::	u10506.19.spylog.com
@@ -60140,6 +60149,7 @@
 ::	www.studiomugnaini.eu
 ::	www.studioorientbay.com
 ::	www.stylistnet.com
+::	www.styxwise.com
 ::	www.subsitesadserver.co.uk
 ::	www.subwayfast.com
 ::	www.suckdude.com
@@ -60493,6 +60503,7 @@
 ::	www.yieldmanager.net
 ::	www.yieldpartners.com
 ::	www.yieldtraffic.com
+::	www.yodobashi.com
 ::	www.youaresogay.com
 ::	www.youfck.com
 ::	www.youfiletor.com
@@ -60636,6 +60647,7 @@
 ::	xmlserving.mobagent.com
 ::	xml.yepmedia.com
 ::	x.mochiads.com
+::	xmssxx.com
 ::	xmtvreklam3d.com
 ::	xn--80afden1bnch4a.xn--p1ai
 ::	xngqoc.com
