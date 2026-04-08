@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed  8 Apr 05:06:05 +03 2026
-# Total number of blocked lines: 60948
+# Ad blocking hosts generated Wed  8 Apr 06:06:05 +03 2026
+# Total number of blocked lines: 60952
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -15694,6 +15694,7 @@
 0.0.0.0	l-histoire.fr
 0.0.0.0	lh.limosiwooable.com
 0.0.0.0	l.hrzn-nxt.com
+0.0.0.0	lhycc.com
 0.0.0.0	liadm.com
 0.0.0.0	li.alibris.com
 0.0.0.0	li.azstarnet.com
@@ -30336,6 +30337,7 @@
 0.0.0.0	yummyfoodallover.com
 0.0.0.0	yves-rocker.fr
 0.0.0.0	yx-in-f108.1e100.net
+0.0.0.0	yyanluo.com
 0.0.0.0	z0.extreme-dm.com
 0.0.0.0	z1.adserver.com
 0.0.0.0	z1.extreme-dm.com
@@ -46168,6 +46170,7 @@
 ::	l-histoire.fr
 ::	lh.limosiwooable.com
 ::	l.hrzn-nxt.com
+::	lhycc.com
 ::	liadm.com
 ::	li.alibris.com
 ::	li.azstarnet.com
@@ -60810,6 +60813,7 @@
 ::	yummyfoodallover.com
 ::	yves-rocker.fr
 ::	yx-in-f108.1e100.net
+::	yyanluo.com
 ::	z0.extreme-dm.com
 ::	z1.adserver.com
 ::	z1.extreme-dm.com
