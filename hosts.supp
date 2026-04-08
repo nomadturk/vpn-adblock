@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed  8 Apr 23:06:05 +03 2026
-# Total number of blocked lines: 60972
+# Ad blocking hosts generated Thu  9 Apr 00:06:05 +03 2026
+# Total number of blocked lines: 60978
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -15327,6 +15327,7 @@
 0.0.0.0	klog.hiido.com
 0.0.0.0	klove.fr
 0.0.0.0	klowns4phun.com
+0.0.0.0	kluspro.com
 0.0.0.0	knac.us.intellitxt.com
 0.0.0.0	knc.lv
 0.0.0.0	knitstamp.com
@@ -28666,6 +28667,7 @@
 0.0.0.0	www.gainwintz.com
 0.0.0.0	www.game-advertising-online.com
 0.0.0.0	www.gamelthae.com
+0.0.0.0	www.gameltjae.com
 0.0.0.0	www.gamemeltbe.com
 0.0.0.0	www.gameplaylabs.com
 0.0.0.0	www.gameqnt.com
@@ -29937,6 +29939,7 @@
 0.0.0.0	www.websitepromoten.be
 0.0.0.0	www.webspectator.com
 0.0.0.0	www.websponsors.com
+0.0.0.0	www.websrruss.com
 0.0.0.0	www.web-stat.com
 0.0.0.0	www.webstat.com
 0.0.0.0	www.webstats4u.com
@@ -45813,6 +45816,7 @@
 ::	klog.hiido.com
 ::	klove.fr
 ::	klowns4phun.com
+::	kluspro.com
 ::	knac.us.intellitxt.com
 ::	knc.lv
 ::	knitstamp.com
@@ -59152,6 +59156,7 @@
 ::	www.gainwintz.com
 ::	www.game-advertising-online.com
 ::	www.gamelthae.com
+::	www.gameltjae.com
 ::	www.gamemeltbe.com
 ::	www.gameplaylabs.com
 ::	www.gameqnt.com
@@ -60423,6 +60428,7 @@
 ::	www.websitepromoten.be
 ::	www.webspectator.com
 ::	www.websponsors.com
+::	www.websrruss.com
 ::	www.web-stat.com
 ::	www.webstat.com
 ::	www.webstats4u.com
