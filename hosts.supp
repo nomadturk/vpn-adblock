@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu  9 Apr 19:06:04 +03 2026
-# Total number of blocked lines: 60984
+# Ad blocking hosts generated Thu  9 Apr 20:06:05 +03 2026
+# Total number of blocked lines: 60998
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -14515,6 +14515,7 @@
 0.0.0.0	in.hotjar.com
 0.0.0.0	inhousedsp.com
 0.0.0.0	inimage.carambo.la
+0.0.0.0	init-kqt.com
 0.0.0.0	init.sms.mob.com
 0.0.0.0	init.startappexchange.com
 0.0.0.0	init.startappservice.com
@@ -28413,6 +28414,7 @@
 0.0.0.0	www.debbo.plus.com
 0.0.0.0	www.deelen-wageningen.nl
 0.0.0.0	www.deepmetrix.com
+0.0.0.0	www.defailermu.com
 0.0.0.0	www.defaultinternet.com
 0.0.0.0	www.dejamesertuvoz.com
 0.0.0.0	www.delton.com
@@ -28420,6 +28422,7 @@
 0.0.0.0	www.deperiodista.com
 0.0.0.0	www.derekrjones.plus.com
 0.0.0.0	www.designbloxlive.com
+0.0.0.0	www.desirymart.com
 0.0.0.0	www.destinationurl.com
 0.0.0.0	www.detroithardcore.com
 0.0.0.0	www.devenney.plus.com
@@ -28822,6 +28825,7 @@
 0.0.0.0	www.idealcasino.net
 0.0.0.0	www.idirect.com
 0.0.0.0	www.iejonline.com
+0.0.0.0	www.iepelnazareno.com
 0.0.0.0	www.iesnare.com
 0.0.0.0	www.iesnare.co.uk
 0.0.0.0	www.ifileyou.com
@@ -28852,6 +28856,7 @@
 0.0.0.0	www.infotelsrl.com
 0.0.0.0	www.inkscape.es
 0.0.0.0	www.inkscape.fr
+0.0.0.0	www.inpicklenaton.com
 0.0.0.0	www.insightexpress.com
 0.0.0.0	www.inskinad.com
 0.0.0.0	www.instantcross.com
@@ -29205,6 +29210,7 @@
 0.0.0.0	www.notepad2.com
 0.0.0.0	www.novelsys.co
 0.0.0.0	www.novemberrainx.com
+0.0.0.0	www.novosantiago.com
 0.0.0.0	www.nowreact.com
 0.0.0.0	www.nozawashoten.com
 0.0.0.0	www.npttech.com
@@ -29607,6 +29613,7 @@
 0.0.0.0	www.softmillon.com
 0.0.0.0	www.softpebble.com
 0.0.0.0	www.softwareadvice.com
+0.0.0.0	www.sohailpc.com
 0.0.0.0	www.sourmath.com
 0.0.0.0	www.spamnuker.com
 0.0.0.0	www.specialstat.com
@@ -45007,6 +45014,7 @@
 ::	in.hotjar.com
 ::	inhousedsp.com
 ::	inimage.carambo.la
+::	init-kqt.com
 ::	init.sms.mob.com
 ::	init.startappexchange.com
 ::	init.startappservice.com
@@ -58905,6 +58913,7 @@
 ::	www.debbo.plus.com
 ::	www.deelen-wageningen.nl
 ::	www.deepmetrix.com
+::	www.defailermu.com
 ::	www.defaultinternet.com
 ::	www.dejamesertuvoz.com
 ::	www.delton.com
@@ -58912,6 +58921,7 @@
 ::	www.deperiodista.com
 ::	www.derekrjones.plus.com
 ::	www.designbloxlive.com
+::	www.desirymart.com
 ::	www.destinationurl.com
 ::	www.detroithardcore.com
 ::	www.devenney.plus.com
@@ -59314,6 +59324,7 @@
 ::	www.idealcasino.net
 ::	www.idirect.com
 ::	www.iejonline.com
+::	www.iepelnazareno.com
 ::	www.iesnare.com
 ::	www.iesnare.co.uk
 ::	www.ifileyou.com
@@ -59344,6 +59355,7 @@
 ::	www.infotelsrl.com
 ::	www.inkscape.es
 ::	www.inkscape.fr
+::	www.inpicklenaton.com
 ::	www.insightexpress.com
 ::	www.inskinad.com
 ::	www.instantcross.com
@@ -59697,6 +59709,7 @@
 ::	www.notepad2.com
 ::	www.novelsys.co
 ::	www.novemberrainx.com
+::	www.novosantiago.com
 ::	www.nowreact.com
 ::	www.nozawashoten.com
 ::	www.npttech.com
@@ -60099,6 +60112,7 @@
 ::	www.softmillon.com
 ::	www.softpebble.com
 ::	www.softwareadvice.com
+::	www.sohailpc.com
 ::	www.sourmath.com
 ::	www.spamnuker.com
 ::	www.specialstat.com
