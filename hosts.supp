@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu  9 Apr 16:06:05 +03 2026
-# Total number of blocked lines: 60980
+# Ad blocking hosts generated Thu  9 Apr 17:06:05 +03 2026
+# Total number of blocked lines: 60984
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -959,6 +959,7 @@
 0.0.0.0	acuityads.com
 0.0.0.0	acuityplatform.com
 0.0.0.0	aculo.fr
+0.0.0.0	acustomizedgift.com
 0.0.0.0	a.custompc.co.uk
 0.0.0.0	ac-versdailles.fr
 0.0.0.0	acvs.mediaonenetwork.net
@@ -17863,6 +17864,7 @@
 0.0.0.0	naissaance.fr
 0.0.0.0	najlepszedlaciebie.com
 0.0.0.0	naj.sk
+0.0.0.0	nakedly.ai
 0.0.0.0	nakladatelstvi-brazda.wz.cz
 0.0.0.0	nakshatra.northeastrail.info
 0.0.0.0	nameketathar.pro
@@ -31449,6 +31451,7 @@
 ::	acuityads.com
 ::	acuityplatform.com
 ::	aculo.fr
+::	acustomizedgift.com
 ::	a.custompc.co.uk
 ::	ac-versdailles.fr
 ::	acvs.mediaonenetwork.net
@@ -48353,6 +48356,7 @@
 ::	naissaance.fr
 ::	najlepszedlaciebie.com
 ::	naj.sk
+::	nakedly.ai
 ::	nakladatelstvi-brazda.wz.cz
 ::	nakshatra.northeastrail.info
 ::	nameketathar.pro
