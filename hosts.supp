@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu  9 Apr 23:06:05 +03 2026
-# Total number of blocked lines: 61010
+# Ad blocking hosts generated Fri 10 Apr 00:06:04 +03 2026
+# Total number of blocked lines: 61016
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -28131,6 +28131,7 @@
 0.0.0.0	www.bodog.eu
 0.0.0.0	www.bookstadium.com
 0.0.0.0	www.boonsolutions.com
+0.0.0.0	www.borocade.com
 0.0.0.0	www.bostonwall.com
 0.0.0.0	www.bottleguy.com
 0.0.0.0	www.bovadapromotions.lv
@@ -28148,6 +28149,7 @@
 0.0.0.0	www.briidgeapp.com
 0.0.0.0	www.briskappmu.name
 0.0.0.0	www.broadspring.com
+0.0.0.0	www.brooksrunningdeals.com
 0.0.0.0	www.bryantaylor.free-online.co.uk
 0.0.0.0	www.btalbot.plus.com
 0.0.0.0	www.bt.emsecure.net
@@ -28187,6 +28189,7 @@
 0.0.0.0	www.cambonanza.com
 0.0.0.0	www.camion.idps.co.uk
 0.0.0.0	www.camsoda1.com
+0.0.0.0	www.camtory.com
 0.0.0.0	www.canadianshawid.com
 0.0.0.0	www.canalstat.com
 0.0.0.0	www.canuckmethods.com
@@ -58636,6 +58639,7 @@
 ::	www.bodog.eu
 ::	www.bookstadium.com
 ::	www.boonsolutions.com
+::	www.borocade.com
 ::	www.bostonwall.com
 ::	www.bottleguy.com
 ::	www.bovadapromotions.lv
@@ -58653,6 +58657,7 @@
 ::	www.briidgeapp.com
 ::	www.briskappmu.name
 ::	www.broadspring.com
+::	www.brooksrunningdeals.com
 ::	www.bryantaylor.free-online.co.uk
 ::	www.btalbot.plus.com
 ::	www.bt.emsecure.net
@@ -58692,6 +58697,7 @@
 ::	www.cambonanza.com
 ::	www.camion.idps.co.uk
 ::	www.camsoda1.com
+::	www.camtory.com
 ::	www.canadianshawid.com
 ::	www.canalstat.com
 ::	www.canuckmethods.com
