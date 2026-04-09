@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu  9 Apr 21:06:05 +03 2026
-# Total number of blocked lines: 60998
+# Ad blocking hosts generated Thu  9 Apr 22:06:05 +03 2026
+# Total number of blocked lines: 61010
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -21406,6 +21406,7 @@
 0.0.0.0	rs6.net
 0.0.0.0	rsc-ads.vidaahub.com
 0.0.0.0	rscdn.cxense.com
+0.0.0.0	rsc-mntz.vidaahub.com
 0.0.0.0	r.scoota.co
 0.0.0.0	rsc.scmspain.com
 0.0.0.0	rs.gwallet.com
@@ -27992,6 +27993,7 @@
 0.0.0.0	www.anticlown.com
 0.0.0.0	www.apcort.com
 0.0.0.0	www.api.taboola.com
+0.0.0.0	www.apkfuuny.com
 0.0.0.0	www.apmebf.com
 0.0.0.0	www.apogara.plus.com
 0.0.0.0	www.applelounge.com
@@ -28003,6 +28005,7 @@
 0.0.0.0	www.aptrafficnetwork.com
 0.0.0.0	www.aramcom.space
 0.0.0.0	www.area043.com
+0.0.0.0	www.arfrepuestos.com
 0.0.0.0	www.ariboo.com
 0.0.0.0	www.arknasasbluecross.com
 0.0.0.0	www.artcomix.com
@@ -28371,6 +28374,7 @@
 0.0.0.0	www.crazypopups.com
 0.0.0.0	www.crazyprotocol.com
 0.0.0.0	www.crazywinnings.com
+0.0.0.0	www.crediainternational.com
 0.0.0.0	www.credit-dreams.com
 0.0.0.0	www.crispads.com
 0.0.0.0	www.criteo.com
@@ -28384,6 +28388,7 @@
 0.0.0.0	www.ctaz.com
 0.0.0.0	www.ctbdev.net
 0.0.0.0	www.c.thecounter.de
+0.0.0.0	www.ctlcai.com
 0.0.0.0	www.cuci.nl
 0.0.0.0	wwwcultofmaccom.skimlinks.com
 0.0.0.0	www.cw.nu
@@ -29187,6 +29192,7 @@
 0.0.0.0	www.neszmely.eu
 0.0.0.0	www.netmaxx.com
 0.0.0.0	www.netpoll.nl
+0.0.0.0	www.new2crypto.com
 0.0.0.0	www.newclick.com
 0.0.0.0	www.newmedia.plus.com
 0.0.0.0	www.newnorth.net
@@ -51905,6 +51911,7 @@
 ::	rs6.net
 ::	rsc-ads.vidaahub.com
 ::	rscdn.cxense.com
+::	rsc-mntz.vidaahub.com
 ::	r.scoota.co
 ::	rsc.scmspain.com
 ::	rs.gwallet.com
@@ -58491,6 +58498,7 @@
 ::	www.anticlown.com
 ::	www.apcort.com
 ::	www.api.taboola.com
+::	www.apkfuuny.com
 ::	www.apmebf.com
 ::	www.apogara.plus.com
 ::	www.applelounge.com
@@ -58502,6 +58510,7 @@
 ::	www.aptrafficnetwork.com
 ::	www.aramcom.space
 ::	www.area043.com
+::	www.arfrepuestos.com
 ::	www.ariboo.com
 ::	www.arknasasbluecross.com
 ::	www.artcomix.com
@@ -58870,6 +58879,7 @@
 ::	www.crazypopups.com
 ::	www.crazyprotocol.com
 ::	www.crazywinnings.com
+::	www.crediainternational.com
 ::	www.credit-dreams.com
 ::	www.crispads.com
 ::	www.criteo.com
@@ -58883,6 +58893,7 @@
 ::	www.ctaz.com
 ::	www.ctbdev.net
 ::	www.c.thecounter.de
+::	www.ctlcai.com
 ::	www.cuci.nl
 ::	wwwcultofmaccom.skimlinks.com
 ::	www.cw.nu
@@ -59686,6 +59697,7 @@
 ::	www.neszmely.eu
 ::	www.netmaxx.com
 ::	www.netpoll.nl
+::	www.new2crypto.com
 ::	www.newclick.com
 ::	www.newmedia.plus.com
 ::	www.newnorth.net
