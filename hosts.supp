@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 10 Apr 19:06:04 +03 2026
-# Total number of blocked lines: 61010
+# Ad blocking hosts generated Fri 10 Apr 20:06:05 +03 2026
+# Total number of blocked lines: 61022
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -8242,6 +8242,7 @@
 0.0.0.0	c.go-mpulse.net
 0.0.0.0	c.greystripe.com
 0.0.0.0	c.gr.msn.com
+0.0.0.0	cguardai.com
 0.0.0.0	cguke-9h64o.ads.tremorhub.com
 0.0.0.0	c.gumgum.com
 0.0.0.0	chacha.112.2o7.net
@@ -23919,6 +23920,7 @@
 0.0.0.0	studio-t.teads.tv
 0.0.0.0	studycooking.com
 0.0.0.0	study.snapads.com
+0.0.0.0	studywithab.com
 0.0.0.0	stun.fpapi.io
 0.0.0.0	stun.voiparound.com
 0.0.0.0	stupendoussleet.com
@@ -28021,6 +28023,7 @@
 0.0.0.0	www.audacity.es
 0.0.0.0	www.audacity.fr
 0.0.0.0	www.audienceexposure.com
+0.0.0.0	www.audionoisereducer.com
 0.0.0.0	www.auditprint.com
 0.0.0.0	www.aureate.com
 0.0.0.0	www.autohipnose.com
@@ -29154,6 +29157,7 @@
 0.0.0.0	www.myfreegifts.co.uk
 0.0.0.0	www.myfreemp3player.com
 0.0.0.0	www.mygreatrewards.com
+0.0.0.0	www.myhucadvantage.com
 0.0.0.0	www.mylike.co.uk
 0.0.0.0	www.mylottoadserv.com
 0.0.0.0	www.mylovecards.com
@@ -29576,6 +29580,7 @@
 0.0.0.0	www.showcaserealestate.net
 0.0.0.0	www.sidneyman.com
 0.0.0.0	www.silcom.com
+0.0.0.0	www.silebah.com
 0.0.0.0	www.silentgateck.site
 0.0.0.0	www.silveragesoftware.com
 0.0.0.0	www.silvercash.com
@@ -29935,6 +29940,7 @@
 0.0.0.0	www.walkhelp.net
 0.0.0.0	www.walkthedinosaur.com
 0.0.0.0	www.wantsfly.com
+0.0.0.0	www.wardhotels.com
 0.0.0.0	www.warrenmovers.net
 0.0.0.0	www.watchesnew.com
 0.0.0.0	www.waterchalk.com
@@ -38747,6 +38753,7 @@
 ::	c.go-mpulse.net
 ::	c.greystripe.com
 ::	c.gr.msn.com
+::	cguardai.com
 ::	cguke-9h64o.ads.tremorhub.com
 ::	c.gumgum.com
 ::	chacha.112.2o7.net
@@ -54424,6 +54431,7 @@
 ::	studio-t.teads.tv
 ::	studycooking.com
 ::	study.snapads.com
+::	studywithab.com
 ::	stun.fpapi.io
 ::	stun.voiparound.com
 ::	stupendoussleet.com
@@ -58526,6 +58534,7 @@
 ::	www.audacity.es
 ::	www.audacity.fr
 ::	www.audienceexposure.com
+::	www.audionoisereducer.com
 ::	www.auditprint.com
 ::	www.aureate.com
 ::	www.autohipnose.com
@@ -59659,6 +59668,7 @@
 ::	www.myfreegifts.co.uk
 ::	www.myfreemp3player.com
 ::	www.mygreatrewards.com
+::	www.myhucadvantage.com
 ::	www.mylike.co.uk
 ::	www.mylottoadserv.com
 ::	www.mylovecards.com
@@ -60081,6 +60091,7 @@
 ::	www.showcaserealestate.net
 ::	www.sidneyman.com
 ::	www.silcom.com
+::	www.silebah.com
 ::	www.silentgateck.site
 ::	www.silveragesoftware.com
 ::	www.silvercash.com
@@ -60440,6 +60451,7 @@
 ::	www.walkhelp.net
 ::	www.walkthedinosaur.com
 ::	www.wantsfly.com
+::	www.wardhotels.com
 ::	www.warrenmovers.net
 ::	www.watchesnew.com
 ::	www.waterchalk.com
