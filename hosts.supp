@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 10 Apr 14:06:05 +03 2026
-# Total number of blocked lines: 61020
+# Ad blocking hosts generated Fri 10 Apr 15:06:05 +03 2026
+# Total number of blocked lines: 61010
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2253,7 +2253,6 @@
 0.0.0.0	ads-a.juicyads.com
 0.0.0.0	ads.albawaba.com
 0.0.0.0	ads.al.com
-0.0.0.0	ads.alive.com
 0.0.0.0	ads.allaccess.com.ph
 0.0.0.0	ads.all-free-download.com
 0.0.0.0	ads.allsites.com
@@ -3954,6 +3953,7 @@
 0.0.0.0	advertipros.com
 0.0.0.0	advertise.bingads.microsoft.com
 0.0.0.0	advertise.com
+0.0.0.0	advertiseireland.com
 0.0.0.0	advertise.ldplayer.net
 0.0.0.0	advertisement.avosapps.us
 0.0.0.0	advertisementnl.112.2o7.net
@@ -8431,7 +8431,6 @@
 0.0.0.0	click2commission.gotrackier.com
 0.0.0.0	click2freemoney.com
 0.0.0.0	click2.yllix.com
-0.0.0.0	click360v2-ingest.azurewebsites.net
 0.0.0.0	click4.pro
 0.0.0.0	click.a-ads.com
 0.0.0.0	clickadddilla.com
@@ -16786,11 +16785,9 @@
 0.0.0.0	mediavoice.com
 0.0.0.0	mediawayss.com
 0.0.0.0	mediawhirl.net
-0.0.0.0	mediax.angloinfo.com
 0.0.0.0	mediaxpedia.gotrackier.com
 0.0.0.0	media.xxxnavy.com
 0.0.0.0	media.yesmessenger.com
-0.0.0.0	mediaz.angloinfo.com
 0.0.0.0	medical.carway.net
 0.0.0.0	medicalcircle.net
 0.0.0.0	medicalhero.fr
@@ -25013,7 +25010,6 @@
 0.0.0.0	top.artcomix.com
 0.0.0.0	topbestgames.com
 0.0.0.0	topcashvibes.com
-0.0.0.0	top-casting-termine.de
 0.0.0.0	topconsumergifts.com
 0.0.0.0	topdemaroc.com
 0.0.0.0	topdownloads.nl.intellitxt.com
@@ -30305,7 +30301,6 @@
 0.0.0.0	yj.p.adnxs.com
 0.0.0.0	ykjure.com
 0.0.0.0	ykocr.comfortykive.xyz
-0.0.0.0	yldbt.com
 0.0.0.0	yllix.com
 0.0.0.0	yllvye.com
 0.0.0.0	ylog.hiido.com
@@ -32763,7 +32758,6 @@
 ::	ads-a.juicyads.com
 ::	ads.albawaba.com
 ::	ads.al.com
-::	ads.alive.com
 ::	ads.allaccess.com.ph
 ::	ads.all-free-download.com
 ::	ads.allsites.com
@@ -34464,6 +34458,7 @@
 ::	advertipros.com
 ::	advertise.bingads.microsoft.com
 ::	advertise.com
+::	advertiseireland.com
 ::	advertise.ldplayer.net
 ::	advertisement.avosapps.us
 ::	advertisementnl.112.2o7.net
@@ -38941,7 +38936,6 @@
 ::	click2commission.gotrackier.com
 ::	click2freemoney.com
 ::	click2.yllix.com
-::	click360v2-ingest.azurewebsites.net
 ::	click4.pro
 ::	click.a-ads.com
 ::	clickadddilla.com
@@ -47296,11 +47290,9 @@
 ::	mediavoice.com
 ::	mediawayss.com
 ::	mediawhirl.net
-::	mediax.angloinfo.com
 ::	mediaxpedia.gotrackier.com
 ::	media.xxxnavy.com
 ::	media.yesmessenger.com
-::	mediaz.angloinfo.com
 ::	medical.carway.net
 ::	medicalcircle.net
 ::	medicalhero.fr
@@ -55523,7 +55515,6 @@
 ::	top.artcomix.com
 ::	topbestgames.com
 ::	topcashvibes.com
-::	top-casting-termine.de
 ::	topconsumergifts.com
 ::	topdemaroc.com
 ::	topdownloads.nl.intellitxt.com
@@ -60815,7 +60806,6 @@
 ::	yj.p.adnxs.com
 ::	ykjure.com
 ::	ykocr.comfortykive.xyz
-::	yldbt.com
 ::	yllix.com
 ::	yllvye.com
 ::	ylog.hiido.com
