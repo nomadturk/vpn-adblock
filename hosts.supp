@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 13 Apr 21:06:05 +03 2026
-# Total number of blocked lines: 61044
+# Ad blocking hosts generated Mon 13 Apr 22:06:05 +03 2026
+# Total number of blocked lines: 61046
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -28468,6 +28468,7 @@
 0.0.0.0	www.disploot.com
 0.0.0.0	www.djugoogs.com
 0.0.0.0	www.dkpmsa.cfd
+0.0.0.0	www.dlinktour.com
 0.0.0.0	www.dnps.com
 0.0.0.0	www.dntx.com
 0.0.0.0	www.dodostats.com
@@ -58990,6 +58991,7 @@
 ::	www.disploot.com
 ::	www.djugoogs.com
 ::	www.dkpmsa.cfd
+::	www.dlinktour.com
 ::	www.dnps.com
 ::	www.dntx.com
 ::	www.dodostats.com
