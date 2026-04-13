@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 13 Apr 19:06:04 +03 2026
-# Total number of blocked lines: 61034
+# Ad blocking hosts generated Mon 13 Apr 20:06:05 +03 2026
+# Total number of blocked lines: 61044
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4454,6 +4454,7 @@
 0.0.0.0	altinbas.revotas.com
 0.0.0.0	altitude-arena.com
 0.0.0.0	altmedia101.com
+0.0.0.0	alt-mk-sports.com
 0.0.0.0	alt.webtraxs.com
 0.0.0.0	alxsite.com
 0.0.0.0	alyssamilano.home.sapo.pt
@@ -10231,6 +10232,7 @@
 0.0.0.0	derstandard.nuggad.net
 0.0.0.0	derstand.oewabox.at
 0.0.0.0	desb.mspaceads.com
+0.0.0.0	desertdreamtour.com
 0.0.0.0	desertgates.com
 0.0.0.0	designbloxlive.com
 0.0.0.0	designednetwork.com
@@ -15412,6 +15414,7 @@
 0.0.0.0	l1.cdn.qnsr.com
 0.0.0.0	l1.qsstats.com
 0.0.0.0	l1.zedo.com
+0.0.0.0	l2.cuyouthmusic.com
 0.0.0.0	l2.l.qq.com
 0.0.0.0	l2.zedo.com
 0.0.0.0	l3.evidon.com
@@ -28066,6 +28069,7 @@
 0.0.0.0	www.bar.ry2002.02-ry014.snpr.hotmx.hair.zaam.net
 0.0.0.0	www.basealloys.com
 0.0.0.0	www.baseequip.com
+0.0.0.0	www.bayareafyuerzk.com
 0.0.0.0	www.bazarusmassazha.com
 0.0.0.0	www.bbelements.com
 0.0.0.0	www.bbyjgkkdihiyxy.com
@@ -28121,6 +28125,7 @@
 0.0.0.0	www.blogrankers.com
 0.0.0.0	www.blogtopsites.com
 0.0.0.0	www.blossomtel.com
+0.0.0.0	www.bluecollarparanormal.com
 0.0.0.0	www.bluecrabhosting.co.uk
 0.0.0.0	www.bluediamondoffers.com
 0.0.0.0	www.bluestreak.com
@@ -28132,6 +28137,7 @@
 0.0.0.0	www.bnnr.nl
 0.0.0.0	www.board-ly.com
 0.0.0.0	www.bodog.eu
+0.0.0.0	www.bonuxsarrive.com
 0.0.0.0	www.bookstadium.com
 0.0.0.0	www.boonsolutions.com
 0.0.0.0	www.borocade.com
@@ -30048,7 +30054,6 @@
 0.0.0.0	www.yieldmanager.net
 0.0.0.0	www.yieldpartners.com
 0.0.0.0	www.yieldtraffic.com
-0.0.0.0	www.yodobashi.com
 0.0.0.0	www.youaresogay.com
 0.0.0.0	www.youfck.com
 0.0.0.0	www.youfiletor.com
@@ -34971,6 +34976,7 @@
 ::	altinbas.revotas.com
 ::	altitude-arena.com
 ::	altmedia101.com
+::	alt-mk-sports.com
 ::	alt.webtraxs.com
 ::	alxsite.com
 ::	alyssamilano.home.sapo.pt
@@ -40748,6 +40754,7 @@
 ::	derstandard.nuggad.net
 ::	derstand.oewabox.at
 ::	desb.mspaceads.com
+::	desertdreamtour.com
 ::	desertgates.com
 ::	designbloxlive.com
 ::	designednetwork.com
@@ -45929,6 +45936,7 @@
 ::	l1.cdn.qnsr.com
 ::	l1.qsstats.com
 ::	l1.zedo.com
+::	l2.cuyouthmusic.com
 ::	l2.l.qq.com
 ::	l2.zedo.com
 ::	l3.evidon.com
@@ -58583,6 +58591,7 @@
 ::	www.bar.ry2002.02-ry014.snpr.hotmx.hair.zaam.net
 ::	www.basealloys.com
 ::	www.baseequip.com
+::	www.bayareafyuerzk.com
 ::	www.bazarusmassazha.com
 ::	www.bbelements.com
 ::	www.bbyjgkkdihiyxy.com
@@ -58638,6 +58647,7 @@
 ::	www.blogrankers.com
 ::	www.blogtopsites.com
 ::	www.blossomtel.com
+::	www.bluecollarparanormal.com
 ::	www.bluecrabhosting.co.uk
 ::	www.bluediamondoffers.com
 ::	www.bluestreak.com
@@ -58649,6 +58659,7 @@
 ::	www.bnnr.nl
 ::	www.board-ly.com
 ::	www.bodog.eu
+::	www.bonuxsarrive.com
 ::	www.bookstadium.com
 ::	www.boonsolutions.com
 ::	www.borocade.com
@@ -60565,7 +60576,6 @@
 ::	www.yieldmanager.net
 ::	www.yieldpartners.com
 ::	www.yieldtraffic.com
-::	www.yodobashi.com
 ::	www.youaresogay.com
 ::	www.youfck.com
 ::	www.youfiletor.com
