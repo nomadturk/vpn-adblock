@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 15 Apr 01:06:04 +03 2026
-# Total number of blocked lines: 61062
+# Ad blocking hosts generated Wed 15 Apr 02:06:05 +03 2026
+# Total number of blocked lines: 61066
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -29402,6 +29402,7 @@
 0.0.0.0	www.predictad.com
 0.0.0.0	www.predictivadnetwork.com
 0.0.0.0	www.premieropinion.com
+0.0.0.0	www.premiumbrandszonalibre.com
 0.0.0.0	www.premiumproductsonline.com
 0.0.0.0	www.premiumvertising.com
 0.0.0.0	www.presidency.site
@@ -29757,6 +29758,7 @@
 0.0.0.0	www.teltech.hu
 0.0.0.0	www.telusplanet.net
 0.0.0.0	www.tenantbackgronudsearch.com
+0.0.0.0	www.teresinaapartment.com
 0.0.0.0	www.terraclicks.com
 0.0.0.0	www.terrapops.com
 0.0.0.0	www.textbanners.net
@@ -59933,6 +59935,7 @@
 ::	www.predictad.com
 ::	www.predictivadnetwork.com
 ::	www.premieropinion.com
+::	www.premiumbrandszonalibre.com
 ::	www.premiumproductsonline.com
 ::	www.premiumvertising.com
 ::	www.presidency.site
@@ -60288,6 +60291,7 @@
 ::	www.teltech.hu
 ::	www.telusplanet.net
 ::	www.tenantbackgronudsearch.com
+::	www.teresinaapartment.com
 ::	www.terraclicks.com
 ::	www.terrapops.com
 ::	www.textbanners.net
