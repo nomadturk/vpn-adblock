@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 15 Apr 03:06:04 +03 2026
-# Total number of blocked lines: 61066
+# Ad blocking hosts generated Wed 15 Apr 04:06:04 +03 2026
+# Total number of blocked lines: 61070
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -29410,6 +29410,7 @@
 0.0.0.0	www.prgwbn.cfd
 0.0.0.0	www.primecrestnq.name
 0.0.0.0	www.primosearch.com
+0.0.0.0	www.princessuppies.com
 0.0.0.0	www.printmail.biz
 0.0.0.0	www.privatamateure.com
 0.0.0.0	www.privdog.com
@@ -29703,6 +29704,7 @@
 0.0.0.0	www.streamate.com
 0.0.0.0	www.streamatelive.com
 0.0.0.0	www.streamen.com
+0.0.0.0	www.stricklyhouses.com
 0.0.0.0	www.strongarchzu.com
 0.0.0.0	www.studiomugnaini.eu
 0.0.0.0	www.studioorientbay.com
@@ -59943,6 +59945,7 @@
 ::	www.prgwbn.cfd
 ::	www.primecrestnq.name
 ::	www.primosearch.com
+::	www.princessuppies.com
 ::	www.printmail.biz
 ::	www.privatamateure.com
 ::	www.privdog.com
@@ -60236,6 +60239,7 @@
 ::	www.streamate.com
 ::	www.streamatelive.com
 ::	www.streamen.com
+::	www.stricklyhouses.com
 ::	www.strongarchzu.com
 ::	www.studiomugnaini.eu
 ::	www.studioorientbay.com
