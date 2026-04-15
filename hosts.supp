@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 15 Apr 07:06:04 +03 2026
-# Total number of blocked lines: 61070
+# Ad blocking hosts generated Wed 15 Apr 08:06:05 +03 2026
+# Total number of blocked lines: 61074
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -29646,6 +29646,7 @@
 0.0.0.0	www.softmillon.com
 0.0.0.0	www.softpebble.com
 0.0.0.0	www.softwareadvice.com
+0.0.0.0	www.softwarebeginner.com
 0.0.0.0	www.sohailpc.com
 0.0.0.0	www.sourmath.com
 0.0.0.0	www.spamnuker.com
@@ -29715,6 +29716,7 @@
 0.0.0.0	www.suckdude.com
 0.0.0.0	www.sudokuwhiz.com
 0.0.0.0	www.summerhamster.com
+0.0.0.0	www.sunglassesfor.com
 0.0.0.0	www.sun-inet.or.jp
 0.0.0.0	www.superbanner.org
 0.0.0.0	www.superbrewards.com
@@ -60181,6 +60183,7 @@
 ::	www.softmillon.com
 ::	www.softpebble.com
 ::	www.softwareadvice.com
+::	www.softwarebeginner.com
 ::	www.sohailpc.com
 ::	www.sourmath.com
 ::	www.spamnuker.com
@@ -60250,6 +60253,7 @@
 ::	www.suckdude.com
 ::	www.sudokuwhiz.com
 ::	www.summerhamster.com
+::	www.sunglassesfor.com
 ::	www.sun-inet.or.jp
 ::	www.superbanner.org
 ::	www.superbrewards.com
