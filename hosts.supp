@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 15 Apr 19:06:05 +03 2026
-# Total number of blocked lines: 61074
+# Ad blocking hosts generated Wed 15 Apr 20:06:04 +03 2026
+# Total number of blocked lines: 61086
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -14439,6 +14439,7 @@
 0.0.0.0	in.5.p2l.info
 0.0.0.0	in.adserver.yahoo.com
 0.0.0.0	in.analytics.glance.inmobi.com
+0.0.0.0	in-aoke.com
 0.0.0.0	in.api.glance.inmobi.com
 0.0.0.0	in-appadvertising.com
 0.0.0.0	in.appcenter.ms
@@ -27983,6 +27984,7 @@
 0.0.0.0	www.almondnetworks.com
 0.0.0.0	www.amazingcounters.com
 0.0.0.0	www.amazing-opportunities.info
+0.0.0.0	www.americanresortresolutions.com
 0.0.0.0	www.amintart.com
 0.0.0.0	www.amomales.com
 0.0.0.0	www.analyticsb2c.com
@@ -28827,6 +28829,7 @@
 0.0.0.0	www.hotelsdetermine.bond
 0.0.0.0	www.hotgiftzone.com
 0.0.0.0	www.hotkeys.com
+0.0.0.0	www.hotpanic.net
 0.0.0.0	www.hotranks.com
 0.0.0.0	www.hoursales.com
 0.0.0.0	www.howmanyview.com
@@ -29112,6 +29115,7 @@
 0.0.0.0	www.metareward.com
 0.0.0.0	www.metavertising.com
 0.0.0.0	www.metricsimage.com
+0.0.0.0	www.mexdrugs.com
 0.0.0.0	www.mftracking.com
 0.0.0.0	www.mgid.com
 0.0.0.0	www.mightymagoo.com
@@ -29534,6 +29538,7 @@
 0.0.0.0	www.sandybellxb.site
 0.0.0.0	www.sandybrookyt.name
 0.0.0.0	www.sarge05.plus.com
+0.0.0.0	www.sauteenacoochee.com
 0.0.0.0	www.savings-time.com
 0.0.0.0	www.sayfabulunamadi.com
 0.0.0.0	www.scambiobanner.tv
@@ -29624,6 +29629,7 @@
 0.0.0.0	www.skvarsani.plus.com
 0.0.0.0	www.sky-net.or.jp
 0.0.0.0	www.skywin.com.tw
+0.0.0.0	www.slidingdoorlocks.com
 0.0.0.0	www.smailes.plus.com
 0.0.0.0	www.smartadserver.com
 0.0.0.0	www.smartlinks.dianomi.com
@@ -44976,6 +44982,7 @@
 ::	in.5.p2l.info
 ::	in.adserver.yahoo.com
 ::	in.analytics.glance.inmobi.com
+::	in-aoke.com
 ::	in.api.glance.inmobi.com
 ::	in-appadvertising.com
 ::	in.appcenter.ms
@@ -58520,6 +58527,7 @@
 ::	www.almondnetworks.com
 ::	www.amazingcounters.com
 ::	www.amazing-opportunities.info
+::	www.americanresortresolutions.com
 ::	www.amintart.com
 ::	www.amomales.com
 ::	www.analyticsb2c.com
@@ -59364,6 +59372,7 @@
 ::	www.hotelsdetermine.bond
 ::	www.hotgiftzone.com
 ::	www.hotkeys.com
+::	www.hotpanic.net
 ::	www.hotranks.com
 ::	www.hoursales.com
 ::	www.howmanyview.com
@@ -59649,6 +59658,7 @@
 ::	www.metareward.com
 ::	www.metavertising.com
 ::	www.metricsimage.com
+::	www.mexdrugs.com
 ::	www.mftracking.com
 ::	www.mgid.com
 ::	www.mightymagoo.com
@@ -60071,6 +60081,7 @@
 ::	www.sandybellxb.site
 ::	www.sandybrookyt.name
 ::	www.sarge05.plus.com
+::	www.sauteenacoochee.com
 ::	www.savings-time.com
 ::	www.sayfabulunamadi.com
 ::	www.scambiobanner.tv
@@ -60161,6 +60172,7 @@
 ::	www.skvarsani.plus.com
 ::	www.sky-net.or.jp
 ::	www.skywin.com.tw
+::	www.slidingdoorlocks.com
 ::	www.smailes.plus.com
 ::	www.smartadserver.com
 ::	www.smartlinks.dianomi.com
