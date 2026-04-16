@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 16 Apr 21:06:05 +03 2026
-# Total number of blocked lines: 61088
+# Ad blocking hosts generated Thu 16 Apr 22:06:04 +03 2026
+# Total number of blocked lines: 61096
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -25878,6 +25878,7 @@
 0.0.0.0	typewriter.fr
 0.0.0.0	typicalteeth.com
 0.0.0.0	tyroo.com
+0.0.0.0	tyyvps.com
 0.0.0.0	tz284.com
 0.0.0.0	tzmqyj.com
 0.0.0.0	t.zqtk.net
@@ -28257,6 +28258,7 @@
 0.0.0.0	www.choicesurveypanel.com
 0.0.0.0	www.christianbusinessadvertising.com
 0.0.0.0	www.chrumedia.com
+0.0.0.0	www.cidadelobito.com
 0.0.0.0	www.ciderbayoulg.pro
 0.0.0.0	www.ciderglowcm.site
 0.0.0.0	www.cidersunjt.com
@@ -29505,6 +29507,7 @@
 0.0.0.0	www.rewardsflow.com
 0.0.0.0	www.rewardszoneusa.com
 0.0.0.0	www.rickrolling.com
+0.0.0.0	www.ricontools.com
 0.0.0.0	www.rightchanges.com
 0.0.0.0	www.rightmedia.com
 0.0.0.0	www.rightmedia.net
@@ -29727,6 +29730,7 @@
 0.0.0.0	www.sun-inet.or.jp
 0.0.0.0	www.superbanner.org
 0.0.0.0	www.superbrewards.com
+0.0.0.0	www.supereeego.com
 0.0.0.0	www.superinterstitial.com
 0.0.0.0	www.supersonicads.com
 0.0.0.0	www.supportnestframe.uk
@@ -56422,6 +56426,7 @@
 ::	typewriter.fr
 ::	typicalteeth.com
 ::	tyroo.com
+::	tyyvps.com
 ::	tz284.com
 ::	tzmqyj.com
 ::	t.zqtk.net
@@ -58801,6 +58806,7 @@
 ::	www.choicesurveypanel.com
 ::	www.christianbusinessadvertising.com
 ::	www.chrumedia.com
+::	www.cidadelobito.com
 ::	www.ciderbayoulg.pro
 ::	www.ciderglowcm.site
 ::	www.cidersunjt.com
@@ -60049,6 +60055,7 @@
 ::	www.rewardsflow.com
 ::	www.rewardszoneusa.com
 ::	www.rickrolling.com
+::	www.ricontools.com
 ::	www.rightchanges.com
 ::	www.rightmedia.com
 ::	www.rightmedia.net
@@ -60271,6 +60278,7 @@
 ::	www.sun-inet.or.jp
 ::	www.superbanner.org
 ::	www.superbrewards.com
+::	www.supereeego.com
 ::	www.superinterstitial.com
 ::	www.supersonicads.com
 ::	www.supportnestframe.uk
