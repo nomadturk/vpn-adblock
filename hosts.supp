@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 17 Apr 20:06:05 +03 2026
-# Total number of blocked lines: 61092
+# Ad blocking hosts generated Fri 17 Apr 21:06:04 +03 2026
+# Total number of blocked lines: 61096
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -9749,7 +9749,6 @@
 0.0.0.0	c.us.webengage.com
 0.0.0.0	cutechin.com
 0.0.0.0	cutesaucepuppy.com
-0.0.0.0	cvbnff.s3.eu-central-003.backblazeb2.com
 0.0.0.0	cv.bsvideos.com
 0.0.0.0	cvt.mydas.mobi
 0.0.0.0	cw.addthis.com
@@ -11847,8 +11846,6 @@
 0.0.0.0	eztracks.us.intellitxt.com
 0.0.0.0	eztrck.com
 0.0.0.0	ezula.com
-0.0.0.0	f003.backblazeb2.com
-0.0.0.0	f006.backblazeb2.com
 0.0.0.0	f05098.privacy4browsers.com
 0.0.0.0	f11098.privacy4browsers.com
 0.0.0.0	f18085.privacy4browsers.com
@@ -24805,6 +24802,7 @@
 0.0.0.0	thirtydaychange.com
 0.0.0.0	this.content.served.by.addshuffle.com
 0.0.0.0	this.content.served.by.adshuffle.com
+0.0.0.0	thislocalhost.com
 0.0.0.0	thisone.online
 0.0.0.0	thomasmore.fr
 0.0.0.0	thomastorch.com
@@ -25668,6 +25666,7 @@
 0.0.0.0	trk.4ff.pro
 0.0.0.0	trk.ablogica.com
 0.0.0.0	trk.apperol.com
+0.0.0.0	trk.arenachat.xyz
 0.0.0.0	trk.atomex.net
 0.0.0.0	trk.bc.shutterfly.com
 0.0.0.0	trk.cachemetracking.com
@@ -27211,6 +27210,7 @@
 0.0.0.0	wewillrocknow.com
 0.0.0.0	w.extreme-dm.com
 0.0.0.0	wf.basebanner.com
+0.0.0.0	wfflxx.com
 0.0.0.0	wfpscripts.webspectator.com
 0.0.0.0	wf.taboola.com
 0.0.0.0	wfussb.oewabox.at
@@ -29261,6 +29261,7 @@
 0.0.0.0	www.octopusgirl.com
 0.0.0.0	www.odyssey.on.ca
 0.0.0.0	www.offerx.co.uk
+0.0.0.0	www.officerreport.com
 0.0.0.0	www.ogopond.com
 0.0.0.0	www.oilbasics.com
 0.0.0.0	www.oix.com
@@ -29476,6 +29477,7 @@
 0.0.0.0	www.reachtaxi.com
 0.0.0.0	www.readnotify.com
 0.0.0.0	www.readyviews.com
+0.0.0.0	www.realdrjudy.com
 0.0.0.0	www.realincestvideos.com
 0.0.0.0	www.realtextads.com
 0.0.0.0	www.reandrogames.com
@@ -40295,7 +40297,6 @@
 ::	c.us.webengage.com
 ::	cutechin.com
 ::	cutesaucepuppy.com
-::	cvbnff.s3.eu-central-003.backblazeb2.com
 ::	cv.bsvideos.com
 ::	cvt.mydas.mobi
 ::	cw.addthis.com
@@ -42393,8 +42394,6 @@
 ::	eztracks.us.intellitxt.com
 ::	eztrck.com
 ::	ezula.com
-::	f003.backblazeb2.com
-::	f006.backblazeb2.com
 ::	f05098.privacy4browsers.com
 ::	f11098.privacy4browsers.com
 ::	f18085.privacy4browsers.com
@@ -55351,6 +55350,7 @@
 ::	thirtydaychange.com
 ::	this.content.served.by.addshuffle.com
 ::	this.content.served.by.adshuffle.com
+::	thislocalhost.com
 ::	thisone.online
 ::	thomasmore.fr
 ::	thomastorch.com
@@ -56214,6 +56214,7 @@
 ::	trk.4ff.pro
 ::	trk.ablogica.com
 ::	trk.apperol.com
+::	trk.arenachat.xyz
 ::	trk.atomex.net
 ::	trk.bc.shutterfly.com
 ::	trk.cachemetracking.com
@@ -57757,6 +57758,7 @@
 ::	wewillrocknow.com
 ::	w.extreme-dm.com
 ::	wf.basebanner.com
+::	wfflxx.com
 ::	wfpscripts.webspectator.com
 ::	wf.taboola.com
 ::	wfussb.oewabox.at
@@ -59807,6 +59809,7 @@
 ::	www.octopusgirl.com
 ::	www.odyssey.on.ca
 ::	www.offerx.co.uk
+::	www.officerreport.com
 ::	www.ogopond.com
 ::	www.oilbasics.com
 ::	www.oix.com
@@ -60022,6 +60025,7 @@
 ::	www.reachtaxi.com
 ::	www.readnotify.com
 ::	www.readyviews.com
+::	www.realdrjudy.com
 ::	www.realincestvideos.com
 ::	www.realtextads.com
 ::	www.reandrogames.com
