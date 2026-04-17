@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 17 Apr 14:06:05 +03 2026
-# Total number of blocked lines: 61102
+# Ad blocking hosts generated Fri 17 Apr 15:06:05 +03 2026
+# Total number of blocked lines: 61092
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -2117,7 +2117,6 @@
 0.0.0.0	ads3-adnow.com
 0.0.0.0	ads3.advance.net
 0.0.0.0	ads3.blastro.com
-0.0.0.0	ads3.contentabc.com
 0.0.0.0	ads.3e-news.net
 0.0.0.0	ads3.eqads.com
 0.0.0.0	ads3.fingersoft.net
@@ -4211,7 +4210,6 @@
 0.0.0.0	affiliates.streamray.com
 0.0.0.0	affiliates.thinkhost.net
 0.0.0.0	affiliates.thrixxx.com
-0.0.0.0	affiliates.ultrahosting.com
 0.0.0.0	affiliate.superbahis542.com
 0.0.0.0	affiliates.yourapprovaltracker.com
 0.0.0.0	affiliatetracking.com
@@ -4765,7 +4763,6 @@
 0.0.0.0	androidcentral.us.intellitxt.com
 0.0.0.0	androidcommunity.us.intellitxt.com
 0.0.0.0	androiddev.orkitra.com
-0.0.0.0	androiddownload.net
 0.0.0.0	android-quinoa-config-prod.sense360eng.com
 0.0.0.0	androidsdk.ads.mp.mydas.mobi
 0.0.0.0	android.unid.go.com
@@ -8310,6 +8307,7 @@
 0.0.0.0	chi.outbrain.com
 0.0.0.0	chip.de.intellitxt.com
 0.0.0.0	chip.popmarker.com
+0.0.0.0	chitika.net
 0.0.0.0	c.hit.ua
 0.0.0.0	c.hk.msn.com
 0.0.0.0	chlcotrk.com
@@ -13078,7 +13076,6 @@
 0.0.0.0	go.pub2srv.com
 0.0.0.0	goqon.com
 0.0.0.0	gorange.fr
-0.0.0.0	go-rank.de
 0.0.0.0	go.realvu.net
 0.0.0.0	go.redirectingat.com
 0.0.0.0	go.rightdailyfeed.com
@@ -14825,7 +14822,6 @@
 0.0.0.0	itsfree123.com
 0.0.0.0	itssure.shop
 0.0.0.0	its.tbpot.com
-0.0.0.0	its-that-easy.com
 0.0.0.0	ittoolbox.us.intellitxt.com
 0.0.0.0	itv.112.2o7.net
 0.0.0.0	itworld.us.intellitxt.com
@@ -24041,7 +24037,6 @@
 0.0.0.0	surebaby.us.intellitxt.com
 0.0.0.0	surfindave.com
 0.0.0.0	surfline.112.2o7.net
-0.0.0.0	surfmusik-adserver.de
 0.0.0.0	surfsecured.net
 0.0.0.0	surplus-suppliers.com
 0.0.0.0	survarium.fr
@@ -32668,7 +32663,6 @@
 ::	ads3-adnow.com
 ::	ads3.advance.net
 ::	ads3.blastro.com
-::	ads3.contentabc.com
 ::	ads.3e-news.net
 ::	ads3.eqads.com
 ::	ads3.fingersoft.net
@@ -34762,7 +34756,6 @@
 ::	affiliates.streamray.com
 ::	affiliates.thinkhost.net
 ::	affiliates.thrixxx.com
-::	affiliates.ultrahosting.com
 ::	affiliate.superbahis542.com
 ::	affiliates.yourapprovaltracker.com
 ::	affiliatetracking.com
@@ -35316,7 +35309,6 @@
 ::	androidcentral.us.intellitxt.com
 ::	androidcommunity.us.intellitxt.com
 ::	androiddev.orkitra.com
-::	androiddownload.net
 ::	android-quinoa-config-prod.sense360eng.com
 ::	androidsdk.ads.mp.mydas.mobi
 ::	android.unid.go.com
@@ -38861,6 +38853,7 @@
 ::	chi.outbrain.com
 ::	chip.de.intellitxt.com
 ::	chip.popmarker.com
+::	chitika.net
 ::	c.hit.ua
 ::	c.hk.msn.com
 ::	chlcotrk.com
@@ -43629,7 +43622,6 @@
 ::	go.pub2srv.com
 ::	goqon.com
 ::	gorange.fr
-::	go-rank.de
 ::	go.realvu.net
 ::	go.redirectingat.com
 ::	go.rightdailyfeed.com
@@ -45376,7 +45368,6 @@
 ::	itsfree123.com
 ::	itssure.shop
 ::	its.tbpot.com
-::	its-that-easy.com
 ::	ittoolbox.us.intellitxt.com
 ::	itv.112.2o7.net
 ::	itworld.us.intellitxt.com
@@ -54592,7 +54583,6 @@
 ::	surebaby.us.intellitxt.com
 ::	surfindave.com
 ::	surfline.112.2o7.net
-::	surfmusik-adserver.de
 ::	surfsecured.net
 ::	surplus-suppliers.com
 ::	survarium.fr
