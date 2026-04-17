@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 17 Apr 06:06:04 +03 2026
-# Total number of blocked lines: 61096
+# Ad blocking hosts generated Fri 17 Apr 07:06:04 +03 2026
+# Total number of blocked lines: 61102
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -11850,6 +11850,7 @@
 0.0.0.0	eztrck.com
 0.0.0.0	ezula.com
 0.0.0.0	f003.backblazeb2.com
+0.0.0.0	f006.backblazeb2.com
 0.0.0.0	f05098.privacy4browsers.com
 0.0.0.0	f11098.privacy4browsers.com
 0.0.0.0	f18085.privacy4browsers.com
@@ -28556,6 +28557,7 @@
 0.0.0.0	www.exactadvertising.com
 0.0.0.0	www.exactpharm.com
 0.0.0.0	www.exambased.com
+0.0.0.0	www.exceleratehelp.com
 0.0.0.0	www.exchangead.com
 0.0.0.0	www.exchange-it.com
 0.0.0.0	www.exclusivegiftcards.com
@@ -29251,6 +29253,7 @@
 0.0.0.0	www.ntsearch.com
 0.0.0.0	www.nu26.com
 0.0.0.0	www.nuntioz.com
+0.0.0.0	www.nursse.com
 0.0.0.0	www.nutabuse.com
 0.0.0.0	www.nutaku.com
 0.0.0.0	www.nutten-verzeichnis.cxa.de
@@ -42398,6 +42401,7 @@
 ::	eztrck.com
 ::	ezula.com
 ::	f003.backblazeb2.com
+::	f006.backblazeb2.com
 ::	f05098.privacy4browsers.com
 ::	f11098.privacy4browsers.com
 ::	f18085.privacy4browsers.com
@@ -59104,6 +59108,7 @@
 ::	www.exactadvertising.com
 ::	www.exactpharm.com
 ::	www.exambased.com
+::	www.exceleratehelp.com
 ::	www.exchangead.com
 ::	www.exchange-it.com
 ::	www.exclusivegiftcards.com
@@ -59799,6 +59804,7 @@
 ::	www.ntsearch.com
 ::	www.nu26.com
 ::	www.nuntioz.com
+::	www.nursse.com
 ::	www.nutabuse.com
 ::	www.nutaku.com
 ::	www.nutten-verzeichnis.cxa.de
