@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 17 Apr 22:07:39 +03 2026
-# Total number of blocked lines: 61096
+# Ad blocking hosts generated Fri 17 Apr 23:06:04 +03 2026
+# Total number of blocked lines: 61100
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -9806,6 +9806,7 @@
 0.0.0.0	cz.bbelements.com
 0.0.0.0	cz-gmtdmp.mookie1.com
 0.0.0.0	czilladx.com
+0.0.0.0	czr.customzonereview.com
 0.0.0.0	cz.search.etargetnet.com
 0.0.0.0	cz.static.etargetnet.com
 0.0.0.0	d077aa.r.axf8.net
@@ -29951,6 +29952,7 @@
 0.0.0.0	www.videogamerewardscentral.com
 0.0.0.0	www.videolove.clanteam.com
 0.0.0.0	www.videomediagroep.nl
+0.0.0.0	www.videonhadat.com
 0.0.0.0	www.videostan.ru
 0.0.0.0	www.view4cash.de
 0.0.0.0	www.vilaglato.info
@@ -40354,6 +40356,7 @@
 ::	cz.bbelements.com
 ::	cz-gmtdmp.mookie1.com
 ::	czilladx.com
+::	czr.customzonereview.com
 ::	cz.search.etargetnet.com
 ::	cz.static.etargetnet.com
 ::	d077aa.r.axf8.net
@@ -60499,6 +60502,7 @@
 ::	www.videogamerewardscentral.com
 ::	www.videolove.clanteam.com
 ::	www.videomediagroep.nl
+::	www.videonhadat.com
 ::	www.videostan.ru
 ::	www.view4cash.de
 ::	www.vilaglato.info
