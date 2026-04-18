@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat 18 Apr 02:06:05 +03 2026
-# Total number of blocked lines: 61102
+# Ad blocking hosts generated Sat 18 Apr 03:06:05 +03 2026
+# Total number of blocked lines: 61106
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -29416,6 +29416,7 @@
 0.0.0.0	www.pressurespot.com
 0.0.0.0	www.prgwbn.cfd
 0.0.0.0	www.primecrestnq.name
+0.0.0.0	www.primitivecountrydecor.com
 0.0.0.0	www.primosearch.com
 0.0.0.0	www.princessuppies.com
 0.0.0.0	www.printmail.biz
@@ -29649,6 +29650,7 @@
 0.0.0.0	www.smokyshadecj.name
 0.0.0.0	www.smsmovies.net
 0.0.0.0	www.smspop.com
+0.0.0.0	www.snkido.com
 0.0.0.0	www.snowhandball.com
 0.0.0.0	www.snurrlyspin.com
 0.0.0.0	www.sochr.com
@@ -59967,6 +59969,7 @@
 ::	www.pressurespot.com
 ::	www.prgwbn.cfd
 ::	www.primecrestnq.name
+::	www.primitivecountrydecor.com
 ::	www.primosearch.com
 ::	www.princessuppies.com
 ::	www.printmail.biz
@@ -60200,6 +60203,7 @@
 ::	www.smokyshadecj.name
 ::	www.smsmovies.net
 ::	www.smspop.com
+::	www.snkido.com
 ::	www.snowhandball.com
 ::	www.snurrlyspin.com
 ::	www.sochr.com
