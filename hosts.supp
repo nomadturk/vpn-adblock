@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sun 19 Apr 09:06:04 +03 2026
-# Total number of blocked lines: 61106
+# Ad blocking hosts generated Sun 19 Apr 10:06:04 +03 2026
+# Total number of blocked lines: 61110
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -4112,6 +4112,7 @@
 0.0.0.0	adx-winners-eu-west-1-rtb.adroll.com
 0.0.0.0	adx-winners-us-east-1-rtb.adroll.com
 0.0.0.0	adx-winners-us-west-2-rtb.adroll.com
+0.0.0.0	adxxxxxmost.co
 0.0.0.0	ad.yadro.ru
 0.0.0.0	ad.yemeksepeti.com
 0.0.0.0	ad.yieldlab.net
@@ -10523,6 +10524,7 @@
 0.0.0.0	dooror.com
 0.0.0.0	doors.co.kr
 0.0.0.0	dopemobi.offerstrack.net
+0.0.0.0	doqpm.click
 0.0.0.0	dorianbaroque.org
 0.0.0.0	dosugcz.biz
 0.0.0.0	dos.velek.com
@@ -34665,6 +34667,7 @@
 ::	adx-winners-eu-west-1-rtb.adroll.com
 ::	adx-winners-us-east-1-rtb.adroll.com
 ::	adx-winners-us-west-2-rtb.adroll.com
+::	adxxxxxmost.co
 ::	ad.yadro.ru
 ::	ad.yemeksepeti.com
 ::	ad.yieldlab.net
@@ -41076,6 +41079,7 @@
 ::	dooror.com
 ::	doors.co.kr
 ::	dopemobi.offerstrack.net
+::	doqpm.click
 ::	dorianbaroque.org
 ::	dosugcz.biz
 ::	dos.velek.com
