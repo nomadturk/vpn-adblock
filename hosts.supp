@@ -1,6 +1,7 @@
 #<local-data>
-# Ad blocking hosts generated Mon 20 Apr 09:06:05 +03 2026
-# Total number of blocked lines: 61112
+# Ad blocking hosts generated Mon 20 Apr 10:06:05 +03 2026
+# Total number of blocked lines: 61114
+0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -31,6 +32,7 @@
 0.0.0.0	0qizz.super-promo.hoxo.info
 0.0.0.0	0.r.msn.com
 0.0.0.0	0stats.com
+::	00000.uno
 0.0.0.0	100016075.collect.igodigital.com
 0.0.0.0	100065.hittail.com
 0.0.0.0	10006.hittail.com
