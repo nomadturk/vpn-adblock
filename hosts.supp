@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 21 Apr 01:06:05 +03 2026
-# Total number of blocked lines: 61124
+# Ad blocking hosts generated Tue 21 Apr 02:06:04 +03 2026
+# Total number of blocked lines: 61126
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -30062,6 +30062,7 @@
 0.0.0.0	www.worry-free-savings.com
 0.0.0.0	www.wowjs.1www.cn
 0.0.0.0	www.wppluginspro.com
+0.0.0.0	www.wraploans.com
 0.0.0.0	www.wrestlewebnews.com
 0.0.0.0	www.wtp101.com
 0.0.0.0	www.wu4652.com.tw
@@ -60623,6 +60624,7 @@
 ::	www.worry-free-savings.com
 ::	www.wowjs.1www.cn
 ::	www.wppluginspro.com
+::	www.wraploans.com
 ::	www.wrestlewebnews.com
 ::	www.wtp101.com
 ::	www.wu4652.com.tw
