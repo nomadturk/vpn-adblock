@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 20 Apr 21:06:05 +03 2026
-# Total number of blocked lines: 61114
+# Ad blocking hosts generated Mon 20 Apr 22:06:05 +03 2026
+# Total number of blocked lines: 61122
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28981,6 +28981,7 @@
 0.0.0.0	www.knell.plus.com
 0.0.0.0	www.knowinteractive.com
 0.0.0.0	www.knoxmenus.com
+0.0.0.0	www.kobotausa.com
 0.0.0.0	www.kolks.nl
 0.0.0.0	www.komodia.com
 0.0.0.0	www.konimkan.com
@@ -29010,6 +29011,7 @@
 0.0.0.0	www.leadpub.com
 0.0.0.0	www.leadtrackgo.com
 0.0.0.0	www.leanplum.com
+0.0.0.0	www.learnnessy.com
 0.0.0.0	www.learntechno.com
 0.0.0.0	www.leeucode.com
 0.0.0.0	www.leklicht.net
@@ -29047,6 +29049,7 @@
 0.0.0.0	www.little-help.com
 0.0.0.0	www.liveadclicks.com
 0.0.0.0	www.liveadexchanger.com
+0.0.0.0	www.liveorigamirisk.com
 0.0.0.0	www.livestat.com
 0.0.0.0	www.loading-delivery2.com
 0.0.0.0	www.loansfield.com
@@ -29162,6 +29165,7 @@
 0.0.0.0	www.ms247.plus.com
 0.0.0.0	www.msgtag.com
 0.0.0.0	www.mshelp247.weebly.com
+0.0.0.0	www.msmpokergamer.com
 0.0.0.0	www.ms-mvp.org
 0.0.0.0	www.msxzff.com
 0.0.0.0	www.mtree.com
@@ -59537,6 +59541,7 @@
 ::	www.knell.plus.com
 ::	www.knowinteractive.com
 ::	www.knoxmenus.com
+::	www.kobotausa.com
 ::	www.kolks.nl
 ::	www.komodia.com
 ::	www.konimkan.com
@@ -59566,6 +59571,7 @@
 ::	www.leadpub.com
 ::	www.leadtrackgo.com
 ::	www.leanplum.com
+::	www.learnnessy.com
 ::	www.learntechno.com
 ::	www.leeucode.com
 ::	www.leklicht.net
@@ -59603,6 +59609,7 @@
 ::	www.little-help.com
 ::	www.liveadclicks.com
 ::	www.liveadexchanger.com
+::	www.liveorigamirisk.com
 ::	www.livestat.com
 ::	www.loading-delivery2.com
 ::	www.loansfield.com
@@ -59718,6 +59725,7 @@
 ::	www.ms247.plus.com
 ::	www.msgtag.com
 ::	www.mshelp247.weebly.com
+::	www.msmpokergamer.com
 ::	www.ms-mvp.org
 ::	www.msxzff.com
 ::	www.mtree.com
