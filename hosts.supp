@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 21 Apr 21:06:05 +03 2026
-# Total number of blocked lines: 61128
+# Ad blocking hosts generated Tue 21 Apr 22:06:05 +03 2026
+# Total number of blocked lines: 61142
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -64,6 +64,7 @@
 0.0.0.0	10.cook.geeunlessarcade.com
 0.0.0.0	10fbb07a4b0.se
 0.0.0.0	10.im.cz
+0.0.0.0	10-letter-words.com
 0.0.0.0	10tide.com
 0.0.0.0	10xhellometro.112.2o7.net
 0.0.0.0	1105governmentinformationgroup.122.2o7.net
@@ -10424,6 +10425,7 @@
 0.0.0.0	dk-gmtdmp.mookie1.com
 0.0.0.0	dl1d2m8ri9v3j.cloudfront.net
 0.0.0.0	d.la1-c2-iad.salesforceliveagent.com
+0.0.0.0	dldyjy.com
 0.0.0.0	dl.fotoable.com
 0.0.0.0	dl.gameplaylabs.com
 0.0.0.0	d.liadm.com
@@ -28614,6 +28616,7 @@
 0.0.0.0	www.fixedshine.com
 0.0.0.0	www.fixingfast.com
 0.0.0.0	www.flagcounter.com
+0.0.0.0	www.flaglergrill.com
 0.0.0.0	www.flashadtools.com
 0.0.0.0	www.flexibleadmin.com
 0.0.0.0	www.flexibletool.com
@@ -29014,6 +29017,7 @@
 0.0.0.0	www.leanplum.com
 0.0.0.0	www.learnnessy.com
 0.0.0.0	www.learntechno.com
+0.0.0.0	www.ledfaucetlight.com
 0.0.0.0	www.leeucode.com
 0.0.0.0	www.leklicht.net
 0.0.0.0	www.lemoncascadexq.name
@@ -29077,6 +29081,7 @@
 0.0.0.0	www.maaxmarket.com
 0.0.0.0	www.macatawa.org
 0.0.0.0	www.magento-analytics.com
+0.0.0.0	www.maiecaffe.com
 0.0.0.0	www.maillazy.com
 0.0.0.0	www.mainadv.com
 0.0.0.0	www.ma-kaeser.ch
@@ -29451,6 +29456,7 @@
 0.0.0.0	www.pro-partners.nl
 0.0.0.0	www.properrayam.pro
 0.0.0.0	www.proxionet.com
+0.0.0.0	www.proxygeni.com
 0.0.0.0	www.prtc.net
 0.0.0.0	www.pruialoatpmye.xyz
 0.0.0.0	www.psclicks.com
@@ -29626,6 +29632,7 @@
 0.0.0.0	www.silebah.com
 0.0.0.0	www.silentgateck.site
 0.0.0.0	www.silveragesoftware.com
+0.0.0.0	www.silverboxcreativestudio.com
 0.0.0.0	www.silvercash.com
 0.0.0.0	www.simplecounter.net
 0.0.0.0	www.simpli.fi
@@ -30627,6 +30634,7 @@
 ::	10.cook.geeunlessarcade.com
 ::	10fbb07a4b0.se
 ::	10.im.cz
+::	10-letter-words.com
 ::	10tide.com
 ::	10xhellometro.112.2o7.net
 ::	1105governmentinformationgroup.122.2o7.net
@@ -40987,6 +40995,7 @@
 ::	dk-gmtdmp.mookie1.com
 ::	dl1d2m8ri9v3j.cloudfront.net
 ::	d.la1-c2-iad.salesforceliveagent.com
+::	dldyjy.com
 ::	dl.fotoable.com
 ::	dl.gameplaylabs.com
 ::	d.liadm.com
@@ -59177,6 +59186,7 @@
 ::	www.fixedshine.com
 ::	www.fixingfast.com
 ::	www.flagcounter.com
+::	www.flaglergrill.com
 ::	www.flashadtools.com
 ::	www.flexibleadmin.com
 ::	www.flexibletool.com
@@ -59577,6 +59587,7 @@
 ::	www.leanplum.com
 ::	www.learnnessy.com
 ::	www.learntechno.com
+::	www.ledfaucetlight.com
 ::	www.leeucode.com
 ::	www.leklicht.net
 ::	www.lemoncascadexq.name
@@ -59640,6 +59651,7 @@
 ::	www.maaxmarket.com
 ::	www.macatawa.org
 ::	www.magento-analytics.com
+::	www.maiecaffe.com
 ::	www.maillazy.com
 ::	www.mainadv.com
 ::	www.ma-kaeser.ch
@@ -60014,6 +60026,7 @@
 ::	www.pro-partners.nl
 ::	www.properrayam.pro
 ::	www.proxionet.com
+::	www.proxygeni.com
 ::	www.prtc.net
 ::	www.pruialoatpmye.xyz
 ::	www.psclicks.com
@@ -60189,6 +60202,7 @@
 ::	www.silebah.com
 ::	www.silentgateck.site
 ::	www.silveragesoftware.com
+::	www.silverboxcreativestudio.com
 ::	www.silvercash.com
 ::	www.simplecounter.net
 ::	www.simpli.fi
