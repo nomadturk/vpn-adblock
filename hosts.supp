@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 21 Apr 17:06:05 +03 2026
-# Total number of blocked lines: 61126
+# Ad blocking hosts generated Tue 21 Apr 18:06:04 +03 2026
+# Total number of blocked lines: 61128
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -11382,6 +11382,7 @@
 0.0.0.0	endicia.fr
 0.0.0.0	end.scorecardresearch.com
 0.0.0.0	energeticladybug.com
+0.0.0.0	energyfools.com
 0.0.0.0	enerweb.oewabox.at
 0.0.0.0	engage10854wrdcr.deltadna.net
 0.0.0.0	engage12348wrdvs.deltadna.net
@@ -41944,6 +41945,7 @@
 ::	endicia.fr
 ::	end.scorecardresearch.com
 ::	energeticladybug.com
+::	energyfools.com
 ::	enerweb.oewabox.at
 ::	engage10854wrdcr.deltadna.net
 ::	engage12348wrdvs.deltadna.net
