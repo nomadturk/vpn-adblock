@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 22 Apr 21:06:04 +03 2026
-# Total number of blocked lines: 61150
+# Ad blocking hosts generated Wed 22 Apr 22:06:04 +03 2026
+# Total number of blocked lines: 61156
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -19362,6 +19362,7 @@
 0.0.0.0	pcads.ru
 0.0.0.0	pcadvisor-uk.intellitxt.com
 0.0.0.0	pcadvisor.uk.intellitxt.com
+0.0.0.0	pc-apps-kaiyunsports.com
 0.0.0.0	pcash.globalmailer5.com
 0.0.0.0	pcash.imlive.com
 0.0.0.0	pcash.wildmatch.com
@@ -29097,6 +29098,7 @@
 0.0.0.0	www.marketrip.co
 0.0.0.0	www.masterspace.biz
 0.0.0.0	www.match3quests.com
+0.0.0.0	www.matifi.com
 0.0.0.0	www.maxbounty.com
 0.0.0.0	www.maxonclick.com
 0.0.0.0	www.maxxxhits.com
@@ -29140,6 +29142,7 @@
 0.0.0.0	www.mikaeljigmo.com
 0.0.0.0	www.mikras.nl
 0.0.0.0	www.mildpost.com
+0.0.0.0	www.milgaard.com
 0.0.0.0	www.milkfountain.com
 0.0.0.0	www.milkycascadeut.site
 0.0.0.0	www.minr.pw
@@ -49936,6 +49939,7 @@
 ::	pcads.ru
 ::	pcadvisor-uk.intellitxt.com
 ::	pcadvisor.uk.intellitxt.com
+::	pc-apps-kaiyunsports.com
 ::	pcash.globalmailer5.com
 ::	pcash.imlive.com
 ::	pcash.wildmatch.com
@@ -59671,6 +59675,7 @@
 ::	www.marketrip.co
 ::	www.masterspace.biz
 ::	www.match3quests.com
+::	www.matifi.com
 ::	www.maxbounty.com
 ::	www.maxonclick.com
 ::	www.maxxxhits.com
@@ -59714,6 +59719,7 @@
 ::	www.mikaeljigmo.com
 ::	www.mikras.nl
 ::	www.mildpost.com
+::	www.milgaard.com
 ::	www.milkfountain.com
 ::	www.milkycascadeut.site
 ::	www.minr.pw
