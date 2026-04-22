@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 22 Apr 19:06:05 +03 2026
-# Total number of blocked lines: 61142
+# Ad blocking hosts generated Wed 22 Apr 20:06:05 +03 2026
+# Total number of blocked lines: 61150
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28569,6 +28569,7 @@
 0.0.0.0	www.exit-ad.de
 0.0.0.0	www.exitforcash.com
 0.0.0.0	www.exitmoney.com
+0.0.0.0	www.exoticainmotion.com
 0.0.0.0	www.experclick.com
 0.0.0.0	www.expolearn.com
 0.0.0.0	www.exposhot.com
@@ -28937,6 +28938,7 @@
 0.0.0.0	www.jetseeker.com
 0.0.0.0	www.jeuxfortuna.com
 0.0.0.0	www.jeuxjackpotcasino.com
+0.0.0.0	www.jhsmiami.com
 0.0.0.0	www.jivox.com
 0.0.0.0	www.jiztini.com
 0.0.0.0	www.jizzads.com
@@ -29000,6 +29002,7 @@
 0.0.0.0	www.ladyclicks.ru
 0.0.0.0	www.lahoreautismcentre.com
 0.0.0.0	www.lanaita.com
+0.0.0.0	www.langleyantiques.com
 0.0.0.0	www.lansrv050.com
 0.0.0.0	www.laptopreportcard.com
 0.0.0.0	www.laptoprewards.com
@@ -29514,6 +29517,7 @@
 0.0.0.0	www.reklamzadserver.com
 0.0.0.0	www.rekonsise.com
 0.0.0.0	www.relaxingcafe.com
+0.0.0.0	www.reliaslearrning.com
 0.0.0.0	www.relmaxtop.com
 0.0.0.0	www.renderfoest.com
 0.0.0.0	www.rerminix.com
@@ -59139,6 +59143,7 @@
 ::	www.exit-ad.de
 ::	www.exitforcash.com
 ::	www.exitmoney.com
+::	www.exoticainmotion.com
 ::	www.experclick.com
 ::	www.expolearn.com
 ::	www.exposhot.com
@@ -59507,6 +59512,7 @@
 ::	www.jetseeker.com
 ::	www.jeuxfortuna.com
 ::	www.jeuxjackpotcasino.com
+::	www.jhsmiami.com
 ::	www.jivox.com
 ::	www.jiztini.com
 ::	www.jizzads.com
@@ -59570,6 +59576,7 @@
 ::	www.ladyclicks.ru
 ::	www.lahoreautismcentre.com
 ::	www.lanaita.com
+::	www.langleyantiques.com
 ::	www.lansrv050.com
 ::	www.laptopreportcard.com
 ::	www.laptoprewards.com
@@ -60084,6 +60091,7 @@
 ::	www.reklamzadserver.com
 ::	www.rekonsise.com
 ::	www.relaxingcafe.com
+::	www.reliaslearrning.com
 ::	www.relmaxtop.com
 ::	www.renderfoest.com
 ::	www.rerminix.com
