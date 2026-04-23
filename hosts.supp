@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 23 Apr 23:06:04 +03 2026
-# Total number of blocked lines: 61170
+# Ad blocking hosts generated Fri 24 Apr 00:06:04 +03 2026
+# Total number of blocked lines: 61178
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29189,6 +29189,7 @@
 0.0.0.0	www.mtree.com
 0.0.0.0	www.mudfall.com
 0.0.0.0	www.mudmonster.org
+0.0.0.0	www.multiceps.com
 0.0.0.0	www.multipops.com
 0.0.0.0	www.mvav.com
 0.0.0.0	www.myadsl.co.za
@@ -29260,6 +29261,7 @@
 0.0.0.0	www.nextlnk7.com
 0.0.0.0	www.nextstudent.com
 0.0.0.0	www.ngads.com
+0.0.0.0	www.nigja.com
 0.0.0.0	www.nimp.org
 0.0.0.0	www.ninjadollars.com
 0.0.0.0	www.nnews.net
@@ -29539,6 +29541,7 @@
 0.0.0.0	www.revrtb.com
 0.0.0.0	www.rewardsflow.com
 0.0.0.0	www.rewardszoneusa.com
+0.0.0.0	www.rhemacorp.com
 0.0.0.0	www.rickrolling.com
 0.0.0.0	www.ricontools.com
 0.0.0.0	www.rightchanges.com
@@ -29719,6 +29722,7 @@
 0.0.0.0	www.sq2trk2.com
 0.0.0.0	www.srmdata.com
 0.0.0.0	www.srmdata-us.com
+0.0.0.0	www.ssdede.com
 0.0.0.0	www.ssl2.in
 0.0.0.0	www.ssquire.plus.com
 0.0.0.0	www.stamplive.com
@@ -59773,6 +59777,7 @@
 ::	www.mtree.com
 ::	www.mudfall.com
 ::	www.mudmonster.org
+::	www.multiceps.com
 ::	www.multipops.com
 ::	www.mvav.com
 ::	www.myadsl.co.za
@@ -59844,6 +59849,7 @@
 ::	www.nextlnk7.com
 ::	www.nextstudent.com
 ::	www.ngads.com
+::	www.nigja.com
 ::	www.nimp.org
 ::	www.ninjadollars.com
 ::	www.nnews.net
@@ -60123,6 +60129,7 @@
 ::	www.revrtb.com
 ::	www.rewardsflow.com
 ::	www.rewardszoneusa.com
+::	www.rhemacorp.com
 ::	www.rickrolling.com
 ::	www.ricontools.com
 ::	www.rightchanges.com
@@ -60303,6 +60310,7 @@
 ::	www.sq2trk2.com
 ::	www.srmdata.com
 ::	www.srmdata-us.com
+::	www.ssdede.com
 ::	www.ssl2.in
 ::	www.ssquire.plus.com
 ::	www.stamplive.com
