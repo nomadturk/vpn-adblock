@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 23 Apr 19:06:04 +03 2026
-# Total number of blocked lines: 61166
+# Ad blocking hosts generated Thu 23 Apr 20:06:05 +03 2026
+# Total number of blocked lines: 61168
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -8307,6 +8307,7 @@
 0.0.0.0	chienvoyageur.fr
 0.0.0.0	childlikecrowd.com
 0.0.0.0	childlikeform.com
+0.0.0.0	chillingtofu.com
 0.0.0.0	chimpstatic.com
 0.0.0.0	chi.outbrain.com
 0.0.0.0	chip.de.intellitxt.com
@@ -38889,6 +38890,7 @@
 ::	chienvoyageur.fr
 ::	childlikecrowd.com
 ::	childlikeform.com
+::	chillingtofu.com
 ::	chimpstatic.com
 ::	chi.outbrain.com
 ::	chip.de.intellitxt.com
