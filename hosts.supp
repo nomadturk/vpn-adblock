@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 23 Apr 21:06:05 +03 2026
-# Total number of blocked lines: 61168
+# Ad blocking hosts generated Thu 23 Apr 22:06:05 +03 2026
+# Total number of blocked lines: 61170
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29229,6 +29229,7 @@
 0.0.0.0	www.nas-k.co.jp
 0.0.0.0	www.nationalissuepanel.com
 0.0.0.0	www.nationalsurveypanel.com
+0.0.0.0	www.naturalmovementz.com
 0.0.0.0	www.naughty-traffic.com
 0.0.0.0	www.nctracking.com
 0.0.0.0	www.ndbsoft.be
@@ -59812,6 +59813,7 @@
 ::	www.nas-k.co.jp
 ::	www.nationalissuepanel.com
 ::	www.nationalsurveypanel.com
+::	www.naturalmovementz.com
 ::	www.naughty-traffic.com
 ::	www.nctracking.com
 ::	www.ndbsoft.be
