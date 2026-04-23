@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 23 Apr 18:06:05 +03 2026
-# Total number of blocked lines: 61164
+# Ad blocking hosts generated Thu 23 Apr 19:06:04 +03 2026
+# Total number of blocked lines: 61166
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -12030,6 +12030,7 @@
 0.0.0.0	fee-hydrocodone.bebto.com
 0.0.0.0	feelbonesbag.com
 0.0.0.0	feeltrail.com
+0.0.0.0	feelwarmth.com
 0.0.0.0	feewoajy.net
 0.0.0.0	fei.pro-market.net
 0.0.0.0	fejezet.com
@@ -42611,6 +42612,7 @@
 ::	fee-hydrocodone.bebto.com
 ::	feelbonesbag.com
 ::	feeltrail.com
+::	feelwarmth.com
 ::	feewoajy.net
 ::	fei.pro-market.net
 ::	fejezet.com
