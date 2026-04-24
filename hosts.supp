@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 24 Apr 21:06:04 +03 2026
-# Total number of blocked lines: 61160
+# Ad blocking hosts generated Fri 24 Apr 22:06:05 +03 2026
+# Total number of blocked lines: 61164
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29542,6 +29542,7 @@
 0.0.0.0	www.ringtonepartner.com
 0.0.0.0	www.riskybus.f9.co.uk
 0.0.0.0	www.ritikhush.com
+0.0.0.0	www.riversidefr.com
 0.0.0.0	www.rkdms.com
 0.0.0.0	www.rnengage.com
 0.0.0.0	www.rnleonard.com
@@ -29593,6 +29594,7 @@
 0.0.0.0	www.securepaths.com
 0.0.0.0	www.secure-processingcenter.com
 0.0.0.0	www.securerunner.com
+0.0.0.0	www.securityplusproducts.com
 0.0.0.0	www.securityscan.us
 0.0.0.0	www.sedoparking.com
 0.0.0.0	www.sedotracker.com
@@ -60121,6 +60123,7 @@
 ::	www.ringtonepartner.com
 ::	www.riskybus.f9.co.uk
 ::	www.ritikhush.com
+::	www.riversidefr.com
 ::	www.rkdms.com
 ::	www.rnengage.com
 ::	www.rnleonard.com
@@ -60172,6 +60175,7 @@
 ::	www.securepaths.com
 ::	www.secure-processingcenter.com
 ::	www.securerunner.com
+::	www.securityplusproducts.com
 ::	www.securityscan.us
 ::	www.sedoparking.com
 ::	www.sedotracker.com
