@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat 25 Apr 01:06:05 +03 2026
-# Total number of blocked lines: 61164
+# Ad blocking hosts generated Sat 25 Apr 02:06:05 +03 2026
+# Total number of blocked lines: 61170
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -22510,6 +22510,7 @@
 0.0.0.0	sgfw.adsafeprotected.com
 0.0.0.0	sg-gmtdmp.gd2.mookie1.com
 0.0.0.0	sg-gmtdmp.mookie1.com
+0.0.0.0	sgluco.shop
 0.0.0.0	sg-match.taboola.com
 0.0.0.0	sgmedia.adspirit.net
 0.0.0.0	s-gm.mmstat.com
@@ -28252,6 +28253,7 @@
 0.0.0.0	www.chichomods.com
 0.0.0.0	www.chiefsale.com
 0.0.0.0	www.chienhung.url.tw
+0.0.0.0	www.chinesehollywood.com
 0.0.0.0	wwwchipchickcom.skimlinks.com
 0.0.0.0	www.chiyih.com
 0.0.0.0	www.choicedealz.com
@@ -30074,6 +30076,7 @@
 0.0.0.0	www.wingfoilmargarita.com
 0.0.0.0	www.winlottofrequently.com
 0.0.0.0	www.win-spy.com
+0.0.0.0	www.wjldfm.com
 0.0.0.0	www.wondertravelegypt.com
 0.0.0.0	www.woodycrystaljo.name
 0.0.0.0	www.work-offer.com
@@ -53091,6 +53094,7 @@
 ::	sgfw.adsafeprotected.com
 ::	sg-gmtdmp.gd2.mookie1.com
 ::	sg-gmtdmp.mookie1.com
+::	sgluco.shop
 ::	sg-match.taboola.com
 ::	sgmedia.adspirit.net
 ::	s-gm.mmstat.com
@@ -58833,6 +58837,7 @@
 ::	www.chichomods.com
 ::	www.chiefsale.com
 ::	www.chienhung.url.tw
+::	www.chinesehollywood.com
 ::	wwwchipchickcom.skimlinks.com
 ::	www.chiyih.com
 ::	www.choicedealz.com
@@ -60655,6 +60660,7 @@
 ::	www.wingfoilmargarita.com
 ::	www.winlottofrequently.com
 ::	www.win-spy.com
+::	www.wjldfm.com
 ::	www.wondertravelegypt.com
 ::	www.woodycrystaljo.name
 ::	www.work-offer.com
