@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 24 Apr 07:06:05 +03 2026
-# Total number of blocked lines: 61178
+# Ad blocking hosts generated Fri 24 Apr 08:06:05 +03 2026
+# Total number of blocked lines: 61182
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28020,6 +28020,7 @@
 0.0.0.0	www.apponic.com
 0.0.0.0	www.aptracking1.com
 0.0.0.0	www.aptrafficnetwork.com
+0.0.0.0	www.aqualakefy.name
 0.0.0.0	www.aramcom.space
 0.0.0.0	www.area043.com
 0.0.0.0	www.arfrepuestos.com
@@ -29632,6 +29633,7 @@
 0.0.0.0	www.shaunfennings.plus.com
 0.0.0.0	www.shichihukuudon.com
 0.0.0.0	www.shinilchurch.net
+0.0.0.0	www.shinyechogz.name
 0.0.0.0	www.shinystat.com
 0.0.0.0	www.shockcounter.com
 0.0.0.0	www.shopathome.com
@@ -58608,6 +58610,7 @@
 ::	www.apponic.com
 ::	www.aptracking1.com
 ::	www.aptrafficnetwork.com
+::	www.aqualakefy.name
 ::	www.aramcom.space
 ::	www.area043.com
 ::	www.arfrepuestos.com
@@ -60220,6 +60223,7 @@
 ::	www.shaunfennings.plus.com
 ::	www.shichihukuudon.com
 ::	www.shinilchurch.net
+::	www.shinyechogz.name
 ::	www.shinystat.com
 ::	www.shockcounter.com
 ::	www.shopathome.com
