@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat 25 Apr 18:06:05 +03 2026
-# Total number of blocked lines: 61172
+# Ad blocking hosts generated Sat 25 Apr 19:06:05 +03 2026
+# Total number of blocked lines: 61174
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -1665,6 +1665,7 @@
 0.0.0.0	adklik.com.tr
 0.0.0.0	adklip.com
 0.0.0.0	adkontekst.pl
+0.0.0.0	adkora.com
 0.0.0.0	ad.koreadaily.com
 0.0.0.0	ad.kr.doubleclick.net
 0.0.0.0	ad.krutilka.ru
@@ -32250,6 +32251,7 @@
 ::	adklik.com.tr
 ::	adklip.com
 ::	adkontekst.pl
+::	adkora.com
 ::	ad.koreadaily.com
 ::	ad.kr.doubleclick.net
 ::	ad.krutilka.ru
