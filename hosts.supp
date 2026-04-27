@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 27 Apr 21:06:05 +03 2026
-# Total number of blocked lines: 61184
+# Ad blocking hosts generated Mon 27 Apr 22:06:04 +03 2026
+# Total number of blocked lines: 61186
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -30009,6 +30009,7 @@
 0.0.0.0	www.vkvmotion.com
 0.0.0.0	www.v-links.net
 0.0.0.0	www.vmcsatellite.com
+0.0.0.0	www.vnailssanclemente.com
 0.0.0.0	www.voicefive.com
 0.0.0.0	www.vomitgirl.org
 0.0.0.0	www.voolat.com
@@ -60600,6 +60601,7 @@
 ::	www.vkvmotion.com
 ::	www.v-links.net
 ::	www.vmcsatellite.com
+::	www.vnailssanclemente.com
 ::	www.voicefive.com
 ::	www.vomitgirl.org
 ::	www.voolat.com
