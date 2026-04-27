@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 27 Apr 19:06:05 +03 2026
-# Total number of blocked lines: 61178
+# Ad blocking hosts generated Mon 27 Apr 20:06:05 +03 2026
+# Total number of blocked lines: 61184
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28353,6 +28353,7 @@
 0.0.0.0	www.coolwebstats.com
 0.0.0.0	www.coreglead.co.uk
 0.0.0.0	www.corlythra.uk
+0.0.0.0	www.corvettiortho.com
 0.0.0.0	www.cosmeticscentre.uk.com
 0.0.0.0	www.cotc.net
 0.0.0.0	www.counter10.sextracker.be
@@ -28398,6 +28399,7 @@
 0.0.0.0	www.crazypopups.com
 0.0.0.0	www.crazyprotocol.com
 0.0.0.0	www.crazywinnings.com
+0.0.0.0	www.creativesaftysupply.com
 0.0.0.0	www.crediainternational.com
 0.0.0.0	www.credit-dreams.com
 0.0.0.0	www.crispads.com
@@ -28748,6 +28750,7 @@
 0.0.0.0	www.gigdnetwork.com
 0.0.0.0	www.gildedrosens.name
 0.0.0.0	www.gimp.es
+0.0.0.0	www.glassygrovefy.pro
 0.0.0.0	www.globalbuffer.com
 0.0.0.0	www.globalcharge.com
 0.0.0.0	www.globe7.com
@@ -58941,6 +58944,7 @@
 ::	www.coolwebstats.com
 ::	www.coreglead.co.uk
 ::	www.corlythra.uk
+::	www.corvettiortho.com
 ::	www.cosmeticscentre.uk.com
 ::	www.cotc.net
 ::	www.counter10.sextracker.be
@@ -58986,6 +58990,7 @@
 ::	www.crazypopups.com
 ::	www.crazyprotocol.com
 ::	www.crazywinnings.com
+::	www.creativesaftysupply.com
 ::	www.crediainternational.com
 ::	www.credit-dreams.com
 ::	www.crispads.com
@@ -59336,6 +59341,7 @@
 ::	www.gigdnetwork.com
 ::	www.gildedrosens.name
 ::	www.gimp.es
+::	www.glassygrovefy.pro
 ::	www.globalbuffer.com
 ::	www.globalcharge.com
 ::	www.globe7.com
