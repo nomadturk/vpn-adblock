@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 27 Apr 23:06:05 +03 2026
-# Total number of blocked lines: 61186
+# Ad blocking hosts generated Tue 28 Apr 00:06:04 +03 2026
+# Total number of blocked lines: 61192
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -6986,6 +6986,7 @@
 0.0.0.0	bs.serving-sys.com
 0.0.0.0	b.stats.paypal.com
 0.0.0.0	b-s.tercept.com
+0.0.0.0	bsugars.sa.com
 0.0.0.0	bs.url.tw
 0.0.0.0	bs-wlb-uswest.dvgtm.akadns.net
 0.0.0.0	bs.yandex.ru
@@ -28132,6 +28133,7 @@
 0.0.0.0	www.blogrankers.com
 0.0.0.0	www.blogtopsites.com
 0.0.0.0	www.blossomtel.com
+0.0.0.0	www.blueadvantagearkasas.com
 0.0.0.0	www.bluecollarparanormal.com
 0.0.0.0	www.bluecrabhosting.co.uk
 0.0.0.0	www.bluediamondoffers.com
@@ -29481,6 +29483,7 @@
 0.0.0.0	www.publisher-network.com
 0.0.0.0	www.pulsix.com
 0.0.0.0	www.punishtube.com
+0.0.0.0	www.puppywoodshihtzu.com
 0.0.0.0	www.purchaseproof.com
 0.0.0.0	www.pureadexchange.com
 0.0.0.0	www.pure-glance.com
@@ -37578,6 +37581,7 @@
 ::	bs.serving-sys.com
 ::	b.stats.paypal.com
 ::	b-s.tercept.com
+::	bsugars.sa.com
 ::	bs.url.tw
 ::	bs-wlb-uswest.dvgtm.akadns.net
 ::	bs.yandex.ru
@@ -58724,6 +58728,7 @@
 ::	www.blogrankers.com
 ::	www.blogtopsites.com
 ::	www.blossomtel.com
+::	www.blueadvantagearkasas.com
 ::	www.bluecollarparanormal.com
 ::	www.bluecrabhosting.co.uk
 ::	www.bluediamondoffers.com
@@ -60073,6 +60078,7 @@
 ::	www.publisher-network.com
 ::	www.pulsix.com
 ::	www.punishtube.com
+::	www.puppywoodshihtzu.com
 ::	www.purchaseproof.com
 ::	www.pureadexchange.com
 ::	www.pure-glance.com
