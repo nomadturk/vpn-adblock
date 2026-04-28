@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 28 Apr 21:06:05 +03 2026
-# Total number of blocked lines: 61196
+# Ad blocking hosts generated Tue 28 Apr 22:06:05 +03 2026
+# Total number of blocked lines: 61202
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -27691,6 +27691,7 @@
 0.0.0.0	www30.glam.com
 0.0.0.0	www30l2.glam.com
 0.0.0.0	www30t1-orig.glam.com
+0.0.0.0	www.316ee.com
 0.0.0.0	www.31d.net
 0.0.0.0	www.321cba.com
 0.0.0.0	www35f.glam.com
@@ -29348,6 +29349,7 @@
 0.0.0.0	www.paintballpins.com
 0.0.0.0	www.paintnet.es
 0.0.0.0	www.paintnet.fr
+0.0.0.0	www.palaceskateboard.com
 0.0.0.0	www.paperg.com
 0.0.0.0	www.paramutplus.com
 0.0.0.0	www.parejaamateur.com
@@ -30066,6 +30068,7 @@
 0.0.0.0	www.wessexgrange.plus.com
 0.0.0.0	www.westreclameadvies.nl
 0.0.0.0	www.wewillrocknow.com
+0.0.0.0	www.wezelco.com
 0.0.0.0	www.whalecashads.com
 0.0.0.0	www.whipcrack.org
 0.0.0.0	www.whiskeyallys.com
@@ -58288,6 +58291,7 @@
 ::	www30.glam.com
 ::	www30l2.glam.com
 ::	www30t1-orig.glam.com
+::	www.316ee.com
 ::	www.31d.net
 ::	www.321cba.com
 ::	www35f.glam.com
@@ -59945,6 +59949,7 @@
 ::	www.paintballpins.com
 ::	www.paintnet.es
 ::	www.paintnet.fr
+::	www.palaceskateboard.com
 ::	www.paperg.com
 ::	www.paramutplus.com
 ::	www.parejaamateur.com
@@ -60663,6 +60668,7 @@
 ::	www.wessexgrange.plus.com
 ::	www.westreclameadvies.nl
 ::	www.wewillrocknow.com
+::	www.wezelco.com
 ::	www.whalecashads.com
 ::	www.whipcrack.org
 ::	www.whiskeyallys.com
