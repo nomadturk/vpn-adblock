@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 28 Apr 03:06:04 +03 2026
-# Total number of blocked lines: 61192
+# Ad blocking hosts generated Tue 28 Apr 04:06:04 +03 2026
+# Total number of blocked lines: 61194
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28231,6 +28231,7 @@
 0.0.0.0	www.cashlayer.com
 0.0.0.0	www.cashthat.com
 0.0.0.0	www.casino770.com
+0.0.0.0	www.casinostarluck.net
 0.0.0.0	www.casinotropez.com
 0.0.0.0	www.cassink.com
 0.0.0.0	www.catabcde.com
@@ -58826,6 +58827,7 @@
 ::	www.cashlayer.com
 ::	www.cashthat.com
 ::	www.casino770.com
+::	www.casinostarluck.net
 ::	www.casinotropez.com
 ::	www.cassink.com
 ::	www.catabcde.com
