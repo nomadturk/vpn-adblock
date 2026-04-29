@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 29 Apr 18:06:04 +03 2026
-# Total number of blocked lines: 61210
+# Ad blocking hosts generated Wed 29 Apr 19:06:04 +03 2026
+# Total number of blocked lines: 61212
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -5996,6 +5996,7 @@
 0.0.0.0	backseatcuddler.us.intellitxt.com
 0.0.0.0	backstory.ebay.com
 0.0.0.0	backstory.ebay.co.uk
+0.0.0.0	backtension.com
 0.0.0.0	bac-reunion.fr
 0.0.0.0	bacskateszov.hu
 0.0.0.0	bactif.fr
@@ -36600,6 +36601,7 @@
 ::	backseatcuddler.us.intellitxt.com
 ::	backstory.ebay.com
 ::	backstory.ebay.co.uk
+::	backtension.com
 ::	bac-reunion.fr
 ::	bacskateszov.hu
 ::	bactif.fr
