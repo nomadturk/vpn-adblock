@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 29 Apr 21:06:05 +03 2026
-# Total number of blocked lines: 61214
+# Ad blocking hosts generated Wed 29 Apr 22:06:05 +03 2026
+# Total number of blocked lines: 61218
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29158,6 +29158,7 @@
 0.0.0.0	www.milkfountain.com
 0.0.0.0	www.milkycascadeut.site
 0.0.0.0	www.minr.pw
+0.0.0.0	www.miocardite.com
 0.0.0.0	www.miqsoft.hu
 0.0.0.0	www.miyazaki-catv.ne.jp
 0.0.0.0	www.mjonkers.nl
@@ -29275,6 +29276,7 @@
 0.0.0.0	www.nnews.net
 0.0.0.0	www.nobetsjustfun.com
 0.0.0.0	www.nobrain.dk
+0.0.0.0	www.noithatphanthinh.com
 0.0.0.0	www.noowho.com
 0.0.0.0	www.northvalesgrids.uk
 0.0.0.0	www.nospartenaires.com
@@ -59764,6 +59766,7 @@
 ::	www.milkfountain.com
 ::	www.milkycascadeut.site
 ::	www.minr.pw
+::	www.miocardite.com
 ::	www.miqsoft.hu
 ::	www.miyazaki-catv.ne.jp
 ::	www.mjonkers.nl
@@ -59881,6 +59884,7 @@
 ::	www.nnews.net
 ::	www.nobetsjustfun.com
 ::	www.nobrain.dk
+::	www.noithatphanthinh.com
 ::	www.noowho.com
 ::	www.northvalesgrids.uk
 ::	www.nospartenaires.com
