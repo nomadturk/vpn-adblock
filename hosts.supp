@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 29 Apr 07:06:04 +03 2026
-# Total number of blocked lines: 61202
+# Ad blocking hosts generated Wed 29 Apr 08:06:05 +03 2026
+# Total number of blocked lines: 61210
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -6890,6 +6890,7 @@
 0.0.0.0	braincash.com
 0.0.0.0	brain.foresee.com
 0.0.0.0	brainient.com
+0.0.0.0	brainns.sa.com
 0.0.0.0	branch.io
 0.0.0.0	brand-display.com
 0.0.0.0	brandreachsys.com
@@ -29740,6 +29741,7 @@
 0.0.0.0	www.star-advertising.com
 0.0.0.0	www.startnewtab.com
 0.0.0.0	www.start-page.org
+0.0.0.0	www.startupsforstartups.com
 0.0.0.0	www.stat24.com
 0.0.0.0	www.statcount.com
 0.0.0.0	www.statcounter.com
@@ -30044,6 +30046,7 @@
 0.0.0.0	www.webconnect.net
 0.0.0.0	www.webcounter.com
 0.0.0.0	www.webhostingcounter.com
+0.0.0.0	www.webmicrostores.com
 0.0.0.0	www.webmoblink.com
 0.0.0.0	www.webpartition.com
 0.0.0.0	www.websitealive3.com
@@ -30113,6 +30116,7 @@
 0.0.0.0	www.xaxis.com
 0.0.0.0	www.xbn.ru
 0.0.0.0	www.xclicks.net
+0.0.0.0	www.xdesimbi.com
 0.0.0.0	www.xg4ken.com
 0.0.0.0	www.xiti.com
 0.0.0.0	www.xl-rank.com
@@ -37490,6 +37494,7 @@
 ::	braincash.com
 ::	brain.foresee.com
 ::	brainient.com
+::	brainns.sa.com
 ::	branch.io
 ::	brand-display.com
 ::	brandreachsys.com
@@ -60340,6 +60345,7 @@
 ::	www.star-advertising.com
 ::	www.startnewtab.com
 ::	www.start-page.org
+::	www.startupsforstartups.com
 ::	www.stat24.com
 ::	www.statcount.com
 ::	www.statcounter.com
@@ -60644,6 +60650,7 @@
 ::	www.webconnect.net
 ::	www.webcounter.com
 ::	www.webhostingcounter.com
+::	www.webmicrostores.com
 ::	www.webmoblink.com
 ::	www.webpartition.com
 ::	www.websitealive3.com
@@ -60713,6 +60720,7 @@
 ::	www.xaxis.com
 ::	www.xbn.ru
 ::	www.xclicks.net
+::	www.xdesimbi.com
 ::	www.xg4ken.com
 ::	www.xiti.com
 ::	www.xl-rank.com
