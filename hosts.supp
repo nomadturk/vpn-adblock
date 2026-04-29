@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 29 Apr 20:06:04 +03 2026
-# Total number of blocked lines: 61212
+# Ad blocking hosts generated Wed 29 Apr 21:06:05 +03 2026
+# Total number of blocked lines: 61214
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -21352,6 +21352,7 @@
 0.0.0.0	romdiscover.com
 0.0.0.0	romepartners.com
 0.0.0.0	rome.specificclick.net
+0.0.0.0	ronracepub.com
 0.0.0.0	roosevelt.gjbig.com
 0.0.0.0	rootbuzz.com
 0.0.0.0	r.openx.net
@@ -51957,6 +51958,7 @@
 ::	romdiscover.com
 ::	romepartners.com
 ::	rome.specificclick.net
+::	ronracepub.com
 ::	roosevelt.gjbig.com
 ::	rootbuzz.com
 ::	r.openx.net
