@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 30 Apr 19:06:04 +03 2026
-# Total number of blocked lines: 61220
+# Ad blocking hosts generated Thu 30 Apr 20:06:04 +03 2026
+# Total number of blocked lines: 61224
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -9612,6 +9612,7 @@
 0.0.0.0	crowdignite.com
 0.0.0.0	crownsafe.net
 0.0.0.0	crpo.fr
+0.0.0.0	crrect.sa.com
 0.0.0.0	crsspxl.com
 0.0.0.0	crsystems.it
 0.0.0.0	crta.dailymail.co.uk
@@ -29214,6 +29215,7 @@
 0.0.0.0	www.myfreedinner.com
 0.0.0.0	www.myfreegifts.co.uk
 0.0.0.0	www.myfreemp3player.com
+0.0.0.0	www.myfurnituresirplus.com
 0.0.0.0	www.mygreatrewards.com
 0.0.0.0	www.myhucadvantage.com
 0.0.0.0	www.mylike.co.uk
@@ -40221,6 +40223,7 @@
 ::	crowdignite.com
 ::	crownsafe.net
 ::	crpo.fr
+::	crrect.sa.com
 ::	crsspxl.com
 ::	crsystems.it
 ::	crta.dailymail.co.uk
@@ -59823,6 +59826,7 @@
 ::	www.myfreedinner.com
 ::	www.myfreegifts.co.uk
 ::	www.myfreemp3player.com
+::	www.myfurnituresirplus.com
 ::	www.mygreatrewards.com
 ::	www.myhucadvantage.com
 ::	www.mylike.co.uk
