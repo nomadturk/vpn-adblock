@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri  1 May 17:06:05 +03 2026
-# Total number of blocked lines: 61254
+# Ad blocking hosts generated Fri  1 May 18:06:04 +03 2026
+# Total number of blocked lines: 61260
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -8674,6 +8674,7 @@
 0.0.0.0	closefly.com
 0.0.0.0	cloudadservers.com
 0.0.0.0	cloudads.net
+0.0.0.0	cloudalert.shop
 0.0.0.0	cloudapi.imrworldwide.com
 0.0.0.0	cloudbiggest.com
 0.0.0.0	cloudcrown.com
@@ -10219,6 +10220,7 @@
 0.0.0.0	denguru.us.intellitxt.com
 0.0.0.0	denizfirsatlarimbasvuru.xyz
 0.0.0.0	dennispublishing.112.2o7.net
+0.0.0.0	dentalfix.shop
 0.0.0.0	dentistsinyourarea.com
 0.0.0.0	denverpost.112.2o7.net
 0.0.0.0	denx.fr
@@ -28231,6 +28233,7 @@
 0.0.0.0	www.canadianshawid.com
 0.0.0.0	www.canalstat.com
 0.0.0.0	www.canuckmethods.com
+0.0.0.0	www.caothusohoc.com
 0.0.0.0	www.capath.com
 0.0.0.0	www.capturedcovers.com
 0.0.0.0	www.caramail.com
@@ -39300,6 +39303,7 @@
 ::	closefly.com
 ::	cloudadservers.com
 ::	cloudads.net
+::	cloudalert.shop
 ::	cloudapi.imrworldwide.com
 ::	cloudbiggest.com
 ::	cloudcrown.com
@@ -40845,6 +40849,7 @@
 ::	denguru.us.intellitxt.com
 ::	denizfirsatlarimbasvuru.xyz
 ::	dennispublishing.112.2o7.net
+::	dentalfix.shop
 ::	dentistsinyourarea.com
 ::	denverpost.112.2o7.net
 ::	denx.fr
@@ -58857,6 +58862,7 @@
 ::	www.canadianshawid.com
 ::	www.canalstat.com
 ::	www.canuckmethods.com
+::	www.caothusohoc.com
 ::	www.capath.com
 ::	www.capturedcovers.com
 ::	www.caramail.com
