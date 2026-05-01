@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri  1 May 23:06:05 +03 2026
-# Total number of blocked lines: 61260
+# Ad blocking hosts generated Sat  2 May 00:06:05 +03 2026
+# Total number of blocked lines: 61262
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -20110,6 +20110,7 @@
 0.0.0.0	p.presage.io
 0.0.0.0	pprocessor.net
 0.0.0.0	p.profistats.net
+0.0.0.0	ppures.shop
 0.0.0.0	pq-direct.revsci.net
 0.0.0.0	pqwaker.altervista.org
 0.0.0.0	pr.5.p2l.info
@@ -50739,6 +50740,7 @@
 ::	p.presage.io
 ::	pprocessor.net
 ::	p.profistats.net
+::	ppures.shop
 ::	pq-direct.revsci.net
 ::	pqwaker.altervista.org
 ::	pr.5.p2l.info
