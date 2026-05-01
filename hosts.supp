@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri  1 May 14:06:04 +03 2026
-# Total number of blocked lines: 61224
+# Ad blocking hosts generated Fri  1 May 15:06:05 +03 2026
+# Total number of blocked lines: 61254
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -1332,7 +1332,6 @@
 0.0.0.0	adbucks.brandreachsys.com
 0.0.0.0	adbuka.com
 0.0.0.0	adbutler.com
-0.0.0.0	adbuyer3.lycos.com
 0.0.0.0	adb.wp.pl
 0.0.0.0	adc2.adcentriconline.com
 0.0.0.0	adc3-assets.adcolony.com
@@ -3903,6 +3902,7 @@
 0.0.0.0	adunit.cdn.auditude.com
 0.0.0.0	adunit.chango.com
 0.0.0.0	ad.universcine.com
+0.0.0.0	ad-up.com
 0.0.0.0	adups.com
 0.0.0.0	ad.usatoday.com
 0.0.0.0	ad.us.doubleclick.net
@@ -3934,6 +3934,7 @@
 0.0.0.0	adv.elaana.com
 0.0.0.0	adve.net
 0.0.0.0	adveng.hiasys.com
+0.0.0.0	adventory.com
 0.0.0.0	adventurousamount.com
 0.0.0.0	adver.pengyou.com
 0.0.0.0	adversal.com
@@ -4212,6 +4213,7 @@
 0.0.0.0	affiliates.streamray.com
 0.0.0.0	affiliates.thinkhost.net
 0.0.0.0	affiliates.thrixxx.com
+0.0.0.0	affiliates.ultrahosting.com
 0.0.0.0	affiliate.superbahis542.com
 0.0.0.0	affiliates.yourapprovaltracker.com
 0.0.0.0	affiliatetracking.com
@@ -8447,6 +8449,7 @@
 0.0.0.0	clickadu.com
 0.0.0.0	click.advertnative.com
 0.0.0.0	click.adv.livedoor.com
+0.0.0.0	clickadz.com
 0.0.0.0	clickagents.com
 0.0.0.0	click.airmalta-mail.com
 0.0.0.0	click.aliexpress.com
@@ -8470,7 +8473,6 @@
 0.0.0.0	click.classmates.com
 0.0.0.0	click.clktraker.com
 0.0.0.0	click.comm.rcibank.co.uk
-0.0.0.0	clickcompare.co.uk
 0.0.0.0	click.crm.ba.com
 0.0.0.0	click.dealshark.com
 0.0.0.0	clickdensity.com
@@ -9480,6 +9482,7 @@
 0.0.0.0	cowcotland.fr.intellitxt.com
 0.0.0.0	cox.deliveryengine.adswizz.com
 0.0.0.0	coxhsi.112.2o7.net
+0.0.0.0	coxmt.com
 0.0.0.0	coxnet.112.2o7.net
 0.0.0.0	coxnetmasterglobal.112.2o7.net
 0.0.0.0	coxpalmbeachpost.112.2o7.net
@@ -10986,6 +10989,7 @@
 0.0.0.0	e.abnad.net
 0.0.0.0	eaboiretes.com
 0.0.0.0	eacdn.com
+0.0.0.0	eadexchange.com
 0.0.0.0	e.adhaven.com
 0.0.0.0	e-ads.eqads.com
 0.0.0.0	eadsrv.com
@@ -12487,6 +12491,7 @@
 0.0.0.0	fusion.adtoma.com
 0.0.0.0	fusion-files-cf.pinsightmedia.com
 0.0.0.0	fusion-iad-dev-clogs-eqbrmmvphc.elasticbeanstalk.com
+0.0.0.0	fusionquest.com
 0.0.0.0	futureocto.com
 0.0.0.0	futureplc-com.videoplayerhub.com
 0.0.0.0	futurepublications.uk.intellitxt.com
@@ -12935,7 +12940,6 @@
 0.0.0.0	glochatuji.com
 0.0.0.0	gloriousbeef.com
 0.0.0.0	glotchat.click
-0.0.0.0	gloyah.net
 0.0.0.0	glsdk.logsss.com
 0.0.0.0	glucont.shop
 0.0.0.0	gma.alicdn.com
@@ -13326,6 +13330,7 @@
 0.0.0.0	gumgum.com
 0.0.0.0	gum.va1.vip.prod.criteo.com
 0.0.0.0	gumyfui.com
+0.0.0.0	gunggo.com
 0.0.0.0	gurgle.zdbb.net
 0.0.0.0	guru3d.us.intellitxt.com
 0.0.0.0	gusabid.adview.com
@@ -14346,6 +14351,7 @@
 0.0.0.0	im.jiguang.cn
 0.0.0.0	immanalytics.com
 0.0.0.0	immediatemedia.amp.permutive.com
+0.0.0.0	immensehoney.com
 0.0.0.0	immobili.oewabox.at
 0.0.0.0	immosuch.oewabox.at
 0.0.0.0	imnotobsessed.us.intellitxt.com
@@ -14713,7 +14719,6 @@
 0.0.0.0	iot-logser.realme.com
 0.0.0.0	iovation.com
 0.0.0.0	iovation.co.uk
-0.0.0.0	ip193.cn
 0.0.0.0	ip1.ads.stickyadstv.com.akadns.net
 0.0.0.0	ip1.cdn.stickyadstv.com.akadns.net
 0.0.0.0	ip2.ads.stickyadstv.com.akadns.net
@@ -15193,6 +15198,7 @@
 0.0.0.0	justjared.us.intellitxt.com
 0.0.0.0	justmovietrailers.us.intellitxt.com
 0.0.0.0	justpremium.com
+0.0.0.0	justrelevant.com
 0.0.0.0	justtrck.com
 0.0.0.0	justwebads.com
 0.0.0.0	justwowjars.com
@@ -15605,6 +15611,7 @@
 0.0.0.0	leadspace.com
 0.0.0.0	leads.su
 0.0.0.0	leadsynaptic.go2jump.org
+0.0.0.0	leadzupc.com
 0.0.0.0	leanmobi.fusetracking.com
 0.0.0.0	leaplunchroom.com
 0.0.0.0	leavehomego.com
@@ -17196,6 +17203,7 @@
 0.0.0.0	microsoftxbox.112.2o7.net
 0.0.0.0	microsof.wemfbox.ch
 0.0.0.0	microstatic.pl
+0.0.0.0	microticker.com
 0.0.0.0	microwinds.de
 0.0.0.0	midala.112.2o7.net
 0.0.0.0	midar.112.2o7.net
@@ -18835,6 +18843,7 @@
 0.0.0.0	onlineads.magicvalley.com
 0.0.0.0	online.analytiks.click
 0.0.0.0	onlinecash.com
+0.0.0.0	onlinecashmethod.com
 0.0.0.0	online-casino.shengen.ru
 0.0.0.0	online-casino.webpark.pl
 0.0.0.0	online-forex.hut1.ru
@@ -20143,6 +20152,7 @@
 0.0.0.0	prebit.the-ozone-project.com
 0.0.0.0	precisioncounter.com
 0.0.0.0	predataclient.b-cdn.net
+0.0.0.0	predictad.com
 0.0.0.0	predictiondisplay.com
 0.0.0.0	predictivadnetwork.com
 0.0.0.0	predskolaci.cz
@@ -20150,6 +20160,7 @@
 0.0.0.0	prefix.hit.gemius.pl
 0.0.0.0	preligions.com
 0.0.0.0	premium-live-scan.com
+0.0.0.0	premium-offers.com
 0.0.0.0	premium-offers.space
 0.0.0.0	premiumproductsonline.com
 0.0.0.0	premiumsrv.aniview.com
@@ -20762,6 +20773,7 @@
 0.0.0.0	r7.ritikajoshi.com
 0.0.0.0	r7.romeflirt.com
 0.0.0.0	r8qs.adj.st
+0.0.0.0	raac33.net
 0.0.0.0	rabbitrifle.com
 0.0.0.0	rackforstorage.com
 0.0.0.0	radar.cedexis.com
@@ -27201,6 +27213,7 @@
 0.0.0.0	wellnessmonitor.bravehost.com
 0.0.0.0	wellnessnaturopathic.com
 0.0.0.0	weltonline01.webtrekk.net
+0.0.0.0	welved.com
 0.0.0.0	wenda.io
 0.0.0.0	weownthetraffic.com
 0.0.0.0	werbung.meteoxpress.com
@@ -30494,6 +30507,7 @@
 0.0.0.0	zalandon.fr
 0.0.0.0	zanaflex.1.p2l.info
 0.0.0.0	zango.112.2o7.net
+0.0.0.0	zangocash.com
 0.0.0.0	zanox-affiliate.de
 0.0.0.0	zanox.com
 0.0.0.0	zantracker.com
@@ -30539,6 +30553,7 @@
 0.0.0.0	zenigameblinger.org
 0.0.0.0	zenkreka.com
 0.0.0.0	zentastic.com
+0.0.0.0	zenzuu.com
 0.0.0.0	zephyrlabyrinth.com
 0.0.0.0	zeroredirect11.com
 0.0.0.0	zeroredirect12.com
@@ -31943,7 +31958,6 @@
 ::	adbucks.brandreachsys.com
 ::	adbuka.com
 ::	adbutler.com
-::	adbuyer3.lycos.com
 ::	adb.wp.pl
 ::	adc2.adcentriconline.com
 ::	adc3-assets.adcolony.com
@@ -34514,6 +34528,7 @@
 ::	adunit.cdn.auditude.com
 ::	adunit.chango.com
 ::	ad.universcine.com
+::	ad-up.com
 ::	adups.com
 ::	ad.usatoday.com
 ::	ad.us.doubleclick.net
@@ -34545,6 +34560,7 @@
 ::	adv.elaana.com
 ::	adve.net
 ::	adveng.hiasys.com
+::	adventory.com
 ::	adventurousamount.com
 ::	adver.pengyou.com
 ::	adversal.com
@@ -34823,6 +34839,7 @@
 ::	affiliates.streamray.com
 ::	affiliates.thinkhost.net
 ::	affiliates.thrixxx.com
+::	affiliates.ultrahosting.com
 ::	affiliate.superbahis542.com
 ::	affiliates.yourapprovaltracker.com
 ::	affiliatetracking.com
@@ -39058,6 +39075,7 @@
 ::	clickadu.com
 ::	click.advertnative.com
 ::	click.adv.livedoor.com
+::	clickadz.com
 ::	clickagents.com
 ::	click.airmalta-mail.com
 ::	click.aliexpress.com
@@ -39081,7 +39099,6 @@
 ::	click.classmates.com
 ::	click.clktraker.com
 ::	click.comm.rcibank.co.uk
-::	clickcompare.co.uk
 ::	click.crm.ba.com
 ::	click.dealshark.com
 ::	clickdensity.com
@@ -40091,6 +40108,7 @@
 ::	cowcotland.fr.intellitxt.com
 ::	cox.deliveryengine.adswizz.com
 ::	coxhsi.112.2o7.net
+::	coxmt.com
 ::	coxnet.112.2o7.net
 ::	coxnetmasterglobal.112.2o7.net
 ::	coxpalmbeachpost.112.2o7.net
@@ -41597,6 +41615,7 @@
 ::	e.abnad.net
 ::	eaboiretes.com
 ::	eacdn.com
+::	eadexchange.com
 ::	e.adhaven.com
 ::	e-ads.eqads.com
 ::	eadsrv.com
@@ -43098,6 +43117,7 @@
 ::	fusion.adtoma.com
 ::	fusion-files-cf.pinsightmedia.com
 ::	fusion-iad-dev-clogs-eqbrmmvphc.elasticbeanstalk.com
+::	fusionquest.com
 ::	futureocto.com
 ::	futureplc-com.videoplayerhub.com
 ::	futurepublications.uk.intellitxt.com
@@ -43546,7 +43566,6 @@
 ::	glochatuji.com
 ::	gloriousbeef.com
 ::	glotchat.click
-::	gloyah.net
 ::	glsdk.logsss.com
 ::	glucont.shop
 ::	gma.alicdn.com
@@ -43937,6 +43956,7 @@
 ::	gumgum.com
 ::	gum.va1.vip.prod.criteo.com
 ::	gumyfui.com
+::	gunggo.com
 ::	gurgle.zdbb.net
 ::	guru3d.us.intellitxt.com
 ::	gusabid.adview.com
@@ -44957,6 +44977,7 @@
 ::	im.jiguang.cn
 ::	immanalytics.com
 ::	immediatemedia.amp.permutive.com
+::	immensehoney.com
 ::	immobili.oewabox.at
 ::	immosuch.oewabox.at
 ::	imnotobsessed.us.intellitxt.com
@@ -45324,7 +45345,6 @@
 ::	iot-logser.realme.com
 ::	iovation.com
 ::	iovation.co.uk
-::	ip193.cn
 ::	ip1.ads.stickyadstv.com.akadns.net
 ::	ip1.cdn.stickyadstv.com.akadns.net
 ::	ip2.ads.stickyadstv.com.akadns.net
@@ -45804,6 +45824,7 @@
 ::	justjared.us.intellitxt.com
 ::	justmovietrailers.us.intellitxt.com
 ::	justpremium.com
+::	justrelevant.com
 ::	justtrck.com
 ::	justwebads.com
 ::	justwowjars.com
@@ -46216,6 +46237,7 @@
 ::	leadspace.com
 ::	leads.su
 ::	leadsynaptic.go2jump.org
+::	leadzupc.com
 ::	leanmobi.fusetracking.com
 ::	leaplunchroom.com
 ::	leavehomego.com
@@ -47807,6 +47829,7 @@
 ::	microsoftxbox.112.2o7.net
 ::	microsof.wemfbox.ch
 ::	microstatic.pl
+::	microticker.com
 ::	microwinds.de
 ::	midala.112.2o7.net
 ::	midar.112.2o7.net
@@ -49446,6 +49469,7 @@
 ::	onlineads.magicvalley.com
 ::	online.analytiks.click
 ::	onlinecash.com
+::	onlinecashmethod.com
 ::	online-casino.shengen.ru
 ::	online-casino.webpark.pl
 ::	online-forex.hut1.ru
@@ -50754,6 +50778,7 @@
 ::	prebit.the-ozone-project.com
 ::	precisioncounter.com
 ::	predataclient.b-cdn.net
+::	predictad.com
 ::	predictiondisplay.com
 ::	predictivadnetwork.com
 ::	predskolaci.cz
@@ -50761,6 +50786,7 @@
 ::	prefix.hit.gemius.pl
 ::	preligions.com
 ::	premium-live-scan.com
+::	premium-offers.com
 ::	premium-offers.space
 ::	premiumproductsonline.com
 ::	premiumsrv.aniview.com
@@ -51373,6 +51399,7 @@
 ::	r7.ritikajoshi.com
 ::	r7.romeflirt.com
 ::	r8qs.adj.st
+::	raac33.net
 ::	rabbitrifle.com
 ::	rackforstorage.com
 ::	radar.cedexis.com
@@ -57812,6 +57839,7 @@
 ::	wellnessmonitor.bravehost.com
 ::	wellnessnaturopathic.com
 ::	weltonline01.webtrekk.net
+::	welved.com
 ::	wenda.io
 ::	weownthetraffic.com
 ::	werbung.meteoxpress.com
@@ -61105,6 +61133,7 @@
 ::	zalandon.fr
 ::	zanaflex.1.p2l.info
 ::	zango.112.2o7.net
+::	zangocash.com
 ::	zanox-affiliate.de
 ::	zanox.com
 ::	zantracker.com
@@ -61150,6 +61179,7 @@
 ::	zenigameblinger.org
 ::	zenkreka.com
 ::	zentastic.com
+::	zenzuu.com
 ::	zephyrlabyrinth.com
 ::	zeroredirect11.com
 ::	zeroredirect12.com
