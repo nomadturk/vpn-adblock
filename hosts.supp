@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat  2 May 07:06:05 +03 2026
-# Total number of blocked lines: 61262
+# Ad blocking hosts generated Sat  2 May 08:06:05 +03 2026
+# Total number of blocked lines: 61266
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -12274,6 +12274,7 @@
 0.0.0.0	ford.112.2o7.net
 0.0.0.0	ford.demdex.net
 0.0.0.0	foresee.com
+0.0.0.0	foreverprintco.com
 0.0.0.0	forexadv.eu
 0.0.0.0	forex-affiliate.net
 0.0.0.0	forex-broker.hut1.ru
@@ -30370,6 +30371,7 @@
 0.0.0.0	yandexmetrica.com
 0.0.0.0	yandex-sync.rutarget.ru
 0.0.0.0	yang.hitbox.com
+0.0.0.0	yanteaviation.com
 0.0.0.0	yardbarker.tags.crwdcntrl.net
 0.0.0.0	yas-jr.com
 0.0.0.0	yasmin.1.p2l.info
@@ -42904,6 +42906,7 @@
 ::	ford.112.2o7.net
 ::	ford.demdex.net
 ::	foresee.com
+::	foreverprintco.com
 ::	forexadv.eu
 ::	forex-affiliate.net
 ::	forex-broker.hut1.ru
@@ -61000,6 +61003,7 @@
 ::	yandexmetrica.com
 ::	yandex-sync.rutarget.ru
 ::	yang.hitbox.com
+::	yanteaviation.com
 ::	yardbarker.tags.crwdcntrl.net
 ::	yas-jr.com
 ::	yasmin.1.p2l.info
