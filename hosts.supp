@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sun  3 May 17:06:05 +03 2026
-# Total number of blocked lines: 61268
+# Ad blocking hosts generated Sun  3 May 18:06:04 +03 2026
+# Total number of blocked lines: 61270
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -8831,6 +8831,7 @@
 0.0.0.0	cnomy.com
 0.0.0.0	cnoompprod.112.2o7.net
 0.0.0.0	c.novostimira.biz
+0.0.0.0	cnrfms.pro
 0.0.0.0	cnt1.pocitadlo.cz
 0.0.0.0	cnt1.xhamster.com
 0.0.0.0	cnt.fout.jp
@@ -39464,6 +39465,7 @@
 ::	cnomy.com
 ::	cnoompprod.112.2o7.net
 ::	c.novostimira.biz
+::	cnrfms.pro
 ::	cnt1.pocitadlo.cz
 ::	cnt1.xhamster.com
 ::	cnt.fout.jp
