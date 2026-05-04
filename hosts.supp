@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon  4 May 23:06:04 +03 2026
-# Total number of blocked lines: 61280
+# Ad blocking hosts generated Tue  5 May 00:06:05 +03 2026
+# Total number of blocked lines: 61282
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29183,6 +29183,7 @@
 0.0.0.0	www.miocardite.com
 0.0.0.0	www.miqsoft.hu
 0.0.0.0	www.miyazaki-catv.ne.jp
+0.0.0.0	www.miziko.com
 0.0.0.0	www.mjonkers.nl
 0.0.0.0	www.mktrack.com
 0.0.0.0	www.mlntracker.com
@@ -59822,6 +59823,7 @@
 ::	www.miocardite.com
 ::	www.miqsoft.hu
 ::	www.miyazaki-catv.ne.jp
+::	www.miziko.com
 ::	www.mjonkers.nl
 ::	www.mktrack.com
 ::	www.mlntracker.com
