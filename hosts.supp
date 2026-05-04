@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon  4 May 21:06:05 +03 2026
-# Total number of blocked lines: 61274
+# Ad blocking hosts generated Mon  4 May 22:06:05 +03 2026
+# Total number of blocked lines: 61280
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29212,6 +29212,7 @@
 0.0.0.0	www.ms247.plus.com
 0.0.0.0	www.msgtag.com
 0.0.0.0	www.mshelp247.weebly.com
+0.0.0.0	www.msmithguitarstudio.com
 0.0.0.0	www.msmpokergamer.com
 0.0.0.0	www.ms-mvp.org
 0.0.0.0	www.msxzff.com
@@ -29950,6 +29951,7 @@
 0.0.0.0	www.traffictraders.com
 0.0.0.0	www.trafficzap.com
 0.0.0.0	www.trafic.ro
+0.0.0.0	www.traficsigntest.com
 0.0.0.0	www.trafsearchonline.com
 0.0.0.0	www.traktrafficflow.com
 0.0.0.0	www.tranzit124.cz
@@ -30139,6 +30141,7 @@
 0.0.0.0	www.wtp101.com
 0.0.0.0	www.wu4652.com.tw
 0.0.0.0	www.wwt-ag.ch
+0.0.0.0	www.wwwpaipal.com
 0.0.0.0	www.wysistat.com
 0.0.0.0	www.xadsmart.com
 0.0.0.0	www.xandermaker.com
@@ -59848,6 +59851,7 @@
 ::	www.ms247.plus.com
 ::	www.msgtag.com
 ::	www.mshelp247.weebly.com
+::	www.msmithguitarstudio.com
 ::	www.msmpokergamer.com
 ::	www.ms-mvp.org
 ::	www.msxzff.com
@@ -60586,6 +60590,7 @@
 ::	www.traffictraders.com
 ::	www.trafficzap.com
 ::	www.trafic.ro
+::	www.traficsigntest.com
 ::	www.trafsearchonline.com
 ::	www.traktrafficflow.com
 ::	www.tranzit124.cz
@@ -60775,6 +60780,7 @@
 ::	www.wtp101.com
 ::	www.wu4652.com.tw
 ::	www.wwt-ag.ch
+::	www.wwwpaipal.com
 ::	www.wysistat.com
 ::	www.xadsmart.com
 ::	www.xandermaker.com
