@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue  5 May 16:06:04 +03 2026
-# Total number of blocked lines: 61282
+# Ad blocking hosts generated Tue  5 May 17:06:04 +03 2026
+# Total number of blocked lines: 61284
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -22275,6 +22275,7 @@
 0.0.0.0	securisurf.com
 0.0.0.0	securite.01net.com
 0.0.0.0	security60-e.com
+0.0.0.0	securityannex.net
 0.0.0.0	securityscan.us
 0.0.0.0	security.schwab-5.click
 0.0.0.0	sedlec.unas.cz
@@ -52915,6 +52916,7 @@
 ::	securisurf.com
 ::	securite.01net.com
 ::	security60-e.com
+::	securityannex.net
 ::	securityscan.us
 ::	security.schwab-5.click
 ::	sedlec.unas.cz
