@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu  7 May 21:06:05 +03 2026
-# Total number of blocked lines: 61306
+# Ad blocking hosts generated Thu  7 May 22:06:05 +03 2026
+# Total number of blocked lines: 61320
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -5531,6 +5531,7 @@
 0.0.0.0	architecturaldesigns.us.intellitxt.com
 0.0.0.0	archive.coolerads.com
 0.0.0.0	archswimming.com
+0.0.0.0	arcticblast.sa.com
 0.0.0.0	ardrone.swoop.com
 0.0.0.0	ard.sexplaycam.com
 0.0.0.0	ard.sweetdiscreet.com
@@ -28478,6 +28479,7 @@
 0.0.0.0	www.datoben.waw.pl
 0.0.0.0	www.davion.plus.com
 0.0.0.0	www.dayanitastore.com
+0.0.0.0	www.daytonjaxx.com
 0.0.0.0	www.dealresponse.com
 0.0.0.0	www.dealsrate.com
 0.0.0.0	www.debbo.plus.com
@@ -28547,6 +28549,7 @@
 0.0.0.0	www.dymor.cfd
 0.0.0.0	www.dynamictyres.com
 0.0.0.0	www.eaglesfanclub.com
+0.0.0.0	www.eamazondigital.com
 0.0.0.0	www.earnify.com
 0.0.0.0	www.eastwood35.idps.co.uk
 0.0.0.0	www.easy2date.net
@@ -28583,6 +28586,7 @@
 0.0.0.0	www.entercasino.com
 0.0.0.0	www.entertainment-specials.com
 0.0.0.0	www.epicgameads.com
+0.0.0.0	www.eremplacementparts.com
 0.0.0.0	www.errornuker.com
 0.0.0.0	www.eshopads2.com
 0.0.0.0	www.esjetonline.com
@@ -28827,6 +28831,7 @@
 0.0.0.0	www.griffinlist.com
 0.0.0.0	www.grmtech.net
 0.0.0.0	www.grocreyoutlet.com
+0.0.0.0	www.groundofsuccess.com
 0.0.0.0	www.grouphappy.com
 0.0.0.0	www.groupm.com
 0.0.0.0	www.growthbuilder.name
@@ -29002,11 +29007,13 @@
 0.0.0.0	www.kahramananas.com
 0.0.0.0	www.kampanyatakip.net
 0.0.0.0	www.kaplanindex.com
+0.0.0.0	www.karazah.com
 0.0.0.0	www.katch.ne.jp
 0.0.0.0	www.kazaa.com
 0.0.0.0	www.keepass.com
 0.0.0.0	www.keepass.fr
 0.0.0.0	www.kenkudo.plus.com
+0.0.0.0	www.kesau.com
 0.0.0.0	www.keybinary.com
 0.0.0.0	www.keyofhealth.com
 0.0.0.0	www.keywordblocks.com
@@ -36183,6 +36190,7 @@
 ::	architecturaldesigns.us.intellitxt.com
 ::	archive.coolerads.com
 ::	archswimming.com
+::	arcticblast.sa.com
 ::	ardrone.swoop.com
 ::	ard.sexplaycam.com
 ::	ard.sweetdiscreet.com
@@ -59130,6 +59138,7 @@
 ::	www.datoben.waw.pl
 ::	www.davion.plus.com
 ::	www.dayanitastore.com
+::	www.daytonjaxx.com
 ::	www.dealresponse.com
 ::	www.dealsrate.com
 ::	www.debbo.plus.com
@@ -59199,6 +59208,7 @@
 ::	www.dymor.cfd
 ::	www.dynamictyres.com
 ::	www.eaglesfanclub.com
+::	www.eamazondigital.com
 ::	www.earnify.com
 ::	www.eastwood35.idps.co.uk
 ::	www.easy2date.net
@@ -59235,6 +59245,7 @@
 ::	www.entercasino.com
 ::	www.entertainment-specials.com
 ::	www.epicgameads.com
+::	www.eremplacementparts.com
 ::	www.errornuker.com
 ::	www.eshopads2.com
 ::	www.esjetonline.com
@@ -59479,6 +59490,7 @@
 ::	www.griffinlist.com
 ::	www.grmtech.net
 ::	www.grocreyoutlet.com
+::	www.groundofsuccess.com
 ::	www.grouphappy.com
 ::	www.groupm.com
 ::	www.growthbuilder.name
@@ -59654,11 +59666,13 @@
 ::	www.kahramananas.com
 ::	www.kampanyatakip.net
 ::	www.kaplanindex.com
+::	www.karazah.com
 ::	www.katch.ne.jp
 ::	www.kazaa.com
 ::	www.keepass.com
 ::	www.keepass.fr
 ::	www.kenkudo.plus.com
+::	www.kesau.com
 ::	www.keybinary.com
 ::	www.keyofhealth.com
 ::	www.keywordblocks.com
