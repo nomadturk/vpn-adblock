@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri  8 May 01:06:04 +03 2026
-# Total number of blocked lines: 61322
+# Ad blocking hosts generated Fri  8 May 02:06:04 +03 2026
+# Total number of blocked lines: 61324
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28862,6 +28862,7 @@
 0.0.0.0	www.higherteam.com
 0.0.0.0	www.highleycoupons.com
 0.0.0.0	www.hightrafficads.com
+0.0.0.0	www.hindudirectory.com
 0.0.0.0	www.hiperstat.com
 0.0.0.0	www.hiroden-con.jp
 0.0.0.0	www.histats.com
@@ -59522,6 +59523,7 @@
 ::	www.higherteam.com
 ::	www.highleycoupons.com
 ::	www.hightrafficads.com
+::	www.hindudirectory.com
 ::	www.hiperstat.com
 ::	www.hiroden-con.jp
 ::	www.histats.com
