@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu  7 May 23:06:05 +03 2026
-# Total number of blocked lines: 61320
+# Ad blocking hosts generated Fri  8 May 00:06:04 +03 2026
+# Total number of blocked lines: 61322
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28807,6 +28807,7 @@
 0.0.0.0	www.goatsegirl.org
 0.0.0.0	www.goatse.ru
 0.0.0.0	www.goggle.com
+0.0.0.0	www.goldendoodlez.com
 0.0.0.0	www.goldentopics.com
 0.0.0.0	www.googdiy.com
 0.0.0.0	www.googleadservices.com
@@ -59466,6 +59467,7 @@
 ::	www.goatsegirl.org
 ::	www.goatse.ru
 ::	www.goggle.com
+::	www.goldendoodlez.com
 ::	www.goldentopics.com
 ::	www.googdiy.com
 ::	www.googleadservices.com
