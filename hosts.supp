@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu  7 May 12:06:04 +03 2026
-# Total number of blocked lines: 61304
+# Ad blocking hosts generated Thu  7 May 13:06:04 +03 2026
+# Total number of blocked lines: 61306
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -7024,6 +7024,7 @@
 0.0.0.0	bufetgarrigosa.com
 0.0.0.0	buf.lemonde.fr
 0.0.0.0	bugly.qq.com
+0.0.0.0	bugpuk.ru
 0.0.0.0	bugsense.com
 0.0.0.0	build-cdn.liftoff.io
 0.0.0.0	builderonlinecom.112.2o7.net
@@ -37675,6 +37676,7 @@
 ::	bufetgarrigosa.com
 ::	buf.lemonde.fr
 ::	bugly.qq.com
+::	bugpuk.ru
 ::	bugsense.com
 ::	build-cdn.liftoff.io
 ::	builderonlinecom.112.2o7.net
