@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri  8 May 14:06:04 +03 2026
-# Total number of blocked lines: 61326
+# Ad blocking hosts generated Fri  8 May 15:06:04 +03 2026
+# Total number of blocked lines: 61306
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -1895,7 +1895,6 @@
 0.0.0.0	adplexmedia.adk2.co
 0.0.0.0	ad.plus
 0.0.0.0	ad-plus.cn
-0.0.0.0	adplxmd.com
 0.0.0.0	a.dpmsrv.com
 0.0.0.0	ad.policeone.com
 0.0.0.0	ad.pravda.ru
@@ -4098,7 +4097,6 @@
 0.0.0.0	adx.ibibo.com
 0.0.0.0	adxlog.vivo.com.cn
 0.0.0.0	adx.lsosad.com
-0.0.0.0	ad.xmovies8.si
 0.0.0.0	adx.ocala.com
 0.0.0.0	adxpansion.com
 0.0.0.0	adxpose.com
@@ -8513,7 +8511,6 @@
 0.0.0.0	click.justwatch.com
 0.0.0.0	click.jve.net
 0.0.0.0	click.khingtracking.com
-0.0.0.0	click.kmindex.ru
 0.0.0.0	click.liftoff.io
 0.0.0.0	click.maaxmarket.com
 0.0.0.0	click.mail.hotels.com
@@ -9462,7 +9459,6 @@
 0.0.0.0	counter.yakcash.com
 0.0.0.0	counter.yesky.com
 0.0.0.0	count.freett.com
-0.0.0.0	counting.kmindex.ru
 0.0.0.0	count.ly
 0.0.0.0	countly.fibabanka.com.tr
 0.0.0.0	countly.iyzico.com
@@ -13130,7 +13126,6 @@
 0.0.0.0	gottabemobile.us.intellitxt.com
 0.0.0.0	gotu.tpbid.com
 0.0.0.0	gourmetgiftbaskets.112.2o7.net
-0.0.0.0	go.usa.gov
 0.0.0.0	gov.aniview.com
 0.0.0.0	go.verymuchad.com
 0.0.0.0	govpro.us.intellitxt.com
@@ -13501,7 +13496,6 @@
 0.0.0.0	heavy-flood.com
 0.0.0.0	hebdotop.com
 0.0.0.0	hefever.fr
-0.0.0.0	heimi-lwx.com
 0.0.0.0	helios.fvn.no
 0.0.0.0	helium.us.intellitxt.com
 0.0.0.0	hellobar.com
@@ -17278,7 +17272,6 @@
 0.0.0.0	mittencattle.com
 0.0.0.0	mix2ads.com
 0.0.0.0	mixadvert.com
-0.0.0.0	mixedreading.com
 0.0.0.0	mixmarket.biz
 0.0.0.0	mixpanel.com
 0.0.0.0	mix-test.uts.ngdata.com
@@ -20606,7 +20599,6 @@
 0.0.0.0	pushaction.foxpush.com
 0.0.0.0	push-ad.com
 0.0.0.0	pushagim.com
-0.0.0.0	pushance.com
 0.0.0.0	push-api.topaz-analytics.com
 0.0.0.0	pushazam.com
 0.0.0.0	pushbaddy.com
@@ -20784,7 +20776,6 @@
 0.0.0.0	r7.ritikajoshi.com
 0.0.0.0	r7.romeflirt.com
 0.0.0.0	r8qs.adj.st
-0.0.0.0	raac33.net
 0.0.0.0	rabbitrifle.com
 0.0.0.0	rackforstorage.com
 0.0.0.0	radar.cedexis.com
@@ -30587,7 +30578,6 @@
 0.0.0.0	zencudo.co.uk
 0.0.0.0	zendictees.fr
 0.0.0.0	zenigameblinger.org
-0.0.0.0	zenkreka.com
 0.0.0.0	zentastic.com
 0.0.0.0	zenzuu.com
 0.0.0.0	zephyrlabyrinth.com
@@ -32557,7 +32547,6 @@
 ::	adplexmedia.adk2.co
 ::	ad.plus
 ::	ad-plus.cn
-::	adplxmd.com
 ::	a.dpmsrv.com
 ::	ad.policeone.com
 ::	ad.pravda.ru
@@ -34760,7 +34749,6 @@
 ::	adx.ibibo.com
 ::	adxlog.vivo.com.cn
 ::	adx.lsosad.com
-::	ad.xmovies8.si
 ::	adx.ocala.com
 ::	adxpansion.com
 ::	adxpose.com
@@ -39175,7 +39163,6 @@
 ::	click.justwatch.com
 ::	click.jve.net
 ::	click.khingtracking.com
-::	click.kmindex.ru
 ::	click.liftoff.io
 ::	click.maaxmarket.com
 ::	click.mail.hotels.com
@@ -40124,7 +40111,6 @@
 ::	counter.yakcash.com
 ::	counter.yesky.com
 ::	count.freett.com
-::	counting.kmindex.ru
 ::	count.ly
 ::	countly.fibabanka.com.tr
 ::	countly.iyzico.com
@@ -43792,7 +43778,6 @@
 ::	gottabemobile.us.intellitxt.com
 ::	gotu.tpbid.com
 ::	gourmetgiftbaskets.112.2o7.net
-::	go.usa.gov
 ::	gov.aniview.com
 ::	go.verymuchad.com
 ::	govpro.us.intellitxt.com
@@ -44163,7 +44148,6 @@
 ::	heavy-flood.com
 ::	hebdotop.com
 ::	hefever.fr
-::	heimi-lwx.com
 ::	helios.fvn.no
 ::	helium.us.intellitxt.com
 ::	hellobar.com
@@ -47940,7 +47924,6 @@
 ::	mittencattle.com
 ::	mix2ads.com
 ::	mixadvert.com
-::	mixedreading.com
 ::	mixmarket.biz
 ::	mixpanel.com
 ::	mix-test.uts.ngdata.com
@@ -51268,7 +51251,6 @@
 ::	pushaction.foxpush.com
 ::	push-ad.com
 ::	pushagim.com
-::	pushance.com
 ::	push-api.topaz-analytics.com
 ::	pushazam.com
 ::	pushbaddy.com
@@ -51446,7 +51428,6 @@
 ::	r7.ritikajoshi.com
 ::	r7.romeflirt.com
 ::	r8qs.adj.st
-::	raac33.net
 ::	rabbitrifle.com
 ::	rackforstorage.com
 ::	radar.cedexis.com
@@ -61249,7 +61230,6 @@
 ::	zencudo.co.uk
 ::	zendictees.fr
 ::	zenigameblinger.org
-::	zenkreka.com
 ::	zentastic.com
 ::	zenzuu.com
 ::	zephyrlabyrinth.com
