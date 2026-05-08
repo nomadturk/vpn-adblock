@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri  8 May 10:06:05 +03 2026
-# Total number of blocked lines: 61324
+# Ad blocking hosts generated Fri  8 May 11:06:05 +03 2026
+# Total number of blocked lines: 61326
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -8258,6 +8258,7 @@
 0.0.0.0	chairscrack.com
 0.0.0.0	chaisesprivee.fr
 0.0.0.0	chaliehebdo.fr
+0.0.0.0	chalkdream.com
 0.0.0.0	challeges.fr
 0.0.0.0	challenge.360in.com
 0.0.0.0	champagne.futurecdn.net
@@ -38919,6 +38920,7 @@
 ::	chairscrack.com
 ::	chaisesprivee.fr
 ::	chaliehebdo.fr
+::	chalkdream.com
 ::	challeges.fr
 ::	challenge.360in.com
 ::	champagne.futurecdn.net
