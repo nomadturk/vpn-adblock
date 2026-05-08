@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri  8 May 21:06:05 +03 2026
-# Total number of blocked lines: 61310
+# Ad blocking hosts generated Fri  8 May 22:06:05 +03 2026
+# Total number of blocked lines: 61312
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28622,6 +28622,7 @@
 0.0.0.0	www.ezlink.ca
 0.0.0.0	www.ezojs.com
 0.0.0.0	www.faggotry.com
+0.0.0.0	www.farmacyty.com
 0.0.0.0	www.farnazinternational.com
 0.0.0.0	www.fashiongown.com
 0.0.0.0	www.fast-adv.it
@@ -59276,6 +59277,7 @@
 ::	www.ezlink.ca
 ::	www.ezojs.com
 ::	www.faggotry.com
+::	www.farmacyty.com
 ::	www.farnazinternational.com
 ::	www.fashiongown.com
 ::	www.fast-adv.it
