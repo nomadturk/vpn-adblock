@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat  9 May 19:06:04 +03 2026
-# Total number of blocked lines: 61312
+# Ad blocking hosts generated Sat  9 May 20:06:05 +03 2026
+# Total number of blocked lines: 61316
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -5250,6 +5250,7 @@
 0.0.0.0	aporasal.net
 0.0.0.0	aporg.112.2o7.net
 0.0.0.0	a.postrelease.com
+0.0.0.0	apoutong.com
 0.0.0.0	app-03c19ea7c9fd0c57.mobileapi.usebutton.com
 0.0.0.0	app-10d1b5add9b529e5.mobileapi.usebutton.com
 0.0.0.0	app1.letitbefaster.website
@@ -28764,6 +28765,7 @@
 0.0.0.0	www.gbcash.com
 0.0.0.0	www.gbinnie.plus.com
 0.0.0.0	www.gcmadvertising.com
+0.0.0.0	www.gekkstoyou.com
 0.0.0.0	www.gekorn.com
 0.0.0.0	www.generaldocs.com
 0.0.0.0	www.gentleshadeox.pro
@@ -35905,6 +35907,7 @@
 ::	aporasal.net
 ::	aporg.112.2o7.net
 ::	a.postrelease.com
+::	apoutong.com
 ::	app-03c19ea7c9fd0c57.mobileapi.usebutton.com
 ::	app-10d1b5add9b529e5.mobileapi.usebutton.com
 ::	app1.letitbefaster.website
@@ -59419,6 +59422,7 @@
 ::	www.gbcash.com
 ::	www.gbinnie.plus.com
 ::	www.gcmadvertising.com
+::	www.gekkstoyou.com
 ::	www.gekorn.com
 ::	www.generaldocs.com
 ::	www.gentleshadeox.pro
