@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 11 May 19:06:05 +03 2026
-# Total number of blocked lines: 61322
+# Ad blocking hosts generated Mon 11 May 20:06:04 +03 2026
+# Total number of blocked lines: 61326
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -17290,6 +17290,7 @@
 0.0.0.0	mktg.actonsoftware.com
 0.0.0.0	mkto-ab410147.com
 0.0.0.0	mktoresp.com
+0.0.0.0	mk.wiremanse.hair
 0.0.0.0	ml314.com
 0.0.0.0	mlarmani.122.2o7.net
 0.0.0.0	mlbam.112.2o7.net
@@ -29119,6 +29120,7 @@
 0.0.0.0	www.loggerx.com
 0.0.0.0	www.loginhunter.com
 0.0.0.0	www.logoradar.com
+0.0.0.0	www.logoswitch.com
 0.0.0.0	www.lolhello.com
 0.0.0.0	www.lolshock.com
 0.0.0.0	www.loltrain.com
@@ -47950,6 +47952,7 @@
 ::	mktg.actonsoftware.com
 ::	mkto-ab410147.com
 ::	mktoresp.com
+::	mk.wiremanse.hair
 ::	ml314.com
 ::	mlarmani.122.2o7.net
 ::	mlbam.112.2o7.net
@@ -59779,6 +59782,7 @@
 ::	www.loggerx.com
 ::	www.loginhunter.com
 ::	www.logoradar.com
+::	www.logoswitch.com
 ::	www.lolhello.com
 ::	www.lolshock.com
 ::	www.loltrain.com
