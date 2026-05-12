@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 12 May 19:06:05 +03 2026
-# Total number of blocked lines: 61326
+# Ad blocking hosts generated Tue 12 May 20:06:04 +03 2026
+# Total number of blocked lines: 61330
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -19463,6 +19463,7 @@
 0.0.0.0	peremiere.fr
 0.0.0.0	perezhilton.us.intellitxt.com
 0.0.0.0	perf.cdnads.com
+0.0.0.0	perfecct.sa.com
 0.0.0.0	perfectaudience.com
 0.0.0.0	perf-events.cloud.unity3d.com
 0.0.0.0	perfiliate.com
@@ -28741,6 +28742,7 @@
 0.0.0.0	www.fuckbookdating.com
 0.0.0.0	www.fulltraffic.net
 0.0.0.0	www.funklicks.com
+0.0.0.0	www.funkycovers.com
 0.0.0.0	www.funkydoowop.plus.com
 0.0.0.0	www.fun.lbn.ru
 0.0.0.0	www.funnelchair.com
@@ -50125,6 +50127,7 @@
 ::	peremiere.fr
 ::	perezhilton.us.intellitxt.com
 ::	perf.cdnads.com
+::	perfecct.sa.com
 ::	perfectaudience.com
 ::	perf-events.cloud.unity3d.com
 ::	perfiliate.com
@@ -59403,6 +59406,7 @@
 ::	www.fuckbookdating.com
 ::	www.fulltraffic.net
 ::	www.funklicks.com
+::	www.funkycovers.com
 ::	www.funkydoowop.plus.com
 ::	www.fun.lbn.ru
 ::	www.funnelchair.com
