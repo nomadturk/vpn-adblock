@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 12 May 21:06:04 +03 2026
-# Total number of blocked lines: 61330
+# Ad blocking hosts generated Tue 12 May 22:06:05 +03 2026
+# Total number of blocked lines: 61334
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -473,6 +473,7 @@
 0.0.0.0	680.stats.misstrends.com
 0.0.0.0	687-ct.c3tag.com
 0.0.0.0	699.stats.misstrends.com
+0.0.0.0	69fcb79c002e689734cad7411fe0d2e2000.appwrite.network
 0.0.0.0	6b73d00a-d4a1-4350-825a-cd3f49afa460.register.collector.scopely.io
 0.0.0.0	6.cook.geeunlessarcade.com
 0.0.0.0	6e2f1d2ae033.com
@@ -3966,6 +3967,7 @@
 0.0.0.0	advertising.bayoubuzz.com
 0.0.0.0	advertising.bbcworldwide.com
 0.0.0.0	advertisingbox.com
+0.0.0.0	advertising.civitai.com
 0.0.0.0	advertising.com
 0.0.0.0	advertisingcom.122.2o7.net
 0.0.0.0	advertising.dclux.com
@@ -31137,6 +31139,7 @@
 ::	680.stats.misstrends.com
 ::	687-ct.c3tag.com
 ::	699.stats.misstrends.com
+::	69fcb79c002e689734cad7411fe0d2e2000.appwrite.network
 ::	6b73d00a-d4a1-4350-825a-cd3f49afa460.register.collector.scopely.io
 ::	6.cook.geeunlessarcade.com
 ::	6e2f1d2ae033.com
@@ -34630,6 +34633,7 @@
 ::	advertising.bayoubuzz.com
 ::	advertising.bbcworldwide.com
 ::	advertisingbox.com
+::	advertising.civitai.com
 ::	advertising.com
 ::	advertisingcom.122.2o7.net
 ::	advertising.dclux.com
