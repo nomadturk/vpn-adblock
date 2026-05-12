@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 12 May 23:06:04 +03 2026
-# Total number of blocked lines: 61334
+# Ad blocking hosts generated Wed 13 May 00:06:04 +03 2026
+# Total number of blocked lines: 61336
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29075,6 +29075,7 @@
 0.0.0.0	www.leadpub.com
 0.0.0.0	www.leadtrackgo.com
 0.0.0.0	www.leanplum.com
+0.0.0.0	www.learngears.com
 0.0.0.0	www.learnnessy.com
 0.0.0.0	www.learntechno.com
 0.0.0.0	www.ledfaucetlight.com
@@ -59741,6 +59742,7 @@
 ::	www.leadpub.com
 ::	www.leadtrackgo.com
 ::	www.leanplum.com
+::	www.learngears.com
 ::	www.learnnessy.com
 ::	www.learntechno.com
 ::	www.ledfaucetlight.com
