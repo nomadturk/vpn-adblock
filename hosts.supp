@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 13 May 21:06:05 +03 2026
-# Total number of blocked lines: 61336
+# Ad blocking hosts generated Wed 13 May 22:06:05 +03 2026
+# Total number of blocked lines: 61342
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -9605,6 +9605,7 @@
 0.0.0.0	criteo-partners.tremorhub.com
 0.0.0.0	criteo-sync.teads.tv
 0.0.0.0	criteo-sync.teads.tv.edgekey.net
+0.0.0.0	criticals.sa.com
 0.0.0.0	criticaltt.shop
 0.0.0.0	critictruck.com
 0.0.0.0	critiquefilm.fr
@@ -12439,6 +12440,7 @@
 0.0.0.0	frequentflesh.com
 0.0.0.0	freshmarketer.com
 0.0.0.0	freshrelevance.com
+0.0.0.0	fresh.sa.com
 0.0.0.0	freshzz00.duckdns.org
 0.0.0.0	fr.eu.criteo.com
 0.0.0.0	fr.eu.criteo.net
@@ -29448,6 +29450,7 @@
 0.0.0.0	www.phormlabs.com
 0.0.0.0	www.photo-ads.co.uk
 0.0.0.0	www.photomagicapp.com
+0.0.0.0	www.pickupclean.com
 0.0.0.0	www.picture-uploads.com
 0.0.0.0	www.pinbroksup.com
 0.0.0.0	www.pintransup.com
@@ -40272,6 +40275,7 @@
 ::	criteo-partners.tremorhub.com
 ::	criteo-sync.teads.tv
 ::	criteo-sync.teads.tv.edgekey.net
+::	criticals.sa.com
 ::	criticaltt.shop
 ::	critictruck.com
 ::	critiquefilm.fr
@@ -43106,6 +43110,7 @@
 ::	frequentflesh.com
 ::	freshmarketer.com
 ::	freshrelevance.com
+::	fresh.sa.com
 ::	freshzz00.duckdns.org
 ::	fr.eu.criteo.com
 ::	fr.eu.criteo.net
@@ -60115,6 +60120,7 @@
 ::	www.phormlabs.com
 ::	www.photo-ads.co.uk
 ::	www.photomagicapp.com
+::	www.pickupclean.com
 ::	www.picture-uploads.com
 ::	www.pinbroksup.com
 ::	www.pintransup.com
