@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 14 May 01:06:04 +03 2026
-# Total number of blocked lines: 61342
+# Ad blocking hosts generated Thu 14 May 02:06:05 +03 2026
+# Total number of blocked lines: 61344
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29965,6 +29965,7 @@
 0.0.0.0	www.tradedoubler.com
 0.0.0.0	www.tradelax.com
 0.0.0.0	www.tradem.com
+0.0.0.0	www.tradesasa.com
 0.0.0.0	www.tradewinning.com
 0.0.0.0	www.tradingtactics.win
 0.0.0.0	www.traffic4u.com
@@ -60635,6 +60636,7 @@
 ::	www.tradedoubler.com
 ::	www.tradelax.com
 ::	www.tradem.com
+::	www.tradesasa.com
 ::	www.tradewinning.com
 ::	www.tradingtactics.win
 ::	www.traffic4u.com
