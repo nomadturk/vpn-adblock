@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 14 May 21:06:04 +03 2026
-# Total number of blocked lines: 61346
+# Ad blocking hosts generated Thu 14 May 22:06:05 +03 2026
+# Total number of blocked lines: 61350
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -15894,6 +15894,7 @@
 0.0.0.0	live-tag.bannersnack.com
 0.0.0.0	live.trmzum.com
 0.0.0.0	livezfoot.fr
+0.0.0.0	livhlthy.sa.com
 0.0.0.0	livingsleet.com
 0.0.0.0	livreral.fr
 0.0.0.0	livrval.fr
@@ -29558,6 +29559,7 @@
 0.0.0.0	www.qksrv.net
 0.0.0.0	www.qksz.net
 0.0.0.0	www.qsstats.com
+0.0.0.0	www.qualitygamer.com
 0.0.0.0	www.quantserve.com
 0.0.0.0	www.quarvions.com
 0.0.0.0	www.quickbrowsersearch.com
@@ -46566,6 +46568,7 @@
 ::	live-tag.bannersnack.com
 ::	live.trmzum.com
 ::	livezfoot.fr
+::	livhlthy.sa.com
 ::	livingsleet.com
 ::	livreral.fr
 ::	livrval.fr
@@ -60230,6 +60233,7 @@
 ::	www.qksrv.net
 ::	www.qksz.net
 ::	www.qsstats.com
+::	www.qualitygamer.com
 ::	www.quantserve.com
 ::	www.quarvions.com
 ::	www.quickbrowsersearch.com
