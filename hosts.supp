@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 15 May 14:06:05 +03 2026
-# Total number of blocked lines: 61354
+# Ad blocking hosts generated Fri 15 May 15:06:05 +03 2026
+# Total number of blocked lines: 61342
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -1356,7 +1356,6 @@
 0.0.0.0	ad-cdn.technoratimedia.com
 0.0.0.0	adcel.co
 0.0.0.0	adcell.de
-0.0.0.0	adcenter.net
 0.0.0.0	adcentre.it-advanced.com
 0.0.0.0	adcentriconline.com
 0.0.0.0	adcentric.randomseed.com
@@ -1896,6 +1895,7 @@
 0.0.0.0	adplexmedia.adk2.co
 0.0.0.0	ad.plus
 0.0.0.0	ad-plus.cn
+0.0.0.0	adplxmd.com
 0.0.0.0	a.dpmsrv.com
 0.0.0.0	ad.policeone.com
 0.0.0.0	ad.pravda.ru
@@ -3646,8 +3646,6 @@
 0.0.0.0	ads.tripod.lycos.co.uk
 0.0.0.0	ads.tripod.lycos.de
 0.0.0.0	ads.tripod.lycos.es
-0.0.0.0	ads.tripod.lycos.it
-0.0.0.0	ads.tripod.lycos.nl
 0.0.0.0	ads.tromaville.com
 0.0.0.0	ads-t.ru
 0.0.0.0	ads.trutv.com
@@ -4099,6 +4097,7 @@
 0.0.0.0	adx.ibibo.com
 0.0.0.0	adxlog.vivo.com.cn
 0.0.0.0	adx.lsosad.com
+0.0.0.0	ad.xmovies8.si
 0.0.0.0	adx.ocala.com
 0.0.0.0	adxpansion.com
 0.0.0.0	adxpose.com
@@ -6194,7 +6193,6 @@
 0.0.0.0	banners.crakcash.com
 0.0.0.0	banners.czi.cz
 0.0.0.0	banners.delivery.addynamo.com
-0.0.0.0	banners.dine.com
 0.0.0.0	banners.direction-x.com
 0.0.0.0	banners.dogfart.com
 0.0.0.0	banners.ero-advertising.com
@@ -8515,6 +8513,7 @@
 0.0.0.0	click.justwatch.com
 0.0.0.0	click.jve.net
 0.0.0.0	click.khingtracking.com
+0.0.0.0	click.kmindex.ru
 0.0.0.0	click.liftoff.io
 0.0.0.0	click.maaxmarket.com
 0.0.0.0	click.mail.hotels.com
@@ -9464,6 +9463,7 @@
 0.0.0.0	counter.yakcash.com
 0.0.0.0	counter.yesky.com
 0.0.0.0	count.freett.com
+0.0.0.0	counting.kmindex.ru
 0.0.0.0	count.ly
 0.0.0.0	countly.fibabanka.com.tr
 0.0.0.0	countly.iyzico.com
@@ -13503,6 +13503,7 @@
 0.0.0.0	heavy-flood.com
 0.0.0.0	hebdotop.com
 0.0.0.0	hefever.fr
+0.0.0.0	heimi-lwx.com
 0.0.0.0	helios.fvn.no
 0.0.0.0	helium.us.intellitxt.com
 0.0.0.0	hellobar.com
@@ -13669,7 +13670,6 @@
 0.0.0.0	hittail.com
 0.0.0.0	hit.topc.org
 0.0.0.0	hit.ua
-0.0.0.0	hit.webcentre.lycos.co.uk
 0.0.0.0	hitwebcounter.com
 0.0.0.0	hiuinder.beauty
 0.0.0.0	hk5.vip.prod.criteo.net
@@ -14729,6 +14729,7 @@
 0.0.0.0	iot-logser.realme.com
 0.0.0.0	iovation.com
 0.0.0.0	iovation.co.uk
+0.0.0.0	ip193.cn
 0.0.0.0	ip1.ads.stickyadstv.com.akadns.net
 0.0.0.0	ip1.cdn.stickyadstv.com.akadns.net
 0.0.0.0	ip2.ads.stickyadstv.com.akadns.net
@@ -14844,7 +14845,6 @@
 0.0.0.0	itsfree123.com
 0.0.0.0	itssure.shop
 0.0.0.0	its.tbpot.com
-0.0.0.0	its-that-easy.com
 0.0.0.0	ittoolbox.us.intellitxt.com
 0.0.0.0	itv.112.2o7.net
 0.0.0.0	itworld.us.intellitxt.com
@@ -17811,7 +17811,6 @@
 0.0.0.0	mylead.global
 0.0.0.0	mylead-tracking.tracknow.info
 0.0.0.0	mylike.co.uk
-0.0.0.0	mylink-today.com
 0.0.0.0	mylovelypet.net
 0.0.0.0	mymediarecommendations.com
 0.0.0.0	my.mobfox.com
@@ -18166,7 +18165,6 @@
 0.0.0.0	newyorkmagazine.112.2o7.net
 0.0.0.0	nex8.net
 0.0.0.0	nexac.com
-0.0.0.0	nexage.com
 0.0.0.0	nexium.1.p2l.info
 0.0.0.0	nexstar.blueconic.net
 0.0.0.0	nextbitcorp.com
@@ -18644,7 +18642,6 @@
 0.0.0.0	oceanup.us.intellitxt.com
 0.0.0.0	ociasb.adtiming.com
 0.0.0.0	oclaserver.com
-0.0.0.0	oclasrv.com
 0.0.0.0	oclopes.fr
 0.0.0.0	o.cmp.advertising.com
 0.0.0.0	ocslab.com
@@ -21129,7 +21126,6 @@
 0.0.0.0	remodelingonlinecom.112.2o7.net
 0.0.0.0	remote-data.asnapieu.com
 0.0.0.0	remote-data.urbanairship.com
-0.0.0.0	remox.com
 0.0.0.0	rem.rezonmedia.eu
 0.0.0.0	renacious.nwwadq.cn
 0.0.0.0	rencontreavenue.com
@@ -25370,7 +25366,6 @@
 0.0.0.0	tracking.swogo.net
 0.0.0.0	tracking.synthasite.net
 0.0.0.0	tracking.taboola.com
-0.0.0.0	tracking.thinkabt.com
 0.0.0.0	tracking.tomsguide.com
 0.0.0.0	tracking.tomshardware.com
 0.0.0.0	tracking.trafficjunky.net
@@ -27395,7 +27390,6 @@
 0.0.0.0	wirelessforumsorg.skimlinks.com
 0.0.0.0	wireless.ign.us.intellitxt.com
 0.0.0.0	wirtvlg.oewabox.at
-0.0.0.0	wirypaste.com
 0.0.0.0	wisepops.com
 0.0.0.0	wishdownget.com
 0.0.0.0	wish.securedtouch.com
@@ -32032,7 +32026,6 @@
 ::	ad-cdn.technoratimedia.com
 ::	adcel.co
 ::	adcell.de
-::	adcenter.net
 ::	adcentre.it-advanced.com
 ::	adcentriconline.com
 ::	adcentric.randomseed.com
@@ -32572,6 +32565,7 @@
 ::	adplexmedia.adk2.co
 ::	ad.plus
 ::	ad-plus.cn
+::	adplxmd.com
 ::	a.dpmsrv.com
 ::	ad.policeone.com
 ::	ad.pravda.ru
@@ -34322,8 +34316,6 @@
 ::	ads.tripod.lycos.co.uk
 ::	ads.tripod.lycos.de
 ::	ads.tripod.lycos.es
-::	ads.tripod.lycos.it
-::	ads.tripod.lycos.nl
 ::	ads.tromaville.com
 ::	ads-t.ru
 ::	ads.trutv.com
@@ -34775,6 +34767,7 @@
 ::	adx.ibibo.com
 ::	adxlog.vivo.com.cn
 ::	adx.lsosad.com
+::	ad.xmovies8.si
 ::	adx.ocala.com
 ::	adxpansion.com
 ::	adxpose.com
@@ -36870,7 +36863,6 @@
 ::	banners.crakcash.com
 ::	banners.czi.cz
 ::	banners.delivery.addynamo.com
-::	banners.dine.com
 ::	banners.direction-x.com
 ::	banners.dogfart.com
 ::	banners.ero-advertising.com
@@ -39191,6 +39183,7 @@
 ::	click.justwatch.com
 ::	click.jve.net
 ::	click.khingtracking.com
+::	click.kmindex.ru
 ::	click.liftoff.io
 ::	click.maaxmarket.com
 ::	click.mail.hotels.com
@@ -40140,6 +40133,7 @@
 ::	counter.yakcash.com
 ::	counter.yesky.com
 ::	count.freett.com
+::	counting.kmindex.ru
 ::	count.ly
 ::	countly.fibabanka.com.tr
 ::	countly.iyzico.com
@@ -44179,6 +44173,7 @@
 ::	heavy-flood.com
 ::	hebdotop.com
 ::	hefever.fr
+::	heimi-lwx.com
 ::	helios.fvn.no
 ::	helium.us.intellitxt.com
 ::	hellobar.com
@@ -44345,7 +44340,6 @@
 ::	hittail.com
 ::	hit.topc.org
 ::	hit.ua
-::	hit.webcentre.lycos.co.uk
 ::	hitwebcounter.com
 ::	hiuinder.beauty
 ::	hk5.vip.prod.criteo.net
@@ -45405,6 +45399,7 @@
 ::	iot-logser.realme.com
 ::	iovation.com
 ::	iovation.co.uk
+::	ip193.cn
 ::	ip1.ads.stickyadstv.com.akadns.net
 ::	ip1.cdn.stickyadstv.com.akadns.net
 ::	ip2.ads.stickyadstv.com.akadns.net
@@ -45520,7 +45515,6 @@
 ::	itsfree123.com
 ::	itssure.shop
 ::	its.tbpot.com
-::	its-that-easy.com
 ::	ittoolbox.us.intellitxt.com
 ::	itv.112.2o7.net
 ::	itworld.us.intellitxt.com
@@ -48487,7 +48481,6 @@
 ::	mylead.global
 ::	mylead-tracking.tracknow.info
 ::	mylike.co.uk
-::	mylink-today.com
 ::	mylovelypet.net
 ::	mymediarecommendations.com
 ::	my.mobfox.com
@@ -48842,7 +48835,6 @@
 ::	newyorkmagazine.112.2o7.net
 ::	nex8.net
 ::	nexac.com
-::	nexage.com
 ::	nexium.1.p2l.info
 ::	nexstar.blueconic.net
 ::	nextbitcorp.com
@@ -49320,7 +49312,6 @@
 ::	oceanup.us.intellitxt.com
 ::	ociasb.adtiming.com
 ::	oclaserver.com
-::	oclasrv.com
 ::	oclopes.fr
 ::	o.cmp.advertising.com
 ::	ocslab.com
@@ -51805,7 +51796,6 @@
 ::	remodelingonlinecom.112.2o7.net
 ::	remote-data.asnapieu.com
 ::	remote-data.urbanairship.com
-::	remox.com
 ::	rem.rezonmedia.eu
 ::	renacious.nwwadq.cn
 ::	rencontreavenue.com
@@ -56046,7 +56036,6 @@
 ::	tracking.swogo.net
 ::	tracking.synthasite.net
 ::	tracking.taboola.com
-::	tracking.thinkabt.com
 ::	tracking.tomsguide.com
 ::	tracking.tomshardware.com
 ::	tracking.trafficjunky.net
@@ -58071,7 +58060,6 @@
 ::	wirelessforumsorg.skimlinks.com
 ::	wireless.ign.us.intellitxt.com
 ::	wirtvlg.oewabox.at
-::	wirypaste.com
 ::	wisepops.com
 ::	wishdownget.com
 ::	wish.securedtouch.com
