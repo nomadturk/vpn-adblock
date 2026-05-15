@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 15 May 17:06:05 +03 2026
-# Total number of blocked lines: 61342
+# Ad blocking hosts generated Fri 15 May 18:06:05 +03 2026
+# Total number of blocked lines: 61344
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -8535,6 +8535,7 @@
 0.0.0.0	click.plista.com
 0.0.0.0	click.redditmail.com
 0.0.0.0	clickrighthere.online
+0.0.0.0	clickrtrckr.com
 0.0.0.0	click.runcpa.com
 0.0.0.0	clicks2.oxcash.com
 0.0.0.0	clicks2.traffictrader.net
@@ -39205,6 +39206,7 @@
 ::	click.plista.com
 ::	click.redditmail.com
 ::	clickrighthere.online
+::	clickrtrckr.com
 ::	click.runcpa.com
 ::	clicks2.oxcash.com
 ::	clicks2.traffictrader.net
