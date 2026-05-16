@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat 16 May 03:06:04 +03 2026
-# Total number of blocked lines: 61346
+# Ad blocking hosts generated Sat 16 May 04:06:04 +03 2026
+# Total number of blocked lines: 61348
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -930,6 +930,7 @@
 0.0.0.0	ac.realvu.net
 0.0.0.0	acridtwist.com
 0.0.0.0	ac.rnm.ca
+0.0.0.0	acrtsubmissions.com
 0.0.0.0	acs.56.com
 0.0.0.0	acs.agent.56.com
 0.0.0.0	acs.agent.v-56.com
@@ -31602,6 +31603,7 @@
 ::	ac.realvu.net
 ::	acridtwist.com
 ::	ac.rnm.ca
+::	acrtsubmissions.com
 ::	acs.56.com
 ::	acs.agent.56.com
 ::	acs.agent.v-56.com
