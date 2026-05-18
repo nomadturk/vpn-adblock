@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 18 May 21:06:05 +03 2026
-# Total number of blocked lines: 61356
+# Ad blocking hosts generated Mon 18 May 22:06:05 +03 2026
+# Total number of blocked lines: 61358
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29469,6 +29469,7 @@
 0.0.0.0	www.plasmatv4free.com
 0.0.0.0	www.playbestnet.com
 0.0.0.0	www.play-fever.com
+0.0.0.0	www.playnowse.com
 0.0.0.0	www.playroyaluk.com
 0.0.0.0	www.playtactics-hub.com
 0.0.0.0	www.pluseconomy.com
@@ -60146,6 +60147,7 @@
 ::	www.plasmatv4free.com
 ::	www.playbestnet.com
 ::	www.play-fever.com
+::	www.playnowse.com
 ::	www.playroyaluk.com
 ::	www.playtactics-hub.com
 ::	www.pluseconomy.com
