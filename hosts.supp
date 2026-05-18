@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 18 May 17:06:05 +03 2026
-# Total number of blocked lines: 61350
+# Ad blocking hosts generated Mon 18 May 18:06:05 +03 2026
+# Total number of blocked lines: 61356
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28167,6 +28167,7 @@
 0.0.0.0	www.blogmaking.com
 0.0.0.0	www.blogrankers.com
 0.0.0.0	www.blogtopsites.com
+0.0.0.0	www.bloomifllowers.com
 0.0.0.0	www.blossomtel.com
 0.0.0.0	www.blueadvantagearkasas.com
 0.0.0.0	www.bluecollarparanormal.com
@@ -28267,6 +28268,7 @@
 0.0.0.0	www.cashlayer.com
 0.0.0.0	www.cashthat.com
 0.0.0.0	www.casino770.com
+0.0.0.0	www.casinorankerhub.com
 0.0.0.0	www.casinostarluck.net
 0.0.0.0	www.casinotropez.com
 0.0.0.0	www.cassink.com
@@ -29782,6 +29784,7 @@
 0.0.0.0	www.spinbox.net
 0.0.0.0	www.spinia.com
 0.0.0.0	www.spklds.com
+0.0.0.0	www.spojrzenia.com
 0.0.0.0	www.sponsorads.de
 0.0.0.0	www.sponsoradulto.com
 0.0.0.0	www.spookylinks.com
@@ -58841,6 +58844,7 @@
 ::	www.blogmaking.com
 ::	www.blogrankers.com
 ::	www.blogtopsites.com
+::	www.bloomifllowers.com
 ::	www.blossomtel.com
 ::	www.blueadvantagearkasas.com
 ::	www.bluecollarparanormal.com
@@ -58941,6 +58945,7 @@
 ::	www.cashlayer.com
 ::	www.cashthat.com
 ::	www.casino770.com
+::	www.casinorankerhub.com
 ::	www.casinostarluck.net
 ::	www.casinotropez.com
 ::	www.cassink.com
@@ -60456,6 +60461,7 @@
 ::	www.spinbox.net
 ::	www.spinia.com
 ::	www.spklds.com
+::	www.spojrzenia.com
 ::	www.sponsorads.de
 ::	www.sponsoradulto.com
 ::	www.spookylinks.com
