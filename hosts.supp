@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 19 May 07:06:04 +03 2026
-# Total number of blocked lines: 61358
+# Ad blocking hosts generated Tue 19 May 08:06:05 +03 2026
+# Total number of blocked lines: 61360
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -20387,6 +20387,7 @@
 0.0.0.0	propeller-tracking.com
 0.0.0.0	proper.io
 0.0.0.0	propitea.fr
+0.0.0.0	propk.sa.com
 0.0.0.0	props.id
 0.0.0.0	prosieben01.webtrekk.net
 0.0.0.0	prospectnews.com
@@ -51065,6 +51066,7 @@
 ::	propeller-tracking.com
 ::	proper.io
 ::	propitea.fr
+::	propk.sa.com
 ::	props.id
 ::	prosieben01.webtrekk.net
 ::	prospectnews.com
