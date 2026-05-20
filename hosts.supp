@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 20 May 21:06:05 +03 2026
-# Total number of blocked lines: 61366
+# Ad blocking hosts generated Wed 20 May 22:06:05 +03 2026
+# Total number of blocked lines: 61368
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29845,6 +29845,7 @@
 0.0.0.0	www.subwayfast.com
 0.0.0.0	www.suckdude.com
 0.0.0.0	www.sudokuwhiz.com
+0.0.0.0	www.sumgaydigital.com
 0.0.0.0	www.summerhamster.com
 0.0.0.0	www.sunglassesfor.com
 0.0.0.0	www.sun-inet.or.jp
@@ -60527,6 +60528,7 @@
 ::	www.subwayfast.com
 ::	www.suckdude.com
 ::	www.sudokuwhiz.com
+::	www.sumgaydigital.com
 ::	www.summerhamster.com
 ::	www.sunglassesfor.com
 ::	www.sun-inet.or.jp
