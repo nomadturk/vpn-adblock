@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 20 May 17:06:05 +03 2026
-# Total number of blocked lines: 61364
+# Ad blocking hosts generated Wed 20 May 18:06:05 +03 2026
+# Total number of blocked lines: 61366
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29441,6 +29441,7 @@
 0.0.0.0	www.perfectgirls.net
 0.0.0.0	www.performanceonclick.com
 0.0.0.0	www.performics.com
+0.0.0.0	www.perimentu.com
 0.0.0.0	www.permissionresearch.com
 0.0.0.0	www.persgroepadvertising.nl
 0.0.0.0	www.persianstat.com
@@ -60122,6 +60123,7 @@
 ::	www.perfectgirls.net
 ::	www.performanceonclick.com
 ::	www.performics.com
+::	www.perimentu.com
 ::	www.permissionresearch.com
 ::	www.persgroepadvertising.nl
 ::	www.persianstat.com
