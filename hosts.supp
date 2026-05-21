@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 21 May 23:06:05 +03 2026
-# Total number of blocked lines: 61378
+# Ad blocking hosts generated Fri 22 May 00:06:05 +03 2026
+# Total number of blocked lines: 61384
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28064,6 +28064,7 @@
 0.0.0.0	www.assoc-amazon.com
 0.0.0.0	www.astalavista.us
 0.0.0.0	www.atdmt.com
+0.0.0.0	www.atightschedule.com
 0.0.0.0	www.atlantis-asia.com
 0.0.0.0	www.atlasdmt.com
 0.0.0.0	www.atomictime.net
@@ -28095,6 +28096,7 @@
 0.0.0.0	www.bagslap.com
 0.0.0.0	www.bahartonu.com
 0.0.0.0	www.baiakstyle.com
+0.0.0.0	www.balassst.com
 0.0.0.0	www.ballsack.org
 0.0.0.0	www.balnakiel.plus.com
 0.0.0.0	www.bandexperts.com
@@ -29006,6 +29008,7 @@
 0.0.0.0	www.jivox.com
 0.0.0.0	www.jiztini.com
 0.0.0.0	www.jizzads.com
+0.0.0.0	www.joinfx.net
 0.0.0.0	www.joinourwebsite.com
 0.0.0.0	www.jolic2.com
 0.0.0.0	www.jovareo.com
@@ -58752,6 +58755,7 @@
 ::	www.assoc-amazon.com
 ::	www.astalavista.us
 ::	www.atdmt.com
+::	www.atightschedule.com
 ::	www.atlantis-asia.com
 ::	www.atlasdmt.com
 ::	www.atomictime.net
@@ -58783,6 +58787,7 @@
 ::	www.bagslap.com
 ::	www.bahartonu.com
 ::	www.baiakstyle.com
+::	www.balassst.com
 ::	www.ballsack.org
 ::	www.balnakiel.plus.com
 ::	www.bandexperts.com
@@ -59694,6 +59699,7 @@
 ::	www.jivox.com
 ::	www.jiztini.com
 ::	www.jizzads.com
+::	www.joinfx.net
 ::	www.joinourwebsite.com
 ::	www.jolic2.com
 ::	www.jovareo.com
