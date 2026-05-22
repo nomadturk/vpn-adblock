@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 22 May 17:06:04 +03 2026
-# Total number of blocked lines: 61376
+# Ad blocking hosts generated Fri 22 May 18:06:05 +03 2026
+# Total number of blocked lines: 61384
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28097,6 +28097,7 @@
 0.0.0.0	www.balnakiel.plus.com
 0.0.0.0	www.bandexperts.com
 0.0.0.0	www.bangbuddy.com
+0.0.0.0	www.bankofcounty.com
 0.0.0.0	www.bannerads.de
 0.0.0.0	www.bannerbackup.com
 0.0.0.0	www-banner.chat.ru
@@ -28547,6 +28548,7 @@
 0.0.0.0	www.dualeotruyenno.com
 0.0.0.0	www.dunlop.force9.co.uk
 0.0.0.0	www.duotrader.com
+0.0.0.0	www.dustinjonesgolfacademy.com
 0.0.0.0	www.dutchsales.org
 0.0.0.0	www.dwclick.com
 0.0.0.0	www.dwin1.com
@@ -29064,6 +29066,7 @@
 0.0.0.0	www.kryzantor.uk
 0.0.0.0	www.kuhdi.com
 0.0.0.0	www.kvr-systems.de
+0.0.0.0	www.lacocinany.com
 0.0.0.0	www.ladyclicks.ru
 0.0.0.0	www.lahoreautismcentre.com
 0.0.0.0	www.lanaita.com
@@ -29395,6 +29398,7 @@
 0.0.0.0	www.optad360.com
 0.0.0.0	www.oralse.ca
 0.0.0.0	www.oralse.cx
+0.0.0.0	www.orangesalonboise.com
 0.0.0.0	www.oreware.com
 0.0.0.0	www.originalicons.com
 0.0.0.0	www.ostazvtx.com
@@ -58784,6 +58788,7 @@
 ::	www.balnakiel.plus.com
 ::	www.bandexperts.com
 ::	www.bangbuddy.com
+::	www.bankofcounty.com
 ::	www.bannerads.de
 ::	www.bannerbackup.com
 ::	www-banner.chat.ru
@@ -59234,6 +59239,7 @@
 ::	www.dualeotruyenno.com
 ::	www.dunlop.force9.co.uk
 ::	www.duotrader.com
+::	www.dustinjonesgolfacademy.com
 ::	www.dutchsales.org
 ::	www.dwclick.com
 ::	www.dwin1.com
@@ -59751,6 +59757,7 @@
 ::	www.kryzantor.uk
 ::	www.kuhdi.com
 ::	www.kvr-systems.de
+::	www.lacocinany.com
 ::	www.ladyclicks.ru
 ::	www.lahoreautismcentre.com
 ::	www.lanaita.com
@@ -60082,6 +60089,7 @@
 ::	www.optad360.com
 ::	www.oralse.ca
 ::	www.oralse.cx
+::	www.orangesalonboise.com
 ::	www.oreware.com
 ::	www.originalicons.com
 ::	www.ostazvtx.com
