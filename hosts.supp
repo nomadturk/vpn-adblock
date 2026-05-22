@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 22 May 19:06:05 +03 2026
-# Total number of blocked lines: 61384
+# Ad blocking hosts generated Fri 22 May 20:06:05 +03 2026
+# Total number of blocked lines: 61386
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -6486,6 +6486,7 @@
 0.0.0.0	be-ms.teads.tv
 0.0.0.0	benchemail.bmetrack.com
 0.0.0.0	benchmarkemail.fr
+0.0.0.0	benefitsaccountreport.es
 0.0.0.0	benefitsgov.info
 0.0.0.0	benefitsorganic.com
 0.0.0.0	benefits.sovendus.com
@@ -37177,6 +37178,7 @@
 ::	be-ms.teads.tv
 ::	benchemail.bmetrack.com
 ::	benchmarkemail.fr
+::	benefitsaccountreport.es
 ::	benefitsgov.info
 ::	benefitsorganic.com
 ::	benefits.sovendus.com
