@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 22 May 23:06:05 +03 2026
-# Total number of blocked lines: 61386
+# Ad blocking hosts generated Sat 23 May 00:06:04 +03 2026
+# Total number of blocked lines: 61384
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -19562,7 +19562,6 @@
 0.0.0.0	ph-gmtdmp.mookie1.com
 0.0.0.0	phicmune.net
 0.0.0.0	philadelphia_cbslocal.us.intellitxt.com
-0.0.0.0	philippschoch.ch
 0.0.0.0	philips.112.2o7.net
 0.0.0.0	philipslighting.d3.sc.omtrdc.net
 0.0.0.0	phillateemis.iad-03.braze.com
@@ -50254,7 +50253,6 @@
 ::	ph-gmtdmp.mookie1.com
 ::	phicmune.net
 ::	philadelphia_cbslocal.us.intellitxt.com
-::	philippschoch.ch
 ::	philips.112.2o7.net
 ::	philipslighting.d3.sc.omtrdc.net
 ::	phillateemis.iad-03.braze.com
