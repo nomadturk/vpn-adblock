@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 22 May 14:06:05 +03 2026
-# Total number of blocked lines: 61384
+# Ad blocking hosts generated Fri 22 May 15:06:08 +03 2026
+# Total number of blocked lines: 61376
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -8515,7 +8515,6 @@
 0.0.0.0	click.justwatch.com
 0.0.0.0	click.jve.net
 0.0.0.0	click.khingtracking.com
-0.0.0.0	click.kmindex.ru
 0.0.0.0	click.liftoff.io
 0.0.0.0	click.maaxmarket.com
 0.0.0.0	click.mail.hotels.com
@@ -9466,7 +9465,6 @@
 0.0.0.0	counter.yakcash.com
 0.0.0.0	counter.yesky.com
 0.0.0.0	count.freett.com
-0.0.0.0	counting.kmindex.ru
 0.0.0.0	count.ly
 0.0.0.0	countly.fibabanka.com.tr
 0.0.0.0	countly.iyzico.com
@@ -17729,7 +17727,6 @@
 0.0.0.0	m.usersonline.com
 0.0.0.0	mushroomgods.com
 0.0.0.0	music611.com
-0.0.0.0	musiccounter.ru
 0.0.0.0	music.getyesappz1.com
 0.0.0.0	music.ign.us.intellitxt.com
 0.0.0.0	musicmembersarea.com
@@ -21131,6 +21128,7 @@
 0.0.0.0	remodelingonlinecom.112.2o7.net
 0.0.0.0	remote-data.asnapieu.com
 0.0.0.0	remote-data.urbanairship.com
+0.0.0.0	remox.com
 0.0.0.0	rem.rezonmedia.eu
 0.0.0.0	renacious.nwwadq.cn
 0.0.0.0	rencontreavenue.com
@@ -25361,7 +25359,6 @@
 0.0.0.0	tracking.sembox.it
 0.0.0.0	tracking-server-prod-1.zenmxapps.com
 0.0.0.0	tracking.sexcash.com
-0.0.0.0	tracking.shopstyle.com
 0.0.0.0	tracking.skyword.com
 0.0.0.0	trackingsoft.com
 0.0.0.0	tracking.softwareprojects.com
@@ -25613,7 +25610,6 @@
 0.0.0.0	trafsearchonline.com
 0.0.0.0	trailblazers.122.2o7.net
 0.0.0.0	traileraddict.us.intellitxt.com
-0.0.0.0	traktrafficflow.com
 0.0.0.0	traktum.com
 0.0.0.0	tramadol.1.p2l.info
 0.0.0.0	tramadol2006.3xforum.ro
@@ -39206,7 +39202,6 @@
 ::	click.justwatch.com
 ::	click.jve.net
 ::	click.khingtracking.com
-::	click.kmindex.ru
 ::	click.liftoff.io
 ::	click.maaxmarket.com
 ::	click.mail.hotels.com
@@ -40157,7 +40152,6 @@
 ::	counter.yakcash.com
 ::	counter.yesky.com
 ::	count.freett.com
-::	counting.kmindex.ru
 ::	count.ly
 ::	countly.fibabanka.com.tr
 ::	countly.iyzico.com
@@ -48420,7 +48414,6 @@
 ::	m.usersonline.com
 ::	mushroomgods.com
 ::	music611.com
-::	musiccounter.ru
 ::	music.getyesappz1.com
 ::	music.ign.us.intellitxt.com
 ::	musicmembersarea.com
@@ -51822,6 +51815,7 @@
 ::	remodelingonlinecom.112.2o7.net
 ::	remote-data.asnapieu.com
 ::	remote-data.urbanairship.com
+::	remox.com
 ::	rem.rezonmedia.eu
 ::	renacious.nwwadq.cn
 ::	rencontreavenue.com
@@ -56052,7 +56046,6 @@
 ::	tracking.sembox.it
 ::	tracking-server-prod-1.zenmxapps.com
 ::	tracking.sexcash.com
-::	tracking.shopstyle.com
 ::	tracking.skyword.com
 ::	trackingsoft.com
 ::	tracking.softwareprojects.com
@@ -56304,7 +56297,6 @@
 ::	trafsearchonline.com
 ::	trailblazers.122.2o7.net
 ::	traileraddict.us.intellitxt.com
-::	traktrafficflow.com
 ::	traktum.com
 ::	tramadol.1.p2l.info
 ::	tramadol2006.3xforum.ro
