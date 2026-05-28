@@ -1,5 +1,5 @@
 #<local-data>
-# Ad blocking hosts generated Thu 28 May 22:06:05 +03 2026
+# Ad blocking hosts generated Thu 28 May 23:06:04 +03 2026
 # Total number of blocked lines: 61404
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
@@ -1669,7 +1669,7 @@
 0.0.0.0	ad.koreadaily.com
 0.0.0.0	ad.kr.doubleclick.net
 0.0.0.0	ad.krutilka.ru
-0.0.0.0	adktrack.124.xyz
+0.0.0.0	adktrack124.xyz
 0.0.0.0	adktracking-1671721947.eu-west-3.elb.amazonaws.com
 0.0.0.0	adlanding.admarketplace.net.akadns.net
 0.0.0.0	adland.ru
@@ -32370,7 +32370,7 @@
 ::	ad.koreadaily.com
 ::	ad.kr.doubleclick.net
 ::	ad.krutilka.ru
-::	adktrack.124.xyz
+::	adktrack124.xyz
 ::	adktracking-1671721947.eu-west-3.elb.amazonaws.com
 ::	adlanding.admarketplace.net.akadns.net
 ::	adland.ru
