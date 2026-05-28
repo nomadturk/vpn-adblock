@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 28 May 11:06:06 +03 2026
-# Total number of blocked lines: 61396
+# Ad blocking hosts generated Thu 28 May 12:06:05 +03 2026
+# Total number of blocked lines: 61400
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -1669,6 +1669,7 @@
 0.0.0.0	ad.koreadaily.com
 0.0.0.0	ad.kr.doubleclick.net
 0.0.0.0	ad.krutilka.ru
+0.0.0.0	adktrack.124.xyz
 0.0.0.0	adktracking-1671721947.eu-west-3.elb.amazonaws.com
 0.0.0.0	adlanding.admarketplace.net.akadns.net
 0.0.0.0	adland.ru
@@ -27110,6 +27111,7 @@
 0.0.0.0	web.industrybrains.com
 0.0.0.0	web.informer.com
 0.0.0.0	webiq005.webiqonline.com
+0.0.0.0	webiqonline.com
 0.0.0.0	webkurchatov.ru
 0.0.0.0	weblink.settrade.com
 0.0.0.0	webload101.hitbox.com
@@ -32366,6 +32368,7 @@
 ::	ad.koreadaily.com
 ::	ad.kr.doubleclick.net
 ::	ad.krutilka.ru
+::	adktrack.124.xyz
 ::	adktracking-1671721947.eu-west-3.elb.amazonaws.com
 ::	adlanding.admarketplace.net.akadns.net
 ::	adland.ru
@@ -57807,6 +57810,7 @@
 ::	web.industrybrains.com
 ::	web.informer.com
 ::	webiq005.webiqonline.com
+::	webiqonline.com
 ::	webkurchatov.ru
 ::	weblink.settrade.com
 ::	webload101.hitbox.com
