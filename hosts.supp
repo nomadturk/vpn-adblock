@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 29 May 10:06:04 +03 2026
-# Total number of blocked lines: 61404
+# Ad blocking hosts generated Fri 29 May 11:06:04 +03 2026
+# Total number of blocked lines: 61408
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -10093,6 +10093,7 @@
 0.0.0.0	dc.banggood.com
 0.0.0.0	dc.bizjournals.com
 0.0.0.0	dcdn.adnxs.com
+0.0.0.0	dc.dqa.samsung.com
 0.0.0.0	dcetr3.segmentify.com
 0.0.0.0	d.chango.com
 0.0.0.0	dcinfos.abtasty.com
@@ -10319,6 +10320,7 @@
 0.0.0.0	dhg-logging.us-east-1.elasticbeanstalk.com
 0.0.0.0	dhl-closeariu.kaixuankio.cn
 0.0.0.0	dhlmyorder82662-info-can.com
+0.0.0.0	diagmon-serviceapi.samsungdm.com
 0.0.0.0	diagnosis.ad.intl.xiaomi.com
 0.0.0.0	diagram-shape.com
 0.0.0.0	diag-wd.gridsumdissector.com
@@ -40794,6 +40796,7 @@
 ::	dc.banggood.com
 ::	dc.bizjournals.com
 ::	dcdn.adnxs.com
+::	dc.dqa.samsung.com
 ::	dcetr3.segmentify.com
 ::	d.chango.com
 ::	dcinfos.abtasty.com
@@ -41020,6 +41023,7 @@
 ::	dhg-logging.us-east-1.elasticbeanstalk.com
 ::	dhl-closeariu.kaixuankio.cn
 ::	dhlmyorder82662-info-can.com
+::	diagmon-serviceapi.samsungdm.com
 ::	diagnosis.ad.intl.xiaomi.com
 ::	diagram-shape.com
 ::	diag-wd.gridsumdissector.com
