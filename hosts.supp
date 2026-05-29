@@ -1,5 +1,5 @@
 #<local-data>
-# Ad blocking hosts generated Fri 29 May 14:06:05 +03 2026
+# Ad blocking hosts generated Fri 29 May 15:06:05 +03 2026
 # Total number of blocked lines: 61408
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
@@ -4615,7 +4615,6 @@
 0.0.0.0	analytics.hayneedle.com
 0.0.0.0	analytics.hgcdn.net
 0.0.0.0	analytics.htmedia.in
-0.0.0.0	analytics.icons8.com
 0.0.0.0	analytics.inform.com
 0.0.0.0	analytics-ingestion.production-public.tubi.io
 0.0.0.0	analytics-ingress-global.bitmovin.com
@@ -8517,6 +8516,7 @@
 0.0.0.0	click.justwatch.com
 0.0.0.0	click.jve.net
 0.0.0.0	click.khingtracking.com
+0.0.0.0	click.kmindex.ru
 0.0.0.0	click.liftoff.io
 0.0.0.0	click.maaxmarket.com
 0.0.0.0	click.mail.hotels.com
@@ -9467,6 +9467,7 @@
 0.0.0.0	counter.yakcash.com
 0.0.0.0	counter.yesky.com
 0.0.0.0	count.freett.com
+0.0.0.0	counting.kmindex.ru
 0.0.0.0	count.ly
 0.0.0.0	countly.fibabanka.com.tr
 0.0.0.0	countly.iyzico.com
@@ -20839,7 +20840,6 @@
 0.0.0.0	rate.opinionlab.com
 0.0.0.0	rate.ru
 0.0.0.0	rat.fr.eu.criteo.com
-0.0.0.0	ratings.lycos.com
 0.0.0.0	rat.nl.eu.criteo.com
 0.0.0.0	rauvoaty.net
 0.0.0.0	ravm.tv
@@ -35318,7 +35318,6 @@
 ::	analytics.hayneedle.com
 ::	analytics.hgcdn.net
 ::	analytics.htmedia.in
-::	analytics.icons8.com
 ::	analytics.inform.com
 ::	analytics-ingestion.production-public.tubi.io
 ::	analytics-ingress-global.bitmovin.com
@@ -39220,6 +39219,7 @@
 ::	click.justwatch.com
 ::	click.jve.net
 ::	click.khingtracking.com
+::	click.kmindex.ru
 ::	click.liftoff.io
 ::	click.maaxmarket.com
 ::	click.mail.hotels.com
@@ -40170,6 +40170,7 @@
 ::	counter.yakcash.com
 ::	counter.yesky.com
 ::	count.freett.com
+::	counting.kmindex.ru
 ::	count.ly
 ::	countly.fibabanka.com.tr
 ::	countly.iyzico.com
@@ -51542,7 +51543,6 @@
 ::	rate.opinionlab.com
 ::	rate.ru
 ::	rat.fr.eu.criteo.com
-::	ratings.lycos.com
 ::	rat.nl.eu.criteo.com
 ::	rauvoaty.net
 ::	ravm.tv
