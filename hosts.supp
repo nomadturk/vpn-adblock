@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon  1 Jun 21:06:05 +03 2026
-# Total number of blocked lines: 61416
+# Ad blocking hosts generated Mon  1 Jun 22:06:05 +03 2026
+# Total number of blocked lines: 61430
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -8721,6 +8721,8 @@
 0.0.0.0	cluster.awmdelivery.com
 0.0.0.0	clustrmaps.com
 0.0.0.0	c.lytics.io
+0.0.0.0	cm076410.tw1.ru
+0.0.0.0	cm076410.tw1.ru]
 0.0.0.0	cm2.adform.net
 0.0.0.0	cm3.adform.net
 0.0.0.0	cm3.bnmq.com
@@ -28386,6 +28388,7 @@
 0.0.0.0	www.computer-offer.com
 0.0.0.0	www.computersncs.com
 0.0.0.0	www.computerxchange.com
+0.0.0.0	www.conclusioncompeting.bond
 0.0.0.0	www.conduit-banners.com
 0.0.0.0	www.connectionlead.com
 0.0.0.0	www.consultingbyelevate.com
@@ -28858,6 +28861,7 @@
 0.0.0.0	www.groupm.com
 0.0.0.0	www.growthbuilder.name
 0.0.0.0	www.grtexch.com
+0.0.0.0	www.guaranteeservice.lat
 0.0.0.0	www.guesstheview.com
 0.0.0.0	www.hai2u.com
 0.0.0.0	www.hajoopteg.com
@@ -29187,6 +29191,7 @@
 0.0.0.0	www.mb57.com
 0.0.0.0	www.mcsqd.com
 0.0.0.0	www.mczbf.com
+0.0.0.0	www.meantvictim.lat
 0.0.0.0	www.meatspin.biz
 0.0.0.0	www.meatspin.com
 0.0.0.0	www.medhiartis.com
@@ -29246,6 +29251,7 @@
 0.0.0.0	www.mongoosemetrics.com
 0.0.0.0	www.monkeyball.osa.pl
 0.0.0.0	www.monkikitchen.com
+0.0.0.0	www.monstervits.com
 0.0.0.0	www.morefreecamsecrets.com
 0.0.0.0	www.morevisits.info
 0.0.0.0	www.morvalent.uk
@@ -29482,6 +29488,7 @@
 0.0.0.0	www.pintravelup.com
 0.0.0.0	www.pinuperblog.com
 0.0.0.0	www.pinupspinup.com
+0.0.0.0	www.pipepractice.world
 0.0.0.0	www.pitakchon.com
 0.0.0.0	www.pixazza.com
 0.0.0.0	www.pixeltrack66.com
@@ -39428,6 +39435,8 @@
 ::	cluster.awmdelivery.com
 ::	clustrmaps.com
 ::	c.lytics.io
+::	cm076410.tw1.ru
+::	cm076410.tw1.ru]
 ::	cm2.adform.net
 ::	cm3.adform.net
 ::	cm3.bnmq.com
@@ -59093,6 +59102,7 @@
 ::	www.computer-offer.com
 ::	www.computersncs.com
 ::	www.computerxchange.com
+::	www.conclusioncompeting.bond
 ::	www.conduit-banners.com
 ::	www.connectionlead.com
 ::	www.consultingbyelevate.com
@@ -59565,6 +59575,7 @@
 ::	www.groupm.com
 ::	www.growthbuilder.name
 ::	www.grtexch.com
+::	www.guaranteeservice.lat
 ::	www.guesstheview.com
 ::	www.hai2u.com
 ::	www.hajoopteg.com
@@ -59894,6 +59905,7 @@
 ::	www.mb57.com
 ::	www.mcsqd.com
 ::	www.mczbf.com
+::	www.meantvictim.lat
 ::	www.meatspin.biz
 ::	www.meatspin.com
 ::	www.medhiartis.com
@@ -59953,6 +59965,7 @@
 ::	www.mongoosemetrics.com
 ::	www.monkeyball.osa.pl
 ::	www.monkikitchen.com
+::	www.monstervits.com
 ::	www.morefreecamsecrets.com
 ::	www.morevisits.info
 ::	www.morvalent.uk
@@ -60189,6 +60202,7 @@
 ::	www.pintravelup.com
 ::	www.pinuperblog.com
 ::	www.pinupspinup.com
+::	www.pipepractice.world
 ::	www.pitakchon.com
 ::	www.pixazza.com
 ::	www.pixeltrack66.com
