@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon  1 Jun 19:06:04 +03 2026
-# Total number of blocked lines: 61412
+# Ad blocking hosts generated Mon  1 Jun 20:06:04 +03 2026
+# Total number of blocked lines: 61416
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -25075,6 +25075,7 @@
 0.0.0.0	topqualitylink.com
 0.0.0.0	toprxshopplace.com
 0.0.0.0	topshape.me
+0.0.0.0	topshoponline.ru
 0.0.0.0	topsir.com
 0.0.0.0	top-site-list.com
 0.0.0.0	topsite.lv
@@ -29394,6 +29395,7 @@
 0.0.0.0	www.onesafe-software.com
 0.0.0.0	www.onestat.com
 0.0.0.0	www.onestatfree.com
+0.0.0.0	www.onlinebidnow.com
 0.0.0.0	www.onlinehint.com
 0.0.0.0	www.on.nimp.org
 0.0.0.0	www.ontheweb.com
@@ -55780,6 +55782,7 @@
 ::	topqualitylink.com
 ::	toprxshopplace.com
 ::	topshape.me
+::	topshoponline.ru
 ::	topsir.com
 ::	top-site-list.com
 ::	topsite.lv
@@ -60099,6 +60102,7 @@
 ::	www.onesafe-software.com
 ::	www.onestat.com
 ::	www.onestatfree.com
+::	www.onlinebidnow.com
 ::	www.onlinehint.com
 ::	www.on.nimp.org
 ::	www.ontheweb.com
