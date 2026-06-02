@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue  2 Jun 19:06:04 +03 2026
-# Total number of blocked lines: 61432
+# Ad blocking hosts generated Tue  2 Jun 20:06:05 +03 2026
+# Total number of blocked lines: 61438
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28395,6 +28395,7 @@
 0.0.0.0	www.contaxe.com
 0.0.0.0	www.contextuads.com
 0.0.0.0	www.contextweb.com
+0.0.0.0	www.continuedlincoln.bond
 0.0.0.0	www.controlpop.com
 0.0.0.0	www.conversantmedia.com
 0.0.0.0	www.conversionruler.com
@@ -28534,6 +28535,7 @@
 0.0.0.0	www.digiaquascr.com
 0.0.0.0	www.digimedia.com
 0.0.0.0	www.digisubmission.com
+0.0.0.0	www.digitalbigger.garden
 0.0.0.0	www.digitalcoachpro.name
 0.0.0.0	www.directnetadvertising.net
 0.0.0.0	www.direct-stats.com
@@ -28876,6 +28878,7 @@
 0.0.0.0	www.hashing.win
 0.0.0.0	www.hauloot.com
 0.0.0.0	www.healthbeautyncs.com
+0.0.0.0	www.healthcompeting.rest
 0.0.0.0	www.hebdotop.com
 0.0.0.0	www.heimlich-gefilmt.cxa.de
 0.0.0.0	www.helltraffic.com
@@ -59110,6 +59113,7 @@
 ::	www.contaxe.com
 ::	www.contextuads.com
 ::	www.contextweb.com
+::	www.continuedlincoln.bond
 ::	www.controlpop.com
 ::	www.conversantmedia.com
 ::	www.conversionruler.com
@@ -59249,6 +59253,7 @@
 ::	www.digiaquascr.com
 ::	www.digimedia.com
 ::	www.digisubmission.com
+::	www.digitalbigger.garden
 ::	www.digitalcoachpro.name
 ::	www.directnetadvertising.net
 ::	www.direct-stats.com
@@ -59591,6 +59596,7 @@
 ::	www.hashing.win
 ::	www.hauloot.com
 ::	www.healthbeautyncs.com
+::	www.healthcompeting.rest
 ::	www.hebdotop.com
 ::	www.heimlich-gefilmt.cxa.de
 ::	www.helltraffic.com
