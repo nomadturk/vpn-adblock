@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed  3 Jun 19:06:30 +03 2026
-# Total number of blocked lines: 61436
+# Ad blocking hosts generated Wed  3 Jun 20:06:05 +03 2026
+# Total number of blocked lines: 61442
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -8722,7 +8722,6 @@
 0.0.0.0	clustrmaps.com
 0.0.0.0	c.lytics.io
 0.0.0.0	cm076410.tw1.ru
-0.0.0.0	cm076410.tw1.ru]
 0.0.0.0	cm2.adform.net
 0.0.0.0	cm3.adform.net
 0.0.0.0	cm3.bnmq.com
@@ -29597,6 +29596,7 @@
 0.0.0.0	www.quantserve.com
 0.0.0.0	www.quarvions.com
 0.0.0.0	www.quickbrowsersearch.com
+0.0.0.0	www.quintingwatches.com
 0.0.0.0	www.rackusread.com
 0.0.0.0	www.radiate.com
 0.0.0.0	www.radiorage.com
@@ -29667,6 +29667,7 @@
 0.0.0.0	wwwroot.forent.sk
 0.0.0.0	www.roulettebotplus.com
 0.0.0.0	www.rpepin.plus.com
+0.0.0.0	www.rplconnect.com
 0.0.0.0	www.rsptrack.com
 0.0.0.0	www.rtcode.com
 0.0.0.0	www.rtkmyz.cfd
@@ -30050,6 +30051,7 @@
 0.0.0.0	www.tubehits.com
 0.0.0.0	www.tubgirl.me
 0.0.0.0	www.tubgirl.org
+0.0.0.0	www.tuningcentar.com
 0.0.0.0	www.turdgasm.com
 0.0.0.0	www.turkeyrank.com
 0.0.0.0	www.turn.com
@@ -30112,6 +30114,7 @@
 0.0.0.0	www.videostan.ru
 0.0.0.0	www.view4cash.de
 0.0.0.0	www.vilaglato.info
+0.0.0.0	www.vipnac.com
 0.0.0.0	www.virtualsurfer.com
 0.0.0.0	www.virtumundo.com
 0.0.0.0	www.visariomedia.com
@@ -39439,7 +39442,6 @@
 ::	clustrmaps.com
 ::	c.lytics.io
 ::	cm076410.tw1.ru
-::	cm076410.tw1.ru]
 ::	cm2.adform.net
 ::	cm3.adform.net
 ::	cm3.bnmq.com
@@ -60314,6 +60316,7 @@
 ::	www.quantserve.com
 ::	www.quarvions.com
 ::	www.quickbrowsersearch.com
+::	www.quintingwatches.com
 ::	www.rackusread.com
 ::	www.radiate.com
 ::	www.radiorage.com
@@ -60384,6 +60387,7 @@
 ::	wwwroot.forent.sk
 ::	www.roulettebotplus.com
 ::	www.rpepin.plus.com
+::	www.rplconnect.com
 ::	www.rsptrack.com
 ::	www.rtcode.com
 ::	www.rtkmyz.cfd
@@ -60767,6 +60771,7 @@
 ::	www.tubehits.com
 ::	www.tubgirl.me
 ::	www.tubgirl.org
+::	www.tuningcentar.com
 ::	www.turdgasm.com
 ::	www.turkeyrank.com
 ::	www.turn.com
@@ -60829,6 +60834,7 @@
 ::	www.videostan.ru
 ::	www.view4cash.de
 ::	www.vilaglato.info
+::	www.vipnac.com
 ::	www.virtualsurfer.com
 ::	www.virtumundo.com
 ::	www.visariomedia.com
