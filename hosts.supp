@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu  4 Jun 01:06:04 +03 2026
-# Total number of blocked lines: 61442
+# Ad blocking hosts generated Thu  4 Jun 02:06:05 +03 2026
+# Total number of blocked lines: 61450
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -27077,6 +27077,7 @@
 0.0.0.0	webads.tradeholding.com
 0.0.0.0	webadv.co
 0.0.0.0	webalize.net
+0.0.0.0	web.almestin.ru
 0.0.0.0	webanalytics.localytics.com
 0.0.0.0	webanalytics.logitechg.com
 0.0.0.0	webanalyticsnossl.websense.com
@@ -27828,7 +27829,9 @@
 0.0.0.0	www9.servequake.com
 0.0.0.0	www9.smartadserver.com
 0.0.0.0	www.a2uu36g43l.download
+0.0.0.0	www.aagofwi.com
 0.0.0.0	www.aandgwright.plus.com
+0.0.0.0	www.aaringtone.com
 0.0.0.0	www.aarth.net
 0.0.0.0	www.abcjmp.com
 0.0.0.0	www.abc-tax.jp
@@ -30221,6 +30224,7 @@
 0.0.0.0	www.wtp101.com
 0.0.0.0	www.wu4652.com.tw
 0.0.0.0	www.wwt-ag.ch
+0.0.0.0	www.wwwhwgo.com
 0.0.0.0	www.wwwpaipal.com
 0.0.0.0	www.wysistat.com
 0.0.0.0	www.xadsmart.com
@@ -57797,6 +57801,7 @@
 ::	webads.tradeholding.com
 ::	webadv.co
 ::	webalize.net
+::	web.almestin.ru
 ::	webanalytics.localytics.com
 ::	webanalytics.logitechg.com
 ::	webanalyticsnossl.websense.com
@@ -58548,7 +58553,9 @@
 ::	www9.servequake.com
 ::	www9.smartadserver.com
 ::	www.a2uu36g43l.download
+::	www.aagofwi.com
 ::	www.aandgwright.plus.com
+::	www.aaringtone.com
 ::	www.aarth.net
 ::	www.abcjmp.com
 ::	www.abc-tax.jp
@@ -60941,6 +60948,7 @@
 ::	www.wtp101.com
 ::	www.wu4652.com.tw
 ::	www.wwt-ag.ch
+::	www.wwwhwgo.com
 ::	www.wwwpaipal.com
 ::	www.wysistat.com
 ::	www.xadsmart.com
