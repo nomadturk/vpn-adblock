@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu  4 Jun 12:06:05 +03 2026
-# Total number of blocked lines: 61450
+# Ad blocking hosts generated Thu  4 Jun 13:06:04 +03 2026
+# Total number of blocked lines: 61454
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -16958,6 +16958,7 @@
 0.0.0.0	metrics.automobilemag.com
 0.0.0.0	metrics.autotrader.co.uk
 0.0.0.0	metrics.aviasales.ru
+0.0.0.0	metrics-a.wbx2.com
 0.0.0.0	metrics.azfamily.com
 0.0.0.0	metrics.babycenter.com
 0.0.0.0	metrics.babycentre.co.uk
@@ -25779,6 +25780,7 @@
 0.0.0.0	ts1.hitbox.com
 0.0.0.0	ts2.hitbox.com
 0.0.0.0	t.salesmatemail.com
+0.0.0.0	tsa.webex.com
 0.0.0.0	tsbm.ch
 0.0.0.0	ts.cvastico.com
 0.0.0.0	t.seedtag.com
@@ -47682,6 +47684,7 @@
 ::	metrics.automobilemag.com
 ::	metrics.autotrader.co.uk
 ::	metrics.aviasales.ru
+::	metrics-a.wbx2.com
 ::	metrics.azfamily.com
 ::	metrics.babycenter.com
 ::	metrics.babycentre.co.uk
@@ -56503,6 +56506,7 @@
 ::	ts1.hitbox.com
 ::	ts2.hitbox.com
 ::	t.salesmatemail.com
+::	tsa.webex.com
 ::	tsbm.ch
 ::	ts.cvastico.com
 ::	t.seedtag.com
