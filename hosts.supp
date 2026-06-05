@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri  5 Jun 21:06:05 +03 2026
-# Total number of blocked lines: 61460
+# Ad blocking hosts generated Fri  5 Jun 22:06:04 +03 2026
+# Total number of blocked lines: 61464
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -8617,6 +8617,7 @@
 0.0.0.0	client-analytics.braintreegateway.com
 0.0.0.0	clientcdn.pushengage.com
 0.0.0.0	clientgear.com
+0.0.0.0	client-logs-a.wbx2.com
 0.0.0.0	clientmetrics-augmentum.kik.com
 0.0.0.0	clientmetrics.kik.com
 0.0.0.0	clientmetrics-pa.googleapis.com
@@ -28452,6 +28453,7 @@
 0.0.0.0	www.cprcar.com
 0.0.0.0	www.cpx24.com
 0.0.0.0	www.cqcounter.com
+0.0.0.0	www.cqwallpaper.com
 0.0.0.0	www.crackserver.com
 0.0.0.0	www.crakmedia.com
 0.0.0.0	www.crazypopups.com
@@ -39346,6 +39348,7 @@
 ::	client-analytics.braintreegateway.com
 ::	clientcdn.pushengage.com
 ::	clientgear.com
+::	client-logs-a.wbx2.com
 ::	clientmetrics-augmentum.kik.com
 ::	clientmetrics.kik.com
 ::	clientmetrics-pa.googleapis.com
@@ -59181,6 +59184,7 @@
 ::	www.cprcar.com
 ::	www.cpx24.com
 ::	www.cqcounter.com
+::	www.cqwallpaper.com
 ::	www.crackserver.com
 ::	www.crakmedia.com
 ::	www.crazypopups.com
