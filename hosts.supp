@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat  6 Jun 11:06:04 +03 2026
-# Total number of blocked lines: 61470
+# Ad blocking hosts generated Sat  6 Jun 12:06:04 +03 2026
+# Total number of blocked lines: 61466
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -11577,8 +11577,6 @@
 0.0.0.0	et.mobadvent.com
 0.0.0.0	et-mycostcorewards.info
 0.0.0.0	et.nytimes.com
-0.0.0.0	etracker.com
-0.0.0.0	etracker.de
 0.0.0.0	etransfer-23799.com
 0.0.0.0	etribunaldunet.fr
 0.0.0.0	etrk.asus.com
@@ -42311,8 +42309,6 @@
 ::	et.mobadvent.com
 ::	et-mycostcorewards.info
 ::	et.nytimes.com
-::	etracker.com
-::	etracker.de
 ::	etransfer-23799.com
 ::	etribunaldunet.fr
 ::	etrk.asus.com
