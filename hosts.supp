@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon  8 Jun 21:06:05 +03 2026
-# Total number of blocked lines: 61470
+# Ad blocking hosts generated Mon  8 Jun 22:06:04 +03 2026
+# Total number of blocked lines: 61472
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -21749,6 +21749,7 @@
 0.0.0.0	safe-mondays.net
 0.0.0.0	safeoffers.pro
 0.0.0.0	safepay2.interactivebrands.com
+0.0.0.0	safes.ru.com
 0.0.0.0	sagan.iad-03.braze.com
 0.0.0.0	sagent.io
 0.0.0.0	sahibindenalisveris-trparanguvende-mobildepartmani.com
@@ -52483,6 +52484,7 @@
 ::	safe-mondays.net
 ::	safeoffers.pro
 ::	safepay2.interactivebrands.com
+::	safes.ru.com
 ::	sagan.iad-03.braze.com
 ::	sagent.io
 ::	sahibindenalisveris-trparanguvende-mobildepartmani.com
