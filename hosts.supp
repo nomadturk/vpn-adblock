@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue  9 Jun 19:06:05 +03 2026
-# Total number of blocked lines: 61474
+# Ad blocking hosts generated Tue  9 Jun 20:06:05 +03 2026
+# Total number of blocked lines: 61482
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -9795,6 +9795,7 @@
 0.0.0.0	cxocomdev.112.2o7.net
 0.0.0.0	cx.ssacdn.com
 0.0.0.0	cya2.net
+0.0.0.0	cyber20.com
 0.0.0.0	cyberbounty.com
 0.0.0.0	cyberdefender.122.2o7.net
 0.0.0.0	cyberduck.fr
@@ -20792,6 +20793,7 @@
 0.0.0.0	r7.romeflirt.com
 0.0.0.0	r8qs.adj.st
 0.0.0.0	rabbitrifle.com
+0.0.0.0	racingfamilyvillage.com
 0.0.0.0	rackforstorage.com
 0.0.0.0	radar.cedexis.com
 0.0.0.0	radarurl.com
@@ -29053,6 +29055,7 @@
 0.0.0.0	www.kazaa.com
 0.0.0.0	www.keepass.com
 0.0.0.0	www.keepass.fr
+0.0.0.0	www.kencorporation.property
 0.0.0.0	www.kenkudo.plus.com
 0.0.0.0	www.kesau.com
 0.0.0.0	www.keybinary.com
@@ -30083,6 +30086,7 @@
 0.0.0.0	www.ultimatecounter.com
 0.0.0.0	www.ultimatetopsites.com
 0.0.0.0	www.ultratemps.com
+0.0.0.0	www.underobviously.garden
 0.0.0.0	www.undertonenetworks.com
 0.0.0.0	www.unetbootin.net
 0.0.0.0	www.unetbootin.org
@@ -40531,6 +40535,7 @@
 ::	cxocomdev.112.2o7.net
 ::	cx.ssacdn.com
 ::	cya2.net
+::	cyber20.com
 ::	cyberbounty.com
 ::	cyberdefender.122.2o7.net
 ::	cyberduck.fr
@@ -51528,6 +51533,7 @@
 ::	r7.romeflirt.com
 ::	r8qs.adj.st
 ::	rabbitrifle.com
+::	racingfamilyvillage.com
 ::	rackforstorage.com
 ::	radar.cedexis.com
 ::	radarurl.com
@@ -59789,6 +59795,7 @@
 ::	www.kazaa.com
 ::	www.keepass.com
 ::	www.keepass.fr
+::	www.kencorporation.property
 ::	www.kenkudo.plus.com
 ::	www.kesau.com
 ::	www.keybinary.com
@@ -60819,6 +60826,7 @@
 ::	www.ultimatecounter.com
 ::	www.ultimatetopsites.com
 ::	www.ultratemps.com
+::	www.underobviously.garden
 ::	www.undertonenetworks.com
 ::	www.unetbootin.net
 ::	www.unetbootin.org
