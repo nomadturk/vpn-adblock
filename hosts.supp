@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 10 Jun 03:06:04 +03 2026
-# Total number of blocked lines: 61482
+# Ad blocking hosts generated Wed 10 Jun 04:06:05 +03 2026
+# Total number of blocked lines: 61484
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -24669,6 +24669,7 @@
 0.0.0.0	test.coremetrics.com
 0.0.0.0	testdata.coremetrics.com
 0.0.0.0	testensie.de
+0.0.0.0	test.gutir.ru
 0.0.0.0	test.ishvara-yoga.com
 0.0.0.0	testpconly12.prepare2upvideosafesystem4setnow.online
 0.0.0.0	test-script.dotmetrics.net
@@ -55409,6 +55410,7 @@
 ::	test.coremetrics.com
 ::	testdata.coremetrics.com
 ::	testensie.de
+::	test.gutir.ru
 ::	test.ishvara-yoga.com
 ::	testpconly12.prepare2upvideosafesystem4setnow.online
 ::	test-script.dotmetrics.net
