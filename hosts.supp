@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 10 Jun 19:06:05 +03 2026
-# Total number of blocked lines: 61484
+# Ad blocking hosts generated Wed 10 Jun 20:06:07 +03 2026
+# Total number of blocked lines: 61488
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28579,6 +28579,7 @@
 0.0.0.0	www.dwin2.com
 0.0.0.0	www.dymor.cfd
 0.0.0.0	www.dynamictyres.com
+0.0.0.0	www.dzzzsc.com
 0.0.0.0	www.eaglesfanclub.com
 0.0.0.0	www.eamazondigital.com
 0.0.0.0	www.earnify.com
@@ -29471,6 +29472,7 @@
 0.0.0.0	www.pcmightymax.net
 0.0.0.0	www.pdf-platinum.info
 0.0.0.0	www.pdrill.com
+0.0.0.0	www.pdxsenior.com
 0.0.0.0	www.peachy18.com
 0.0.0.0	www.peachysailwv.pro
 0.0.0.0	www.peakclick.com
@@ -59320,6 +59322,7 @@
 ::	www.dwin2.com
 ::	www.dymor.cfd
 ::	www.dynamictyres.com
+::	www.dzzzsc.com
 ::	www.eaglesfanclub.com
 ::	www.eamazondigital.com
 ::	www.earnify.com
@@ -60212,6 +60215,7 @@
 ::	www.pcmightymax.net
 ::	www.pdf-platinum.info
 ::	www.pdrill.com
+::	www.pdxsenior.com
 ::	www.peachy18.com
 ::	www.peachysailwv.pro
 ::	www.peakclick.com
