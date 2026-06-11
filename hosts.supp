@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 11 Jun 20:06:05 +03 2026
-# Total number of blocked lines: 61488
+# Ad blocking hosts generated Thu 11 Jun 21:06:04 +03 2026
+# Total number of blocked lines: 61494
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28532,6 +28532,7 @@
 0.0.0.0	www.dewwillowwj.site
 0.0.0.0	www.dgmaustralia.com
 0.0.0.0	www.diaita.ch
+0.0.0.0	www.diamondconnections.living
 0.0.0.0	www.dianomi.com
 0.0.0.0	www.dianomioffers.co.uk
 0.0.0.0	www.dia-traffic.com
@@ -29184,6 +29185,7 @@
 0.0.0.0	www.m2trk.com
 0.0.0.0	www.maaxmarket.com
 0.0.0.0	www.macatawa.org
+0.0.0.0	www.madnesscase.com
 0.0.0.0	www.magento-analytics.com
 0.0.0.0	www.maiecaffe.com
 0.0.0.0	www.maillazy.com
@@ -29451,6 +29453,7 @@
 0.0.0.0	www.painolympics.info
 0.0.0.0	www.painolympics.org
 0.0.0.0	www.paintballpins.com
+0.0.0.0	www.paintingoccasion.living
 0.0.0.0	www.paintnet.es
 0.0.0.0	www.paintnet.fr
 0.0.0.0	www.palaceskateboard.com
@@ -59275,6 +59278,7 @@
 ::	www.dewwillowwj.site
 ::	www.dgmaustralia.com
 ::	www.diaita.ch
+::	www.diamondconnections.living
 ::	www.dianomi.com
 ::	www.dianomioffers.co.uk
 ::	www.dia-traffic.com
@@ -59927,6 +59931,7 @@
 ::	www.m2trk.com
 ::	www.maaxmarket.com
 ::	www.macatawa.org
+::	www.madnesscase.com
 ::	www.magento-analytics.com
 ::	www.maiecaffe.com
 ::	www.maillazy.com
@@ -60194,6 +60199,7 @@
 ::	www.painolympics.info
 ::	www.painolympics.org
 ::	www.paintballpins.com
+::	www.paintingoccasion.living
 ::	www.paintnet.es
 ::	www.paintnet.fr
 ::	www.palaceskateboard.com
