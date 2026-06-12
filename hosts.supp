@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 12 Jun 14:06:05 +03 2026
-# Total number of blocked lines: 61500
+# Ad blocking hosts generated Fri 12 Jun 15:06:04 +03 2026
+# Total number of blocked lines: 61496
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -3384,7 +3384,6 @@
 0.0.0.0	ad-sponsor.com
 0.0.0.0	ads.popfolkstars.com
 0.0.0.0	ads-portal-cdn.vidaatv.net
-0.0.0.0	ads.powweb.com
 0.0.0.0	ads.po-zdravidnes.com
 0.0.0.0	ads.prd.ie.internal.unity3d.com
 0.0.0.0	adspredictiv.com
@@ -3951,7 +3950,6 @@
 0.0.0.0	advertica-cdn.com
 0.0.0.0	adverticum.com
 0.0.0.0	adverticum.net
-0.0.0.0	advertipros.com
 0.0.0.0	advertise.bingads.microsoft.com
 0.0.0.0	advertise.com
 0.0.0.0	advertiseireland.com
@@ -8611,7 +8609,6 @@
 0.0.0.0	click.union.ucweb.com
 0.0.0.0	click.v.visionlab.es
 0.0.0.0	clickxchange.com
-0.0.0.0	clickyab.com
 0.0.0.0	clickz.com
 0.0.0.0	click.zipcodez.com
 0.0.0.0	client-analytics.braintreegateway.com
@@ -10531,7 +10528,6 @@
 0.0.0.0	dolohen.com
 0.0.0.0	domain-control.net
 0.0.0.0	domaine-voyance.fr
-0.0.0.0	domaining.in
 0.0.0.0	domainloading.net
 0.0.0.0	domainpark.sitelutions.com
 0.0.0.0	domainplayersclub.com
@@ -19109,6 +19105,7 @@
 0.0.0.0	overclockersonline.us.intellitxt.com
 0.0.0.0	overconfidentfood.com
 0.0.0.0	overflow.adsoftware.com
+0.0.0.0	overkick.com
 0.0.0.0	overlay.ringtonematcher.com
 0.0.0.0	overstock.com.112.2o7.net
 0.0.0.0	overstockcom.112.2o7.net
@@ -23396,6 +23393,7 @@
 0.0.0.0	starffa.com
 0.0.0.0	starget.intel.com
 0.0.0.0	star-iptv.fr
+0.0.0.0	starkscale.com
 0.0.0.0	star.pulseonclick.com
 0.0.0.0	starreturned.com
 0.0.0.0	starrynets.com
@@ -27192,7 +27190,6 @@
 0.0.0.0	webtj.net
 0.0.0.0	webtracker.apicasystem.com
 0.0.0.0	webtracker.jp
-0.0.0.0	webtrackerplus.com
 0.0.0.0	webtraffic.se
 0.0.0.0	webtrafficsource.com
 0.0.0.0	webtraxx.de
@@ -30675,6 +30672,7 @@
 0.0.0.0	zencudo.co.uk
 0.0.0.0	zendictees.fr
 0.0.0.0	zenigameblinger.org
+0.0.0.0	zenkreka.com
 0.0.0.0	zentastic.com
 0.0.0.0	zenzuu.com
 0.0.0.0	zephyrlabyrinth.com
@@ -34133,7 +34131,6 @@
 ::	ad-sponsor.com
 ::	ads.popfolkstars.com
 ::	ads-portal-cdn.vidaatv.net
-::	ads.powweb.com
 ::	ads.po-zdravidnes.com
 ::	ads.prd.ie.internal.unity3d.com
 ::	adspredictiv.com
@@ -34700,7 +34697,6 @@
 ::	advertica-cdn.com
 ::	adverticum.com
 ::	adverticum.net
-::	advertipros.com
 ::	advertise.bingads.microsoft.com
 ::	advertise.com
 ::	advertiseireland.com
@@ -39360,7 +39356,6 @@
 ::	click.union.ucweb.com
 ::	click.v.visionlab.es
 ::	clickxchange.com
-::	clickyab.com
 ::	clickz.com
 ::	click.zipcodez.com
 ::	client-analytics.braintreegateway.com
@@ -41280,7 +41275,6 @@
 ::	dolohen.com
 ::	domain-control.net
 ::	domaine-voyance.fr
-::	domaining.in
 ::	domainloading.net
 ::	domainpark.sitelutions.com
 ::	domainplayersclub.com
@@ -49858,6 +49852,7 @@
 ::	overclockersonline.us.intellitxt.com
 ::	overconfidentfood.com
 ::	overflow.adsoftware.com
+::	overkick.com
 ::	overlay.ringtonematcher.com
 ::	overstock.com.112.2o7.net
 ::	overstockcom.112.2o7.net
@@ -54145,6 +54140,7 @@
 ::	starffa.com
 ::	starget.intel.com
 ::	star-iptv.fr
+::	starkscale.com
 ::	star.pulseonclick.com
 ::	starreturned.com
 ::	starrynets.com
@@ -57941,7 +57937,6 @@
 ::	webtj.net
 ::	webtracker.apicasystem.com
 ::	webtracker.jp
-::	webtrackerplus.com
 ::	webtraffic.se
 ::	webtrafficsource.com
 ::	webtraxx.de
@@ -61424,6 +61419,7 @@
 ::	zencudo.co.uk
 ::	zendictees.fr
 ::	zenigameblinger.org
+::	zenkreka.com
 ::	zentastic.com
 ::	zenzuu.com
 ::	zephyrlabyrinth.com
