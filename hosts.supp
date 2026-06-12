@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 12 Jun 02:06:04 +03 2026
-# Total number of blocked lines: 61494
+# Ad blocking hosts generated Fri 12 Jun 03:06:09 +03 2026
+# Total number of blocked lines: 61500
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28132,6 +28132,7 @@
 0.0.0.0	www.bcwars.net
 0.0.0.0	www.be4life.ru
 0.0.0.0	www.beead.co.uk
+0.0.0.0	www.behdja.com
 0.0.0.0	www.bellamhair.com
 0.0.0.0	www.belstat.com
 0.0.0.0	www.belstat.nl
@@ -28860,6 +28861,7 @@
 0.0.0.0	www.gparted.fr
 0.0.0.0	www.gpolitico.com
 0.0.0.0	www.grabbit-rabbit.com
+0.0.0.0	www.gracefulmeaduu.online
 0.0.0.0	www.gradedoctortutoring.com
 0.0.0.0	www.grandtables.com
 0.0.0.0	www.greasypalm.com
@@ -30309,6 +30311,7 @@
 0.0.0.0	www.zemgo.com
 0.0.0.0	www.zenithvault.uk
 0.0.0.0	www.zentastic.com
+0.0.0.0	www.zephyrvineky.online
 0.0.0.0	www.zergnet.com
 0.0.0.0	www.zevents.com
 0.0.0.0	www.zipitfast.com
@@ -58878,6 +58881,7 @@
 ::	www.bcwars.net
 ::	www.be4life.ru
 ::	www.beead.co.uk
+::	www.behdja.com
 ::	www.bellamhair.com
 ::	www.belstat.com
 ::	www.belstat.nl
@@ -59606,6 +59610,7 @@
 ::	www.gparted.fr
 ::	www.gpolitico.com
 ::	www.grabbit-rabbit.com
+::	www.gracefulmeaduu.online
 ::	www.gradedoctortutoring.com
 ::	www.grandtables.com
 ::	www.greasypalm.com
@@ -61055,6 +61060,7 @@
 ::	www.zemgo.com
 ::	www.zenithvault.uk
 ::	www.zentastic.com
+::	www.zephyrvineky.online
 ::	www.zergnet.com
 ::	www.zevents.com
 ::	www.zipitfast.com
