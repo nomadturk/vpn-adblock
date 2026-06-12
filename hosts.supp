@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 12 Jun 20:06:04 +03 2026
-# Total number of blocked lines: 61496
+# Ad blocking hosts generated Fri 12 Jun 21:06:04 +03 2026
+# Total number of blocked lines: 61500
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29841,6 +29841,7 @@
 0.0.0.0	www.spinbox.com
 0.0.0.0	www.spinbox.net
 0.0.0.0	www.spinia.com
+0.0.0.0	www.spiritentertainment.homes
 0.0.0.0	www.spklds.com
 0.0.0.0	www.spojrzenia.com
 0.0.0.0	www.sponsorads.de
@@ -30206,6 +30207,7 @@
 0.0.0.0	www.westreclameadvies.nl
 0.0.0.0	www.wewillrocknow.com
 0.0.0.0	www.wezelco.com
+0.0.0.0	www.wgmarketingdigital.com
 0.0.0.0	www.whalecashads.com
 0.0.0.0	www.whipcrack.org
 0.0.0.0	www.whiskeyallys.com
@@ -60588,6 +60590,7 @@
 ::	www.spinbox.com
 ::	www.spinbox.net
 ::	www.spinia.com
+::	www.spiritentertainment.homes
 ::	www.spklds.com
 ::	www.spojrzenia.com
 ::	www.sponsorads.de
@@ -60953,6 +60956,7 @@
 ::	www.westreclameadvies.nl
 ::	www.wewillrocknow.com
 ::	www.wezelco.com
+::	www.wgmarketingdigital.com
 ::	www.whalecashads.com
 ::	www.whipcrack.org
 ::	www.whiskeyallys.com
