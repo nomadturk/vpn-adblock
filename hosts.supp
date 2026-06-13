@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat 13 Jun 20:06:05 +03 2026
-# Total number of blocked lines: 61508
+# Ad blocking hosts generated Sat 13 Jun 21:06:05 +03 2026
+# Total number of blocked lines: 61510
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -15904,6 +15904,7 @@
 0.0.0.0	livreral.fr
 0.0.0.0	livrval.fr
 0.0.0.0	livsffer.sa.com
+0.0.0.0	livsfs.today
 0.0.0.0	lizardslaugh.com
 0.0.0.0	li.ziffimages.com
 0.0.0.0	lizzardsnail.com
@@ -46657,6 +46658,7 @@
 ::	livreral.fr
 ::	livrval.fr
 ::	livsffer.sa.com
+::	livsfs.today
 ::	lizardslaugh.com
 ::	li.ziffimages.com
 ::	lizzardsnail.com
