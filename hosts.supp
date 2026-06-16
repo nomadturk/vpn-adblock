@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 16 Jun 21:06:05 +03 2026
-# Total number of blocked lines: 61536
+# Ad blocking hosts generated Tue 16 Jun 22:06:04 +03 2026
+# Total number of blocked lines: 61542
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28050,6 +28050,7 @@
 0.0.0.0	www.anrdoezrs.net
 0.0.0.0	www.antaraimedia.com
 0.0.0.0	www.anticlown.com
+0.0.0.0	www.anyik.com
 0.0.0.0	www.apcort.com
 0.0.0.0	www.api.taboola.com
 0.0.0.0	www.apkfuuny.com
@@ -29233,6 +29234,7 @@
 0.0.0.0	www.medical-research-books.com
 0.0.0.0	www.medleyads.com
 0.0.0.0	www.medyanative.com
+0.0.0.0	www.meeseger.com
 0.0.0.0	www.meetic-partners.com
 0.0.0.0	www.megacounter.de
 0.0.0.0	www.megapurchase.com
@@ -29659,6 +29661,7 @@
 0.0.0.0	www.regdefense.com
 0.0.0.0	www.regflow.com
 0.0.0.0	www.registrarads.com
+0.0.0.0	www.regulationprofit.bond
 0.0.0.0	www.reklam3.net
 0.0.0.0	www.reklamzadserver.com
 0.0.0.0	www.rekonsise.com
@@ -58817,6 +58820,7 @@
 ::	www.anrdoezrs.net
 ::	www.antaraimedia.com
 ::	www.anticlown.com
+::	www.anyik.com
 ::	www.apcort.com
 ::	www.api.taboola.com
 ::	www.apkfuuny.com
@@ -60000,6 +60004,7 @@
 ::	www.medical-research-books.com
 ::	www.medleyads.com
 ::	www.medyanative.com
+::	www.meeseger.com
 ::	www.meetic-partners.com
 ::	www.megacounter.de
 ::	www.megapurchase.com
@@ -60426,6 +60431,7 @@
 ::	www.regdefense.com
 ::	www.regflow.com
 ::	www.registrarads.com
+::	www.regulationprofit.bond
 ::	www.reklam3.net
 ::	www.reklamzadserver.com
 ::	www.rekonsise.com
