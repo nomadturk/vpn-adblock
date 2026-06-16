@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 16 Jun 09:06:05 +03 2026
-# Total number of blocked lines: 61534
+# Ad blocking hosts generated Tue 16 Jun 10:06:04 +03 2026
+# Total number of blocked lines: 61536
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -30265,6 +30265,7 @@
 0.0.0.0	www.wwt-ag.ch
 0.0.0.0	www.wwwhwgo.com
 0.0.0.0	www.wwwpaipal.com
+0.0.0.0	www.wwwtsg.com
 0.0.0.0	www.wysistat.com
 0.0.0.0	www.xadsmart.com
 0.0.0.0	www.xandermaker.com
@@ -61031,6 +61032,7 @@
 ::	www.wwt-ag.ch
 ::	www.wwwhwgo.com
 ::	www.wwwpaipal.com
+::	www.wwwtsg.com
 ::	www.wysistat.com
 ::	www.xadsmart.com
 ::	www.xandermaker.com
