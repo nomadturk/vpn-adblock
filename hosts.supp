@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 18 Jun 03:06:05 +03 2026
-# Total number of blocked lines: 61550
+# Ad blocking hosts generated Thu 18 Jun 04:06:04 +03 2026
+# Total number of blocked lines: 61554
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29987,6 +29987,7 @@
 0.0.0.0	www.theexgirlfriends.com
 0.0.0.0	www.thefriday.net
 0.0.0.0	www.thehomo.org
+0.0.0.0	www.thelaferianews.com
 0.0.0.0	www.themacuser.org
 0.0.0.0	www.themesets.com
 0.0.0.0	www.thepornsurvey.com
@@ -30089,6 +30090,7 @@
 0.0.0.0	www.trustsoft.com
 0.0.0.0	www.tsgonline.com
 0.0.0.0	www.ts-shimada.com
+0.0.0.0	www.ttcgg.com
 0.0.0.0	www.ttnet.yandex.com.tr
 0.0.0.0	www.ttoc8ok.com
 0.0.0.0	www.tubehits.com
@@ -60761,6 +60763,7 @@
 ::	www.theexgirlfriends.com
 ::	www.thefriday.net
 ::	www.thehomo.org
+::	www.thelaferianews.com
 ::	www.themacuser.org
 ::	www.themesets.com
 ::	www.thepornsurvey.com
@@ -60863,6 +60866,7 @@
 ::	www.trustsoft.com
 ::	www.tsgonline.com
 ::	www.ts-shimada.com
+::	www.ttcgg.com
 ::	www.ttnet.yandex.com.tr
 ::	www.ttoc8ok.com
 ::	www.tubehits.com
