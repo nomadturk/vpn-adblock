@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 18 Jun 19:06:05 +03 2026
-# Total number of blocked lines: 61554
+# Ad blocking hosts generated Thu 18 Jun 20:06:05 +03 2026
+# Total number of blocked lines: 61558
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28807,6 +28807,7 @@
 0.0.0.0	www.gamersigns.com
 0.0.0.0	www.gamevance.com
 0.0.0.0	www.gandiatv.com
+0.0.0.0	www.gangtaylor.property
 0.0.0.0	www.garethwalker.plus.com
 0.0.0.0	www.gatesofhell.plus.com
 0.0.0.0	www.gatoradvertisinginformationnetwork.com
@@ -29847,6 +29848,7 @@
 0.0.0.0	www.softwareadvice.com
 0.0.0.0	www.softwarebeginner.com
 0.0.0.0	www.sohailpc.com
+0.0.0.0	www.sonparks.skin
 0.0.0.0	www.sourmath.com
 0.0.0.0	www.spamnuker.com
 0.0.0.0	www.specialstat.com
@@ -59583,6 +59585,7 @@
 ::	www.gamersigns.com
 ::	www.gamevance.com
 ::	www.gandiatv.com
+::	www.gangtaylor.property
 ::	www.garethwalker.plus.com
 ::	www.gatesofhell.plus.com
 ::	www.gatoradvertisinginformationnetwork.com
@@ -60623,6 +60626,7 @@
 ::	www.softwareadvice.com
 ::	www.softwarebeginner.com
 ::	www.sohailpc.com
+::	www.sonparks.skin
 ::	www.sourmath.com
 ::	www.spamnuker.com
 ::	www.specialstat.com
