@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 19 Jun 03:06:05 +03 2026
-# Total number of blocked lines: 61560
+# Ad blocking hosts generated Fri 19 Jun 04:06:05 +03 2026
+# Total number of blocked lines: 61568
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -7029,6 +7029,7 @@
 0.0.0.0	build-cdn.liftoff.io
 0.0.0.0	builderonlinecom.112.2o7.net
 0.0.0.0	buildingcarpet.com
+0.0.0.0	build.waikatocycleways.info
 0.0.0.0	buildyourdata.com
 0.0.0.0	bukisa.us.intellitxt.com
 0.0.0.0	bulksender.info
@@ -16465,6 +16466,7 @@
 0.0.0.0	maranhesduve.club
 0.0.0.0	marathondulacduder.fr
 0.0.0.0	marazma.com
+0.0.0.0	marble.travelhealthreport.info
 0.0.0.0	marchofdimes.d2.sc.omtrdc.net
 0.0.0.0	marfeel.com
 0.0.0.0	marfeel-d.openx.net
@@ -17715,6 +17717,7 @@
 0.0.0.0	mudmonster.org
 0.0.0.0	mug.criteo.com
 0.0.0.0	mug.da1.vip.prod.criteo.com
+0.0.0.0	mughal.sobiratel.info
 0.0.0.0	mulato.info
 0.0.0.0	multi-cluster.directservices.it
 0.0.0.0	multimedia-projector.katrina.ru
@@ -19024,6 +19027,7 @@
 0.0.0.0	orange.npix.net
 0.0.0.0	orange-updates.com
 0.0.0.0	orangf.fr
+0.0.0.0	orbit.benchmarx.info
 0.0.0.0	orbsrv.com
 0.0.0.0	orca.qubitproducts.com
 0.0.0.0	orderadipex.findmenow.info
@@ -37808,6 +37812,7 @@
 ::	build-cdn.liftoff.io
 ::	builderonlinecom.112.2o7.net
 ::	buildingcarpet.com
+::	build.waikatocycleways.info
 ::	buildyourdata.com
 ::	bukisa.us.intellitxt.com
 ::	bulksender.info
@@ -47244,6 +47249,7 @@
 ::	maranhesduve.club
 ::	marathondulacduder.fr
 ::	marazma.com
+::	marble.travelhealthreport.info
 ::	marchofdimes.d2.sc.omtrdc.net
 ::	marfeel.com
 ::	marfeel-d.openx.net
@@ -48494,6 +48500,7 @@
 ::	mudmonster.org
 ::	mug.criteo.com
 ::	mug.da1.vip.prod.criteo.com
+::	mughal.sobiratel.info
 ::	mulato.info
 ::	multi-cluster.directservices.it
 ::	multimedia-projector.katrina.ru
@@ -49803,6 +49810,7 @@
 ::	orange.npix.net
 ::	orange-updates.com
 ::	orangf.fr
+::	orbit.benchmarx.info
 ::	orbsrv.com
 ::	orca.qubitproducts.com
 ::	orderadipex.findmenow.info
