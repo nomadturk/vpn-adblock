@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 19 Jun 14:06:05 +03 2026
-# Total number of blocked lines: 61568
+# Ad blocking hosts generated Fri 19 Jun 15:06:05 +03 2026
+# Total number of blocked lines: 61566
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -1357,6 +1357,7 @@
 0.0.0.0	ad-cdn.technoratimedia.com
 0.0.0.0	adcel.co
 0.0.0.0	adcell.de
+0.0.0.0	adcenter.net
 0.0.0.0	adcentre.it-advanced.com
 0.0.0.0	adcentriconline.com
 0.0.0.0	adcentric.randomseed.com
@@ -3950,6 +3951,7 @@
 0.0.0.0	advertica-cdn.com
 0.0.0.0	adverticum.com
 0.0.0.0	adverticum.net
+0.0.0.0	advertipros.com
 0.0.0.0	advertise.bingads.microsoft.com
 0.0.0.0	advertise.com
 0.0.0.0	advertiseireland.com
@@ -6135,7 +6137,6 @@
 0.0.0.0	bannerlink.xxxtreams.com
 0.0.0.0	banner.linux.se
 0.0.0.0	bannermall.com
-0.0.0.0	bannermanager.bnr.bg
 0.0.0.0	banner.media-system.de
 0.0.0.0	banner.missingkids.com
 0.0.0.0	banner.monacogoldcasino.com
@@ -8610,6 +8611,7 @@
 0.0.0.0	click.union.ucweb.com
 0.0.0.0	click.v.visionlab.es
 0.0.0.0	clickxchange.com
+0.0.0.0	clickyab.com
 0.0.0.0	clickz.com
 0.0.0.0	click.zipcodez.com
 0.0.0.0	client-analytics.braintreegateway.com
@@ -21138,7 +21140,6 @@
 0.0.0.0	remodelingonlinecom.112.2o7.net
 0.0.0.0	remote-data.asnapieu.com
 0.0.0.0	remote-data.urbanairship.com
-0.0.0.0	remox.com
 0.0.0.0	rem.rezonmedia.eu
 0.0.0.0	renacious.nwwadq.cn
 0.0.0.0	rencontreavenue.com
@@ -25242,7 +25243,6 @@
 0.0.0.0	tracker.leadenhancer.com
 0.0.0.0	tracker.marinsm.com
 0.0.0.0	tracker.mattel.com
-0.0.0.0	tracker.metricswave.com
 0.0.0.0	tracker.mmdlv.it
 0.0.0.0	tracker.mozo.com.au
 0.0.0.0	tracker.nbcuas.com
@@ -30708,7 +30708,6 @@
 0.0.0.0	zencudo.co.uk
 0.0.0.0	zendictees.fr
 0.0.0.0	zenigameblinger.org
-0.0.0.0	zenkreka.com
 0.0.0.0	zentastic.com
 0.0.0.0	zenzuu.com
 0.0.0.0	zephyrlabyrinth.com
@@ -32140,6 +32139,7 @@
 ::	ad-cdn.technoratimedia.com
 ::	adcel.co
 ::	adcell.de
+::	adcenter.net
 ::	adcentre.it-advanced.com
 ::	adcentriconline.com
 ::	adcentric.randomseed.com
@@ -34733,6 +34733,7 @@
 ::	advertica-cdn.com
 ::	adverticum.com
 ::	adverticum.net
+::	advertipros.com
 ::	advertise.bingads.microsoft.com
 ::	advertise.com
 ::	advertiseireland.com
@@ -36918,7 +36919,6 @@
 ::	bannerlink.xxxtreams.com
 ::	banner.linux.se
 ::	bannermall.com
-::	bannermanager.bnr.bg
 ::	banner.media-system.de
 ::	banner.missingkids.com
 ::	banner.monacogoldcasino.com
@@ -39393,6 +39393,7 @@
 ::	click.union.ucweb.com
 ::	click.v.visionlab.es
 ::	clickxchange.com
+::	clickyab.com
 ::	clickz.com
 ::	click.zipcodez.com
 ::	client-analytics.braintreegateway.com
@@ -51921,7 +51922,6 @@
 ::	remodelingonlinecom.112.2o7.net
 ::	remote-data.asnapieu.com
 ::	remote-data.urbanairship.com
-::	remox.com
 ::	rem.rezonmedia.eu
 ::	renacious.nwwadq.cn
 ::	rencontreavenue.com
@@ -56025,7 +56025,6 @@
 ::	tracker.leadenhancer.com
 ::	tracker.marinsm.com
 ::	tracker.mattel.com
-::	tracker.metricswave.com
 ::	tracker.mmdlv.it
 ::	tracker.mozo.com.au
 ::	tracker.nbcuas.com
@@ -61491,7 +61490,6 @@
 ::	zencudo.co.uk
 ::	zendictees.fr
 ::	zenigameblinger.org
-::	zenkreka.com
 ::	zentastic.com
 ::	zenzuu.com
 ::	zephyrlabyrinth.com
