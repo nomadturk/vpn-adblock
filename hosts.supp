@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 19 Jun 19:06:04 +03 2026
-# Total number of blocked lines: 61566
+# Ad blocking hosts generated Fri 19 Jun 20:06:05 +03 2026
+# Total number of blocked lines: 61570
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29273,6 +29273,7 @@
 0.0.0.0	www.minr.pw
 0.0.0.0	www.miocardite.com
 0.0.0.0	www.miqsoft.hu
+0.0.0.0	www.mixsorts.garden
 0.0.0.0	www.miyazaki-catv.ne.jp
 0.0.0.0	www.miziko.com
 0.0.0.0	www.mjonkers.nl
@@ -29758,6 +29759,7 @@
 0.0.0.0	www.sedotracker.com
 0.0.0.0	www.sedotracker.de
 0.0.0.0	www.seductiveamateurs.com
+0.0.0.0	www.seedschaos.garden
 0.0.0.0	www.seehits.com
 0.0.0.0	www.seekbang.com
 0.0.0.0	www.seekways.com
@@ -60055,6 +60057,7 @@
 ::	www.minr.pw
 ::	www.miocardite.com
 ::	www.miqsoft.hu
+::	www.mixsorts.garden
 ::	www.miyazaki-catv.ne.jp
 ::	www.miziko.com
 ::	www.mjonkers.nl
@@ -60540,6 +60543,7 @@
 ::	www.sedotracker.com
 ::	www.sedotracker.de
 ::	www.seductiveamateurs.com
+::	www.seedschaos.garden
 ::	www.seehits.com
 ::	www.seekbang.com
 ::	www.seekways.com
