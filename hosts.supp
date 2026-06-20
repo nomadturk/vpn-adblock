@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat 20 Jun 21:06:05 +03 2026
-# Total number of blocked lines: 61570
+# Ad blocking hosts generated Sat 20 Jun 22:06:04 +03 2026
+# Total number of blocked lines: 61572
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -8920,6 +8920,7 @@
 0.0.0.0	coldpacific.com
 0.0.0.0	col.eum-appdynamics.com
 0.0.0.0	colisismo.fr
+0.0.0.0	collagenforwellnessandbeauty.com
 0.0.0.0	collect10791rllrc.deltadna.net
 0.0.0.0	collect10854wrdcr.deltadna.net
 0.0.0.0	collect11136gwntd.deltadna.net
@@ -39704,6 +39705,7 @@
 ::	coldpacific.com
 ::	col.eum-appdynamics.com
 ::	colisismo.fr
+::	collagenforwellnessandbeauty.com
 ::	collect10791rllrc.deltadna.net
 ::	collect10854wrdcr.deltadna.net
 ::	collect11136gwntd.deltadna.net
