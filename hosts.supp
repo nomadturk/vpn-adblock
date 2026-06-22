@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 22 Jun 12:06:04 +03 2026
-# Total number of blocked lines: 61574
+# Ad blocking hosts generated Mon 22 Jun 13:06:05 +03 2026
+# Total number of blocked lines: 61578
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -1740,6 +1740,7 @@
 0.0.0.0	admax.nexage.com
 0.0.0.0	adm.baidu.com
 0.0.0.0	admd.yam.com
+0.0.0.0	adme2.click
 0.0.0.0	admedia.com
 0.0.0.0	ad.media-servers.net
 0.0.0.0	ad.mediastorm.hu
@@ -8039,6 +8040,7 @@
 0.0.0.0	cdn.siftscience.com
 0.0.0.0	cdn.simpleanalytics.io
 0.0.0.0	cdn.simpli.fi
+0.0.0.0	cdn.smalk.ai
 0.0.0.0	cdn.smartnews-ads.com
 0.0.0.0	cdns.mydirtyhobby.com
 0.0.0.0	cdn.snigelweb.com
@@ -32526,6 +32528,7 @@
 ::	admax.nexage.com
 ::	adm.baidu.com
 ::	admd.yam.com
+::	adme2.click
 ::	admedia.com
 ::	ad.media-servers.net
 ::	ad.mediastorm.hu
@@ -38825,6 +38828,7 @@
 ::	cdn.siftscience.com
 ::	cdn.simpleanalytics.io
 ::	cdn.simpli.fi
+::	cdn.smalk.ai
 ::	cdn.smartnews-ads.com
 ::	cdns.mydirtyhobby.com
 ::	cdn.snigelweb.com
