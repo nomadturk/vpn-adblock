@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 23 Jun 00:06:05 +03 2026
-# Total number of blocked lines: 61580
+# Ad blocking hosts generated Tue 23 Jun 01:06:04 +03 2026
+# Total number of blocked lines: 61582
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -14853,6 +14853,7 @@
 0.0.0.0	itprfft.sa.com
 0.0.0.0	itpro.uk.intellitxt.com
 0.0.0.0	itrackerpro.com
+0.0.0.0	itrackly.com
 0.0.0.0	itreviews.uk.intellitxt.com
 0.0.0.0	i.trkjmp.com
 0.0.0.0	itsfree123.com
@@ -45642,6 +45643,7 @@
 ::	itprfft.sa.com
 ::	itpro.uk.intellitxt.com
 ::	itrackerpro.com
+::	itrackly.com
 ::	itreviews.uk.intellitxt.com
 ::	i.trkjmp.com
 ::	itsfree123.com
