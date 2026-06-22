@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 22 Jun 16:06:05 +03 2026
-# Total number of blocked lines: 61578
+# Ad blocking hosts generated Mon 22 Jun 17:06:05 +03 2026
+# Total number of blocked lines: 61580
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -9295,6 +9295,7 @@
 0.0.0.0	core.zontera.com
 0.0.0.0	corp-downloads.com
 0.0.0.0	corporate.crakmedia.com
+0.0.0.0	correctedcode.com
 0.0.0.0	cortex.vidora.com
 0.0.0.0	corusads.dserv.ca
 0.0.0.0	cosi.iprive.net
@@ -40083,6 +40084,7 @@
 ::	core.zontera.com
 ::	corp-downloads.com
 ::	corporate.crakmedia.com
+::	correctedcode.com
 ::	cortex.vidora.com
 ::	corusads.dserv.ca
 ::	cosi.iprive.net
