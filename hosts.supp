@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 23 Jun 03:06:05 +03 2026
-# Total number of blocked lines: 61582
+# Ad blocking hosts generated Tue 23 Jun 04:06:04 +03 2026
+# Total number of blocked lines: 61584
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -30000,6 +30000,7 @@
 0.0.0.0	www.the-discount-store.com
 0.0.0.0	www.theexgirlfriends.com
 0.0.0.0	www.thefriday.net
+0.0.0.0	www.thegioibaove.com
 0.0.0.0	www.thehomo.org
 0.0.0.0	www.thelaferianews.com
 0.0.0.0	www.themacuser.org
@@ -60790,6 +60791,7 @@
 ::	www.the-discount-store.com
 ::	www.theexgirlfriends.com
 ::	www.thefriday.net
+::	www.thegioibaove.com
 ::	www.thehomo.org
 ::	www.thelaferianews.com
 ::	www.themacuser.org
