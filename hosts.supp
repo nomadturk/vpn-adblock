@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 24 Jun 21:06:05 +03 2026
-# Total number of blocked lines: 61588
+# Ad blocking hosts generated Wed 24 Jun 22:06:05 +03 2026
+# Total number of blocked lines: 61590
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -19111,6 +19111,7 @@
 0.0.0.0	outcome-ssp.supersonicads.com
 0.0.0.0	outcome.supersonicads.com
 0.0.0.0	outerinfo.com
+0.0.0.0	outerwords.com
 0.0.0.0	outils.yes-messenger.com
 0.0.0.0	outils.yesmessenger.com
 0.0.0.0	outofsightmedia.us.intellitxt.com
@@ -49904,6 +49905,7 @@
 ::	outcome-ssp.supersonicads.com
 ::	outcome.supersonicads.com
 ::	outerinfo.com
+::	outerwords.com
 ::	outils.yes-messenger.com
 ::	outils.yesmessenger.com
 ::	outofsightmedia.us.intellitxt.com
