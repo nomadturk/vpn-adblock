@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 24 Jun 03:06:05 +03 2026
-# Total number of blocked lines: 61586
+# Ad blocking hosts generated Wed 24 Jun 04:06:05 +03 2026
+# Total number of blocked lines: 61588
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29731,6 +29731,7 @@
 0.0.0.0	www.sacredphoenix.com
 0.0.0.0	www.sagent.io
 0.0.0.0	www.sailpirate.com
+0.0.0.0	www.salliemaebenefits.com
 0.0.0.0	www.salttm.com
 0.0.0.0	www.sandybellxb.site
 0.0.0.0	www.sandybrookyt.name
@@ -60523,6 +60524,7 @@
 ::	www.sacredphoenix.com
 ::	www.sagent.io
 ::	www.sailpirate.com
+::	www.salliemaebenefits.com
 ::	www.salttm.com
 ::	www.sandybellxb.site
 ::	www.sandybrookyt.name
