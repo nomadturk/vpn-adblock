@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 25 Jun 21:06:05 +03 2026
-# Total number of blocked lines: 61596
+# Ad blocking hosts generated Thu 25 Jun 22:06:05 +03 2026
+# Total number of blocked lines: 61602
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29251,6 +29251,7 @@
 0.0.0.0	www.medical-research-books.com
 0.0.0.0	www.medleyads.com
 0.0.0.0	www.medyanative.com
+0.0.0.0	www.meecheck.com
 0.0.0.0	www.meeseger.com
 0.0.0.0	www.meetic-partners.com
 0.0.0.0	www.megacounter.de
@@ -29396,6 +29397,7 @@
 0.0.0.0	www.nextgenstats.com
 0.0.0.0	www.nextlnk7.com
 0.0.0.0	www.nextstudent.com
+0.0.0.0	www.nftnavigator.com
 0.0.0.0	www.ngads.com
 0.0.0.0	www.nigja.com
 0.0.0.0	www.nimp.org
@@ -29561,6 +29563,7 @@
 0.0.0.0	www.politicalopinionsurvey.com
 0.0.0.0	www.pollmonkey.com
 0.0.0.0	www.pomp-buerotechnik.de
+0.0.0.0	www.ponhap.com
 0.0.0.0	www.popadvert.com
 0.0.0.0	www.poponclick.com
 0.0.0.0	www.popunder.com
@@ -60048,6 +60051,7 @@
 ::	www.medical-research-books.com
 ::	www.medleyads.com
 ::	www.medyanative.com
+::	www.meecheck.com
 ::	www.meeseger.com
 ::	www.meetic-partners.com
 ::	www.megacounter.de
@@ -60193,6 +60197,7 @@
 ::	www.nextgenstats.com
 ::	www.nextlnk7.com
 ::	www.nextstudent.com
+::	www.nftnavigator.com
 ::	www.ngads.com
 ::	www.nigja.com
 ::	www.nimp.org
@@ -60358,6 +60363,7 @@
 ::	www.politicalopinionsurvey.com
 ::	www.pollmonkey.com
 ::	www.pomp-buerotechnik.de
+::	www.ponhap.com
 ::	www.popadvert.com
 ::	www.poponclick.com
 ::	www.popunder.com
