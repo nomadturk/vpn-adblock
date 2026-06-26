@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 26 Jun 14:06:05 +03 2026
-# Total number of blocked lines: 61602
+# Ad blocking hosts generated Fri 26 Jun 15:06:05 +03 2026
+# Total number of blocked lines: 61596
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -6104,7 +6104,6 @@
 0.0.0.0	banner.betwwts.com
 0.0.0.0	banner.boostbox.com.br
 0.0.0.0	bannerboxes.com
-0.0.0.0	banner.buempliz-online.ch
 0.0.0.0	bannerbuzz.fr
 0.0.0.0	banner.casinodelrio.com
 0.0.0.0	banner.casinotropez.com
@@ -6177,7 +6176,6 @@
 0.0.0.0	banners.amigos.com
 0.0.0.0	banners.asiafriendfinder.com
 0.0.0.0	banners.askmecca.com
-0.0.0.0	banners.babylon-x.com
 0.0.0.0	banners.betcris.com
 0.0.0.0	banners.bgmaps.com
 0.0.0.0	banners.bigchurch.com
@@ -8588,7 +8586,6 @@
 0.0.0.0	clicks.virtuaguyhd.com
 0.0.0.0	clicks.walla.co.il
 0.0.0.0	clicks.zwaar.org
-0.0.0.0	clicktag.de
 0.0.0.0	clickthru.net
 0.0.0.0	clickthruserver.com
 0.0.0.0	clickthrutraffic.com
@@ -8917,6 +8914,7 @@
 0.0.0.0	coinverti.com
 0.0.0.0	coinzilla.io
 0.0.0.0	coinzillatag.com
+0.0.0.0	coldbalance.com
 0.0.0.0	coldcertainchannel.com
 0.0.0.0	colddry.com
 0.0.0.0	coldpacific.com
@@ -13516,7 +13514,6 @@
 0.0.0.0	heavy-flood.com
 0.0.0.0	hebdotop.com
 0.0.0.0	hefever.fr
-0.0.0.0	heimi-lwx.com
 0.0.0.0	helios.fvn.no
 0.0.0.0	helium.us.intellitxt.com
 0.0.0.0	hellobar.com
@@ -14742,7 +14739,6 @@
 0.0.0.0	iot-logser.realme.com
 0.0.0.0	iovation.com
 0.0.0.0	iovation.co.uk
-0.0.0.0	ip193.cn
 0.0.0.0	ip1.ads.stickyadstv.com.akadns.net
 0.0.0.0	ip1.cdn.stickyadstv.com.akadns.net
 0.0.0.0	ip2.ads.stickyadstv.com.akadns.net
@@ -21146,6 +21142,7 @@
 0.0.0.0	remodelingonlinecom.112.2o7.net
 0.0.0.0	remote-data.asnapieu.com
 0.0.0.0	remote-data.urbanairship.com
+0.0.0.0	remox.com
 0.0.0.0	rem.rezonmedia.eu
 0.0.0.0	renacious.nwwadq.cn
 0.0.0.0	rencontreavenue.com
@@ -36904,7 +36901,6 @@
 ::	banner.betwwts.com
 ::	banner.boostbox.com.br
 ::	bannerboxes.com
-::	banner.buempliz-online.ch
 ::	bannerbuzz.fr
 ::	banner.casinodelrio.com
 ::	banner.casinotropez.com
@@ -36977,7 +36973,6 @@
 ::	banners.amigos.com
 ::	banners.asiafriendfinder.com
 ::	banners.askmecca.com
-::	banners.babylon-x.com
 ::	banners.betcris.com
 ::	banners.bgmaps.com
 ::	banners.bigchurch.com
@@ -39388,7 +39383,6 @@
 ::	clicks.virtuaguyhd.com
 ::	clicks.walla.co.il
 ::	clicks.zwaar.org
-::	clicktag.de
 ::	clickthru.net
 ::	clickthruserver.com
 ::	clickthrutraffic.com
@@ -39717,6 +39711,7 @@
 ::	coinverti.com
 ::	coinzilla.io
 ::	coinzillatag.com
+::	coldbalance.com
 ::	coldcertainchannel.com
 ::	colddry.com
 ::	coldpacific.com
@@ -44316,7 +44311,6 @@
 ::	heavy-flood.com
 ::	hebdotop.com
 ::	hefever.fr
-::	heimi-lwx.com
 ::	helios.fvn.no
 ::	helium.us.intellitxt.com
 ::	hellobar.com
@@ -45542,7 +45536,6 @@
 ::	iot-logser.realme.com
 ::	iovation.com
 ::	iovation.co.uk
-::	ip193.cn
 ::	ip1.ads.stickyadstv.com.akadns.net
 ::	ip1.cdn.stickyadstv.com.akadns.net
 ::	ip2.ads.stickyadstv.com.akadns.net
@@ -51946,6 +51939,7 @@
 ::	remodelingonlinecom.112.2o7.net
 ::	remote-data.asnapieu.com
 ::	remote-data.urbanairship.com
+::	remox.com
 ::	rem.rezonmedia.eu
 ::	renacious.nwwadq.cn
 ::	rencontreavenue.com
