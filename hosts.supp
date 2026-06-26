@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 26 Jun 21:06:05 +03 2026
-# Total number of blocked lines: 61598
+# Ad blocking hosts generated Fri 26 Jun 22:06:05 +03 2026
+# Total number of blocked lines: 61600
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28651,6 +28651,7 @@
 0.0.0.0	www.europerank.com
 0.0.0.0	www.euros4click.de
 0.0.0.0	www.eva.hi-ho.ne.jp
+0.0.0.0	www.eventflavor.com
 0.0.0.0	www.everestgroupcorp.com
 0.0.0.0	www.everestjs.net
 0.0.0.0	www.everifymatch.com
@@ -59449,6 +59450,7 @@
 ::	www.europerank.com
 ::	www.euros4click.de
 ::	www.eva.hi-ho.ne.jp
+::	www.eventflavor.com
 ::	www.everestgroupcorp.com
 ::	www.everestjs.net
 ::	www.everifymatch.com
