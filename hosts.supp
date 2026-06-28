@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sun 28 Jun 23:06:04 +03 2026
-# Total number of blocked lines: 61602
+# Ad blocking hosts generated Mon 29 Jun 00:06:04 +03 2026
+# Total number of blocked lines: 61620
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -3639,6 +3639,7 @@
 0.0.0.0	ads.traffichaus.com
 0.0.0.0	ads.traffichunt.com
 0.0.0.0	ads.trafficjunky.net
+0.0.0.0	adstrategy-elb.go2cloud.org
 0.0.0.0	ads.travelaudience.com
 0.0.0.0	adstream.cardboardfish.com
 0.0.0.0	ads.treehugger.com
@@ -3883,6 +3884,7 @@
 0.0.0.0	ad.trident.net
 0.0.0.0	ad.triplemind.com
 0.0.0.0	adtriplex.com
+0.0.0.0	adtrk1.com
 0.0.0.0	adtrue.com
 0.0.0.0	ad.turn.com
 0.0.0.0	ad.turn.com.akadns.net
@@ -3993,6 +3995,7 @@
 0.0.0.0	advertpro.investorvillage.com
 0.0.0.0	advertpro.sitepoint.com
 0.0.0.0	advertpro.ya.com
+0.0.0.0	advertracker.com
 0.0.0.0	advert.runescape.com
 0.0.0.0	advert.ru.redtram.com
 0.0.0.0	adverts.creativemark.co.uk
@@ -13004,6 +13007,7 @@
 0.0.0.0	go1.aniview.com
 0.0.0.0	go1.viewdeos.com
 0.0.0.0	go2affise.com
+0.0.0.0	go2cloud.org
 0.0.0.0	go2.hit.gemius.pl
 0.0.0.0	go2page.net
 0.0.0.0	go6shde9nj2itle.com
@@ -25251,6 +25255,7 @@
 0.0.0.0	tracker.mozo.com.au
 0.0.0.0	tracker.nbcuas.com
 0.0.0.0	tracker.netklix.com
+0.0.0.0	tracker.optin-lead.com
 0.0.0.0	tracker.personizely.net
 0.0.0.0	tracker.remp.impresa.pt
 0.0.0.0	tracker.samplicio.us
@@ -25290,6 +25295,7 @@
 0.0.0.0	tracking.adjug.com
 0.0.0.0	tracking.admarketplace.net
 0.0.0.0	tracking.admarketplace.net.edgekey.net
+0.0.0.0	tracking.adstrategysites.com
 0.0.0.0	tracking.adultsense.com
 0.0.0.0	tracking.aimediagroup.com
 0.0.0.0	tracking.apptrackerlink.com
@@ -25299,6 +25305,7 @@
 0.0.0.0	tracking.batanga.com
 0.0.0.0	tracking.batanga.net
 0.0.0.0	tracking.bloomberg.com
+0.0.0.0	tracking.casheddy.com
 0.0.0.0	tracking.cdiscount.com
 0.0.0.0	tracking.clickmeter.com
 0.0.0.0	tracking.craktraffic.com
@@ -25367,6 +25374,7 @@
 0.0.0.0	tracking.pandoiq.com
 0.0.0.0	tracking.pennystockpicks.net
 0.0.0.0	tracking.percentmobile.com
+0.0.0.0	tracking.p-l-m.com
 0.0.0.0	tracking.propellerads.com
 0.0.0.0	tracking.publicidees.com
 0.0.0.0	tracking.pushcrew.com
@@ -25555,6 +25563,7 @@
 0.0.0.0	track.wattpad.com
 0.0.0.0	track.webgains.com
 0.0.0.0	track.wesdk.co
+0.0.0.0	track.wewilltrcku.com
 0.0.0.0	track.written.com
 0.0.0.0	track.xapads.com
 0.0.0.0	track.yieldsoftware.com
@@ -34439,6 +34448,7 @@
 ::	ads.traffichaus.com
 ::	ads.traffichunt.com
 ::	ads.trafficjunky.net
+::	adstrategy-elb.go2cloud.org
 ::	ads.travelaudience.com
 ::	adstream.cardboardfish.com
 ::	ads.treehugger.com
@@ -34683,6 +34693,7 @@
 ::	ad.trident.net
 ::	ad.triplemind.com
 ::	adtriplex.com
+::	adtrk1.com
 ::	adtrue.com
 ::	ad.turn.com
 ::	ad.turn.com.akadns.net
@@ -34793,6 +34804,7 @@
 ::	advertpro.investorvillage.com
 ::	advertpro.sitepoint.com
 ::	advertpro.ya.com
+::	advertracker.com
 ::	advert.runescape.com
 ::	advert.ru.redtram.com
 ::	adverts.creativemark.co.uk
@@ -43804,6 +43816,7 @@
 ::	go1.aniview.com
 ::	go1.viewdeos.com
 ::	go2affise.com
+::	go2cloud.org
 ::	go2.hit.gemius.pl
 ::	go2page.net
 ::	go6shde9nj2itle.com
@@ -56051,6 +56064,7 @@
 ::	tracker.mozo.com.au
 ::	tracker.nbcuas.com
 ::	tracker.netklix.com
+::	tracker.optin-lead.com
 ::	tracker.personizely.net
 ::	tracker.remp.impresa.pt
 ::	tracker.samplicio.us
@@ -56090,6 +56104,7 @@
 ::	tracking.adjug.com
 ::	tracking.admarketplace.net
 ::	tracking.admarketplace.net.edgekey.net
+::	tracking.adstrategysites.com
 ::	tracking.adultsense.com
 ::	tracking.aimediagroup.com
 ::	tracking.apptrackerlink.com
@@ -56099,6 +56114,7 @@
 ::	tracking.batanga.com
 ::	tracking.batanga.net
 ::	tracking.bloomberg.com
+::	tracking.casheddy.com
 ::	tracking.cdiscount.com
 ::	tracking.clickmeter.com
 ::	tracking.craktraffic.com
@@ -56167,6 +56183,7 @@
 ::	tracking.pandoiq.com
 ::	tracking.pennystockpicks.net
 ::	tracking.percentmobile.com
+::	tracking.p-l-m.com
 ::	tracking.propellerads.com
 ::	tracking.publicidees.com
 ::	tracking.pushcrew.com
@@ -56355,6 +56372,7 @@
 ::	track.wattpad.com
 ::	track.webgains.com
 ::	track.wesdk.co
+::	track.wewilltrcku.com
 ::	track.written.com
 ::	track.xapads.com
 ::	track.yieldsoftware.com
