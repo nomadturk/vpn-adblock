@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 29 Jun 21:06:05 +03 2026
-# Total number of blocked lines: 61624
+# Ad blocking hosts generated Mon 29 Jun 22:06:04 +03 2026
+# Total number of blocked lines: 61632
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -18134,6 +18134,10 @@
 0.0.0.0	newlaunches.uk.intellitxt.com
 0.0.0.0	new.lerian-nti.be
 0.0.0.0	newlook.112.2o7.net
+0.0.0.0	newlovez2.co
+0.0.0.0	newlovez3.co
+0.0.0.0	newlovez4.co
+0.0.0.0	newlovez.co
 0.0.0.0	newmedsdeal.eu
 0.0.0.0	newms-shop.su
 0.0.0.0	newnet.qsrch.com
@@ -48945,6 +48949,10 @@
 ::	newlaunches.uk.intellitxt.com
 ::	new.lerian-nti.be
 ::	newlook.112.2o7.net
+::	newlovez2.co
+::	newlovez3.co
+::	newlovez4.co
+::	newlovez.co
 ::	newmedsdeal.eu
 ::	newms-shop.su
 ::	newnet.qsrch.com
