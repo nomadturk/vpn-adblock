@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 30 Jun 19:06:04 +03 2026
-# Total number of blocked lines: 61636
+# Ad blocking hosts generated Tue 30 Jun 20:06:05 +03 2026
+# Total number of blocked lines: 61638
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29045,6 +29045,7 @@
 0.0.0.0	www.iovenesweb.com
 0.0.0.0	www.iperbanner.com
 0.0.0.0	www.iqoption.com
+0.0.0.0	www.irlandalk.com
 0.0.0.0	www.irony.world
 0.0.0.0	www.is1.clixgalore.com
 0.0.0.0	www.isfilebest.com
@@ -59862,6 +59863,7 @@
 ::	www.iovenesweb.com
 ::	www.iperbanner.com
 ::	www.iqoption.com
+::	www.irlandalk.com
 ::	www.irony.world
 ::	www.is1.clixgalore.com
 ::	www.isfilebest.com
