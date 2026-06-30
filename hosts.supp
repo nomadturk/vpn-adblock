@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed  1 Jul 01:06:05 +03 2026
-# Total number of blocked lines: 61640
+# Ad blocking hosts generated Wed  1 Jul 02:06:05 +03 2026
+# Total number of blocked lines: 61646
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28129,6 +28129,7 @@
 0.0.0.0	www.awltovhc.com
 0.0.0.0	www.axill.com
 0.0.0.0	www.azureus.es
+0.0.0.0	www.azwomens.com
 0.0.0.0	www.b3d.com
 0.0.0.0	www.baba-t.com
 0.0.0.0	www.backingguitar.garden
@@ -28542,6 +28543,7 @@
 0.0.0.0	www.dayanitastore.com
 0.0.0.0	www.daytonjaxx.com
 0.0.0.0	www.dealresponse.com
+0.0.0.0	www.dealshaat.com
 0.0.0.0	www.dealsrate.com
 0.0.0.0	www.deashi.com
 0.0.0.0	www.debbo.plus.com
@@ -28599,6 +28601,7 @@
 0.0.0.0	www.doubleclick.com
 0.0.0.0	www.doubleclick.net
 0.0.0.0	www.down1oads.com
+0.0.0.0	www.downmass.com
 0.0.0.0	www.dpbolvw.net
 0.0.0.0	www.dragonawaken.com
 0.0.0.0	www.drivegoals.com
@@ -58948,6 +58951,7 @@
 ::	www.awltovhc.com
 ::	www.axill.com
 ::	www.azureus.es
+::	www.azwomens.com
 ::	www.b3d.com
 ::	www.baba-t.com
 ::	www.backingguitar.garden
@@ -59361,6 +59365,7 @@
 ::	www.dayanitastore.com
 ::	www.daytonjaxx.com
 ::	www.dealresponse.com
+::	www.dealshaat.com
 ::	www.dealsrate.com
 ::	www.deashi.com
 ::	www.debbo.plus.com
@@ -59418,6 +59423,7 @@
 ::	www.doubleclick.com
 ::	www.doubleclick.net
 ::	www.down1oads.com
+::	www.downmass.com
 ::	www.dpbolvw.net
 ::	www.dragonawaken.com
 ::	www.drivegoals.com
