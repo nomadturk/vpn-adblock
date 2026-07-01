@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed  1 Jul 21:06:05 +03 2026
-# Total number of blocked lines: 61646
+# Ad blocking hosts generated Wed  1 Jul 22:06:05 +03 2026
+# Total number of blocked lines: 61650
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28658,6 +28658,7 @@
 0.0.0.0	www.epicgameads.com
 0.0.0.0	www.eqarati.com
 0.0.0.0	www.eremplacementparts.com
+0.0.0.0	www.erincranor.com
 0.0.0.0	www.errornuker.com
 0.0.0.0	www.eshopads2.com
 0.0.0.0	www.esjetonline.com
@@ -29775,6 +29776,7 @@
 0.0.0.0	www.scrapzoneauto.com
 0.0.0.0	www.screen-mates.com
 0.0.0.0	www.scrollbelow.com
+0.0.0.0	www.sealabour.living
 0.0.0.0	www.searchacross.com
 0.0.0.0	www.searchadv.com
 0.0.0.0	www.searchingzone.com
@@ -59480,6 +59482,7 @@
 ::	www.epicgameads.com
 ::	www.eqarati.com
 ::	www.eremplacementparts.com
+::	www.erincranor.com
 ::	www.errornuker.com
 ::	www.eshopads2.com
 ::	www.esjetonline.com
@@ -60597,6 +60600,7 @@
 ::	www.scrapzoneauto.com
 ::	www.screen-mates.com
 ::	www.scrollbelow.com
+::	www.sealabour.living
 ::	www.searchacross.com
 ::	www.searchadv.com
 ::	www.searchingzone.com
