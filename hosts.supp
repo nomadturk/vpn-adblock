@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri  3 Jul 19:06:04 +03 2026
-# Total number of blocked lines: 61646
+# Ad blocking hosts generated Fri  3 Jul 20:06:04 +03 2026
+# Total number of blocked lines: 61648
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -4603,6 +4603,7 @@
 0.0.0.0	analytics-events.inshorts.com
 0.0.0.0	analytics.ext.go-tellm.com
 0.0.0.0	analytics.facebook.com
+0.0.0.0	analytics-fe.digital-cloud-prem.medallia.eu
 0.0.0.0	analytics.ff.avast.com
 0.0.0.0	analytics.flipperdevices.com
 0.0.0.0	analytics.foresee.com
@@ -35425,6 +35426,7 @@
 ::	analytics-events.inshorts.com
 ::	analytics.ext.go-tellm.com
 ::	analytics.facebook.com
+::	analytics-fe.digital-cloud-prem.medallia.eu
 ::	analytics.ff.avast.com
 ::	analytics.flipperdevices.com
 ::	analytics.foresee.com
