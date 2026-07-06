@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon  6 Jul 21:06:04 +03 2026
-# Total number of blocked lines: 61650
+# Ad blocking hosts generated Mon  6 Jul 22:06:05 +03 2026
+# Total number of blocked lines: 61656
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29040,6 +29040,7 @@
 0.0.0.0	www.intellitxt.com
 0.0.0.0	www.interactivebrands.com
 0.0.0.0	www.interstitialzone.com
+0.0.0.0	www.inventons.com
 0.0.0.0	www.invitefashion.com
 0.0.0.0	www.invitegame.com
 0.0.0.0	www.inyes.com.tw
@@ -29076,6 +29077,7 @@
 0.0.0.0	www.jetseeker.com
 0.0.0.0	www.jeuxfortuna.com
 0.0.0.0	www.jeuxjackpotcasino.com
+0.0.0.0	www.jewishgame.com
 0.0.0.0	www.jhsmiami.com
 0.0.0.0	www.jivox.com
 0.0.0.0	www.jiztini.com
@@ -29523,6 +29525,7 @@
 0.0.0.0	www.pathforpoints.com
 0.0.0.0	www.paviro.cfd
 0.0.0.0	www.pawnauctions.net
+0.0.0.0	www.payasyougocert.com
 0.0.0.0	www.paycounter.com
 0.0.0.0	www.paypopup.com
 0.0.0.0	www.pcfixguide.help
@@ -59864,6 +59867,7 @@
 ::	www.intellitxt.com
 ::	www.interactivebrands.com
 ::	www.interstitialzone.com
+::	www.inventons.com
 ::	www.invitefashion.com
 ::	www.invitegame.com
 ::	www.inyes.com.tw
@@ -59900,6 +59904,7 @@
 ::	www.jetseeker.com
 ::	www.jeuxfortuna.com
 ::	www.jeuxjackpotcasino.com
+::	www.jewishgame.com
 ::	www.jhsmiami.com
 ::	www.jivox.com
 ::	www.jiztini.com
@@ -60347,6 +60352,7 @@
 ::	www.pathforpoints.com
 ::	www.paviro.cfd
 ::	www.pawnauctions.net
+::	www.payasyougocert.com
 ::	www.paycounter.com
 ::	www.paypopup.com
 ::	www.pcfixguide.help
