@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon  6 Jul 23:06:04 +03 2026
-# Total number of blocked lines: 61656
+# Ad blocking hosts generated Tue  7 Jul 00:06:04 +03 2026
+# Total number of blocked lines: 61660
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -22983,6 +22983,7 @@
 0.0.0.0	snap.licdn.com
 0.0.0.0	snapmobile.asia
 0.0.0.0	snap.snapmobile.asia
+0.0.0.0	snapsonthehouse.com
 0.0.0.0	snaps.vidiemi.com
 0.0.0.0	snazzypoodle.com
 0.0.0.0	sniff.visistat.com
@@ -29553,6 +29554,7 @@
 0.0.0.0	www.peterfishwick.free-online.co.uk
 0.0.0.0	www.petrenko.biz
 0.0.0.0	www.pfhsystem.com
+0.0.0.0	www.pfsim.com
 0.0.0.0	www.phantomluck.com
 0.0.0.0	www.phoenixads.co.in
 0.0.0.0	www.phonejapan.com
@@ -53810,6 +53812,7 @@
 ::	snap.licdn.com
 ::	snapmobile.asia
 ::	snap.snapmobile.asia
+::	snapsonthehouse.com
 ::	snaps.vidiemi.com
 ::	snazzypoodle.com
 ::	sniff.visistat.com
@@ -60380,6 +60383,7 @@
 ::	www.peterfishwick.free-online.co.uk
 ::	www.petrenko.biz
 ::	www.pfhsystem.com
+::	www.pfsim.com
 ::	www.phantomluck.com
 ::	www.phoenixads.co.in
 ::	www.phonejapan.com
