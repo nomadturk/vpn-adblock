@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 10 Jul 14:06:05 +03 2026
-# Total number of blocked lines: 61696
+# Ad blocking hosts generated Fri 10 Jul 15:06:05 +03 2026
+# Total number of blocked lines: 61702
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -6141,7 +6141,6 @@
 0.0.0.0	banner.kiev.ua
 0.0.0.0	banner.linksynergy.com
 0.0.0.0	bannerlink.xxxtreams.com
-0.0.0.0	banner.linux.se
 0.0.0.0	bannermall.com
 0.0.0.0	banner.media-system.de
 0.0.0.0	banner.missingkids.com
@@ -8921,6 +8920,7 @@
 0.0.0.0	coinverti.com
 0.0.0.0	coinzilla.io
 0.0.0.0	coinzillatag.com
+0.0.0.0	coldbalance.com
 0.0.0.0	coldcertainchannel.com
 0.0.0.0	colddry.com
 0.0.0.0	coldpacific.com
@@ -19131,6 +19131,7 @@
 0.0.0.0	overclockersonline.us.intellitxt.com
 0.0.0.0	overconfidentfood.com
 0.0.0.0	overflow.adsoftware.com
+0.0.0.0	overkick.com
 0.0.0.0	overlay.ringtonematcher.com
 0.0.0.0	overstock.com.112.2o7.net
 0.0.0.0	overstockcom.112.2o7.net
@@ -20970,6 +20971,7 @@
 0.0.0.0	recommendedforyou.xyz
 0.0.0.0	recommender.scarabresearch.com
 0.0.0.0	recommends.media.net
+0.0.0.0	reconditerake.com
 0.0.0.0	record.affiliatelounge.com
 0.0.0.0	record.bonniergaming.com
 0.0.0.0	record.commissionlounge.com
@@ -23421,6 +23423,7 @@
 0.0.0.0	starffa.com
 0.0.0.0	starget.intel.com
 0.0.0.0	star-iptv.fr
+0.0.0.0	starkscale.com
 0.0.0.0	star.pulseonclick.com
 0.0.0.0	starreturned.com
 0.0.0.0	starrynets.com
@@ -26806,7 +26809,6 @@
 0.0.0.0	vivaki.demdex.net
 0.0.0.0	vivalife.fr
 0.0.0.0	vivgilance.fr
-0.0.0.0	vivtracking.com
 0.0.0.0	vjpwe.comfortykive.xyz
 0.0.0.0	vj.quanjingpay.com
 0.0.0.0	vkf-onlinereklam-sayfasi.cf
@@ -27430,6 +27432,7 @@
 0.0.0.0	wirelessforumsorg.skimlinks.com
 0.0.0.0	wireless.ign.us.intellitxt.com
 0.0.0.0	wirtvlg.oewabox.at
+0.0.0.0	wirypaste.com
 0.0.0.0	wisepops.com
 0.0.0.0	wishdownget.com
 0.0.0.0	wish.securedtouch.com
@@ -36988,7 +36991,6 @@
 ::	banner.kiev.ua
 ::	banner.linksynergy.com
 ::	bannerlink.xxxtreams.com
-::	banner.linux.se
 ::	bannermall.com
 ::	banner.media-system.de
 ::	banner.missingkids.com
@@ -39768,6 +39770,7 @@
 ::	coinverti.com
 ::	coinzilla.io
 ::	coinzillatag.com
+::	coldbalance.com
 ::	coldcertainchannel.com
 ::	colddry.com
 ::	coldpacific.com
@@ -49978,6 +49981,7 @@
 ::	overclockersonline.us.intellitxt.com
 ::	overconfidentfood.com
 ::	overflow.adsoftware.com
+::	overkick.com
 ::	overlay.ringtonematcher.com
 ::	overstock.com.112.2o7.net
 ::	overstockcom.112.2o7.net
@@ -51817,6 +51821,7 @@
 ::	recommendedforyou.xyz
 ::	recommender.scarabresearch.com
 ::	recommends.media.net
+::	reconditerake.com
 ::	record.affiliatelounge.com
 ::	record.bonniergaming.com
 ::	record.commissionlounge.com
@@ -54268,6 +54273,7 @@
 ::	starffa.com
 ::	starget.intel.com
 ::	star-iptv.fr
+::	starkscale.com
 ::	star.pulseonclick.com
 ::	starreturned.com
 ::	starrynets.com
@@ -57653,7 +57659,6 @@
 ::	vivaki.demdex.net
 ::	vivalife.fr
 ::	vivgilance.fr
-::	vivtracking.com
 ::	vjpwe.comfortykive.xyz
 ::	vj.quanjingpay.com
 ::	vkf-onlinereklam-sayfasi.cf
@@ -58277,6 +58282,7 @@
 ::	wirelessforumsorg.skimlinks.com
 ::	wireless.ign.us.intellitxt.com
 ::	wirtvlg.oewabox.at
+::	wirypaste.com
 ::	wisepops.com
 ::	wishdownget.com
 ::	wish.securedtouch.com
