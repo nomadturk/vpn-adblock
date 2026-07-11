@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat 11 Jul 20:06:04 +03 2026
-# Total number of blocked lines: 61712
+# Ad blocking hosts generated Sat 11 Jul 21:06:05 +03 2026
+# Total number of blocked lines: 61718
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -19710,6 +19710,7 @@
 0.0.0.0	pinkisthenewblog.us.intellitxt.com
 0.0.0.0	pinterest.adsymptotic.com
 0.0.0.0	pi.pardot.com
+0.0.0.0	pi.pdfjs.express
 0.0.0.0	pipedream.wistia.com
 0.0.0.0	pippio.com
 0.0.0.0	pipslab.nl
@@ -21207,6 +21208,7 @@
 0.0.0.0	resanium.com
 0.0.0.0	res-backup.com
 0.0.0.0	rescuerhino.com
+0.0.0.0	researchlog.dbresearch.com
 0.0.0.0	researchnow.com
 0.0.0.0	reseaux-telecoms.fr.intellitxt.com
 0.0.0.0	reseller.hitbox.com
@@ -25771,6 +25773,7 @@
 0.0.0.0	trk.tidaltv.com
 0.0.0.0	trk.vidible.tv
 0.0.0.0	trk.wdacashtrk.com
+0.0.0.0	trkweb.clinch.co
 0.0.0.0	trk.wizzdeal.trade
 0.0.0.0	tr.lib.dengage.com
 0.0.0.0	trmit.com
@@ -50565,6 +50568,7 @@
 ::	pinkisthenewblog.us.intellitxt.com
 ::	pinterest.adsymptotic.com
 ::	pi.pardot.com
+::	pi.pdfjs.express
 ::	pipedream.wistia.com
 ::	pippio.com
 ::	pipslab.nl
@@ -52062,6 +52066,7 @@
 ::	resanium.com
 ::	res-backup.com
 ::	rescuerhino.com
+::	researchlog.dbresearch.com
 ::	researchnow.com
 ::	reseaux-telecoms.fr.intellitxt.com
 ::	reseller.hitbox.com
@@ -56626,6 +56631,7 @@
 ::	trk.tidaltv.com
 ::	trk.vidible.tv
 ::	trk.wdacashtrk.com
+::	trkweb.clinch.co
 ::	trk.wizzdeal.trade
 ::	tr.lib.dengage.com
 ::	trmit.com
