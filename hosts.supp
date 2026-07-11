@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat 11 Jul 23:06:05 +03 2026
-# Total number of blocked lines: 61718
+# Ad blocking hosts generated Sun 12 Jul 00:06:05 +03 2026
+# Total number of blocked lines: 61720
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -21387,6 +21387,7 @@
 0.0.0.0	roar.com
 0.0.0.0	robbiblubber.org
 0.0.0.0	robertgraham.fr
+0.0.0.0	robotrefinery.com
 0.0.0.0	robotreplay.com
 0.0.0.0	robot.royalcactus.com
 0.0.0.0	robotscan.net
@@ -52245,6 +52246,7 @@
 ::	roar.com
 ::	robbiblubber.org
 ::	robertgraham.fr
+::	robotrefinery.com
 ::	robotreplay.com
 ::	robot.royalcactus.com
 ::	robotscan.net
