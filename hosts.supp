@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat 11 Jul 17:06:05 +03 2026
-# Total number of blocked lines: 61710
+# Ad blocking hosts generated Sat 11 Jul 18:06:05 +03 2026
+# Total number of blocked lines: 61712
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -7406,6 +7406,7 @@
 0.0.0.0	capecodonlinecom.112.2o7.net
 0.0.0.0	capi.connatix.com
 0.0.0.0	capital-invest-can.cropvita.sbs
+0.0.0.0	capitalopera.com
 0.0.0.0	capitalregionusa.fr
 0.0.0.0	capostdelivery.com
 0.0.0.0	c.apple.com
@@ -38260,6 +38261,7 @@
 ::	capecodonlinecom.112.2o7.net
 ::	capi.connatix.com
 ::	capital-invest-can.cropvita.sbs
+::	capitalopera.com
 ::	capitalregionusa.fr
 ::	capostdelivery.com
 ::	c.apple.com
