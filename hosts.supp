@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 13 Jul 20:06:05 +03 2026
-# Total number of blocked lines: 61720
+# Ad blocking hosts generated Mon 13 Jul 21:06:04 +03 2026
+# Total number of blocked lines: 61722
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29080,6 +29080,7 @@
 0.0.0.0	www.istats.nl
 0.0.0.0	www.ist-track.com
 0.0.0.0	www.itcompany.com
+0.0.0.0	www.itemtools.com
 0.0.0.0	www.itrackerpro.com
 0.0.0.0	www.itsfree123.com
 0.0.0.0	www.iwantclothing.com
@@ -59939,6 +59940,7 @@
 ::	www.istats.nl
 ::	www.ist-track.com
 ::	www.itcompany.com
+::	www.itemtools.com
 ::	www.itrackerpro.com
 ::	www.itsfree123.com
 ::	www.iwantclothing.com
