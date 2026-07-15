@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 15 Jul 22:06:04 +03 2026
-# Total number of blocked lines: 61730
+# Ad blocking hosts generated Wed 15 Jul 23:06:05 +03 2026
+# Total number of blocked lines: 61736
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28114,6 +28114,7 @@
 0.0.0.0	www.artdualdesign.com
 0.0.0.0	www.artfut.com
 0.0.0.0	www.art-offer.com
+0.0.0.0	www.artssets.com
 0.0.0.0	www.asianread.com
 0.0.0.0	www.assistdocklane.uk
 0.0.0.0	www.assoc-amazon.com
@@ -28560,6 +28561,7 @@
 0.0.0.0	www.davion.plus.com
 0.0.0.0	www.dayanitastore.com
 0.0.0.0	www.daytonjaxx.com
+0.0.0.0	www.dbcorporation.com
 0.0.0.0	www.dealresponse.com
 0.0.0.0	www.dealshaat.com
 0.0.0.0	www.dealsrate.com
@@ -28662,6 +28664,7 @@
 0.0.0.0	www.ekkekkocapital.com
 0.0.0.0	www.elanactivewear.com
 0.0.0.0	www.electrobell.com
+0.0.0.0	www.elfralalo.com
 0.0.0.0	www.eliteconcepts.com
 0.0.0.0	www.eljaleomedellin.com
 0.0.0.0	www.ellads.com
@@ -58978,6 +58981,7 @@
 ::	www.artdualdesign.com
 ::	www.artfut.com
 ::	www.art-offer.com
+::	www.artssets.com
 ::	www.asianread.com
 ::	www.assistdocklane.uk
 ::	www.assoc-amazon.com
@@ -59424,6 +59428,7 @@
 ::	www.davion.plus.com
 ::	www.dayanitastore.com
 ::	www.daytonjaxx.com
+::	www.dbcorporation.com
 ::	www.dealresponse.com
 ::	www.dealshaat.com
 ::	www.dealsrate.com
@@ -59526,6 +59531,7 @@
 ::	www.ekkekkocapital.com
 ::	www.elanactivewear.com
 ::	www.electrobell.com
+::	www.elfralalo.com
 ::	www.eliteconcepts.com
 ::	www.eljaleomedellin.com
 ::	www.ellads.com
