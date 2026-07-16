@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 16 Jul 02:06:05 +03 2026
-# Total number of blocked lines: 61736
+# Ad blocking hosts generated Thu 16 Jul 03:06:04 +03 2026
+# Total number of blocked lines: 61738
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28943,6 +28943,7 @@
 0.0.0.0	www.growthbuilder.name
 0.0.0.0	www.grtexch.com
 0.0.0.0	www.guaranteeservice.lat
+0.0.0.0	www.guashastone.com
 0.0.0.0	www.guesstheview.com
 0.0.0.0	www.hai2u.com
 0.0.0.0	www.haikuservices.com
@@ -59810,6 +59811,7 @@
 ::	www.growthbuilder.name
 ::	www.grtexch.com
 ::	www.guaranteeservice.lat
+::	www.guashastone.com
 ::	www.guesstheview.com
 ::	www.hai2u.com
 ::	www.haikuservices.com
