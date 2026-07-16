@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 16 Jul 23:06:04 +03 2026
-# Total number of blocked lines: 61740
+# Ad blocking hosts generated Fri 17 Jul 00:06:04 +03 2026
+# Total number of blocked lines: 61742
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29116,6 +29116,7 @@
 0.0.0.0	www.jiztini.com
 0.0.0.0	www.jizzads.com
 0.0.0.0	www.jnhjf.com
+0.0.0.0	www.joinclap.com
 0.0.0.0	www.joinfx.net
 0.0.0.0	www.joinourwebsite.com
 0.0.0.0	www.jolic2.com
@@ -59985,6 +59986,7 @@
 ::	www.jiztini.com
 ::	www.jizzads.com
 ::	www.jnhjf.com
+::	www.joinclap.com
 ::	www.joinfx.net
 ::	www.joinourwebsite.com
 ::	www.jolic2.com
