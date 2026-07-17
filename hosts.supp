@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 17 Jul 23:06:05 +03 2026
-# Total number of blocked lines: 61736
+# Ad blocking hosts generated Sat 18 Jul 00:06:04 +03 2026
+# Total number of blocked lines: 61740
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28440,6 +28440,7 @@
 0.0.0.0	www.commissionempire.com
 0.0.0.0	www.commission-junction.com
 0.0.0.0	www.commuteinfo.com
+0.0.0.0	www.compacfurniture.com
 0.0.0.0	www.complien.com
 0.0.0.0	www.compufixshop.com
 0.0.0.0	www.computer-offer.com
@@ -28502,6 +28503,7 @@
 0.0.0.0	www.cpalead.com
 0.0.0.0	www.cpatglobal.com
 0.0.0.0	www.cpays.com
+0.0.0.0	www.cpension.com
 0.0.0.0	www.cpm10.com
 0.0.0.0	www.cpmadvisors.com
 0.0.0.0	www.cpmfun.com
@@ -59307,6 +59309,7 @@
 ::	www.commissionempire.com
 ::	www.commission-junction.com
 ::	www.commuteinfo.com
+::	www.compacfurniture.com
 ::	www.complien.com
 ::	www.compufixshop.com
 ::	www.computer-offer.com
@@ -59369,6 +59372,7 @@
 ::	www.cpalead.com
 ::	www.cpatglobal.com
 ::	www.cpays.com
+::	www.cpension.com
 ::	www.cpm10.com
 ::	www.cpmadvisors.com
 ::	www.cpmfun.com
