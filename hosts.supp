@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 17 Jul 14:06:05 +03 2026
-# Total number of blocked lines: 61742
+# Ad blocking hosts generated Fri 17 Jul 15:06:05 +03 2026
+# Total number of blocked lines: 61736
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -10541,6 +10541,7 @@
 0.0.0.0	dolohen.com
 0.0.0.0	domain-control.net
 0.0.0.0	domaine-voyance.fr
+0.0.0.0	domaining.in
 0.0.0.0	domainloading.net
 0.0.0.0	domainpark.sitelutions.com
 0.0.0.0	domainplayersclub.com
@@ -12877,7 +12878,6 @@
 0.0.0.0	gettyimages.122.2o7.net
 0.0.0.0	get.whitesmoke.com
 0.0.0.0	get.x-link.pl
-0.0.0.0	getxmlisi.com
 0.0.0.0	getyour5kcredits0.blogspot.com
 0.0.0.0	getyourgiftnow2.blogspot.com
 0.0.0.0	getyourgiftnow3.blogspot.com
@@ -20707,7 +20707,6 @@
 0.0.0.0	px.splittag.com
 0.0.0.0	px.steelhousemedia.com
 0.0.0.0	px.tvadsync.com
-0.0.0.0	pymx5.com
 0.0.0.0	pythagore.demdex.net
 0.0.0.0	pyxis.iad.appboy.com
 0.0.0.0	q017o-d42by.ads.tremorhub.com
@@ -21765,7 +21764,6 @@
 0.0.0.0	sadc1.outbrain.org
 0.0.0.0	s.adframesrc.com
 0.0.0.0	sadjklq.com
-0.0.0.0	sadloaf.com
 0.0.0.0	s.admathhd.com
 0.0.0.0	s.admulti.com
 0.0.0.0	s.adroll.com
@@ -27236,6 +27234,7 @@
 0.0.0.0	webtj.net
 0.0.0.0	webtracker.apicasystem.com
 0.0.0.0	webtracker.jp
+0.0.0.0	webtrackerplus.com
 0.0.0.0	webtraffic.se
 0.0.0.0	webtrafficsource.com
 0.0.0.0	webtraxx.de
@@ -27277,7 +27276,6 @@
 0.0.0.0	wellnessmonitor.bravehost.com
 0.0.0.0	wellnessnaturopathic.com
 0.0.0.0	weltonline01.webtrekk.net
-0.0.0.0	welved.com
 0.0.0.0	wenda.io
 0.0.0.0	weownthetraffic.com
 0.0.0.0	werbung.meteoxpress.com
@@ -27442,7 +27440,6 @@
 0.0.0.0	wirelessforumsorg.skimlinks.com
 0.0.0.0	wireless.ign.us.intellitxt.com
 0.0.0.0	wirtvlg.oewabox.at
-0.0.0.0	wirypaste.com
 0.0.0.0	wisepops.com
 0.0.0.0	wishdownget.com
 0.0.0.0	wish.securedtouch.com
@@ -41411,6 +41408,7 @@
 ::	dolohen.com
 ::	domain-control.net
 ::	domaine-voyance.fr
+::	domaining.in
 ::	domainloading.net
 ::	domainpark.sitelutions.com
 ::	domainplayersclub.com
@@ -43747,7 +43745,6 @@
 ::	gettyimages.122.2o7.net
 ::	get.whitesmoke.com
 ::	get.x-link.pl
-::	getxmlisi.com
 ::	getyour5kcredits0.blogspot.com
 ::	getyourgiftnow2.blogspot.com
 ::	getyourgiftnow3.blogspot.com
@@ -51577,7 +51574,6 @@
 ::	px.splittag.com
 ::	px.steelhousemedia.com
 ::	px.tvadsync.com
-::	pymx5.com
 ::	pythagore.demdex.net
 ::	pyxis.iad.appboy.com
 ::	q017o-d42by.ads.tremorhub.com
@@ -52635,7 +52631,6 @@
 ::	sadc1.outbrain.org
 ::	s.adframesrc.com
 ::	sadjklq.com
-::	sadloaf.com
 ::	s.admathhd.com
 ::	s.admulti.com
 ::	s.adroll.com
@@ -58106,6 +58101,7 @@
 ::	webtj.net
 ::	webtracker.apicasystem.com
 ::	webtracker.jp
+::	webtrackerplus.com
 ::	webtraffic.se
 ::	webtrafficsource.com
 ::	webtraxx.de
@@ -58147,7 +58143,6 @@
 ::	wellnessmonitor.bravehost.com
 ::	wellnessnaturopathic.com
 ::	weltonline01.webtrekk.net
-::	welved.com
 ::	wenda.io
 ::	weownthetraffic.com
 ::	werbung.meteoxpress.com
@@ -58312,7 +58307,6 @@
 ::	wirelessforumsorg.skimlinks.com
 ::	wireless.ign.us.intellitxt.com
 ::	wirtvlg.oewabox.at
-::	wirypaste.com
 ::	wisepops.com
 ::	wishdownget.com
 ::	wish.securedtouch.com
