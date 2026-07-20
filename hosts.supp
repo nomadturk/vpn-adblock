@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 20 Jul 21:06:04 +03 2026
-# Total number of blocked lines: 61742
+# Ad blocking hosts generated Mon 20 Jul 22:06:05 +03 2026
+# Total number of blocked lines: 61746
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28989,6 +28989,7 @@
 0.0.0.0	www.hits-football.com
 0.0.0.0	www.hitslink.com
 0.0.0.0	www.hitstats.co.uk
+0.0.0.0	www.hoabridal.com
 0.0.0.0	www.hobwelt.com
 0.0.0.0	www.hocxaydung.com
 0.0.0.0	www.holika.com
@@ -29018,6 +29019,7 @@
 0.0.0.0	www.hypercounter.com
 0.0.0.0	www.hypertracker.com
 0.0.0.0	www.hypetrust.com
+0.0.0.0	www.ibenefi.com
 0.0.0.0	www.iboard.com
 0.0.0.0	www.iccee.com
 0.0.0.0	www.icecars.com
@@ -59859,6 +59861,7 @@
 ::	www.hits-football.com
 ::	www.hitslink.com
 ::	www.hitstats.co.uk
+::	www.hoabridal.com
 ::	www.hobwelt.com
 ::	www.hocxaydung.com
 ::	www.holika.com
@@ -59888,6 +59891,7 @@
 ::	www.hypercounter.com
 ::	www.hypertracker.com
 ::	www.hypetrust.com
+::	www.ibenefi.com
 ::	www.iboard.com
 ::	www.iccee.com
 ::	www.icecars.com
