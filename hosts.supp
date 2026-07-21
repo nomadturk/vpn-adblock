@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 21 Jul 11:06:05 +03 2026
-# Total number of blocked lines: 61748
+# Ad blocking hosts generated Tue 21 Jul 12:06:04 +03 2026
+# Total number of blocked lines: 61750
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -27368,6 +27368,7 @@
 0.0.0.0	widgets.outbrain.com
 0.0.0.0	widgets.pinterest.com
 0.0.0.0	widgets.tcimg.com
+0.0.0.0	widgets.teads-xo.com
 0.0.0.0	widget.supercounters.com
 0.0.0.0	widgets.zemanta.com
 0.0.0.0	widget.us.criteo.com
@@ -58241,6 +58242,7 @@
 ::	widgets.outbrain.com
 ::	widgets.pinterest.com
 ::	widgets.tcimg.com
+::	widgets.teads-xo.com
 ::	widget.supercounters.com
 ::	widgets.zemanta.com
 ::	widget.us.criteo.com
