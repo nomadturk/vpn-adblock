@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 22 Jul 23:06:04 +03 2026
-# Total number of blocked lines: 61760
+# Ad blocking hosts generated Thu 23 Jul 00:06:04 +03 2026
+# Total number of blocked lines: 61762
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29722,6 +29722,7 @@
 0.0.0.0	www.quarvions.com
 0.0.0.0	www.quickbrowsersearch.com
 0.0.0.0	www.quintingwatches.com
+0.0.0.0	www.quipla.com
 0.0.0.0	www.rackusread.com
 0.0.0.0	www.radiate.com
 0.0.0.0	www.radiorage.com
@@ -60601,6 +60602,7 @@
 ::	www.quarvions.com
 ::	www.quickbrowsersearch.com
 ::	www.quintingwatches.com
+::	www.quipla.com
 ::	www.rackusread.com
 ::	www.radiate.com
 ::	www.radiorage.com
