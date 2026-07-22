@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 22 Jul 21:06:05 +03 2026
-# Total number of blocked lines: 61756
+# Ad blocking hosts generated Wed 22 Jul 22:06:05 +03 2026
+# Total number of blocked lines: 61760
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28857,6 +28857,7 @@
 0.0.0.0	www.fxcounters.com
 0.0.0.0	www.gadgetbonanzamarket.com
 0.0.0.0	www.gaicodon.com
+0.0.0.0	www.gaiis.com
 0.0.0.0	www.gainwintz.com
 0.0.0.0	www.game-advertising-online.com
 0.0.0.0	www.gamelthae.com
@@ -29034,6 +29035,7 @@
 0.0.0.0	www.idirect.com
 0.0.0.0	www.iejonline.com
 0.0.0.0	www.iepelnazareno.com
+0.0.0.0	www.iesaber.com
 0.0.0.0	www.iesnare.com
 0.0.0.0	www.iesnare.co.uk
 0.0.0.0	www.ifileyou.com
@@ -59734,6 +59736,7 @@
 ::	www.fxcounters.com
 ::	www.gadgetbonanzamarket.com
 ::	www.gaicodon.com
+::	www.gaiis.com
 ::	www.gainwintz.com
 ::	www.game-advertising-online.com
 ::	www.gamelthae.com
@@ -59911,6 +59914,7 @@
 ::	www.idirect.com
 ::	www.iejonline.com
 ::	www.iepelnazareno.com
+::	www.iesaber.com
 ::	www.iesnare.com
 ::	www.iesnare.co.uk
 ::	www.ifileyou.com
