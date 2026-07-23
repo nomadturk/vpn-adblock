@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 23 Jul 23:06:04 +03 2026
-# Total number of blocked lines: 61766
+# Ad blocking hosts generated Fri 24 Jul 00:06:04 +03 2026
+# Total number of blocked lines: 61768
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -9042,6 +9042,7 @@
 0.0.0.0	compass-v2.deliverimp.com
 0.0.0.0	compe-nickel.fr
 0.0.0.0	compilework.com
+0.0.0.0	completelove22.cc
 0.0.0.0	complexcom.skimlinks.com
 0.0.0.0	complex.us.intellitxt.com
 0.0.0.0	compnet.us.intellitxt.com
@@ -39924,6 +39925,7 @@
 ::	compass-v2.deliverimp.com
 ::	compe-nickel.fr
 ::	compilework.com
+::	completelove22.cc
 ::	complexcom.skimlinks.com
 ::	complex.us.intellitxt.com
 ::	compnet.us.intellitxt.com
