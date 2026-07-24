@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 24 Jul 23:06:04 +03 2026
-# Total number of blocked lines: 61758
+# Ad blocking hosts generated Sat 25 Jul 00:06:05 +03 2026
+# Total number of blocked lines: 61760
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28241,6 +28241,7 @@
 0.0.0.0	www.bnmq.com
 0.0.0.0	www.bnnr.nl
 0.0.0.0	www.board-ly.com
+0.0.0.0	www.bocastyle.com
 0.0.0.0	www.bodog.eu
 0.0.0.0	www.bonuxsarrive.com
 0.0.0.0	www.bookstadium.com
@@ -59119,6 +59120,7 @@
 ::	www.bnmq.com
 ::	www.bnnr.nl
 ::	www.board-ly.com
+::	www.bocastyle.com
 ::	www.bodog.eu
 ::	www.bonuxsarrive.com
 ::	www.bookstadium.com
