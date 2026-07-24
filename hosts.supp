@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 24 Jul 21:06:05 +03 2026
-# Total number of blocked lines: 61756
+# Ad blocking hosts generated Fri 24 Jul 22:06:05 +03 2026
+# Total number of blocked lines: 61758
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29791,6 +29791,7 @@
 0.0.0.0	www.roofcoins.com
 0.0.0.0	wwwroot.forent.sk
 0.0.0.0	www.roulettebotplus.com
+0.0.0.0	www.roundtopbooks.com
 0.0.0.0	www.rpepin.plus.com
 0.0.0.0	www.rplconnect.com
 0.0.0.0	www.rsptrack.com
@@ -60668,6 +60669,7 @@
 ::	www.roofcoins.com
 ::	wwwroot.forent.sk
 ::	www.roulettebotplus.com
+::	www.roundtopbooks.com
 ::	www.rpepin.plus.com
 ::	www.rplconnect.com
 ::	www.rsptrack.com
