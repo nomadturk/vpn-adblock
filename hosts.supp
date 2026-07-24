@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 24 Jul 14:06:04 +03 2026
-# Total number of blocked lines: 61768
+# Ad blocking hosts generated Fri 24 Jul 15:06:05 +03 2026
+# Total number of blocked lines: 61756
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -3954,7 +3954,6 @@
 0.0.0.0	advertica-cdn.com
 0.0.0.0	adverticum.com
 0.0.0.0	adverticum.net
-0.0.0.0	advertipros.com
 0.0.0.0	advertise.bingads.microsoft.com
 0.0.0.0	advertise.com
 0.0.0.0	advertiseireland.com
@@ -4204,7 +4203,6 @@
 0.0.0.0	affiliatepro.it
 0.0.0.0	affiliates.allposters.com
 0.0.0.0	affiliates.arvixe.com
-0.0.0.0	affiliates.babylon.com
 0.0.0.0	affiliates.bet-at-home.com
 0.0.0.0	affiliates.bhphotovideo.com
 0.0.0.0	affiliates.eblastengine.com
@@ -13149,7 +13147,6 @@
 0.0.0.0	gotoip55.com
 0.0.0.0	goto-target-com.customtraffic.impactradius.com
 0.0.0.0	goto.trafficmultiplier.com
-0.0.0.0	gotoyahoo.com
 0.0.0.0	gotrack1.es
 0.0.0.0	go.tracksz.co
 0.0.0.0	gotraffic.net
@@ -23429,7 +23426,6 @@
 0.0.0.0	starffa.com
 0.0.0.0	starget.intel.com
 0.0.0.0	star-iptv.fr
-0.0.0.0	starkscale.com
 0.0.0.0	star.pulseonclick.com
 0.0.0.0	starreturned.com
 0.0.0.0	starrynets.com
@@ -26317,7 +26313,6 @@
 0.0.0.0	usermatch.krxd.net
 0.0.0.0	usermatch.targeting.unrulymedia.com
 0.0.0.0	userreplay.com
-0.0.0.0	userreplay.net
 0.0.0.0	userreporting.cloud.unity3d.com
 0.0.0.0	users16.jabry.com
 0.0.0.0	users.api.jeeng.com
@@ -26701,7 +26696,6 @@
 0.0.0.0	videos.fleshlight.com
 0.0.0.0	videoslots.888.com
 0.0.0.0	video.startappservice.com
-0.0.0.0	videostats.kakao.com
 0.0.0.0	video-stats.l.google.com
 0.0.0.0	video-stats.video.google.com
 0.0.0.0	videosvc.ezoic.com
@@ -34837,7 +34831,6 @@
 ::	advertica-cdn.com
 ::	adverticum.com
 ::	adverticum.net
-::	advertipros.com
 ::	advertise.bingads.microsoft.com
 ::	advertise.com
 ::	advertiseireland.com
@@ -35087,7 +35080,6 @@
 ::	affiliatepro.it
 ::	affiliates.allposters.com
 ::	affiliates.arvixe.com
-::	affiliates.babylon.com
 ::	affiliates.bet-at-home.com
 ::	affiliates.bhphotovideo.com
 ::	affiliates.eblastengine.com
@@ -44032,7 +44024,6 @@
 ::	gotoip55.com
 ::	goto-target-com.customtraffic.impactradius.com
 ::	goto.trafficmultiplier.com
-::	gotoyahoo.com
 ::	gotrack1.es
 ::	go.tracksz.co
 ::	gotraffic.net
@@ -54312,7 +54303,6 @@
 ::	starffa.com
 ::	starget.intel.com
 ::	star-iptv.fr
-::	starkscale.com
 ::	star.pulseonclick.com
 ::	starreturned.com
 ::	starrynets.com
@@ -57200,7 +57190,6 @@
 ::	usermatch.krxd.net
 ::	usermatch.targeting.unrulymedia.com
 ::	userreplay.com
-::	userreplay.net
 ::	userreporting.cloud.unity3d.com
 ::	users16.jabry.com
 ::	users.api.jeeng.com
@@ -57584,7 +57573,6 @@
 ::	videos.fleshlight.com
 ::	videoslots.888.com
 ::	video.startappservice.com
-::	videostats.kakao.com
 ::	video-stats.l.google.com
 ::	video-stats.video.google.com
 ::	videosvc.ezoic.com
