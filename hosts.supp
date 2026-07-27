@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 27 Jul 23:06:05 +03 2026
-# Total number of blocked lines: 61764
+# Ad blocking hosts generated Tue 28 Jul 00:06:04 +03 2026
+# Total number of blocked lines: 61766
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -15064,6 +15064,7 @@
 0.0.0.0	johnlewis.112.2o7.net
 0.0.0.0	johnston.grapeshot.co.uk
 0.0.0.0	join1.winhundred.com
+0.0.0.0	joincpd.com
 0.0.0.0	join.pro-gaming-world.com
 0.0.0.0	joomlaworks.fr
 0.0.0.0	joshan.fun
@@ -45945,6 +45946,7 @@
 ::	johnlewis.112.2o7.net
 ::	johnston.grapeshot.co.uk
 ::	join1.winhundred.com
+::	joincpd.com
 ::	join.pro-gaming-world.com
 ::	joomlaworks.fr
 ::	joshan.fun
