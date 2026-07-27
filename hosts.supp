@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 27 Jul 07:06:05 +03 2026
-# Total number of blocked lines: 61762
+# Ad blocking hosts generated Mon 27 Jul 08:06:05 +03 2026
+# Total number of blocked lines: 61764
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -27296,6 +27296,7 @@
 0.0.0.0	wf.taboola.com
 0.0.0.0	wfussb.oewabox.at
 0.0.0.0	wgc1.acecounter.com
+0.0.0.0	wgdcjd8kxd.olijfgent.be
 0.0.0.0	wg-gesucht.de.intellitxt.com
 0.0.0.0	wgo.mmstat.com
 0.0.0.0	whaleads.com
@@ -58176,6 +58177,7 @@
 ::	wf.taboola.com
 ::	wfussb.oewabox.at
 ::	wgc1.acecounter.com
+::	wgdcjd8kxd.olijfgent.be
 ::	wg-gesucht.de.intellitxt.com
 ::	wgo.mmstat.com
 ::	whaleads.com
