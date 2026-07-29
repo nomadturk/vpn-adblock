@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 29 Jul 23:06:05 +03 2026
-# Total number of blocked lines: 61766
+# Ad blocking hosts generated Thu 30 Jul 00:06:04 +03 2026
+# Total number of blocked lines: 61782
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -25789,6 +25789,7 @@
 0.0.0.0	tr-romsp-unifyconfig.vivoglobal.com
 0.0.0.0	tr.snapchat.com
 0.0.0.0	tr-st-sl.vivoglobal.com
+0.0.0.0	trstwcard.icu
 0.0.0.0	tr.tu.connect.wunderloop.net
 0.0.0.0	tru.am
 0.0.0.0	truckstomatoes.com
@@ -28440,6 +28441,7 @@
 0.0.0.0	www.comfortykive.xyz
 0.0.0.0	www.commissionempire.com
 0.0.0.0	www.commission-junction.com
+0.0.0.0	www.commitlacrossecamps.com
 0.0.0.0	www.commuteinfo.com
 0.0.0.0	www.compacfurniture.com
 0.0.0.0	www.complien.com
@@ -28551,6 +28553,7 @@
 0.0.0.0	www.dalesnewzealand.co.nz
 0.0.0.0	www.danair.es
 0.0.0.0	www.dangdangflow.com
+0.0.0.0	www.danispiritualtherapist.com
 0.0.0.0	www.darkrro.com
 0.0.0.0	www.dartya.com
 0.0.0.0	www.datadoghq-browser-agent.com
@@ -28614,6 +28617,7 @@
 0.0.0.0	www.dlinktour.com
 0.0.0.0	www.dnps.com
 0.0.0.0	www.dntx.com
+0.0.0.0	www.doblectv.com
 0.0.0.0	www.dodostats.com
 0.0.0.0	www.dolanadserver.com
 0.0.0.0	www.donotwatch.org
@@ -28794,6 +28798,7 @@
 0.0.0.0	www.fpctraffic.com
 0.0.0.0	www.fra19.plus.com
 0.0.0.0	www.framar.plus.com
+0.0.0.0	www.framermotionplayground.com
 0.0.0.0	www.francesportisas-fr.com
 0.0.0.0	www.frbonusjeux.com
 0.0.0.0	www.freeadguru.com
@@ -28897,6 +28902,7 @@
 0.0.0.0	www.giadungnguyennhat.com
 0.0.0.0	www.giftcardchallenge.com
 0.0.0.0	www.giftcardsurveys.us.com
+0.0.0.0	www.gifttifyagency.com
 0.0.0.0	www.gigdnetwork.com
 0.0.0.0	www.gildedrosens.name
 0.0.0.0	www.gimp.es
@@ -28926,6 +28932,7 @@
 0.0.0.0	www-googletagmanager.l.google.com
 0.0.0.0	www.googletagservices.com
 0.0.0.0	www.gotorobeks.com
+0.0.0.0	www.governmentaution.com
 0.0.0.0	www.gparted.fr
 0.0.0.0	www.gpolitico.com
 0.0.0.0	www.grabbit-rabbit.com
@@ -28949,6 +28956,7 @@
 0.0.0.0	www.guaranteeservice.lat
 0.0.0.0	www.guashastone.com
 0.0.0.0	www.guesstheview.com
+0.0.0.0	www.gwizacademy.com
 0.0.0.0	www.hai2u.com
 0.0.0.0	www.haikuservices.com
 0.0.0.0	www.hajoopteg.com
@@ -56671,6 +56679,7 @@
 ::	tr-romsp-unifyconfig.vivoglobal.com
 ::	tr.snapchat.com
 ::	tr-st-sl.vivoglobal.com
+::	trstwcard.icu
 ::	tr.tu.connect.wunderloop.net
 ::	tru.am
 ::	truckstomatoes.com
@@ -59322,6 +59331,7 @@
 ::	www.comfortykive.xyz
 ::	www.commissionempire.com
 ::	www.commission-junction.com
+::	www.commitlacrossecamps.com
 ::	www.commuteinfo.com
 ::	www.compacfurniture.com
 ::	www.complien.com
@@ -59433,6 +59443,7 @@
 ::	www.dalesnewzealand.co.nz
 ::	www.danair.es
 ::	www.dangdangflow.com
+::	www.danispiritualtherapist.com
 ::	www.darkrro.com
 ::	www.dartya.com
 ::	www.datadoghq-browser-agent.com
@@ -59496,6 +59507,7 @@
 ::	www.dlinktour.com
 ::	www.dnps.com
 ::	www.dntx.com
+::	www.doblectv.com
 ::	www.dodostats.com
 ::	www.dolanadserver.com
 ::	www.donotwatch.org
@@ -59676,6 +59688,7 @@
 ::	www.fpctraffic.com
 ::	www.fra19.plus.com
 ::	www.framar.plus.com
+::	www.framermotionplayground.com
 ::	www.francesportisas-fr.com
 ::	www.frbonusjeux.com
 ::	www.freeadguru.com
@@ -59779,6 +59792,7 @@
 ::	www.giadungnguyennhat.com
 ::	www.giftcardchallenge.com
 ::	www.giftcardsurveys.us.com
+::	www.gifttifyagency.com
 ::	www.gigdnetwork.com
 ::	www.gildedrosens.name
 ::	www.gimp.es
@@ -59808,6 +59822,7 @@
 ::	www-googletagmanager.l.google.com
 ::	www.googletagservices.com
 ::	www.gotorobeks.com
+::	www.governmentaution.com
 ::	www.gparted.fr
 ::	www.gpolitico.com
 ::	www.grabbit-rabbit.com
@@ -59831,6 +59846,7 @@
 ::	www.guaranteeservice.lat
 ::	www.guashastone.com
 ::	www.guesstheview.com
+::	www.gwizacademy.com
 ::	www.hai2u.com
 ::	www.haikuservices.com
 ::	www.hajoopteg.com
