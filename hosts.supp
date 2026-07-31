@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 31 Jul 14:06:05 +03 2026
-# Total number of blocked lines: 61782
+# Ad blocking hosts generated Fri 31 Jul 15:06:05 +03 2026
+# Total number of blocked lines: 61784
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -8592,6 +8592,7 @@
 0.0.0.0	clicks.virtuaguyhd.com
 0.0.0.0	clicks.walla.co.il
 0.0.0.0	clicks.zwaar.org
+0.0.0.0	clicktag.de
 0.0.0.0	clickthru.net
 0.0.0.0	clickthruserver.com
 0.0.0.0	clickthrutraffic.com
@@ -20084,7 +20085,6 @@
 0.0.0.0	popunder.loading-delivery1.com
 0.0.0.0	popunder.net
 0.0.0.0	popunder.paypopup.com
-0.0.0.0	popunder.ru
 0.0.0.0	popunhot1.blogspot.com
 0.0.0.0	popupclick.ru
 0.0.0.0	popupdomination.com
@@ -21161,6 +21161,7 @@
 0.0.0.0	remodelingonlinecom.112.2o7.net
 0.0.0.0	remote-data.asnapieu.com
 0.0.0.0	remote-data.urbanairship.com
+0.0.0.0	remox.com
 0.0.0.0	rem.rezonmedia.eu
 0.0.0.0	renacious.nwwadq.cn
 0.0.0.0	rencontreavenue.com
@@ -39482,6 +39483,7 @@
 ::	clicks.virtuaguyhd.com
 ::	clicks.walla.co.il
 ::	clicks.zwaar.org
+::	clicktag.de
 ::	clickthru.net
 ::	clickthruserver.com
 ::	clickthrutraffic.com
@@ -50974,7 +50976,6 @@
 ::	popunder.loading-delivery1.com
 ::	popunder.net
 ::	popunder.paypopup.com
-::	popunder.ru
 ::	popunhot1.blogspot.com
 ::	popupclick.ru
 ::	popupdomination.com
@@ -52051,6 +52052,7 @@
 ::	remodelingonlinecom.112.2o7.net
 ::	remote-data.asnapieu.com
 ::	remote-data.urbanairship.com
+::	remox.com
 ::	rem.rezonmedia.eu
 ::	renacious.nwwadq.cn
 ::	rencontreavenue.com
