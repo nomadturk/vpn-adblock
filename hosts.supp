@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue  4 Aug 00:06:05 +03 2026
-# Total number of blocked lines: 61798
+# Ad blocking hosts generated Tue  4 Aug 01:06:04 +03 2026
+# Total number of blocked lines: 61806
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -30013,6 +30013,7 @@
 0.0.0.0	www.steelbucks.com
 0.0.0.0	www.steepto.com
 0.0.0.0	www.stellarium.fr
+0.0.0.0	www.stelop.com
 0.0.0.0	www.stickylogic.com
 0.0.0.0	www.stiffnetwork.com
 0.0.0.0	www.stihil.com
@@ -30051,6 +30052,7 @@
 0.0.0.0	www.surplus-suppliers.com
 0.0.0.0	www.surveynetworks.com
 0.0.0.0	www.surveysite.com
+0.0.0.0	www.susanhaggarphotography.com
 0.0.0.0	www.svipfulishipin.com
 0.0.0.0	www.swallowwire.sa.com
 0.0.0.0	www.swanksoft.com
@@ -30285,6 +30287,7 @@
 0.0.0.0	www.virtualsurfer.com
 0.0.0.0	www.virtumundo.com
 0.0.0.0	www.visariomedia.com
+0.0.0.0	www.visitigangels.com
 0.0.0.0	www.visitor-track.com
 0.0.0.0	www.visitortracklog.com
 0.0.0.0	www.visualwebsiteoptimizer.com
@@ -30424,6 +30427,7 @@
 0.0.0.0	www.yceml.net
 0.0.0.0	www.yellowquartzkr.name
 0.0.0.0	www.yendermsoul.com
+0.0.0.0	www.yesyouvan.com
 0.0.0.0	www.yidsense.com
 0.0.0.0	www.yieldmanager.net
 0.0.0.0	www.yieldpartners.com
@@ -60911,6 +60915,7 @@
 ::	www.steelbucks.com
 ::	www.steepto.com
 ::	www.stellarium.fr
+::	www.stelop.com
 ::	www.stickylogic.com
 ::	www.stiffnetwork.com
 ::	www.stihil.com
@@ -60949,6 +60954,7 @@
 ::	www.surplus-suppliers.com
 ::	www.surveynetworks.com
 ::	www.surveysite.com
+::	www.susanhaggarphotography.com
 ::	www.svipfulishipin.com
 ::	www.swallowwire.sa.com
 ::	www.swanksoft.com
@@ -61183,6 +61189,7 @@
 ::	www.virtualsurfer.com
 ::	www.virtumundo.com
 ::	www.visariomedia.com
+::	www.visitigangels.com
 ::	www.visitor-track.com
 ::	www.visitortracklog.com
 ::	www.visualwebsiteoptimizer.com
@@ -61322,6 +61329,7 @@
 ::	www.yceml.net
 ::	www.yellowquartzkr.name
 ::	www.yendermsoul.com
+::	www.yesyouvan.com
 ::	www.yidsense.com
 ::	www.yieldmanager.net
 ::	www.yieldpartners.com
