@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon  3 Aug 20:06:04 +03 2026
-# Total number of blocked lines: 61796
+# Ad blocking hosts generated Mon  3 Aug 21:06:04 +03 2026
+# Total number of blocked lines: 61798
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29905,6 +29905,7 @@
 0.0.0.0	www.shopvisitors.com
 0.0.0.0	www.shorthouse.com
 0.0.0.0	www.showcaserealestate.net
+0.0.0.0	www.shrimahaveercollege.com
 0.0.0.0	www.sidneyman.com
 0.0.0.0	www.silcom.com
 0.0.0.0	www.silebah.com
@@ -60802,6 +60803,7 @@
 ::	www.shopvisitors.com
 ::	www.shorthouse.com
 ::	www.showcaserealestate.net
+::	www.shrimahaveercollege.com
 ::	www.sidneyman.com
 ::	www.silcom.com
 ::	www.silebah.com
