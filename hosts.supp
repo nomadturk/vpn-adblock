@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon  3 Aug 15:06:04 +03 2026
-# Total number of blocked lines: 61788
+# Ad blocking hosts generated Mon  3 Aug 16:06:05 +03 2026
+# Total number of blocked lines: 61796
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -4714,6 +4714,7 @@
 0.0.0.0	analytics-tcp.mintegral.net
 0.0.0.0	analytics.tdameritrade.com
 0.0.0.0	analytics.tebilisim.com
+0.0.0.0	analytics.tempy.email
 0.0.0.0	analytics.theknot.com
 0.0.0.0	analytics.thenest.com
 0.0.0.0	analytics.tiktok.com
@@ -9732,6 +9733,7 @@
 0.0.0.0	ct.pinterest.com
 0.0.0.0	ctrack.trafficjunky.net
 0.0.0.0	ctrck.com
+0.0.0.0	c.trkn.it
 0.0.0.0	c.tr.msn.com
 0.0.0.0	cts.w55c.net
 0.0.0.0	cttracking08.com
@@ -13766,6 +13768,7 @@
 0.0.0.0	hommetendance.fr
 0.0.0.0	hondaturkey.api.useinsider.com
 0.0.0.0	honeyburn.za.com
+0.0.0.0	honeybutterbliss.com
 0.0.0.0	hongkiat.us.intellitxt.com
 0.0.0.0	h.online-metrix.net
 0.0.0.0	honolulu.app.ur.gcion.com
@@ -20002,6 +20005,7 @@
 0.0.0.0	pocofh.com
 0.0.0.0	poconorecordcom.112.2o7.net
 0.0.0.0	pocoty.fr
+0.0.0.0	pocustrack.com
 0.0.0.0	pod.infinitypersonals.com
 0.0.0.0	pod.manplay.com
 0.0.0.0	pod.sexsearch.com
@@ -35607,6 +35611,7 @@
 ::	analytics-tcp.mintegral.net
 ::	analytics.tdameritrade.com
 ::	analytics.tebilisim.com
+::	analytics.tempy.email
 ::	analytics.theknot.com
 ::	analytics.thenest.com
 ::	analytics.tiktok.com
@@ -40625,6 +40630,7 @@
 ::	ct.pinterest.com
 ::	ctrack.trafficjunky.net
 ::	ctrck.com
+::	c.trkn.it
 ::	c.tr.msn.com
 ::	cts.w55c.net
 ::	cttracking08.com
@@ -44659,6 +44665,7 @@
 ::	hommetendance.fr
 ::	hondaturkey.api.useinsider.com
 ::	honeyburn.za.com
+::	honeybutterbliss.com
 ::	hongkiat.us.intellitxt.com
 ::	h.online-metrix.net
 ::	honolulu.app.ur.gcion.com
@@ -50895,6 +50902,7 @@
 ::	pocofh.com
 ::	poconorecordcom.112.2o7.net
 ::	pocoty.fr
+::	pocustrack.com
 ::	pod.infinitypersonals.com
 ::	pod.manplay.com
 ::	pod.sexsearch.com
