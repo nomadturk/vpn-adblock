@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue  4 Aug 12:06:04 +03 2026
-# Total number of blocked lines: 61806
+# Ad blocking hosts generated Tue  4 Aug 13:06:04 +03 2026
+# Total number of blocked lines: 61808
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -4493,6 +4493,7 @@
 0.0.0.0	ambien.4.p2l.info
 0.0.0.0	ambien.ourtablets.com
 0.0.0.0	amch.questionmarket.com
+0.0.0.0	amcnreil.pro
 0.0.0.0	amdvtest.112.2o7.net
 0.0.0.0	amdzone.us.intellitxt.com
 0.0.0.0	amer.hhkld.com
@@ -35395,6 +35396,7 @@
 ::	ambien.4.p2l.info
 ::	ambien.ourtablets.com
 ::	amch.questionmarket.com
+::	amcnreil.pro
 ::	amdvtest.112.2o7.net
 ::	amdzone.us.intellitxt.com
 ::	amer.hhkld.com
