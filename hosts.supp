@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed  5 Aug 21:06:04 +03 2026
-# Total number of blocked lines: 61814
+# Ad blocking hosts generated Wed  5 Aug 22:06:04 +03 2026
+# Total number of blocked lines: 61816
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28689,6 +28689,7 @@
 0.0.0.0	www.emailspend.com
 0.0.0.0	www.emarketmakers.com
 0.0.0.0	www.emjcd.com
+0.0.0.0	www.emprenderimportaperu.com
 0.0.0.0	www.energiazoque.com
 0.0.0.0	www.enhance.com
 0.0.0.0	www.entercasino.com
@@ -59595,6 +59596,7 @@
 ::	www.emailspend.com
 ::	www.emarketmakers.com
 ::	www.emjcd.com
+::	www.emprenderimportaperu.com
 ::	www.energiazoque.com
 ::	www.enhance.com
 ::	www.entercasino.com
