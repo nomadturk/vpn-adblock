@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed  5 Aug 05:06:04 +03 2026
-# Total number of blocked lines: 61810
+# Ad blocking hosts generated Wed  5 Aug 06:06:04 +03 2026
+# Total number of blocked lines: 61812
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28114,6 +28114,7 @@
 0.0.0.0	www.aramcom.space
 0.0.0.0	www.area043.com
 0.0.0.0	www.arfrepuestos.com
+0.0.0.0	www.argesmedia.com
 0.0.0.0	www.ariboo.com
 0.0.0.0	www.arknasasbluecross.com
 0.0.0.0	www.artcomix.com
@@ -59018,6 +59019,7 @@
 ::	www.aramcom.space
 ::	www.area043.com
 ::	www.arfrepuestos.com
+::	www.argesmedia.com
 ::	www.ariboo.com
 ::	www.arknasasbluecross.com
 ::	www.artcomix.com
