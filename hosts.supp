@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu  6 Aug 23:06:04 +03 2026
-# Total number of blocked lines: 61824
+# Ad blocking hosts generated Fri  7 Aug 00:06:04 +03 2026
+# Total number of blocked lines: 61828
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29211,6 +29211,7 @@
 0.0.0.0	www.lacocinany.com
 0.0.0.0	www.ladyclicks.ru
 0.0.0.0	www.lahoreautismcentre.com
+0.0.0.0	www.lamaisonhind.com
 0.0.0.0	www.lanaita.com
 0.0.0.0	www.langleyantiques.com
 0.0.0.0	www.lansrv050.com
@@ -29315,6 +29316,7 @@
 0.0.0.0	www.markethelper.name
 0.0.0.0	www.marketinghwy.com
 0.0.0.0	www.marketrip.co
+0.0.0.0	www.massagetherapybyjuli.com
 0.0.0.0	www.masterspace.biz
 0.0.0.0	www.match3quests.com
 0.0.0.0	www.matifi.com
@@ -60122,6 +60124,7 @@
 ::	www.lacocinany.com
 ::	www.ladyclicks.ru
 ::	www.lahoreautismcentre.com
+::	www.lamaisonhind.com
 ::	www.lanaita.com
 ::	www.langleyantiques.com
 ::	www.lansrv050.com
@@ -60226,6 +60229,7 @@
 ::	www.markethelper.name
 ::	www.marketinghwy.com
 ::	www.marketrip.co
+::	www.massagetherapybyjuli.com
 ::	www.masterspace.biz
 ::	www.match3quests.com
 ::	www.matifi.com
