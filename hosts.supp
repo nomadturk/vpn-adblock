@@ -1,5 +1,5 @@
 #<local-data>
-# Ad blocking hosts generated Fri  7 Aug 13:06:05 +03 2026
+# Ad blocking hosts generated Fri  7 Aug 14:06:05 +03 2026
 # Total number of blocked lines: 61828
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
@@ -3956,6 +3956,7 @@
 0.0.0.0	advertica-cdn.com
 0.0.0.0	adverticum.com
 0.0.0.0	adverticum.net
+0.0.0.0	advertipros.com
 0.0.0.0	advertise.bingads.microsoft.com
 0.0.0.0	advertise.com
 0.0.0.0	advertiseireland.com
@@ -14440,7 +14441,6 @@
 0.0.0.0	impression-east.liftoff.io
 0.0.0.0	impression-europe.liftoff.io
 0.0.0.0	impression.link
-0.0.0.0	impressionmedia.cz
 0.0.0.0	impressionmonster.com
 0.0.0.0	impressions.crossinstall.io
 0.0.0.0	imp.rfp.fout.jp
@@ -15832,7 +15832,6 @@
 0.0.0.0	link4win.net
 0.0.0.0	link.axios.com
 0.0.0.0	link.beelivery.com
-0.0.0.0	link-booster.de
 0.0.0.0	linkbuddies.com
 0.0.0.0	linkconnector.com
 0.0.0.0	linkcounter.com
@@ -20494,6 +20493,7 @@
 0.0.0.0	prpops.com
 0.0.0.0	pr.realvu.net
 0.0.0.0	prscripts.com
+0.0.0.0	prsitecheck.com
 0.0.0.0	pr-star.de
 0.0.0.0	prstats.postrelease.com
 0.0.0.0	prt-stsdk.vivo.com.cn
@@ -21169,7 +21169,6 @@
 0.0.0.0	remodelingonlinecom.112.2o7.net
 0.0.0.0	remote-data.asnapieu.com
 0.0.0.0	remote-data.urbanairship.com
-0.0.0.0	remox.com
 0.0.0.0	rem.rezonmedia.eu
 0.0.0.0	renacious.nwwadq.cn
 0.0.0.0	rencontreavenue.com
@@ -21773,6 +21772,7 @@
 0.0.0.0	sadc1.outbrain.org
 0.0.0.0	s.adframesrc.com
 0.0.0.0	sadjklq.com
+0.0.0.0	sadloaf.com
 0.0.0.0	s.admathhd.com
 0.0.0.0	s.admulti.com
 0.0.0.0	s.adroll.com
@@ -34869,6 +34869,7 @@
 ::	advertica-cdn.com
 ::	adverticum.com
 ::	adverticum.net
+::	advertipros.com
 ::	advertise.bingads.microsoft.com
 ::	advertise.com
 ::	advertiseireland.com
@@ -45353,7 +45354,6 @@
 ::	impression-east.liftoff.io
 ::	impression-europe.liftoff.io
 ::	impression.link
-::	impressionmedia.cz
 ::	impressionmonster.com
 ::	impressions.crossinstall.io
 ::	imp.rfp.fout.jp
@@ -46745,7 +46745,6 @@
 ::	link4win.net
 ::	link.axios.com
 ::	link.beelivery.com
-::	link-booster.de
 ::	linkbuddies.com
 ::	linkconnector.com
 ::	linkcounter.com
@@ -51407,6 +51406,7 @@
 ::	prpops.com
 ::	pr.realvu.net
 ::	prscripts.com
+::	prsitecheck.com
 ::	pr-star.de
 ::	prstats.postrelease.com
 ::	prt-stsdk.vivo.com.cn
@@ -52082,7 +52082,6 @@
 ::	remodelingonlinecom.112.2o7.net
 ::	remote-data.asnapieu.com
 ::	remote-data.urbanairship.com
-::	remox.com
 ::	rem.rezonmedia.eu
 ::	renacious.nwwadq.cn
 ::	rencontreavenue.com
@@ -52686,6 +52685,7 @@
 ::	sadc1.outbrain.org
 ::	s.adframesrc.com
 ::	sadjklq.com
+::	sadloaf.com
 ::	s.admathhd.com
 ::	s.admulti.com
 ::	s.adroll.com
