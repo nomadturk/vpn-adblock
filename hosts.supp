@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri  7 Aug 23:06:05 +03 2026
-# Total number of blocked lines: 61828
+# Ad blocking hosts generated Sat  8 Aug 00:06:05 +03 2026
+# Total number of blocked lines: 61830
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -24999,6 +24999,7 @@
 0.0.0.0	tls.telemetry.swe.quicinc.com
 0.0.0.0	tlvmedia.com
 0.0.0.0	tlx.3lift.com
+0.0.0.0	t.marketing.goindigo.in
 0.0.0.0	tm.br.de
 0.0.0.0	t.mdn2015x2.com
 0.0.0.0	t.mdn2015x3.com
@@ -55912,6 +55913,7 @@
 ::	tls.telemetry.swe.quicinc.com
 ::	tlvmedia.com
 ::	tlx.3lift.com
+::	t.marketing.goindigo.in
 ::	tm.br.de
 ::	t.mdn2015x2.com
 ::	t.mdn2015x3.com
