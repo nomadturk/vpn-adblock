@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat  8 Aug 13:06:05 +03 2026
-# Total number of blocked lines: 61830
+# Ad blocking hosts generated Sat  8 Aug 14:06:05 +03 2026
+# Total number of blocked lines: 61834
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -4536,6 +4536,7 @@
 0.0.0.0	amp.permutive.com
 0.0.0.0	amp.rd.linksynergy.com
 0.0.0.0	amprtc.media.net
+0.0.0.0	ampscamp.net
 0.0.0.0	amrytt.adk2x.com
 0.0.0.0	ams1-ib.adnxs.com
 0.0.0.0	ams1.ib.adnxs.com
@@ -20627,6 +20628,7 @@
 0.0.0.0	pulkauaiworld.112.2o7.net
 0.0.0.0	pullipstyle.fr
 0.0.0.0	pulpantagraph.112.2o7.net
+0.0.0.0	pulse.genki.world
 0.0.0.0	pulse.inmobi.com
 0.0.0.0	pulsepoint-match.dotomi.com
 0.0.0.0	pulsix.com
@@ -35450,6 +35452,7 @@
 ::	amp.permutive.com
 ::	amp.rd.linksynergy.com
 ::	amprtc.media.net
+::	ampscamp.net
 ::	amrytt.adk2x.com
 ::	ams1-ib.adnxs.com
 ::	ams1.ib.adnxs.com
@@ -51541,6 +51544,7 @@
 ::	pulkauaiworld.112.2o7.net
 ::	pullipstyle.fr
 ::	pulpantagraph.112.2o7.net
+::	pulse.genki.world
 ::	pulse.inmobi.com
 ::	pulsepoint-match.dotomi.com
 ::	pulsix.com
