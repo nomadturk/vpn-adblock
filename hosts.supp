@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 10 Aug 23:06:05 +03 2026
-# Total number of blocked lines: 61838
+# Ad blocking hosts generated Tue 11 Aug 00:06:04 +03 2026
+# Total number of blocked lines: 61842
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29613,6 +29613,7 @@
 0.0.0.0	www.peakclick.com
 0.0.0.0	www.pearlyappss.pro
 0.0.0.0	www.pedigree1.plus.com
+0.0.0.0	www.pelistvseries.com
 0.0.0.0	www.peopleesbancorp.com
 0.0.0.0	www.pepernity.com
 0.0.0.0	www.pepipo.com
@@ -29687,6 +29688,7 @@
 0.0.0.0	www.poukladanyswiat.com
 0.0.0.0	www.powerlinks.com
 0.0.0.0	www.ppoi.org
+0.0.0.0	www.prabvisa.com
 0.0.0.0	www.praktijkmariekehuisman.nl
 0.0.0.0	www.prdirectory.biz
 0.0.0.0	www.preciousdoctor.pro
@@ -60531,6 +60533,7 @@
 ::	www.peakclick.com
 ::	www.pearlyappss.pro
 ::	www.pedigree1.plus.com
+::	www.pelistvseries.com
 ::	www.peopleesbancorp.com
 ::	www.pepernity.com
 ::	www.pepipo.com
@@ -60605,6 +60608,7 @@
 ::	www.poukladanyswiat.com
 ::	www.powerlinks.com
 ::	www.ppoi.org
+::	www.prabvisa.com
 ::	www.praktijkmariekehuisman.nl
 ::	www.prdirectory.biz
 ::	www.preciousdoctor.pro
