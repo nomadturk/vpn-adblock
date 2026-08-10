@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 10 Aug 17:06:04 +03 2026
-# Total number of blocked lines: 61836
+# Ad blocking hosts generated Mon 10 Aug 18:06:04 +03 2026
+# Total number of blocked lines: 61838
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -21630,6 +21630,7 @@
 0.0.0.0	rules.aatkit.com
 0.0.0.0	rules.quantcount.com
 0.0.0.0	rules.securestudies.com
+0.0.0.0	rum.aliyuncs.com
 0.0.0.0	rum.browser-intake-datadoghq.com
 0.0.0.0	rumcdn.geoedge.be
 0.0.0.0	rum-collector-2.pingdom.net
@@ -52547,6 +52548,7 @@
 ::	rules.aatkit.com
 ::	rules.quantcount.com
 ::	rules.securestudies.com
+::	rum.aliyuncs.com
 ::	rum.browser-intake-datadoghq.com
 ::	rumcdn.geoedge.be
 ::	rum-collector-2.pingdom.net
