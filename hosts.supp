@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 11 Aug 15:06:05 +03 2026
-# Total number of blocked lines: 61842
+# Ad blocking hosts generated Tue 11 Aug 16:06:06 +03 2026
+# Total number of blocked lines: 61844
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -7506,6 +7506,7 @@
 0.0.0.0	cat.da.us.criteo.com
 0.0.0.0	c.atdmt.com
 0.0.0.0	cat.fr.eu.criteo.com
+0.0.0.0	catfront.dianping.com
 0.0.0.0	cat.hbwrapper.com
 0.0.0.0	c.at.msn.com
 0.0.0.0	cat.onlinepeople.net
@@ -38426,6 +38427,7 @@
 ::	cat.da.us.criteo.com
 ::	c.atdmt.com
 ::	cat.fr.eu.criteo.com
+::	catfront.dianping.com
 ::	cat.hbwrapper.com
 ::	c.at.msn.com
 ::	cat.onlinepeople.net
