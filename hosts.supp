@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 11 Aug 22:06:04 +03 2026
-# Total number of blocked lines: 61850
+# Ad blocking hosts generated Tue 11 Aug 23:06:05 +03 2026
+# Total number of blocked lines: 61856
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29951,10 +29951,12 @@
 0.0.0.0	www.skegness.net
 0.0.0.0	www.skibidihotel.com
 0.0.0.0	www.skillmatchgame.com
+0.0.0.0	www.skincareds.com
 0.0.0.0	www.skvarsani.plus.com
 0.0.0.0	www.sky-net.or.jp
 0.0.0.0	www.skyonlinegratis.com
 0.0.0.0	www.skywin.com.tw
+0.0.0.0	www.slawdhaka.com
 0.0.0.0	www.slidingdoorlocks.com
 0.0.0.0	www.smailes.plus.com
 0.0.0.0	www.smartadserver.com
@@ -29969,6 +29971,7 @@
 0.0.0.0	www.smokyshadecj.name
 0.0.0.0	www.smsmovies.net
 0.0.0.0	www.smspop.com
+0.0.0.0	www.smtnaraynicollege.com
 0.0.0.0	www.snkido.com
 0.0.0.0	www.snowhandball.com
 0.0.0.0	www.snugbirdjq.blog
@@ -60875,10 +60878,12 @@
 ::	www.skegness.net
 ::	www.skibidihotel.com
 ::	www.skillmatchgame.com
+::	www.skincareds.com
 ::	www.skvarsani.plus.com
 ::	www.sky-net.or.jp
 ::	www.skyonlinegratis.com
 ::	www.skywin.com.tw
+::	www.slawdhaka.com
 ::	www.slidingdoorlocks.com
 ::	www.smailes.plus.com
 ::	www.smartadserver.com
@@ -60893,6 +60898,7 @@
 ::	www.smokyshadecj.name
 ::	www.smsmovies.net
 ::	www.smspop.com
+::	www.smtnaraynicollege.com
 ::	www.snkido.com
 ::	www.snowhandball.com
 ::	www.snugbirdjq.blog
