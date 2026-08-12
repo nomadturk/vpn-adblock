@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 12 Aug 15:06:04 +03 2026
-# Total number of blocked lines: 61858
+# Ad blocking hosts generated Wed 12 Aug 16:06:05 +03 2026
+# Total number of blocked lines: 61862
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -10038,6 +10038,7 @@
 0.0.0.0	data.flurry.com
 0.0.0.0	data-formula.com
 0.0.0.0	data.gosquared.com
+0.0.0.0	data.hailuo.ai
 0.0.0.0	data.iappmobi.com
 0.0.0.0	data-id.ads.oppomobile.com
 0.0.0.0	dataidea.it
@@ -21641,6 +21642,7 @@
 0.0.0.0	rumds.wpdigital.net
 0.0.0.0	rum-http-intake.logs.datadoghq.com
 0.0.0.0	rum-http-intake.logs.datadoghq.eu
+0.0.0.0	rum-openway.guance.com
 0.0.0.0	rumorfix.us.intellitxt.com
 0.0.0.0	rum-static.pingdom.net
 0.0.0.0	rum.uptime.com
@@ -40966,6 +40968,7 @@
 ::	data.flurry.com
 ::	data-formula.com
 ::	data.gosquared.com
+::	data.hailuo.ai
 ::	data.iappmobi.com
 ::	data-id.ads.oppomobile.com
 ::	dataidea.it
@@ -52569,6 +52572,7 @@
 ::	rumds.wpdigital.net
 ::	rum-http-intake.logs.datadoghq.com
 ::	rum-http-intake.logs.datadoghq.eu
+::	rum-openway.guance.com
 ::	rumorfix.us.intellitxt.com
 ::	rum-static.pingdom.net
 ::	rum.uptime.com
