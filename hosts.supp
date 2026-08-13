@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 13 Aug 20:06:13 +03 2026
-# Total number of blocked lines: 48122
+# Ad blocking hosts generated Thu 13 Aug 21:06:16 +03 2026
+# Total number of blocked lines: 48124
 0.0.0.0	00000.uno
 0.0.0.0	006.free-counter.co.uk
 0.0.0.0	006.freecounters.co.uk
@@ -21890,6 +21890,7 @@
 0.0.0.0	www.assistdocklane.uk
 0.0.0.0	www.atightschedule.com
 0.0.0.0	www.atlantis-asia.com
+0.0.0.0	www.atoztechnotricks.com
 0.0.0.0	www.atpanel.com
 0.0.0.0	www.audacity.es
 0.0.0.0	www.audacity.fr
@@ -45950,6 +45951,7 @@
 ::	www.assistdocklane.uk
 ::	www.atightschedule.com
 ::	www.atlantis-asia.com
+::	www.atoztechnotricks.com
 ::	www.atpanel.com
 ::	www.audacity.es
 ::	www.audacity.fr
