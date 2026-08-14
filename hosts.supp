@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 14 Aug 12:06:05 +03 2026
-# Total number of blocked lines: 61884
+# Ad blocking hosts generated Fri 14 Aug 13:06:05 +03 2026
+# Total number of blocked lines: 61886
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -14569,6 +14569,7 @@
 0.0.0.0	ingameads.gameloft.com
 0.0.0.0	ing-district.clicktale.net
 0.0.0.0	ingedus.fr
+0.0.0.0	ingest.in.signoz.cloud
 0.0.0.0	ingest.m2appmonitor.com
 0.0.0.0	in.getclicky.com
 0.0.0.0	in-gmtdmp.mookie1.com
@@ -45510,6 +45511,7 @@
 ::	ingameads.gameloft.com
 ::	ing-district.clicktale.net
 ::	ingedus.fr
+::	ingest.in.signoz.cloud
 ::	ingest.m2appmonitor.com
 ::	in.getclicky.com
 ::	in-gmtdmp.mookie1.com
