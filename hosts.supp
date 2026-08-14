@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 14 Aug 14:06:05 +03 2026
-# Total number of blocked lines: 61886
+# Ad blocking hosts generated Fri 14 Aug 15:06:05 +03 2026
+# Total number of blocked lines: 61874
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -1369,7 +1369,6 @@
 0.0.0.0	ad.cgi.cz
 0.0.0.0	ad.ch.doubleclick.net
 0.0.0.0	adchimp.com
-0.0.0.0	ad.choiceradio.com
 0.0.0.0	ad.cibleclick.com
 0.0.0.0	ad.cl.doubleclick.net
 0.0.0.0	adclick.com
@@ -2330,7 +2329,6 @@
 0.0.0.0	ads.b10f.jp
 0.0.0.0	ads-b-480313385.us-west-1.elb.amazonaws.com
 0.0.0.0	ads.baazee.com
-0.0.0.0	ads-backend.chaincliq.com
 0.0.0.0	ads.bangkokpost.co.th
 0.0.0.0	ads.bauerpublishing.com
 0.0.0.0	ads.bb59.ru
@@ -2578,7 +2576,6 @@
 0.0.0.0	ad.sensismediasmart.com.au
 0.0.0.0	ads.epi.sk
 0.0.0.0	ads.e-planning.net
-0.0.0.0	ads.epltalk.com
 0.0.0.0	ads.eqads.com
 0.0.0.0	ads.ere.net
 0.0.0.0	ads.ero-advertising.com
@@ -3927,7 +3924,6 @@
 0.0.0.0	advancelocal.blueconic.net
 0.0.0.0	advangelists.com
 0.0.0.0	adv.aport.ru
-0.0.0.0	advariant.com
 0.0.0.0	adv.bbanner.it
 0.0.0.0	adv.blogupp.com
 0.0.0.0	adv.consadbg.com
@@ -4494,7 +4490,6 @@
 0.0.0.0	ambien.4.p2l.info
 0.0.0.0	ambien.ourtablets.com
 0.0.0.0	amch.questionmarket.com
-0.0.0.0	amcnreil.pro
 0.0.0.0	amdvtest.112.2o7.net
 0.0.0.0	amdzone.us.intellitxt.com
 0.0.0.0	amer.hhkld.com
@@ -12594,7 +12589,6 @@
 0.0.0.0	gagy.fr
 0.0.0.0	gahu.hit.gemius.pl
 0.0.0.0	gaiaherbs.fr
-0.0.0.0	galaxien.com
 0.0.0.0	gallys.nastydollars.com
 0.0.0.0	gallysorig.nastydollars.com
 0.0.0.0	gam.adnxs.com
@@ -14445,6 +14439,7 @@
 0.0.0.0	impression-east.liftoff.io
 0.0.0.0	impression-europe.liftoff.io
 0.0.0.0	impression.link
+0.0.0.0	impressionmedia.cz
 0.0.0.0	impressionmonster.com
 0.0.0.0	impressions.crossinstall.io
 0.0.0.0	imp.rfp.fout.jp
@@ -20991,7 +20986,6 @@
 0.0.0.0	recommendedforyou.xyz
 0.0.0.0	recommender.scarabresearch.com
 0.0.0.0	recommends.media.net
-0.0.0.0	reconditerake.com
 0.0.0.0	record.affiliatelounge.com
 0.0.0.0	record.bonniergaming.com
 0.0.0.0	record.commissionlounge.com
@@ -32311,7 +32305,6 @@
 ::	ad.cgi.cz
 ::	ad.ch.doubleclick.net
 ::	adchimp.com
-::	ad.choiceradio.com
 ::	ad.cibleclick.com
 ::	ad.cl.doubleclick.net
 ::	adclick.com
@@ -33272,7 +33265,6 @@
 ::	ads.b10f.jp
 ::	ads-b-480313385.us-west-1.elb.amazonaws.com
 ::	ads.baazee.com
-::	ads-backend.chaincliq.com
 ::	ads.bangkokpost.co.th
 ::	ads.bauerpublishing.com
 ::	ads.bb59.ru
@@ -33520,7 +33512,6 @@
 ::	ad.sensismediasmart.com.au
 ::	ads.epi.sk
 ::	ads.e-planning.net
-::	ads.epltalk.com
 ::	ads.eqads.com
 ::	ads.ere.net
 ::	ads.ero-advertising.com
@@ -34869,7 +34860,6 @@
 ::	advancelocal.blueconic.net
 ::	advangelists.com
 ::	adv.aport.ru
-::	advariant.com
 ::	adv.bbanner.it
 ::	adv.blogupp.com
 ::	adv.consadbg.com
@@ -35436,7 +35426,6 @@
 ::	ambien.4.p2l.info
 ::	ambien.ourtablets.com
 ::	amch.questionmarket.com
-::	amcnreil.pro
 ::	amdvtest.112.2o7.net
 ::	amdzone.us.intellitxt.com
 ::	amer.hhkld.com
@@ -43536,7 +43525,6 @@
 ::	gagy.fr
 ::	gahu.hit.gemius.pl
 ::	gaiaherbs.fr
-::	galaxien.com
 ::	gallys.nastydollars.com
 ::	gallysorig.nastydollars.com
 ::	gam.adnxs.com
@@ -45387,6 +45375,7 @@
 ::	impression-east.liftoff.io
 ::	impression-europe.liftoff.io
 ::	impression.link
+::	impressionmedia.cz
 ::	impressionmonster.com
 ::	impressions.crossinstall.io
 ::	imp.rfp.fout.jp
@@ -51933,7 +51922,6 @@
 ::	recommendedforyou.xyz
 ::	recommender.scarabresearch.com
 ::	recommends.media.net
-::	reconditerake.com
 ::	record.affiliatelounge.com
 ::	record.bonniergaming.com
 ::	record.commissionlounge.com
