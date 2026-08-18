@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 18 Aug 20:06:05 +03 2026
-# Total number of blocked lines: 61886
+# Ad blocking hosts generated Tue 18 Aug 21:06:05 +03 2026
+# Total number of blocked lines: 61888
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29496,6 +29496,7 @@
 0.0.0.0	www.neptuneads.com
 0.0.0.0	www.neszmely.eu
 0.0.0.0	www.netmaxx.com
+0.0.0.0	www.netnaiga.com
 0.0.0.0	www.netpoll.nl
 0.0.0.0	www.new2crypto.com
 0.0.0.0	www.newclick.com
@@ -60438,6 +60439,7 @@
 ::	www.neptuneads.com
 ::	www.neszmely.eu
 ::	www.netmaxx.com
+::	www.netnaiga.com
 ::	www.netpoll.nl
 ::	www.new2crypto.com
 ::	www.newclick.com
