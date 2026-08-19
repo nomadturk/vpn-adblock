@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 19 Aug 22:06:05 +03 2026
-# Total number of blocked lines: 61894
+# Ad blocking hosts generated Wed 19 Aug 23:06:04 +03 2026
+# Total number of blocked lines: 61896
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29774,6 +29774,7 @@
 0.0.0.0	www.quartersnorth.lat
 0.0.0.0	www.quarvions.com
 0.0.0.0	www.quickbrowsersearch.com
+0.0.0.0	www.quintaalegrealgarve.com
 0.0.0.0	www.quintingwatches.com
 0.0.0.0	www.quipla.com
 0.0.0.0	www.rackusread.com
@@ -60720,6 +60721,7 @@
 ::	www.quartersnorth.lat
 ::	www.quarvions.com
 ::	www.quickbrowsersearch.com
+::	www.quintaalegrealgarve.com
 ::	www.quintingwatches.com
 ::	www.quipla.com
 ::	www.rackusread.com
