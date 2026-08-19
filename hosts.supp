@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 19 Aug 20:06:05 +03 2026
-# Total number of blocked lines: 61892
+# Ad blocking hosts generated Wed 19 Aug 21:06:05 +03 2026
+# Total number of blocked lines: 61894
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29610,6 +29610,7 @@
 0.0.0.0	www.parejaamateur.com
 0.0.0.0	www.parkingcrew.net
 0.0.0.0	www.parsads.com
+0.0.0.0	www.partilla.com
 0.0.0.0	www.partner-ads.com
 0.0.0.0	www.partsttown.com
 0.0.0.0	www.partycasino.com
@@ -60555,6 +60556,7 @@
 ::	www.parejaamateur.com
 ::	www.parkingcrew.net
 ::	www.parsads.com
+::	www.partilla.com
 ::	www.partner-ads.com
 ::	www.partsttown.com
 ::	www.partycasino.com
