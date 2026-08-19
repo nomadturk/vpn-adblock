@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 19 Aug 02:06:04 +03 2026
-# Total number of blocked lines: 61890
+# Ad blocking hosts generated Wed 19 Aug 03:06:05 +03 2026
+# Total number of blocked lines: 61892
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29549,6 +29549,7 @@
 0.0.0.0	www.odyssey.on.ca
 0.0.0.0	www.offerx.co.uk
 0.0.0.0	www.officerreport.com
+0.0.0.0	www.ofimaniaweb.com
 0.0.0.0	www.ogopond.com
 0.0.0.0	www.oilbasics.com
 0.0.0.0	www.oix.com
@@ -60493,6 +60494,7 @@
 ::	www.odyssey.on.ca
 ::	www.offerx.co.uk
 ::	www.officerreport.com
+::	www.ofimaniaweb.com
 ::	www.ogopond.com
 ::	www.oilbasics.com
 ::	www.oix.com
