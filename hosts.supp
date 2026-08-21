@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 21 Aug 04:06:05 +03 2026
-# Total number of blocked lines: 61900
+# Ad blocking hosts generated Fri 21 Aug 05:06:05 +03 2026
+# Total number of blocked lines: 61906
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29652,6 +29652,7 @@
 0.0.0.0	www.pfsim.com
 0.0.0.0	www.phantomluck.com
 0.0.0.0	www.phoenixads.co.in
+0.0.0.0	www.phonecex.com
 0.0.0.0	www.phonejapan.com
 0.0.0.0	www.phonenumberbook.com
 0.0.0.0	www.phorm.com
@@ -29689,6 +29690,7 @@
 0.0.0.0	www.ponhap.com
 0.0.0.0	www.popadvert.com
 0.0.0.0	www.poponclick.com
+0.0.0.0	www.popshopeu.com
 0.0.0.0	www.popunder.com
 0.0.0.0	www.popupad.net
 0.0.0.0	www.popupdomination.com
@@ -29901,6 +29903,7 @@
 0.0.0.0	www.securepaths.com
 0.0.0.0	www.secure-processingcenter.com
 0.0.0.0	www.securerunner.com
+0.0.0.0	www.securitymeyrics.com
 0.0.0.0	www.securityplusproducts.com
 0.0.0.0	www.securityscan.us
 0.0.0.0	www.sedoparking.com
@@ -60601,6 +60604,7 @@
 ::	www.pfsim.com
 ::	www.phantomluck.com
 ::	www.phoenixads.co.in
+::	www.phonecex.com
 ::	www.phonejapan.com
 ::	www.phonenumberbook.com
 ::	www.phorm.com
@@ -60638,6 +60642,7 @@
 ::	www.ponhap.com
 ::	www.popadvert.com
 ::	www.poponclick.com
+::	www.popshopeu.com
 ::	www.popunder.com
 ::	www.popupad.net
 ::	www.popupdomination.com
@@ -60850,6 +60855,7 @@
 ::	www.securepaths.com
 ::	www.secure-processingcenter.com
 ::	www.securerunner.com
+::	www.securitymeyrics.com
 ::	www.securityplusproducts.com
 ::	www.securityscan.us
 ::	www.sedoparking.com
