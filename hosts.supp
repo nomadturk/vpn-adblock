@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 21 Aug 14:06:04 +03 2026
-# Total number of blocked lines: 61906
+# Ad blocking hosts generated Fri 21 Aug 15:06:05 +03 2026
+# Total number of blocked lines: 61894
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -864,7 +864,6 @@
 0.0.0.0	abscbn.spinbox.net
 0.0.0.0	abseckw.adtlgc.com
 0.0.0.0	abshop.fr
-0.0.0.0	absolutering.com
 0.0.0.0	absolutewrite.fr
 0.0.0.0	absorbingband.com
 0.0.0.0	abs.proxistore.com
@@ -2012,7 +2011,6 @@
 0.0.0.0	ads16.advance.net
 0.0.0.0	ads16.focalink.com
 0.0.0.0	ads17.focalink.com
-0.0.0.0	ads180.com
 0.0.0.0	ads18.console.adtarget.com.tr
 0.0.0.0	ads18.focalink.com
 0.0.0.0	ads19.focalink.com
@@ -2576,6 +2574,7 @@
 0.0.0.0	ad.sensismediasmart.com.au
 0.0.0.0	ads.epi.sk
 0.0.0.0	ads.e-planning.net
+0.0.0.0	ads.epltalk.com
 0.0.0.0	ads.eqads.com
 0.0.0.0	ads.ere.net
 0.0.0.0	ads.ero-advertising.com
@@ -3924,6 +3923,7 @@
 0.0.0.0	advancelocal.blueconic.net
 0.0.0.0	advangelists.com
 0.0.0.0	adv.aport.ru
+0.0.0.0	advariant.com
 0.0.0.0	adv.bbanner.it
 0.0.0.0	adv.blogupp.com
 0.0.0.0	adv.consadbg.com
@@ -6311,7 +6311,6 @@
 0.0.0.0	baskettexture.com
 0.0.0.0	baskidunyasi.net
 0.0.0.0	bastardly.us.intellitxt.com
-0.0.0.0	bastingart.com
 0.0.0.0	bat.bing.com
 0.0.0.0	batch.upsight-api.com
 0.0.0.0	batmobil.net
@@ -6635,7 +6634,6 @@
 0.0.0.0	bigreal.org
 0.0.0.0	bigrourg.net
 0.0.0.0	bigseatsout.net
-0.0.0.0	bigworldfashion.com
 0.0.0.0	bikeforumsnet.skimlinks.com
 0.0.0.0	bilbob.com
 0.0.0.0	bild.de.intellitxt.com
@@ -12590,6 +12588,7 @@
 0.0.0.0	gagy.fr
 0.0.0.0	gahu.hit.gemius.pl
 0.0.0.0	gaiaherbs.fr
+0.0.0.0	galaxien.com
 0.0.0.0	gallys.nastydollars.com
 0.0.0.0	gallysorig.nastydollars.com
 0.0.0.0	gam.adnxs.com
@@ -14975,7 +14974,6 @@
 0.0.0.0	jetem.fr
 0.0.0.0	jeu-jeux.fr
 0.0.0.0	jeupicard.fr
-0.0.0.0	jewelrysprings.com
 0.0.0.0	jf71qh5v14.com
 0.0.0.0	j.flxpxl.com
 0.0.0.0	jf.revolvermaps.com
@@ -15319,7 +15317,6 @@
 0.0.0.0	kelder.nl
 0.0.0.0	kelleybluebook.112.2o7.net
 0.0.0.0	kergaukr.com
-0.0.0.0	kernellife.com
 0.0.0.0	kevlaardiet.fr
 0.0.0.0	keybinary.com
 0.0.0.0	keys.dmtracker.com
@@ -19033,7 +19030,6 @@
 0.0.0.0	optimost.com
 0.0.0.0	option9.adultfriendfinder.com
 0.0.0.0	optionmodifycanitem.info
-0.0.0.0	optionsnomad.com
 0.0.0.0	optionstoreplace.com
 0.0.0.0	optmd.com
 0.0.0.0	optmnstr.com
@@ -19329,7 +19325,6 @@
 0.0.0.0	partner.ceneo.pl
 0.0.0.0	partnerearning.com
 0.0.0.0	partner.googleadservices.com
-0.0.0.0	partnerhut.com
 0.0.0.0	partner.knorex.com
 0.0.0.0	partnerlinks.io
 0.0.0.0	partner.magna.ru
@@ -21172,6 +21167,7 @@
 0.0.0.0	remodelingonlinecom.112.2o7.net
 0.0.0.0	remote-data.asnapieu.com
 0.0.0.0	remote-data.urbanairship.com
+0.0.0.0	remox.com
 0.0.0.0	rem.rezonmedia.eu
 0.0.0.0	renacious.nwwadq.cn
 0.0.0.0	rencontreavenue.com
@@ -21394,7 +21390,6 @@
 0.0.0.0	rnews.focus-news.net
 0.0.0.0	ro2.biz
 0.0.0.0	ro55cpi1.xhamster.com
-0.0.0.0	roaddynamics.com
 0.0.0.0	roadwide.net
 0.0.0.0	roar.com
 0.0.0.0	robbiblubber.org
@@ -27557,7 +27552,6 @@
 0.0.0.0	wrating.com
 0.0.0.0	wrestling-edge.us.intellitxt.com
 0.0.0.0	wrigley.122.2o7.net
-0.0.0.0	writerhubs.com
 0.0.0.0	write.trackonomics.net
 0.0.0.0	wrontonshatbona.pro
 0.0.0.0	ws017.coin-hive.com
@@ -31816,7 +31810,6 @@
 ::	abscbn.spinbox.net
 ::	abseckw.adtlgc.com
 ::	abshop.fr
-::	absolutering.com
 ::	absolutewrite.fr
 ::	absorbingband.com
 ::	abs.proxistore.com
@@ -32964,7 +32957,6 @@
 ::	ads16.advance.net
 ::	ads16.focalink.com
 ::	ads17.focalink.com
-::	ads180.com
 ::	ads18.console.adtarget.com.tr
 ::	ads18.focalink.com
 ::	ads19.focalink.com
@@ -33528,6 +33520,7 @@
 ::	ad.sensismediasmart.com.au
 ::	ads.epi.sk
 ::	ads.e-planning.net
+::	ads.epltalk.com
 ::	ads.eqads.com
 ::	ads.ere.net
 ::	ads.ero-advertising.com
@@ -34876,6 +34869,7 @@
 ::	advancelocal.blueconic.net
 ::	advangelists.com
 ::	adv.aport.ru
+::	advariant.com
 ::	adv.bbanner.it
 ::	adv.blogupp.com
 ::	adv.consadbg.com
@@ -37263,7 +37257,6 @@
 ::	baskettexture.com
 ::	baskidunyasi.net
 ::	bastardly.us.intellitxt.com
-::	bastingart.com
 ::	bat.bing.com
 ::	batch.upsight-api.com
 ::	batmobil.net
@@ -37587,7 +37580,6 @@
 ::	bigreal.org
 ::	bigrourg.net
 ::	bigseatsout.net
-::	bigworldfashion.com
 ::	bikeforumsnet.skimlinks.com
 ::	bilbob.com
 ::	bild.de.intellitxt.com
@@ -43542,6 +43534,7 @@
 ::	gagy.fr
 ::	gahu.hit.gemius.pl
 ::	gaiaherbs.fr
+::	galaxien.com
 ::	gallys.nastydollars.com
 ::	gallysorig.nastydollars.com
 ::	gam.adnxs.com
@@ -45927,7 +45920,6 @@
 ::	jetem.fr
 ::	jeu-jeux.fr
 ::	jeupicard.fr
-::	jewelrysprings.com
 ::	jf71qh5v14.com
 ::	j.flxpxl.com
 ::	jf.revolvermaps.com
@@ -46271,7 +46263,6 @@
 ::	kelder.nl
 ::	kelleybluebook.112.2o7.net
 ::	kergaukr.com
-::	kernellife.com
 ::	kevlaardiet.fr
 ::	keybinary.com
 ::	keys.dmtracker.com
@@ -49985,7 +49976,6 @@
 ::	optimost.com
 ::	option9.adultfriendfinder.com
 ::	optionmodifycanitem.info
-::	optionsnomad.com
 ::	optionstoreplace.com
 ::	optmd.com
 ::	optmnstr.com
@@ -50281,7 +50271,6 @@
 ::	partner.ceneo.pl
 ::	partnerearning.com
 ::	partner.googleadservices.com
-::	partnerhut.com
 ::	partner.knorex.com
 ::	partnerlinks.io
 ::	partner.magna.ru
@@ -52124,6 +52113,7 @@
 ::	remodelingonlinecom.112.2o7.net
 ::	remote-data.asnapieu.com
 ::	remote-data.urbanairship.com
+::	remox.com
 ::	rem.rezonmedia.eu
 ::	renacious.nwwadq.cn
 ::	rencontreavenue.com
@@ -52346,7 +52336,6 @@
 ::	rnews.focus-news.net
 ::	ro2.biz
 ::	ro55cpi1.xhamster.com
-::	roaddynamics.com
 ::	roadwide.net
 ::	roar.com
 ::	robbiblubber.org
@@ -58509,7 +58498,6 @@
 ::	wrating.com
 ::	wrestling-edge.us.intellitxt.com
 ::	wrigley.122.2o7.net
-::	writerhubs.com
 ::	write.trackonomics.net
 ::	wrontonshatbona.pro
 ::	ws017.coin-hive.com
