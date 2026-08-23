@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sun 23 Aug 13:06:05 +03 2026
-# Total number of blocked lines: 61908
+# Ad blocking hosts generated Sun 23 Aug 14:06:05 +03 2026
+# Total number of blocked lines: 61910
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -12009,6 +12009,7 @@
 0.0.0.0	fatpop.net
 0.0.0.0	faultycanvas.com
 0.0.0.0	fave.co
+0.0.0.0	faxcoupons.com
 0.0.0.0	fb-accounts.com
 0.0.0.0	fb.cashtraffic.com
 0.0.0.0	fbd.de
@@ -42962,6 +42963,7 @@
 ::	fatpop.net
 ::	faultycanvas.com
 ::	fave.co
+::	faxcoupons.com
 ::	fb-accounts.com
 ::	fb.cashtraffic.com
 ::	fbd.de
