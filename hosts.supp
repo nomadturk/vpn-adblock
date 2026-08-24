@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 24 Aug 21:06:05 +03 2026
-# Total number of blocked lines: 61912
+# Ad blocking hosts generated Mon 24 Aug 22:06:05 +03 2026
+# Total number of blocked lines: 61914
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28781,6 +28781,7 @@
 0.0.0.0	www.ficken-xxx.cxa.de
 0.0.0.0	www.filezilla.fr
 0.0.0.0	www.finance-offer.com
+0.0.0.0	www.financevd.com
 0.0.0.0	www.findalgorithm.com
 0.0.0.0	www.findalign.com
 0.0.0.0	www.findlobster.com
@@ -59736,6 +59737,7 @@
 ::	www.ficken-xxx.cxa.de
 ::	www.filezilla.fr
 ::	www.finance-offer.com
+::	www.financevd.com
 ::	www.findalgorithm.com
 ::	www.findalign.com
 ::	www.findlobster.com
