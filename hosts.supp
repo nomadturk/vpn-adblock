@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 25 Aug 21:06:05 +03 2026
-# Total number of blocked lines: 61920
+# Ad blocking hosts generated Tue 25 Aug 22:06:05 +03 2026
+# Total number of blocked lines: 61922
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29289,6 +29289,7 @@
 0.0.0.0	www.linkwithin.com
 0.0.0.0	www.linkworth.com
 0.0.0.0	www.liqwid.net
+0.0.0.0	www.listadegames.com
 0.0.0.0	www.littledevildoubt.com
 0.0.0.0	www.little-help.com
 0.0.0.0	www.liveadclicks.com
@@ -60248,6 +60249,7 @@
 ::	www.linkwithin.com
 ::	www.linkworth.com
 ::	www.liqwid.net
+::	www.listadegames.com
 ::	www.littledevildoubt.com
 ::	www.little-help.com
 ::	www.liveadclicks.com
