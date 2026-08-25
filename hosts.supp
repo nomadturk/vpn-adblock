@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 25 Aug 19:06:04 +03 2026
-# Total number of blocked lines: 61916
+# Ad blocking hosts generated Tue 25 Aug 20:06:05 +03 2026
+# Total number of blocked lines: 61920
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -10637,6 +10637,7 @@
 0.0.0.0	dra.amazon-adsystem.com
 0.0.0.0	draco-artgallery.wz.cz
 0.0.0.0	dragonbats.com
+0.0.0.0	dragonfly-express.duckdns.org
 0.0.0.0	dramatic-challenge.com
 0.0.0.0	dr.api.useinsider.com
 0.0.0.0	drdobbs.us.intellitxt.com
@@ -29458,6 +29459,7 @@
 0.0.0.0	www.mylike.co.uk
 0.0.0.0	www.mylottoadserv.com
 0.0.0.0	www.mylovecards.com
+0.0.0.0	www.mynepalshop.com
 0.0.0.0	www.mypagerank.net
 0.0.0.0	www.my-rewardsvault.com
 0.0.0.0	www.myroitracking.com
@@ -41594,6 +41596,7 @@
 ::	dra.amazon-adsystem.com
 ::	draco-artgallery.wz.cz
 ::	dragonbats.com
+::	dragonfly-express.duckdns.org
 ::	dramatic-challenge.com
 ::	dr.api.useinsider.com
 ::	drdobbs.us.intellitxt.com
@@ -60415,6 +60418,7 @@
 ::	www.mylike.co.uk
 ::	www.mylottoadserv.com
 ::	www.mylovecards.com
+::	www.mynepalshop.com
 ::	www.mypagerank.net
 ::	www.my-rewardsvault.com
 ::	www.myroitracking.com
