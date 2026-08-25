@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 25 Aug 10:06:05 +03 2026
-# Total number of blocked lines: 61914
+# Ad blocking hosts generated Tue 25 Aug 11:06:05 +03 2026
+# Total number of blocked lines: 61916
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -6341,6 +6341,7 @@
 0.0.0.0	bb.crwdcntrl.net
 0.0.0.0	bbelements.com
 0.0.0.0	bbg.d1.sc.omtrdc.net
+0.0.0.0	bbm-ad-stack-production.up.railway.app
 0.0.0.0	bbnaut.bbelements.com
 0.0.0.0	bbnaut.ibillboard.com
 0.0.0.0	bbn.img.com.ua
@@ -37297,6 +37298,7 @@
 ::	bb.crwdcntrl.net
 ::	bbelements.com
 ::	bbg.d1.sc.omtrdc.net
+::	bbm-ad-stack-production.up.railway.app
 ::	bbnaut.bbelements.com
 ::	bbnaut.ibillboard.com
 ::	bbn.img.com.ua
