@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 27 Aug 01:06:04 +03 2026
-# Total number of blocked lines: 61928
+# Ad blocking hosts generated Thu 27 Aug 02:06:05 +03 2026
+# Total number of blocked lines: 61930
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -30252,6 +30252,7 @@
 0.0.0.0	www.transcet.com
 0.0.0.0	www.tranzit124.cz
 0.0.0.0	www.traveladvertising.com
+0.0.0.0	www.travelrushzone.com
 0.0.0.0	www.trc.taboola.com
 0.0.0.0	www.treeloot.com
 0.0.0.0	www.trendcounter.com
@@ -61215,6 +61216,7 @@
 ::	www.transcet.com
 ::	www.tranzit124.cz
 ::	www.traveladvertising.com
+::	www.travelrushzone.com
 ::	www.trc.taboola.com
 ::	www.treeloot.com
 ::	www.trendcounter.com
