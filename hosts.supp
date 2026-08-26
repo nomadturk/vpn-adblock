@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 26 Aug 20:06:05 +03 2026
-# Total number of blocked lines: 61926
+# Ad blocking hosts generated Wed 26 Aug 21:06:05 +03 2026
+# Total number of blocked lines: 61928
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -2353,6 +2353,7 @@
 0.0.0.0	ads.bigchurch.com
 0.0.0.0	ads.bigfoot.com
 0.0.0.0	ads.biggerboat.com
+0.0.0.0	adsbigo.com
 0.0.0.0	ads.bigrebelads.com
 0.0.0.0	ads-bilek.com
 0.0.0.0	ads.bing.com
@@ -33315,6 +33316,7 @@
 ::	ads.bigchurch.com
 ::	ads.bigfoot.com
 ::	ads.biggerboat.com
+::	adsbigo.com
 ::	ads.bigrebelads.com
 ::	ads-bilek.com
 ::	ads.bing.com
