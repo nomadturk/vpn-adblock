@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 27 Aug 21:06:05 +03 2026
-# Total number of blocked lines: 61930
+# Ad blocking hosts generated Thu 27 Aug 22:06:05 +03 2026
+# Total number of blocked lines: 61932
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -30144,6 +30144,7 @@
 0.0.0.0	www.teresinaapartment.com
 0.0.0.0	www.terraclicks.com
 0.0.0.0	www.terrapops.com
+0.0.0.0	www.texasmyxoomenergy.com
 0.0.0.0	www.textbanners.net
 0.0.0.0	www.textdynamics.com
 0.0.0.0	www.text-link-ads.com
@@ -61108,6 +61109,7 @@
 ::	www.teresinaapartment.com
 ::	www.terraclicks.com
 ::	www.terrapops.com
+::	www.texasmyxoomenergy.com
 ::	www.textbanners.net
 ::	www.textdynamics.com
 ::	www.text-link-ads.com
