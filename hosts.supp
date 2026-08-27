@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 27 Aug 23:06:05 +03 2026
-# Total number of blocked lines: 61932
+# Ad blocking hosts generated Fri 28 Aug 00:06:05 +03 2026
+# Total number of blocked lines: 61944
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28159,6 +28159,7 @@
 0.0.0.0	www.automotive-offer.com
 0.0.0.0	www.auto-runmz.com
 0.0.0.0	www.autosurfpro.com
+0.0.0.0	www.autotra.com
 0.0.0.0	www.availablefiles.com
 0.0.0.0	www.avantlink.com
 0.0.0.0	www.avemoo.com
@@ -28374,6 +28375,7 @@
 0.0.0.0	www.cbeckads.com
 0.0.0.0	www.cbproads.com
 0.0.0.0	www.ccmiocw.com
+0.0.0.0	www.cdinstagram.com
 0.0.0.0	www.cdn4ads.com
 0.0.0.0	www.cdn.ad.xiaomi.com
 0.0.0.0	www.cdn.taboola.com
@@ -28704,6 +28706,7 @@
 0.0.0.0	www.eliteconcepts.com
 0.0.0.0	www.eljaleomedellin.com
 0.0.0.0	www.ellads.com
+0.0.0.0	www.ellesalonhb.com
 0.0.0.0	www.emadesign.net
 0.0.0.0	www.emailspend.com
 0.0.0.0	www.emarketmakers.com
@@ -29297,6 +29300,7 @@
 0.0.0.0	www.liveadexchanger.com
 0.0.0.0	www.liveorigamirisk.com
 0.0.0.0	www.livestat.com
+0.0.0.0	www.livetickettv.com
 0.0.0.0	www.loading-delivery2.com
 0.0.0.0	www.loansfield.com
 0.0.0.0	www.loboclick.com
@@ -30184,6 +30188,7 @@
 0.0.0.0	www.thisplanet.net
 0.0.0.0	www.thruport.com
 0.0.0.0	www.thunderbird.es
+0.0.0.0	www.ticketspiket.com
 0.0.0.0	www.timelyworks.com
 0.0.0.0	www.tinbuadserv.com
 0.0.0.0	www.tinkfrog.com
@@ -30292,6 +30297,7 @@
 0.0.0.0	www.u1trkqf.com
 0.0.0.0	www.ugdturner.com
 0.0.0.0	www.ukbanners.com
+0.0.0.0	www.ultimarerewards.com
 0.0.0.0	www.ultimatecounter.com
 0.0.0.0	www.ultimatetopsites.com
 0.0.0.0	www.ultratemps.com
@@ -59124,6 +59130,7 @@
 ::	www.automotive-offer.com
 ::	www.auto-runmz.com
 ::	www.autosurfpro.com
+::	www.autotra.com
 ::	www.availablefiles.com
 ::	www.avantlink.com
 ::	www.avemoo.com
@@ -59339,6 +59346,7 @@
 ::	www.cbeckads.com
 ::	www.cbproads.com
 ::	www.ccmiocw.com
+::	www.cdinstagram.com
 ::	www.cdn4ads.com
 ::	www.cdn.ad.xiaomi.com
 ::	www.cdn.taboola.com
@@ -59669,6 +59677,7 @@
 ::	www.eliteconcepts.com
 ::	www.eljaleomedellin.com
 ::	www.ellads.com
+::	www.ellesalonhb.com
 ::	www.emadesign.net
 ::	www.emailspend.com
 ::	www.emarketmakers.com
@@ -60262,6 +60271,7 @@
 ::	www.liveadexchanger.com
 ::	www.liveorigamirisk.com
 ::	www.livestat.com
+::	www.livetickettv.com
 ::	www.loading-delivery2.com
 ::	www.loansfield.com
 ::	www.loboclick.com
@@ -61149,6 +61159,7 @@
 ::	www.thisplanet.net
 ::	www.thruport.com
 ::	www.thunderbird.es
+::	www.ticketspiket.com
 ::	www.timelyworks.com
 ::	www.tinbuadserv.com
 ::	www.tinkfrog.com
@@ -61257,6 +61268,7 @@
 ::	www.u1trkqf.com
 ::	www.ugdturner.com
 ::	www.ukbanners.com
+::	www.ultimarerewards.com
 ::	www.ultimatecounter.com
 ::	www.ultimatetopsites.com
 ::	www.ultratemps.com
