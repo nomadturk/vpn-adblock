@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 28 Aug 20:06:05 +03 2026
-# Total number of blocked lines: 61944
+# Ad blocking hosts generated Fri 28 Aug 21:06:05 +03 2026
+# Total number of blocked lines: 61946
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -20716,6 +20716,7 @@
 0.0.0.0	pxl.jivox.com
 0.0.0.0	pxl-mailtracker.com
 0.0.0.0	px.moatads.com
+0.0.0.0	px.mountain.com
 0.0.0.0	px.owneriq.net
 0.0.0.0	px.quantserve.com
 0.0.0.0	px.splittag.com
@@ -51687,6 +51688,7 @@
 ::	pxl.jivox.com
 ::	pxl-mailtracker.com
 ::	px.moatads.com
+::	px.mountain.com
 ::	px.owneriq.net
 ::	px.quantserve.com
 ::	px.splittag.com
