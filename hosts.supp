@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 28 Aug 22:06:05 +03 2026
-# Total number of blocked lines: 61946
+# Ad blocking hosts generated Fri 28 Aug 23:06:04 +03 2026
+# Total number of blocked lines: 61948
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -23690,6 +23690,7 @@
 0.0.0.0	statistiq.com
 0.0.0.0	stat.it168.com
 0.0.0.0	stat.komoona.com
+0.0.0.0	stat.lianmeng.360.cn
 0.0.0.0	statm.the-adult-company.com
 0.0.0.0	stat.netmonitor.fi
 0.0.0.0	stat.onestat.com
@@ -54662,6 +54663,7 @@
 ::	statistiq.com
 ::	stat.it168.com
 ::	stat.komoona.com
+::	stat.lianmeng.360.cn
 ::	statm.the-adult-company.com
 ::	stat.netmonitor.fi
 ::	stat.onestat.com
