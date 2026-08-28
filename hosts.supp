@@ -1,5 +1,5 @@
 #<local-data>
-# Ad blocking hosts generated Fri 28 Aug 14:06:05 +03 2026
+# Ad blocking hosts generated Fri 28 Aug 15:06:05 +03 2026
 # Total number of blocked lines: 61946
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
@@ -425,7 +425,6 @@
 0.0.0.0	4wmp.nuggad.net
 0.0.0.0	4w-wrestling.us.intellitxt.com
 0.0.0.0	506.xg4ken.com
-0.0.0.0	50websads.com
 0.0.0.0	510002161.collect.igodigital.com
 0.0.0.0	518ad.com
 0.0.0.0	51af72.r.axf8.net
@@ -2013,6 +2012,7 @@
 0.0.0.0	ads16.advance.net
 0.0.0.0	ads16.focalink.com
 0.0.0.0	ads17.focalink.com
+0.0.0.0	ads180.com
 0.0.0.0	ads18.console.adtarget.com.tr
 0.0.0.0	ads18.focalink.com
 0.0.0.0	ads19.focalink.com
@@ -31397,7 +31397,6 @@
 ::	4wmp.nuggad.net
 ::	4w-wrestling.us.intellitxt.com
 ::	506.xg4ken.com
-::	50websads.com
 ::	510002161.collect.igodigital.com
 ::	518ad.com
 ::	51af72.r.axf8.net
@@ -32985,6 +32984,7 @@
 ::	ads16.advance.net
 ::	ads16.focalink.com
 ::	ads17.focalink.com
+::	ads180.com
 ::	ads18.console.adtarget.com.tr
 ::	ads18.focalink.com
 ::	ads19.focalink.com
