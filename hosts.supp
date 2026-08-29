@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat 29 Aug 11:06:04 +03 2026
-# Total number of blocked lines: 61950
+# Ad blocking hosts generated Sat 29 Aug 12:06:05 +03 2026
+# Total number of blocked lines: 61956
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -5907,6 +5907,7 @@
 0.0.0.0	a.vertamedia.com
 0.0.0.0	a.vfghd.com
 0.0.0.0	a.vfgtb.com
+0.0.0.0	a.vfgth.com
 0.0.0.0	avgtechnologies.112.2o7.net
 0.0.0.0	avhtaapxml.com
 0.0.0.0	avidnewssource.com
@@ -22076,6 +22077,7 @@
 0.0.0.0	s.di.com.pl
 0.0.0.0	sd.iperceptions.com
 0.0.0.0	sdk-02.moengage.com
+0.0.0.0	sdk.51.la
 0.0.0.0	sdk6.ibm.xtify.com
 0.0.0.0	sdk8.ibm.xtify.com
 0.0.0.0	sdk.adotmob.com
@@ -25035,6 +25037,7 @@
 0.0.0.0	t.myvisualiq.net
 0.0.0.0	tmz.us.intellitxt.com
 0.0.0.0	tn.5.p2l.info
+0.0.0.0	t.nc0.co
 0.0.0.0	tnc16-alisg.byteoversea.com
 0.0.0.0	tnc16-alisg.isnssdk.com
 0.0.0.0	tnc16-useast1a.byteoversea.com
@@ -36881,6 +36884,7 @@
 ::	a.vertamedia.com
 ::	a.vfghd.com
 ::	a.vfgtb.com
+::	a.vfgth.com
 ::	avgtechnologies.112.2o7.net
 ::	avhtaapxml.com
 ::	avidnewssource.com
@@ -53050,6 +53054,7 @@
 ::	s.di.com.pl
 ::	sd.iperceptions.com
 ::	sdk-02.moengage.com
+::	sdk.51.la
 ::	sdk6.ibm.xtify.com
 ::	sdk8.ibm.xtify.com
 ::	sdk.adotmob.com
@@ -56009,6 +56014,7 @@
 ::	t.myvisualiq.net
 ::	tmz.us.intellitxt.com
 ::	tn.5.p2l.info
+::	t.nc0.co
 ::	tnc16-alisg.byteoversea.com
 ::	tnc16-alisg.isnssdk.com
 ::	tnc16-useast1a.byteoversea.com
