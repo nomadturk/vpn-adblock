@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat 29 Aug 17:06:04 +03 2026
-# Total number of blocked lines: 61964
+# Ad blocking hosts generated Sat 29 Aug 18:06:05 +03 2026
+# Total number of blocked lines: 61972
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -5359,6 +5359,7 @@
 0.0.0.0	app.cobrowser.com
 0.0.0.0	appconfig.cmgdigital.com
 0.0.0.0	app-config.enhance.co
+0.0.0.0	appconnect.isbank.com.tr
 0.0.0.0	app.datafastguru.info
 0.0.0.0	app.datorama.com
 0.0.0.0	appdatum.com
@@ -30777,6 +30778,7 @@
 0.0.0.0	ying.hitbox.com
 0.0.0.0	yj-a.p.adnxs.com
 0.0.0.0	yj.p.adnxs.com
+0.0.0.0	ykb.api.dataroid.com
 0.0.0.0	ykjure.com
 0.0.0.0	ykocr.comfortykive.xyz
 0.0.0.0	yllix.com
@@ -30942,6 +30944,8 @@
 0.0.0.0	zip.er.cz
 0.0.0.0	ziphoumt.net
 0.0.0.0	zippingcare.com
+0.0.0.0	ziraatbankasi.api.dataroid.com
+0.0.0.0	ziraatdinamik.api.dataroid.com
 0.0.0.0	z.irs01.com
 0.0.0.0	zjchao.com
 0.0.0.0	zj.dcys.ijinshan.com
@@ -36340,6 +36344,7 @@
 ::	app.cobrowser.com
 ::	appconfig.cmgdigital.com
 ::	app-config.enhance.co
+::	appconnect.isbank.com.tr
 ::	app.datafastguru.info
 ::	app.datorama.com
 ::	appdatum.com
@@ -61758,6 +61763,7 @@
 ::	ying.hitbox.com
 ::	yj-a.p.adnxs.com
 ::	yj.p.adnxs.com
+::	ykb.api.dataroid.com
 ::	ykjure.com
 ::	ykocr.comfortykive.xyz
 ::	yllix.com
@@ -61923,6 +61929,8 @@
 ::	zip.er.cz
 ::	ziphoumt.net
 ::	zippingcare.com
+::	ziraatbankasi.api.dataroid.com
+::	ziraatdinamik.api.dataroid.com
 ::	z.irs01.com
 ::	zjchao.com
 ::	zj.dcys.ijinshan.com
