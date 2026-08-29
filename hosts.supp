@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat 29 Aug 21:06:05 +03 2026
-# Total number of blocked lines: 61972
+# Ad blocking hosts generated Sat 29 Aug 22:06:05 +03 2026
+# Total number of blocked lines: 61978
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -1732,6 +1732,7 @@
 0.0.0.0	admarkt.marktplaats.nl
 0.0.0.0	admarvel.com
 0.0.0.0	admarvel.s3.amazonaws.com
+0.0.0.0	admaster.cc
 0.0.0.0	admaster.com.cn
 0.0.0.0	ad.mastermedia.ru
 0.0.0.0	admatcher.videostrip.com
@@ -12098,6 +12099,7 @@
 0.0.0.0	fengfengtiessp.com.cn
 0.0.0.0	fengyixin.com
 0.0.0.0	fenrir-resolver.aprod.scopely.io
+0.0.0.0	fenxi.com
 0.0.0.0	fepete.ch
 0.0.0.0	ferrago.uk.intellitxt.com
 0.0.0.0	ferreirateixeira.adv.br
@@ -20048,6 +20050,7 @@
 0.0.0.0	poloptrex.com
 0.0.0.0	polyad.net
 0.0.0.0	pomp-buerotechnik.de
+0.0.0.0	pooinc-7dw.pages.dev
 0.0.0.0	pool.adhsm.adhese.com
 0.0.0.0	pool.adizio.com
 0.0.0.0	pool.admedo.com
@@ -32717,6 +32720,7 @@
 ::	admarkt.marktplaats.nl
 ::	admarvel.com
 ::	admarvel.s3.amazonaws.com
+::	admaster.cc
 ::	admaster.com.cn
 ::	ad.mastermedia.ru
 ::	admatcher.videostrip.com
@@ -43083,6 +43087,7 @@
 ::	fengfengtiessp.com.cn
 ::	fengyixin.com
 ::	fenrir-resolver.aprod.scopely.io
+::	fenxi.com
 ::	fepete.ch
 ::	ferrago.uk.intellitxt.com
 ::	ferreirateixeira.adv.br
@@ -51033,6 +51038,7 @@
 ::	poloptrex.com
 ::	polyad.net
 ::	pomp-buerotechnik.de
+::	pooinc-7dw.pages.dev
 ::	pool.adhsm.adhese.com
 ::	pool.adizio.com
 ::	pool.admedo.com
