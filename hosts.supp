@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat 29 Aug 13:06:05 +03 2026
-# Total number of blocked lines: 61958
+# Ad blocking hosts generated Sat 29 Aug 14:06:05 +03 2026
+# Total number of blocked lines: 61960
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -25476,6 +25476,7 @@
 0.0.0.0	track.make-a-site.net
 0.0.0.0	track.mdirector.com
 0.0.0.0	track.mdrctr.com
+0.0.0.0	track.mediav.com
 0.0.0.0	track.miro.com
 0.0.0.0	track.moreniche.com
 0.0.0.0	track.mp4.center
@@ -56454,6 +56455,7 @@
 ::	track.make-a-site.net
 ::	track.mdirector.com
 ::	track.mdrctr.com
+::	track.mediav.com
 ::	track.miro.com
 ::	track.moreniche.com
 ::	track.mp4.center
