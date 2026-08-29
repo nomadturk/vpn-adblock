@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat 29 Aug 23:06:05 +03 2026
-# Total number of blocked lines: 61978
+# Ad blocking hosts generated Sun 30 Aug 00:06:05 +03 2026
+# Total number of blocked lines: 61982
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -2557,6 +2557,7 @@
 0.0.0.0	ads.economist.com
 0.0.0.0	ads.ecrush.com
 0.0.0.0	ad.se.doubleclick.net
+0.0.0.0	ads.egrana.com.br
 0.0.0.0	ads.ehealthcaresolutions.com
 0.0.0.0	ads.einmedia.com
 0.0.0.0	ads.eircom.net
@@ -3812,6 +3813,7 @@
 0.0.0.0	ads.zamunda.se
 0.0.0.0	ads.zedo.com
 0.0.0.0	ads.zeusclicks.com
+0.0.0.0	ads.zorvec.name
 0.0.0.0	ads.ztod.com
 0.0.0.0	ads.zynga.com
 0.0.0.0	adt598.com
@@ -33545,6 +33547,7 @@
 ::	ads.economist.com
 ::	ads.ecrush.com
 ::	ad.se.doubleclick.net
+::	ads.egrana.com.br
 ::	ads.ehealthcaresolutions.com
 ::	ads.einmedia.com
 ::	ads.eircom.net
@@ -34800,6 +34803,7 @@
 ::	ads.zamunda.se
 ::	ads.zedo.com
 ::	ads.zeusclicks.com
+::	ads.zorvec.name
 ::	ads.ztod.com
 ::	ads.zynga.com
 ::	adt598.com
