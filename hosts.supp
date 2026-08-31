@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 31 Aug 21:06:10 +03 2026
-# Total number of blocked lines: 61988
+# Ad blocking hosts generated Mon 31 Aug 22:06:14 +03 2026
+# Total number of blocked lines: 61994
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28735,6 +28735,7 @@
 0.0.0.0	www.entertainment-specials.com
 0.0.0.0	www.epicgameads.com
 0.0.0.0	www.eqarati.com
+0.0.0.0	www.eqinenow.com
 0.0.0.0	www.eremplacementparts.com
 0.0.0.0	www.erincranor.com
 0.0.0.0	www.errornuker.com
@@ -29612,6 +29613,7 @@
 0.0.0.0	www.oralse.ca
 0.0.0.0	www.oralse.cx
 0.0.0.0	www.orangesalonboise.com
+0.0.0.0	www.orchidfootspa.com
 0.0.0.0	www.oreware.com
 0.0.0.0	www.originalicons.com
 0.0.0.0	www.ostazvtx.com
@@ -29982,6 +29984,7 @@
 0.0.0.0	www.silcom.com
 0.0.0.0	www.silebah.com
 0.0.0.0	www.silentgateck.site
+0.0.0.0	www.silhouetteamerican.com
 0.0.0.0	www.silveragesoftware.com
 0.0.0.0	www.silverboxcreativestudio.com
 0.0.0.0	www.silvercash.com
@@ -59728,6 +59731,7 @@
 ::	www.entertainment-specials.com
 ::	www.epicgameads.com
 ::	www.eqarati.com
+::	www.eqinenow.com
 ::	www.eremplacementparts.com
 ::	www.erincranor.com
 ::	www.errornuker.com
@@ -60605,6 +60609,7 @@
 ::	www.oralse.ca
 ::	www.oralse.cx
 ::	www.orangesalonboise.com
+::	www.orchidfootspa.com
 ::	www.oreware.com
 ::	www.originalicons.com
 ::	www.ostazvtx.com
@@ -60975,6 +60980,7 @@
 ::	www.silcom.com
 ::	www.silebah.com
 ::	www.silentgateck.site
+::	www.silhouetteamerican.com
 ::	www.silveragesoftware.com
 ::	www.silverboxcreativestudio.com
 ::	www.silvercash.com
