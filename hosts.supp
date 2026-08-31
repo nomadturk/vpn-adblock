@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 31 Aug 23:06:05 +03 2026
-# Total number of blocked lines: 61994
+# Ad blocking hosts generated Tue  1 Sep 00:06:05 +03 2026
+# Total number of blocked lines: 61996
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29207,6 +29207,7 @@
 0.0.0.0	www.karazah.com
 0.0.0.0	www.katch.ne.jp
 0.0.0.0	www.kazaa.com
+0.0.0.0	www.kccreamation.com
 0.0.0.0	www.keepass.com
 0.0.0.0	www.keepass.fr
 0.0.0.0	www.kencorporation.property
@@ -60203,6 +60204,7 @@
 ::	www.karazah.com
 ::	www.katch.ne.jp
 ::	www.kazaa.com
+::	www.kccreamation.com
 ::	www.keepass.com
 ::	www.keepass.fr
 ::	www.kencorporation.property
