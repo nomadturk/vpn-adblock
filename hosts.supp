@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 31 Aug 19:06:14 +03 2026
-# Total number of blocked lines: 61986
+# Ad blocking hosts generated Mon 31 Aug 20:06:11 +03 2026
+# Total number of blocked lines: 61988
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -24107,6 +24107,7 @@
 0.0.0.0	supercars.us.intellitxt.com
 0.0.0.0	superchichair.com
 0.0.0.0	superclix.de
+0.0.0.0	supercounters.com
 0.0.0.0	superfastcdn.com
 0.0.0.0	superficial.crwdcntrl.net
 0.0.0.0	superficialsquare.com
@@ -55099,6 +55100,7 @@
 ::	supercars.us.intellitxt.com
 ::	superchichair.com
 ::	superclix.de
+::	supercounters.com
 ::	superfastcdn.com
 ::	superficial.crwdcntrl.net
 ::	superficialsquare.com
