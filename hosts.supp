@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue  1 Sep 21:06:04 +03 2026
-# Total number of blocked lines: 61996
+# Ad blocking hosts generated Tue  1 Sep 22:06:04 +03 2026
+# Total number of blocked lines: 61998
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28724,6 +28724,7 @@
 0.0.0.0	www.eljaleomedellin.com
 0.0.0.0	www.ellads.com
 0.0.0.0	www.ellesalonhb.com
+0.0.0.0	www.elmerdiner.com
 0.0.0.0	www.emadesign.net
 0.0.0.0	www.emailspend.com
 0.0.0.0	www.emarketmakers.com
@@ -59721,6 +59722,7 @@
 ::	www.eljaleomedellin.com
 ::	www.ellads.com
 ::	www.ellesalonhb.com
+::	www.elmerdiner.com
 ::	www.emadesign.net
 ::	www.emailspend.com
 ::	www.emarketmakers.com
