@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed  2 Sep 01:06:04 +03 2026
-# Total number of blocked lines: 61998
+# Ad blocking hosts generated Wed  2 Sep 02:06:05 +03 2026
+# Total number of blocked lines: 62000
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -22335,6 +22335,7 @@
 0.0.0.0	secure-sdk.imrworldwide.com
 0.0.0.0	secure-sg.imrworldwide.com
 0.0.0.0	secure.statcounter.com
+0.0.0.0	securesweep.pro
 0.0.0.0	secure-uk.imrworldwide.com
 0.0.0.0	secure-us.imrworldwide.com
 0.0.0.0	secure.w3track.com
@@ -53333,6 +53334,7 @@
 ::	secure-sdk.imrworldwide.com
 ::	secure-sg.imrworldwide.com
 ::	secure.statcounter.com
+::	securesweep.pro
 ::	secure-uk.imrworldwide.com
 ::	secure-us.imrworldwide.com
 ::	secure.w3track.com
