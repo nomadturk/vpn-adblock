@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed  2 Sep 13:06:05 +03 2026
-# Total number of blocked lines: 62000
+# Ad blocking hosts generated Wed  2 Sep 14:06:05 +03 2026
+# Total number of blocked lines: 62004
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -19020,6 +19020,7 @@
 0.0.0.0	opienetwork.com
 0.0.0.0	oplaca-sie.pl
 0.0.0.0	opmnstr.com
+0.0.0.0	opoxv.com
 0.0.0.0	opposedarrangement.net
 0.0.0.0	opps.taboola.com
 0.0.0.0	oppuz.com
@@ -19498,6 +19499,7 @@
 0.0.0.0	pe.intentiq.com
 0.0.0.0	peircing-street.fr
 0.0.0.0	pelmorexmedia.122.2o7.net
+0.0.0.0	pemsrv.com
 0.0.0.0	pendo-data-prod.box.com
 0.0.0.0	penix.nl
 0.0.0.0	pennwellcorp.112.2o7.net
@@ -50019,6 +50021,7 @@
 ::	opienetwork.com
 ::	oplaca-sie.pl
 ::	opmnstr.com
+::	opoxv.com
 ::	opposedarrangement.net
 ::	opps.taboola.com
 ::	oppuz.com
@@ -50497,6 +50500,7 @@
 ::	pe.intentiq.com
 ::	peircing-street.fr
 ::	pelmorexmedia.122.2o7.net
+::	pemsrv.com
 ::	pendo-data-prod.box.com
 ::	penix.nl
 ::	pennwellcorp.112.2o7.net
