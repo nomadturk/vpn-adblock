@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu  3 Sep 13:06:04 +03 2026
-# Total number of blocked lines: 62010
+# Ad blocking hosts generated Thu  3 Sep 14:06:04 +03 2026
+# Total number of blocked lines: 62014
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -3820,6 +3820,7 @@
 0.0.0.0	adtactics.com
 0.0.0.0	adtag.ad.smaato.net
 0.0.0.0	adtag.cc
+0.0.0.0	adtagj.portal-factory.com
 0.0.0.0	adtag.msn.ca
 0.0.0.0	adtago.s3.amazonaws.com
 0.0.0.0	adtag.primetime.adobe.com
@@ -20575,6 +20576,7 @@
 0.0.0.0	pub-251d6c694a0641dd9e95aeca9e3219e8.r2.dev
 0.0.0.0	pub2srv.com
 0.0.0.0	pubads.g.doubleclick.net
+0.0.0.0	pubbug.com
 0.0.0.0	pub.chez.com
 0.0.0.0	pub.club-internet.fr
 0.0.0.0	pubdirecte.com
@@ -34824,6 +34826,7 @@
 ::	adtactics.com
 ::	adtag.ad.smaato.net
 ::	adtag.cc
+::	adtagj.portal-factory.com
 ::	adtag.msn.ca
 ::	adtago.s3.amazonaws.com
 ::	adtag.primetime.adobe.com
@@ -51579,6 +51582,7 @@
 ::	pub-251d6c694a0641dd9e95aeca9e3219e8.r2.dev
 ::	pub2srv.com
 ::	pubads.g.doubleclick.net
+::	pubbug.com
 ::	pub.chez.com
 ::	pub.club-internet.fr
 ::	pubdirecte.com
