@@ -1,5 +1,5 @@
 #<local-data>
-# Ad blocking hosts generated Thu  3 Sep 23:06:05 +03 2026
+# Ad blocking hosts generated Fri  4 Sep 00:06:05 +03 2026
 # Total number of blocked lines: 62014
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
@@ -3430,7 +3430,6 @@
 0.0.0.0	ads.rcgroups.com
 0.0.0.0	ads.rd.linksynergy.com
 0.0.0.0	ads.rdstore.com
-0.0.0.0	ads.realcastmedia.com
 0.0.0.0	ads.realcities.com
 0.0.0.0	ads.realmedia.de
 0.0.0.0	ads.realsrv.com
@@ -30084,6 +30083,7 @@
 0.0.0.0	www.ssl2.in
 0.0.0.0	www.ssquire.plus.com
 0.0.0.0	www.stamplive.com
+0.0.0.0	www.stanthedonutman.com
 0.0.0.0	www.star-advertising.com
 0.0.0.0	www.startnewtab.com
 0.0.0.0	www.start-page.org
@@ -34436,7 +34436,6 @@
 ::	ads.rcgroups.com
 ::	ads.rd.linksynergy.com
 ::	ads.rdstore.com
-::	ads.realcastmedia.com
 ::	ads.realcities.com
 ::	ads.realmedia.de
 ::	ads.realsrv.com
@@ -61090,6 +61089,7 @@
 ::	www.ssl2.in
 ::	www.ssquire.plus.com
 ::	www.stamplive.com
+::	www.stanthedonutman.com
 ::	www.star-advertising.com
 ::	www.startnewtab.com
 ::	www.start-page.org
