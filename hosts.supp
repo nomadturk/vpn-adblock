@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri  4 Sep 14:06:05 +03 2026
-# Total number of blocked lines: 62016
+# Ad blocking hosts generated Fri  4 Sep 15:06:05 +03 2026
+# Total number of blocked lines: 62006
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -3505,7 +3505,6 @@
 0.0.0.0	ads.satyamonline.com
 0.0.0.0	ads.saymedia.com
 0.0.0.0	ads.scabee.com
-0.0.0.0	ads.schmoozecom.net
 0.0.0.0	ads.scifi.com
 0.0.0.0	ads.scorecardresearch.com
 0.0.0.0	ads.scott-sports.com
@@ -3936,7 +3935,6 @@
 0.0.0.0	adv.blogupp.com
 0.0.0.0	adv.consadbg.com
 0.0.0.0	advconversion.com
-0.0.0.0	adv.donejty.pl
 0.0.0.0	adv.dontcrack.com
 0.0.0.0	adv.drtuber.com
 0.0.0.0	ad.ve.doubleclick.net
@@ -8546,7 +8544,6 @@
 0.0.0.0	click.mkt.grab.com
 0.0.0.0	click.news.vans.com
 0.0.0.0	click.newviralmobistore.com
-0.0.0.0	clickngo.pro
 0.0.0.0	clickngo.top
 0.0.0.0	click.nl.npr.org
 0.0.0.0	click.nvgaming.nvidia.com
@@ -11761,7 +11758,6 @@
 0.0.0.0	everesttech.net
 0.0.0.0	evergage.com
 0.0.0.0	everlywell.extole.io
-0.0.0.0	eversales.space
 0.0.0.0	everydayhealth.demdex.net
 0.0.0.0	everyjoe.us.intellitxt.com
 0.0.0.0	ev.ib-ibi.com
@@ -12173,7 +12169,6 @@
 0.0.0.0	fin.adbureau.net
 0.0.0.0	finance-offer.com
 0.0.0.0	financialtimesdfp415669142494.s.moatpixel.com
-0.0.0.0	findcommerce.com
 0.0.0.0	finder.cox.net
 0.0.0.0	findfavour.com
 0.0.0.0	findgoodfood.co
@@ -13563,7 +13558,6 @@
 0.0.0.0	helpmedb.com
 0.0.0.0	helpmedownload.com
 0.0.0.0	help.mysearch.com
-0.0.0.0	hentaicounter.com
 0.0.0.0	hentavost.fr
 0.0.0.0	hepsiads-bff.hepsiburada.com
 0.0.0.0	hepsiads-gw.hepsiburada.com
@@ -15846,6 +15840,7 @@
 0.0.0.0	link4win.net
 0.0.0.0	link.axios.com
 0.0.0.0	link.beelivery.com
+0.0.0.0	link-booster.de
 0.0.0.0	linkbuddies.com
 0.0.0.0	linkconnector.com
 0.0.0.0	linkcounter.com
@@ -34512,7 +34507,6 @@
 ::	ads.satyamonline.com
 ::	ads.saymedia.com
 ::	ads.scabee.com
-::	ads.schmoozecom.net
 ::	ads.scifi.com
 ::	ads.scorecardresearch.com
 ::	ads.scott-sports.com
@@ -34943,7 +34937,6 @@
 ::	adv.blogupp.com
 ::	adv.consadbg.com
 ::	advconversion.com
-::	adv.donejty.pl
 ::	adv.dontcrack.com
 ::	adv.drtuber.com
 ::	ad.ve.doubleclick.net
@@ -39553,7 +39546,6 @@
 ::	click.mkt.grab.com
 ::	click.news.vans.com
 ::	click.newviralmobistore.com
-::	clickngo.pro
 ::	clickngo.top
 ::	click.nl.npr.org
 ::	click.nvgaming.nvidia.com
@@ -42768,7 +42760,6 @@
 ::	everesttech.net
 ::	evergage.com
 ::	everlywell.extole.io
-::	eversales.space
 ::	everydayhealth.demdex.net
 ::	everyjoe.us.intellitxt.com
 ::	ev.ib-ibi.com
@@ -43180,7 +43171,6 @@
 ::	fin.adbureau.net
 ::	finance-offer.com
 ::	financialtimesdfp415669142494.s.moatpixel.com
-::	findcommerce.com
 ::	finder.cox.net
 ::	findfavour.com
 ::	findgoodfood.co
@@ -44570,7 +44560,6 @@
 ::	helpmedb.com
 ::	helpmedownload.com
 ::	help.mysearch.com
-::	hentaicounter.com
 ::	hentavost.fr
 ::	hepsiads-bff.hepsiburada.com
 ::	hepsiads-gw.hepsiburada.com
@@ -46853,6 +46842,7 @@
 ::	link4win.net
 ::	link.axios.com
 ::	link.beelivery.com
+::	link-booster.de
 ::	linkbuddies.com
 ::	linkconnector.com
 ::	linkcounter.com
