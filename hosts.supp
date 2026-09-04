@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri  4 Sep 19:06:05 +03 2026
-# Total number of blocked lines: 62006
+# Ad blocking hosts generated Fri  4 Sep 20:06:05 +03 2026
+# Total number of blocked lines: 62010
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -10685,6 +10685,7 @@
 0.0.0.0	dserver.hw.net
 0.0.0.0	d.serve-sys.com
 0.0.0.0	ds.eyeblaster.com
+0.0.0.0	dsfdsfxcfddsf.blob.core.windows.net
 0.0.0.0	dsh7ky7308k4b.cloudfront.net
 0.0.0.0	d.shareaholic.com
 0.0.0.0	ds.ign.us.intellitxt.com
@@ -28478,6 +28479,7 @@
 0.0.0.0	www.cnstats.com
 0.0.0.0	www.co2stats.com
 0.0.0.0	www.coconutsport.com
+0.0.0.0	www.codeademy.com
 0.0.0.0	www.codeads.com
 0.0.0.0	www.coin-ad.com
 0.0.0.0	www.coinad.com
@@ -41687,6 +41689,7 @@
 ::	dserver.hw.net
 ::	d.serve-sys.com
 ::	ds.eyeblaster.com
+::	dsfdsfxcfddsf.blob.core.windows.net
 ::	dsh7ky7308k4b.cloudfront.net
 ::	d.shareaholic.com
 ::	ds.ign.us.intellitxt.com
@@ -59480,6 +59483,7 @@
 ::	www.cnstats.com
 ::	www.co2stats.com
 ::	www.coconutsport.com
+::	www.codeademy.com
 ::	www.codeads.com
 ::	www.coin-ad.com
 ::	www.coinad.com
