@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon  7 Sep 15:06:05 +03 2026
-# Total number of blocked lines: 62014
+# Ad blocking hosts generated Mon  7 Sep 16:06:06 +03 2026
+# Total number of blocked lines: 62016
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -30731,6 +30731,7 @@
 0.0.0.0	yachtingmagazine.fr
 0.0.0.0	yadro.ru
 0.0.0.0	yads.c.yimg.jp
+0.0.0.0	yads.tech
 0.0.0.0	yads.zedo.com
 0.0.0.0	yahoo.effectivemeasure.net
 0.0.0.0	yahoo-match.dotomi.com
@@ -61737,6 +61738,7 @@
 ::	yachtingmagazine.fr
 ::	yadro.ru
 ::	yads.c.yimg.jp
+::	yads.tech
 ::	yads.zedo.com
 ::	yahoo.effectivemeasure.net
 ::	yahoo-match.dotomi.com
