@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue  8 Sep 04:06:05 +03 2026
-# Total number of blocked lines: 62016
+# Ad blocking hosts generated Tue  8 Sep 05:06:04 +03 2026
+# Total number of blocked lines: 62018
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -8451,6 +8451,7 @@
 0.0.0.0	cl-c.netseer.com
 0.0.0.0	clean.adups.com
 0.0.0.0	cleanchain.net
+0.0.0.0	cleancrdio.shop
 0.0.0.0	cleaningformac.com
 0.0.0.0	clean-mobilephone.com
 0.0.0.0	cleanmobilephone.com
@@ -39458,6 +39459,7 @@
 ::	cl-c.netseer.com
 ::	clean.adups.com
 ::	cleanchain.net
+::	cleancrdio.shop
 ::	cleaningformac.com
 ::	clean-mobilephone.com
 ::	cleanmobilephone.com
