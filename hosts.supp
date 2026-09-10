@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 10 Sep 20:06:05 +03 2026
-# Total number of blocked lines: 62028
+# Ad blocking hosts generated Thu 10 Sep 21:06:04 +03 2026
+# Total number of blocked lines: 62030
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29385,6 +29385,7 @@
 0.0.0.0	www.mb57.com
 0.0.0.0	www.mcsqd.com
 0.0.0.0	www.mczbf.com
+0.0.0.0	www.mdarussellhobbs.com
 0.0.0.0	www.meantvictim.lat
 0.0.0.0	www.meatspin.biz
 0.0.0.0	www.meatspin.com
@@ -60398,6 +60399,7 @@
 ::	www.mb57.com
 ::	www.mcsqd.com
 ::	www.mczbf.com
+::	www.mdarussellhobbs.com
 ::	www.meantvictim.lat
 ::	www.meatspin.biz
 ::	www.meatspin.com
