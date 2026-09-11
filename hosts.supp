@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 11 Sep 14:06:05 +03 2026
-# Total number of blocked lines: 62034
+# Ad blocking hosts generated Fri 11 Sep 15:06:04 +03 2026
+# Total number of blocked lines: 62052
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -866,6 +866,7 @@
 0.0.0.0	abscbn.spinbox.net
 0.0.0.0	abseckw.adtlgc.com
 0.0.0.0	abshop.fr
+0.0.0.0	absolutering.com
 0.0.0.0	absolutewrite.fr
 0.0.0.0	absorbingband.com
 0.0.0.0	abs.proxistore.com
@@ -6320,6 +6321,7 @@
 0.0.0.0	baskettexture.com
 0.0.0.0	baskidunyasi.net
 0.0.0.0	bastardly.us.intellitxt.com
+0.0.0.0	bastingart.com
 0.0.0.0	bat.bing.com
 0.0.0.0	bat.bing.net
 0.0.0.0	batch.upsight-api.com
@@ -6645,6 +6647,7 @@
 0.0.0.0	bigreal.org
 0.0.0.0	bigrourg.net
 0.0.0.0	bigseatsout.net
+0.0.0.0	bigworldfashion.com
 0.0.0.0	bikeforumsnet.skimlinks.com
 0.0.0.0	bilbob.com
 0.0.0.0	bild.de.intellitxt.com
@@ -8736,7 +8739,6 @@
 0.0.0.0	cluster-03.topbucks.com
 0.0.0.0	cluster3.adultadworld.com
 0.0.0.0	cluster.adultadworld.com
-0.0.0.0	cluster.adultworld.com
 0.0.0.0	cluster.adworldmedia.com
 0.0.0.0	cluster.awmdelivery.com
 0.0.0.0	clustrmaps.com
@@ -12172,6 +12174,7 @@
 0.0.0.0	fin.adbureau.net
 0.0.0.0	finance-offer.com
 0.0.0.0	financialtimesdfp415669142494.s.moatpixel.com
+0.0.0.0	findcommerce.com
 0.0.0.0	finder.cox.net
 0.0.0.0	findfavour.com
 0.0.0.0	findgoodfood.co
@@ -14988,6 +14991,7 @@
 0.0.0.0	jetem.fr
 0.0.0.0	jeu-jeux.fr
 0.0.0.0	jeupicard.fr
+0.0.0.0	jewelrysprings.com
 0.0.0.0	jf71qh5v14.com
 0.0.0.0	j.flxpxl.com
 0.0.0.0	jf.revolvermaps.com
@@ -15331,6 +15335,7 @@
 0.0.0.0	kelder.nl
 0.0.0.0	kelleybluebook.112.2o7.net
 0.0.0.0	kergaukr.com
+0.0.0.0	kernellife.com
 0.0.0.0	kevlaardiet.fr
 0.0.0.0	keybinary.com
 0.0.0.0	keys.dmtracker.com
@@ -19049,6 +19054,7 @@
 0.0.0.0	optimost.com
 0.0.0.0	option9.adultfriendfinder.com
 0.0.0.0	optionmodifycanitem.info
+0.0.0.0	optionsnomad.com
 0.0.0.0	optionstoreplace.com
 0.0.0.0	optmd.com
 0.0.0.0	optmnstr.com
@@ -19344,6 +19350,7 @@
 0.0.0.0	partner.ceneo.pl
 0.0.0.0	partnerearning.com
 0.0.0.0	partner.googleadservices.com
+0.0.0.0	partnerhut.com
 0.0.0.0	partner.knorex.com
 0.0.0.0	partnerlinks.io
 0.0.0.0	partner.magna.ru
@@ -21413,6 +21420,7 @@
 0.0.0.0	rnews.focus-news.net
 0.0.0.0	ro2.biz
 0.0.0.0	ro55cpi1.xhamster.com
+0.0.0.0	roaddynamics.com
 0.0.0.0	roadwide.net
 0.0.0.0	roar.com
 0.0.0.0	robbiblubber.org
@@ -27583,6 +27591,7 @@
 0.0.0.0	wrating.com
 0.0.0.0	wrestling-edge.us.intellitxt.com
 0.0.0.0	wrigley.122.2o7.net
+0.0.0.0	writerhubs.com
 0.0.0.0	write.trackonomics.net
 0.0.0.0	wrontonshatbona.pro
 0.0.0.0	ws017.coin-hive.com
@@ -31882,6 +31891,7 @@
 ::	abscbn.spinbox.net
 ::	abseckw.adtlgc.com
 ::	abshop.fr
+::	absolutering.com
 ::	absolutewrite.fr
 ::	absorbingband.com
 ::	abs.proxistore.com
@@ -37336,6 +37346,7 @@
 ::	baskettexture.com
 ::	baskidunyasi.net
 ::	bastardly.us.intellitxt.com
+::	bastingart.com
 ::	bat.bing.com
 ::	bat.bing.net
 ::	batch.upsight-api.com
@@ -37661,6 +37672,7 @@
 ::	bigreal.org
 ::	bigrourg.net
 ::	bigseatsout.net
+::	bigworldfashion.com
 ::	bikeforumsnet.skimlinks.com
 ::	bilbob.com
 ::	bild.de.intellitxt.com
@@ -39752,7 +39764,6 @@
 ::	cluster-03.topbucks.com
 ::	cluster3.adultadworld.com
 ::	cluster.adultadworld.com
-::	cluster.adultworld.com
 ::	cluster.adworldmedia.com
 ::	cluster.awmdelivery.com
 ::	clustrmaps.com
@@ -43188,6 +43199,7 @@
 ::	fin.adbureau.net
 ::	finance-offer.com
 ::	financialtimesdfp415669142494.s.moatpixel.com
+::	findcommerce.com
 ::	finder.cox.net
 ::	findfavour.com
 ::	findgoodfood.co
@@ -46004,6 +46016,7 @@
 ::	jetem.fr
 ::	jeu-jeux.fr
 ::	jeupicard.fr
+::	jewelrysprings.com
 ::	jf71qh5v14.com
 ::	j.flxpxl.com
 ::	jf.revolvermaps.com
@@ -46347,6 +46360,7 @@
 ::	kelder.nl
 ::	kelleybluebook.112.2o7.net
 ::	kergaukr.com
+::	kernellife.com
 ::	kevlaardiet.fr
 ::	keybinary.com
 ::	keys.dmtracker.com
@@ -50065,6 +50079,7 @@
 ::	optimost.com
 ::	option9.adultfriendfinder.com
 ::	optionmodifycanitem.info
+::	optionsnomad.com
 ::	optionstoreplace.com
 ::	optmd.com
 ::	optmnstr.com
@@ -50360,6 +50375,7 @@
 ::	partner.ceneo.pl
 ::	partnerearning.com
 ::	partner.googleadservices.com
+::	partnerhut.com
 ::	partner.knorex.com
 ::	partnerlinks.io
 ::	partner.magna.ru
@@ -52429,6 +52445,7 @@
 ::	rnews.focus-news.net
 ::	ro2.biz
 ::	ro55cpi1.xhamster.com
+::	roaddynamics.com
 ::	roadwide.net
 ::	roar.com
 ::	robbiblubber.org
@@ -58599,6 +58616,7 @@
 ::	wrating.com
 ::	wrestling-edge.us.intellitxt.com
 ::	wrigley.122.2o7.net
+::	writerhubs.com
 ::	write.trackonomics.net
 ::	wrontonshatbona.pro
 ::	ws017.coin-hive.com
