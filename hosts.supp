@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 11 Sep 20:06:05 +03 2026
-# Total number of blocked lines: 62052
+# Ad blocking hosts generated Fri 11 Sep 21:06:04 +03 2026
+# Total number of blocked lines: 62058
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -412,6 +412,7 @@
 0.0.0.0	4-counter.com
 0.0.0.0	4cywq-eqnre.ads.tremorhub.com
 0.0.0.0	4d5.net
+0.0.0.0	4dex.io
 0.0.0.0	4dsply.com
 0.0.0.0	4girlsfingerpaint.com
 0.0.0.0	4girlsfingerpaint.org
@@ -19130,6 +19131,7 @@
 0.0.0.0	otherprofit.com
 0.0.0.0	other.upqzfile.com
 0.0.0.0	other.xxxcounter.com
+0.0.0.0	otheve.beacon.qq.com
 0.0.0.0	otletdivak.hu
 0.0.0.0	otnolatrnup.com
 0.0.0.0	otpercpiheno.blogspot.com
@@ -25833,6 +25835,7 @@
 0.0.0.0	tr.outbrain.com
 0.0.0.0	trouveunfilm.fr
 0.0.0.0	trovi.com
+0.0.0.0	tr.p.360.cn
 0.0.0.0	tr.prospecteye.com
 0.0.0.0	tr.rdrtr.com
 0.0.0.0	tr-red.lamanoqueayuda.org
@@ -31437,6 +31440,7 @@
 ::	4-counter.com
 ::	4cywq-eqnre.ads.tremorhub.com
 ::	4d5.net
+::	4dex.io
 ::	4dsply.com
 ::	4girlsfingerpaint.com
 ::	4girlsfingerpaint.org
@@ -50155,6 +50159,7 @@
 ::	otherprofit.com
 ::	other.upqzfile.com
 ::	other.xxxcounter.com
+::	otheve.beacon.qq.com
 ::	otletdivak.hu
 ::	otnolatrnup.com
 ::	otpercpiheno.blogspot.com
@@ -56858,6 +56863,7 @@
 ::	tr.outbrain.com
 ::	trouveunfilm.fr
 ::	trovi.com
+::	tr.p.360.cn
 ::	tr.prospecteye.com
 ::	tr.rdrtr.com
 ::	tr-red.lamanoqueayuda.org
