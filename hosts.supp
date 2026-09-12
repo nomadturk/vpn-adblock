@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat 12 Sep 16:06:05 +03 2026
-# Total number of blocked lines: 62058
+# Ad blocking hosts generated Sat 12 Sep 17:06:05 +03 2026
+# Total number of blocked lines: 62060
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -25280,6 +25280,7 @@
 0.0.0.0	track.dotsly.com
 0.0.0.0	trackdownload.startappservice.com
 0.0.0.0	track.dvdbox.com
+0.0.0.0	track.dws.com
 0.0.0.0	track.e7r.com.br
 0.0.0.0	track-east.mobileadtrading.com
 0.0.0.0	trackedlink.net
@@ -56308,6 +56309,7 @@
 ::	track.dotsly.com
 ::	trackdownload.startappservice.com
 ::	track.dvdbox.com
+::	track.dws.com
 ::	track.e7r.com.br
 ::	track-east.mobileadtrading.com
 ::	trackedlink.net
