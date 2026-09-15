@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 15 Sep 02:06:04 +03 2026
-# Total number of blocked lines: 62062
+# Ad blocking hosts generated Tue 15 Sep 03:06:05 +03 2026
+# Total number of blocked lines: 62070
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28155,6 +28155,7 @@
 0.0.0.0	www.apkfuuny.com
 0.0.0.0	www.apmebf.com
 0.0.0.0	www.apogara.plus.com
+0.0.0.0	www.appfoliio.com
 0.0.0.0	www.applelounge.com
 0.0.0.0	www.applicationwiki.com
 0.0.0.0	www.appliedsemantics.com
@@ -28277,6 +28278,7 @@
 0.0.0.0	www.billcarthy.f9.co.uk
 0.0.0.0	www.binarysystem4u.com
 0.0.0.0	www.biphic.com
+0.0.0.0	www.bisselcommercial.com
 0.0.0.0	www.bitcoadz.io
 0.0.0.0	www.bitlocker.net
 0.0.0.0	www.bitmedia.io
@@ -29211,6 +29213,7 @@
 0.0.0.0	www.jizzads.com
 0.0.0.0	www.jjbenefitsguide.com
 0.0.0.0	www.jnhjf.com
+0.0.0.0	www.jobomg.com
 0.0.0.0	www.joinclap.com
 0.0.0.0	www.joinfx.net
 0.0.0.0	www.joinourwebsite.com
@@ -29794,6 +29797,7 @@
 0.0.0.0	www.prizes.co.uk
 0.0.0.0	www.probabilidades.net
 0.0.0.0	www.probusinesshub.com
+0.0.0.0	www.proctou.com
 0.0.0.0	www.productresearchpanel.com
 0.0.0.0	www.producttestpanel.com
 0.0.0.0	www.professionalcash.com
@@ -59185,6 +59189,7 @@
 ::	www.apkfuuny.com
 ::	www.apmebf.com
 ::	www.apogara.plus.com
+::	www.appfoliio.com
 ::	www.applelounge.com
 ::	www.applicationwiki.com
 ::	www.appliedsemantics.com
@@ -59307,6 +59312,7 @@
 ::	www.billcarthy.f9.co.uk
 ::	www.binarysystem4u.com
 ::	www.biphic.com
+::	www.bisselcommercial.com
 ::	www.bitcoadz.io
 ::	www.bitlocker.net
 ::	www.bitmedia.io
@@ -60241,6 +60247,7 @@
 ::	www.jizzads.com
 ::	www.jjbenefitsguide.com
 ::	www.jnhjf.com
+::	www.jobomg.com
 ::	www.joinclap.com
 ::	www.joinfx.net
 ::	www.joinourwebsite.com
@@ -60824,6 +60831,7 @@
 ::	www.prizes.co.uk
 ::	www.probabilidades.net
 ::	www.probusinesshub.com
+::	www.proctou.com
 ::	www.productresearchpanel.com
 ::	www.producttestpanel.com
 ::	www.professionalcash.com
