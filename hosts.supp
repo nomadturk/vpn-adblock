@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 15 Sep 20:06:04 +03 2026
-# Total number of blocked lines: 62070
+# Ad blocking hosts generated Tue 15 Sep 21:06:05 +03 2026
+# Total number of blocked lines: 62074
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28153,6 +28153,7 @@
 0.0.0.0	www.apcort.com
 0.0.0.0	www.api.taboola.com
 0.0.0.0	www.apkfuuny.com
+0.0.0.0	www.aplogia.com
 0.0.0.0	www.apmebf.com
 0.0.0.0	www.apogara.plus.com
 0.0.0.0	www.appfoliio.com
@@ -28246,6 +28247,7 @@
 0.0.0.0	www.be4life.ru
 0.0.0.0	www.beead.co.uk
 0.0.0.0	www.behdja.com
+0.0.0.0	www.beheerflvsebox.com
 0.0.0.0	www.bellamhair.com
 0.0.0.0	www.belstat.com
 0.0.0.0	www.belstat.nl
@@ -59187,6 +59189,7 @@
 ::	www.apcort.com
 ::	www.api.taboola.com
 ::	www.apkfuuny.com
+::	www.aplogia.com
 ::	www.apmebf.com
 ::	www.apogara.plus.com
 ::	www.appfoliio.com
@@ -59280,6 +59283,7 @@
 ::	www.be4life.ru
 ::	www.beead.co.uk
 ::	www.behdja.com
+::	www.beheerflvsebox.com
 ::	www.bellamhair.com
 ::	www.belstat.com
 ::	www.belstat.nl
