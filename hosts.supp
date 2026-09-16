@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 16 Sep 08:06:05 +03 2026
-# Total number of blocked lines: 62074
+# Ad blocking hosts generated Wed 16 Sep 09:06:05 +03 2026
+# Total number of blocked lines: 62076
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -20814,6 +20814,7 @@
 0.0.0.0	quickkoala.io
 0.0.0.0	quickpwn.us.intellitxt.com
 0.0.0.0	quicksaledeal.su
+0.0.0.0	quicktattoo.com
 0.0.0.0	quietknowledge.com
 0.0.0.0	quik2link.com
 0.0.0.0	quik-serv.com
@@ -51850,6 +51851,7 @@
 ::	quickkoala.io
 ::	quickpwn.us.intellitxt.com
 ::	quicksaledeal.su
+::	quicktattoo.com
 ::	quietknowledge.com
 ::	quik2link.com
 ::	quik-serv.com
