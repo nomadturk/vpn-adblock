@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 16 Sep 18:06:04 +03 2026
-# Total number of blocked lines: 62076
+# Ad blocking hosts generated Wed 16 Sep 19:06:05 +03 2026
+# Total number of blocked lines: 62078
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28682,6 +28682,7 @@
 0.0.0.0	www.digisubmission.com
 0.0.0.0	www.digitalbigger.garden
 0.0.0.0	www.digitalcoachpro.name
+0.0.0.0	www.dinasauradventure.com
 0.0.0.0	www.diperformancetransmissions.com
 0.0.0.0	www.directnetadvertising.net
 0.0.0.0	www.direct-stats.com
@@ -59719,6 +59720,7 @@
 ::	www.digisubmission.com
 ::	www.digitalbigger.garden
 ::	www.digitalcoachpro.name
+::	www.dinasauradventure.com
 ::	www.diperformancetransmissions.com
 ::	www.directnetadvertising.net
 ::	www.direct-stats.com
