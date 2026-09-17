@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 17 Sep 02:06:05 +03 2026
-# Total number of blocked lines: 62078
+# Ad blocking hosts generated Thu 17 Sep 03:06:04 +03 2026
+# Total number of blocked lines: 62084
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -28194,6 +28194,7 @@
 0.0.0.0	www.audionoisereducer.com
 0.0.0.0	www.auditprint.com
 0.0.0.0	www.aureate.com
+0.0.0.0	www.autoaler.com
 0.0.0.0	www.autohipnose.com
 0.0.0.0	www.autoinkoopbedrijf.com
 0.0.0.0	www.automotive-offer.com
@@ -28759,6 +28760,7 @@
 0.0.0.0	www.emarketmakers.com
 0.0.0.0	www.emjcd.com
 0.0.0.0	www.emprenderimportaperu.com
+0.0.0.0	www.enargic.com
 0.0.0.0	www.energiazoque.com
 0.0.0.0	www.enhance.com
 0.0.0.0	www.entercasino.com
@@ -28988,6 +28990,7 @@
 0.0.0.0	www.gigdnetwork.com
 0.0.0.0	www.gildedrosens.name
 0.0.0.0	www.gimp.es
+0.0.0.0	www.githubuser.com
 0.0.0.0	www.glassygrovefy.pro
 0.0.0.0	www.globalbuffer.com
 0.0.0.0	www.globalcharge.com
@@ -59232,6 +59235,7 @@
 ::	www.audionoisereducer.com
 ::	www.auditprint.com
 ::	www.aureate.com
+::	www.autoaler.com
 ::	www.autohipnose.com
 ::	www.autoinkoopbedrijf.com
 ::	www.automotive-offer.com
@@ -59797,6 +59801,7 @@
 ::	www.emarketmakers.com
 ::	www.emjcd.com
 ::	www.emprenderimportaperu.com
+::	www.enargic.com
 ::	www.energiazoque.com
 ::	www.enhance.com
 ::	www.entercasino.com
@@ -60026,6 +60031,7 @@
 ::	www.gigdnetwork.com
 ::	www.gildedrosens.name
 ::	www.gimp.es
+::	www.githubuser.com
 ::	www.glassygrovefy.pro
 ::	www.globalbuffer.com
 ::	www.globalcharge.com
