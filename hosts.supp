@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 18 Sep 14:06:04 +03 2026
-# Total number of blocked lines: 62092
+# Ad blocking hosts generated Fri 18 Sep 15:06:05 +03 2026
+# Total number of blocked lines: 62064
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -1490,7 +1490,6 @@
 0.0.0.0	adexprt.me
 0.0.0.0	adexprts.com
 0.0.0.0	adext.inkclub.com
-0.0.0.0	ad.exyws.org
 0.0.0.0	adfactor.nl
 0.0.0.0	adfalcon.com
 0.0.0.0	adfarm1.adition.com
@@ -1810,7 +1809,6 @@
 0.0.0.0	ad.net
 0.0.0.0	adnet.affinity.com
 0.0.0.0	adnet.asahi.com
-0.0.0.0	adnetasia.com
 0.0.0.0	adnet.biz
 0.0.0.0	adnet.com
 0.0.0.0	ad.netcommunities.com
@@ -2094,7 +2092,6 @@
 0.0.0.0	ads2.gamecity.net
 0.0.0.0	ads2.haber3.com
 0.0.0.0	ads2.helpos.com
-0.0.0.0	ads2.hsoub.com
 0.0.0.0	ads2.ihaberadserver.com
 0.0.0.0	ads2.msn.com
 0.0.0.0	ads2.mynet.com
@@ -3392,7 +3389,6 @@
 0.0.0.0	adsponse.de
 0.0.0.0	ad-sponsor.com
 0.0.0.0	ads.popfolkstars.com
-0.0.0.0	ads-portal-cdn.vidaatv.net
 0.0.0.0	ads.po-zdravidnes.com
 0.0.0.0	ads.prd.ie.internal.unity3d.com
 0.0.0.0	adspredictiv.com
@@ -10272,7 +10268,6 @@
 0.0.0.0	deostr.com
 0.0.0.0	department06.fr
 0.0.0.0	depart.trinitymedia.ai
-0.0.0.0	deployads.com
 0.0.0.0	deploy.mopinion.com
 0.0.0.0	depo.realist.gen.tr
 0.0.0.0	deposit-cra2023.com
@@ -10649,7 +10644,6 @@
 0.0.0.0	dr6.biz
 0.0.0.0	dra.amazon-adsystem.com
 0.0.0.0	draco-artgallery.wz.cz
-0.0.0.0	dragonbats.com
 0.0.0.0	dragonfly-express.duckdns.org
 0.0.0.0	dramatic-challenge.com
 0.0.0.0	dr.api.useinsider.com
@@ -12481,7 +12475,6 @@
 0.0.0.0	freighttools.live
 0.0.0.0	frenchbweb.fr
 0.0.0.0	frenesies.fr
-0.0.0.0	frequentflesh.com
 0.0.0.0	freshmarketer.com
 0.0.0.0	freshrelevance.com
 0.0.0.0	fresh.sa.com
@@ -13075,7 +13068,6 @@
 0.0.0.0	go.deliverymodo.com
 0.0.0.0	go.dhs.gov
 0.0.0.0	godpvqnszo.com
-0.0.0.0	godseedband.com
 0.0.0.0	go.eu.bbelements.com
 0.0.0.0	go.eu.sparkpostmail1.com
 0.0.0.0	go.ezodn.com
@@ -13454,7 +13446,6 @@
 0.0.0.0	handelsblatt01.webtrekk.net
 0.0.0.0	handsomehose.com
 0.0.0.0	handyfireman.com
-0.0.0.0	handyincrease.com
 0.0.0.0	hapax.qc.ca
 0.0.0.0	haplesshydrant.com
 0.0.0.0	happyfresh.fr
@@ -15904,7 +15895,6 @@
 0.0.0.0	linuxjournal.us.intellitxt.com
 0.0.0.0	linuxpark.adtech.fr
 0.0.0.0	linuxpark.adtech.us
-0.0.0.0	li.onetravel.com
 0.0.0.0	lionstracking.com
 0.0.0.0	li.patheos.com
 0.0.0.0	li.pmc.com
@@ -21332,7 +21322,6 @@
 0.0.0.0	revprotect.com
 0.0.0.0	revrtb.com
 0.0.0.0	revsci.net
-0.0.0.0	revstats.com
 0.0.0.0	rewarded-video.fyber.com
 0.0.0.0	rewardpoll.com
 0.0.0.0	rewardsflow.com
@@ -21808,7 +21797,6 @@
 0.0.0.0	sadc1.outbrain.org
 0.0.0.0	s.adframesrc.com
 0.0.0.0	sadjklq.com
-0.0.0.0	sadloaf.com
 0.0.0.0	s.admathhd.com
 0.0.0.0	s.admulti.com
 0.0.0.0	s.adroll.com
@@ -22735,7 +22723,6 @@
 0.0.0.0	show-m.mediav.com
 0.0.0.0	show-msgch.qq.com
 0.0.0.0	show.onenetworkdirect.net
-0.0.0.0	shredform.com
 0.0.0.0	shrek.6.cn
 0.0.0.0	shrillspoon.com
 0.0.0.0	shrimpsqueezed.com
@@ -23157,7 +23144,6 @@
 0.0.0.0	so.rlcdn.com
 0.0.0.0	s.oroll.com
 0.0.0.0	sor-sdk.follow-apps.com
-0.0.0.0	sortable.com
 0.0.0.0	sortis.lt
 0.0.0.0	sosohus.ink
 0.0.0.0	soundpublishing.blueconic.net
@@ -32535,7 +32521,6 @@
 ::	adexprt.me
 ::	adexprts.com
 ::	adext.inkclub.com
-::	ad.exyws.org
 ::	adfactor.nl
 ::	adfalcon.com
 ::	adfarm1.adition.com
@@ -32855,7 +32840,6 @@
 ::	ad.net
 ::	adnet.affinity.com
 ::	adnet.asahi.com
-::	adnetasia.com
 ::	adnet.biz
 ::	adnet.com
 ::	ad.netcommunities.com
@@ -33139,7 +33123,6 @@
 ::	ads2.gamecity.net
 ::	ads2.haber3.com
 ::	ads2.helpos.com
-::	ads2.hsoub.com
 ::	ads2.ihaberadserver.com
 ::	ads2.msn.com
 ::	ads2.mynet.com
@@ -34437,7 +34420,6 @@
 ::	adsponse.de
 ::	ad-sponsor.com
 ::	ads.popfolkstars.com
-::	ads-portal-cdn.vidaatv.net
 ::	ads.po-zdravidnes.com
 ::	ads.prd.ie.internal.unity3d.com
 ::	adspredictiv.com
@@ -41317,7 +41299,6 @@
 ::	deostr.com
 ::	department06.fr
 ::	depart.trinitymedia.ai
-::	deployads.com
 ::	deploy.mopinion.com
 ::	depo.realist.gen.tr
 ::	deposit-cra2023.com
@@ -41694,7 +41675,6 @@
 ::	dr6.biz
 ::	dra.amazon-adsystem.com
 ::	draco-artgallery.wz.cz
-::	dragonbats.com
 ::	dragonfly-express.duckdns.org
 ::	dramatic-challenge.com
 ::	dr.api.useinsider.com
@@ -43526,7 +43506,6 @@
 ::	freighttools.live
 ::	frenchbweb.fr
 ::	frenesies.fr
-::	frequentflesh.com
 ::	freshmarketer.com
 ::	freshrelevance.com
 ::	fresh.sa.com
@@ -44120,7 +44099,6 @@
 ::	go.deliverymodo.com
 ::	go.dhs.gov
 ::	godpvqnszo.com
-::	godseedband.com
 ::	go.eu.bbelements.com
 ::	go.eu.sparkpostmail1.com
 ::	go.ezodn.com
@@ -44499,7 +44477,6 @@
 ::	handelsblatt01.webtrekk.net
 ::	handsomehose.com
 ::	handyfireman.com
-::	handyincrease.com
 ::	hapax.qc.ca
 ::	haplesshydrant.com
 ::	happyfresh.fr
@@ -46949,7 +46926,6 @@
 ::	linuxjournal.us.intellitxt.com
 ::	linuxpark.adtech.fr
 ::	linuxpark.adtech.us
-::	li.onetravel.com
 ::	lionstracking.com
 ::	li.patheos.com
 ::	li.pmc.com
@@ -52377,7 +52353,6 @@
 ::	revprotect.com
 ::	revrtb.com
 ::	revsci.net
-::	revstats.com
 ::	rewarded-video.fyber.com
 ::	rewardpoll.com
 ::	rewardsflow.com
@@ -52853,7 +52828,6 @@
 ::	sadc1.outbrain.org
 ::	s.adframesrc.com
 ::	sadjklq.com
-::	sadloaf.com
 ::	s.admathhd.com
 ::	s.admulti.com
 ::	s.adroll.com
@@ -53780,7 +53754,6 @@
 ::	show-m.mediav.com
 ::	show-msgch.qq.com
 ::	show.onenetworkdirect.net
-::	shredform.com
 ::	shrek.6.cn
 ::	shrillspoon.com
 ::	shrimpsqueezed.com
@@ -54202,7 +54175,6 @@
 ::	so.rlcdn.com
 ::	s.oroll.com
 ::	sor-sdk.follow-apps.com
-::	sortable.com
 ::	sortis.lt
 ::	sosohus.ink
 ::	soundpublishing.blueconic.net
