@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 18 Sep 20:06:05 +03 2026
-# Total number of blocked lines: 62064
+# Ad blocking hosts generated Fri 18 Sep 21:06:04 +03 2026
+# Total number of blocked lines: 62068
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -29399,6 +29399,7 @@
 0.0.0.0	www.mb01.com
 0.0.0.0	www.mb102.com
 0.0.0.0	www.mb57.com
+0.0.0.0	www.mcclartyauto.com
 0.0.0.0	www.mcsqd.com
 0.0.0.0	www.mczbf.com
 0.0.0.0	www.mdarussellhobbs.com
@@ -30558,6 +30559,7 @@
 0.0.0.0	www.yixiudn.com
 0.0.0.0	www.ylgj789.com
 0.0.0.0	www.yoolyes.com
+0.0.0.0	www.yottacash.com
 0.0.0.0	www.youaresogay.com
 0.0.0.0	www.youfck.com
 0.0.0.0	www.youfiletor.com
@@ -60430,6 +60432,7 @@
 ::	www.mb01.com
 ::	www.mb102.com
 ::	www.mb57.com
+::	www.mcclartyauto.com
 ::	www.mcsqd.com
 ::	www.mczbf.com
 ::	www.mdarussellhobbs.com
@@ -61589,6 +61592,7 @@
 ::	www.yixiudn.com
 ::	www.ylgj789.com
 ::	www.yoolyes.com
+::	www.yottacash.com
 ::	www.youaresogay.com
 ::	www.youfck.com
 ::	www.youfiletor.com
