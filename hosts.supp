@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 18 Sep 08:06:05 +03 2026
-# Total number of blocked lines: 62090
+# Ad blocking hosts generated Fri 18 Sep 09:06:05 +03 2026
+# Total number of blocked lines: 62092
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -6890,6 +6890,7 @@
 0.0.0.0	bouygiestelecom.fr
 0.0.0.0	bowie-cdn.fathomdns.com
 0.0.0.0	bowlgirl.com
+0.0.0.0	bowlinvit.site
 0.0.0.0	box.anchorfree.net
 0.0.0.0	box-en.com
 0.0.0.0	boxes-mix.net
@@ -37934,6 +37935,7 @@
 ::	bouygiestelecom.fr
 ::	bowie-cdn.fathomdns.com
 ::	bowlgirl.com
+::	bowlinvit.site
 ::	box.anchorfree.net
 ::	box-en.com
 ::	boxes-mix.net
