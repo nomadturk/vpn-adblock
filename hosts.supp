@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 21 Sep 18:06:04 +03 2026
-# Total number of blocked lines: 62072
+# Ad blocking hosts generated Mon 21 Sep 19:06:05 +03 2026
+# Total number of blocked lines: 62078
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -18735,8 +18735,10 @@
 0.0.0.0	offers.bycontext.com
 0.0.0.0	offers.cdn.natpal.com
 0.0.0.0	offers.cloackp.com
+0.0.0.0	offers.gateway-lts450.com
 0.0.0.0	offers.impower.com
 0.0.0.0	offer.slgnt.eu
+0.0.0.0	offers.ltsc-has.com
 0.0.0.0	offers.nordvpn.com
 0.0.0.0	offer.sponsorpay.com
 0.0.0.0	offers.royalvegascasino.com
@@ -25385,6 +25387,7 @@
 0.0.0.0	tracking.feedmob.com
 0.0.0.0	tracking.foxnews.com
 0.0.0.0	tracking.gajmp.com
+0.0.0.0	tracking.gauchosurf.com
 0.0.0.0	tracking.godatafeed.com
 0.0.0.0	tracking.hittail.com
 0.0.0.0	tracking.hostgator.com
@@ -49770,8 +49773,10 @@
 ::	offers.bycontext.com
 ::	offers.cdn.natpal.com
 ::	offers.cloackp.com
+::	offers.gateway-lts450.com
 ::	offers.impower.com
 ::	offer.slgnt.eu
+::	offers.ltsc-has.com
 ::	offers.nordvpn.com
 ::	offer.sponsorpay.com
 ::	offers.royalvegascasino.com
@@ -56420,6 +56425,7 @@
 ::	tracking.feedmob.com
 ::	tracking.foxnews.com
 ::	tracking.gajmp.com
+::	tracking.gauchosurf.com
 ::	tracking.godatafeed.com
 ::	tracking.hittail.com
 ::	tracking.hostgator.com
