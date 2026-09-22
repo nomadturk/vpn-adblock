@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 22 Sep 20:06:05 +03 2026
-# Total number of blocked lines: 62080
+# Ad blocking hosts generated Tue 22 Sep 21:06:05 +03 2026
+# Total number of blocked lines: 62084
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -1201,6 +1201,7 @@
 0.0.0.0	ad.71i.de
 0.0.0.0	ad7.bannerbank.ru
 0.0.0.0	ad7.bigmir.net
+0.0.0.0	ad7.biz
 0.0.0.0	ad7.checkm8.com
 0.0.0.0	ad7digital.checkm8.com
 0.0.0.0	ad7.gueb.com
@@ -25566,6 +25567,7 @@
 0.0.0.0	track.msadcenter.zvjw.com
 0.0.0.0	track.msadcenter.zzv.com
 0.0.0.0	trackmysales.com
+0.0.0.0	track-na2.hubspot.com
 0.0.0.0	track.nationalgunrights.org
 0.0.0.0	tracknet.twyn.com
 0.0.0.0	track.nifty.com
@@ -32240,6 +32242,7 @@
 ::	ad.71i.de
 ::	ad7.bannerbank.ru
 ::	ad7.bigmir.net
+::	ad7.biz
 ::	ad7.checkm8.com
 ::	ad7digital.checkm8.com
 ::	ad7.gueb.com
@@ -56605,6 +56608,7 @@
 ::	track.msadcenter.zvjw.com
 ::	track.msadcenter.zzv.com
 ::	trackmysales.com
+::	track-na2.hubspot.com
 ::	track.nationalgunrights.org
 ::	tracknet.twyn.com
 ::	track.nifty.com
