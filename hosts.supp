@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 22 Sep 17:06:05 +03 2026
-# Total number of blocked lines: 62078
+# Ad blocking hosts generated Tue 22 Sep 18:06:05 +03 2026
+# Total number of blocked lines: 62080
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -21436,6 +21436,7 @@
 0.0.0.0	rodeoconfig.yodo1api.com
 0.0.0.0	rogers-wirelessphone.com
 0.0.0.0	ro-gmtdmp.mookie1.com
+0.0.0.0	roguephilosopher.com
 0.0.0.0	roia.biz
 0.0.0.0	roimedia.advertserve.com
 0.0.0.0	roivant.fr
@@ -52474,6 +52475,7 @@
 ::	rodeoconfig.yodo1api.com
 ::	rogers-wirelessphone.com
 ::	ro-gmtdmp.mookie1.com
+::	roguephilosopher.com
 ::	roia.biz
 ::	roimedia.advertserve.com
 ::	roivant.fr
