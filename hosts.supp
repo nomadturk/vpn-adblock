@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 25 Sep 14:06:05 +03 2026
-# Total number of blocked lines: 62084
+# Ad blocking hosts generated Fri 25 Sep 15:06:04 +03 2026
+# Total number of blocked lines: 62076
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -2580,7 +2580,6 @@
 0.0.0.0	ad.sensismediasmart.com.au
 0.0.0.0	ads.epi.sk
 0.0.0.0	ads.e-planning.net
-0.0.0.0	ads.epltalk.com
 0.0.0.0	ads.eqads.com
 0.0.0.0	ads.ere.net
 0.0.0.0	ads.ero-advertising.com
@@ -9560,7 +9559,6 @@
 0.0.0.0	cpx.to
 0.0.0.0	cqcounter.com
 0.0.0.0	cra-arc-gc-ca.noads.biz
-0.0.0.0	crabbychin.com
 0.0.0.0	cra-documents.ca
 0.0.0.0	cra-etransfer.online
 0.0.0.0	cra.hum.works
@@ -13070,6 +13068,7 @@
 0.0.0.0	go.deliverymodo.com
 0.0.0.0	go.dhs.gov
 0.0.0.0	godpvqnszo.com
+0.0.0.0	godseedband.com
 0.0.0.0	go.eu.bbelements.com
 0.0.0.0	go.eu.sparkpostmail1.com
 0.0.0.0	go.ezodn.com
@@ -14902,7 +14901,6 @@
 0.0.0.0	ivillage.us.intellitxt.com
 0.0.0.0	ivoirmixdj.fr
 0.0.0.0	ivox.socratos.net
-0.0.0.0	ivwbox.de
 0.0.0.0	ivykiosk.com
 0.0.0.0	i.w55c.net
 0.0.0.0	iwanttodeliver.com
@@ -21006,7 +21004,6 @@
 0.0.0.0	receptivereaction.com
 0.0.0.0	recettes-vegetariennes.fr
 0.0.0.0	recevoirlatntn.fr
-0.0.0.0	recoco.it
 0.0.0.0	recommendation-api.analytics.onedio.com
 0.0.0.0	recommendedforyou.xyz
 0.0.0.0	recommender.scarabresearch.com
@@ -21591,7 +21588,6 @@
 0.0.0.0	rtb.pclick.yahoo.com
 0.0.0.0	rtbplatform.net
 0.0.0.0	rtbpop.com
-0.0.0.0	rtbpopd.com
 0.0.0.0	rtb.programattik.com
 0.0.0.0	rtbproxy.mgid.com
 0.0.0.0	rtbrennab.com
@@ -33621,7 +33617,6 @@
 ::	ad.sensismediasmart.com.au
 ::	ads.epi.sk
 ::	ads.e-planning.net
-::	ads.epltalk.com
 ::	ads.eqads.com
 ::	ads.ere.net
 ::	ads.ero-advertising.com
@@ -40601,7 +40596,6 @@
 ::	cpx.to
 ::	cqcounter.com
 ::	cra-arc-gc-ca.noads.biz
-::	crabbychin.com
 ::	cra-documents.ca
 ::	cra-etransfer.online
 ::	cra.hum.works
@@ -44111,6 +44105,7 @@
 ::	go.deliverymodo.com
 ::	go.dhs.gov
 ::	godpvqnszo.com
+::	godseedband.com
 ::	go.eu.bbelements.com
 ::	go.eu.sparkpostmail1.com
 ::	go.ezodn.com
@@ -45943,7 +45938,6 @@
 ::	ivillage.us.intellitxt.com
 ::	ivoirmixdj.fr
 ::	ivox.socratos.net
-::	ivwbox.de
 ::	ivykiosk.com
 ::	i.w55c.net
 ::	iwanttodeliver.com
@@ -52047,7 +52041,6 @@
 ::	receptivereaction.com
 ::	recettes-vegetariennes.fr
 ::	recevoirlatntn.fr
-::	recoco.it
 ::	recommendation-api.analytics.onedio.com
 ::	recommendedforyou.xyz
 ::	recommender.scarabresearch.com
@@ -52632,7 +52625,6 @@
 ::	rtb.pclick.yahoo.com
 ::	rtbplatform.net
 ::	rtbpop.com
-::	rtbpopd.com
 ::	rtb.programattik.com
 ::	rtbproxy.mgid.com
 ::	rtbrennab.com
