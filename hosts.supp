@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 30 Sep 14:06:05 +03 2026
-# Total number of blocked lines: 62078
+# Ad blocking hosts generated Wed 30 Sep 15:06:04 +03 2026
+# Total number of blocked lines: 62080
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -24823,6 +24823,7 @@
 0.0.0.0	thebestone.click
 0.0.0.0	the-best-track.com
 0.0.0.0	thebestwebpillplace.com
+0.0.0.0	thebicyclehut.com
 0.0.0.0	the-binary-trader.biz
 0.0.0.0	thebitcrew.com
 0.0.0.0	theblemish.us.intellitxt.com
@@ -55861,6 +55862,7 @@
 ::	thebestone.click
 ::	the-best-track.com
 ::	thebestwebpillplace.com
+::	thebicyclehut.com
 ::	the-binary-trader.biz
 ::	thebitcrew.com
 ::	theblemish.us.intellitxt.com
