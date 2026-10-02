@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri  2 Oct 14:06:05 +03 2026
-# Total number of blocked lines: 62080
+# Ad blocking hosts generated Fri  2 Oct 15:06:05 +03 2026
+# Total number of blocked lines: 62078
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -426,6 +426,7 @@
 0.0.0.0	4wmp.nuggad.net
 0.0.0.0	4w-wrestling.us.intellitxt.com
 0.0.0.0	506.xg4ken.com
+0.0.0.0	50websads.com
 0.0.0.0	510002161.collect.igodigital.com
 0.0.0.0	518ad.com
 0.0.0.0	51af72.r.axf8.net
@@ -3933,6 +3934,7 @@
 0.0.0.0	adv.blogupp.com
 0.0.0.0	adv.consadbg.com
 0.0.0.0	advconversion.com
+0.0.0.0	adv.donejty.pl
 0.0.0.0	adv.dontcrack.com
 0.0.0.0	adv.drtuber.com
 0.0.0.0	ad.ve.doubleclick.net
@@ -4225,7 +4227,6 @@
 0.0.0.0	affiliates.yourapprovaltracker.com
 0.0.0.0	affiliatetracking.com
 0.0.0.0	affiliatetracking.net
-0.0.0.0	affiliate.travelnow.com
 0.0.0.0	affiliate.treated.com
 0.0.0.0	affiliate.trk4.com
 0.0.0.0	affiliatewindow.com
@@ -9514,7 +9515,6 @@
 0.0.0.0	co.vaicore.site
 0.0.0.0	co.vaicore.xyz
 0.0.0.0	cover9.adultfriendfinder.com
-0.0.0.0	cowbelltime.com
 0.0.0.0	cowboy.contextuads.com
 0.0.0.0	cowcotland.fr.intellitxt.com
 0.0.0.0	cox.deliveryengine.adswizz.com
@@ -10362,7 +10362,6 @@
 0.0.0.0	diazepam.ourtablets.com
 0.0.0.0	diazepam.razma.net
 0.0.0.0	diazepam.shengen.ru
-0.0.0.0	dicecandies.com
 0.0.0.0	dickssportinggoods.demdex.net
 0.0.0.0	did.ijinshan.com
 0.0.0.0	didrex.1.p2l.info
@@ -14444,7 +14443,6 @@
 0.0.0.0	imppl.tradedoubler.com
 0.0.0.0	imprammp.taboola.com
 0.0.0.0	imprchmp.taboola.com
-0.0.0.0	imprese.cz
 0.0.0.0	impression.appsflyer.com
 0.0.0.0	impression-asia.liftoff.io
 0.0.0.0	impression-east.liftoff.io
@@ -14902,6 +14900,7 @@
 0.0.0.0	ivillage.us.intellitxt.com
 0.0.0.0	ivoirmixdj.fr
 0.0.0.0	ivox.socratos.net
+0.0.0.0	ivwbox.de
 0.0.0.0	ivykiosk.com
 0.0.0.0	i.w55c.net
 0.0.0.0	iwanttodeliver.com
@@ -31465,6 +31464,7 @@
 ::	4wmp.nuggad.net
 ::	4w-wrestling.us.intellitxt.com
 ::	506.xg4ken.com
+::	50websads.com
 ::	510002161.collect.igodigital.com
 ::	518ad.com
 ::	51af72.r.axf8.net
@@ -34972,6 +34972,7 @@
 ::	adv.blogupp.com
 ::	adv.consadbg.com
 ::	advconversion.com
+::	adv.donejty.pl
 ::	adv.dontcrack.com
 ::	adv.drtuber.com
 ::	ad.ve.doubleclick.net
@@ -35264,7 +35265,6 @@
 ::	affiliates.yourapprovaltracker.com
 ::	affiliatetracking.com
 ::	affiliatetracking.net
-::	affiliate.travelnow.com
 ::	affiliate.treated.com
 ::	affiliate.trk4.com
 ::	affiliatewindow.com
@@ -40553,7 +40553,6 @@
 ::	co.vaicore.site
 ::	co.vaicore.xyz
 ::	cover9.adultfriendfinder.com
-::	cowbelltime.com
 ::	cowboy.contextuads.com
 ::	cowcotland.fr.intellitxt.com
 ::	cox.deliveryengine.adswizz.com
@@ -41401,7 +41400,6 @@
 ::	diazepam.ourtablets.com
 ::	diazepam.razma.net
 ::	diazepam.shengen.ru
-::	dicecandies.com
 ::	dickssportinggoods.demdex.net
 ::	did.ijinshan.com
 ::	didrex.1.p2l.info
@@ -45483,7 +45481,6 @@
 ::	imppl.tradedoubler.com
 ::	imprammp.taboola.com
 ::	imprchmp.taboola.com
-::	imprese.cz
 ::	impression.appsflyer.com
 ::	impression-asia.liftoff.io
 ::	impression-east.liftoff.io
@@ -45941,6 +45938,7 @@
 ::	ivillage.us.intellitxt.com
 ::	ivoirmixdj.fr
 ::	ivox.socratos.net
+::	ivwbox.de
 ::	ivykiosk.com
 ::	i.w55c.net
 ::	iwanttodeliver.com
