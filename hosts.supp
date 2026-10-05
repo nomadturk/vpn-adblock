@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon  5 Oct 12:06:05 +03 2026
-# Total number of blocked lines: 62080
+# Ad blocking hosts generated Mon  5 Oct 13:06:05 +03 2026
+# Total number of blocked lines: 62082
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -21449,6 +21449,7 @@
 0.0.0.0	ronracepub.com
 0.0.0.0	roosevelt.gjbig.com
 0.0.0.0	rootbuzz.com
+0.0.0.0	r.openai.com
 0.0.0.0	r.openx.net
 0.0.0.0	ro.search.etargetnet.com
 0.0.0.0	rose.ixbt.com
@@ -52488,6 +52489,7 @@
 ::	ronracepub.com
 ::	roosevelt.gjbig.com
 ::	rootbuzz.com
+::	r.openai.com
 ::	r.openx.net
 ::	ro.search.etargetnet.com
 ::	rose.ixbt.com
