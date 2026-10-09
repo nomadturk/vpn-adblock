@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri  9 Oct 14:06:05 +03 2026
-# Total number of blocked lines: 62078
+# Ad blocking hosts generated Fri  9 Oct 15:06:05 +03 2026
+# Total number of blocked lines: 62074
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -3932,7 +3932,6 @@
 0.0.0.0	adv.blogupp.com
 0.0.0.0	adv.consadbg.com
 0.0.0.0	advconversion.com
-0.0.0.0	adv.donejty.pl
 0.0.0.0	adv.dontcrack.com
 0.0.0.0	adv.drtuber.com
 0.0.0.0	ad.ve.doubleclick.net
@@ -4535,7 +4534,6 @@
 0.0.0.0	amp.permutive.com
 0.0.0.0	amp.rd.linksynergy.com
 0.0.0.0	amprtc.media.net
-0.0.0.0	ampscamp.net
 0.0.0.0	amrytt.adk2x.com
 0.0.0.0	ams1-ib.adnxs.com
 0.0.0.0	ams1.ib.adnxs.com
@@ -10642,6 +10640,7 @@
 0.0.0.0	dr6.biz
 0.0.0.0	dra.amazon-adsystem.com
 0.0.0.0	draco-artgallery.wz.cz
+0.0.0.0	dragonbats.com
 0.0.0.0	dragonfly-express.duckdns.org
 0.0.0.0	dramatic-challenge.com
 0.0.0.0	dr.api.useinsider.com
@@ -11377,7 +11376,6 @@
 0.0.0.0	elv3-tslogging.touchcommerce.com
 0.0.0.0	elyses.fr
 0.0.0.0	elzaservis.cz
-0.0.0.0	em1.yoursantander.co.uk
 0.0.0.0	emagicone.fr
 0.0.0.0	emailer.stockbit.com
 0.0.0.0	email.headers.digital
@@ -11758,6 +11756,7 @@
 0.0.0.0	everesttech.net
 0.0.0.0	evergage.com
 0.0.0.0	everlywell.extole.io
+0.0.0.0	eversales.space
 0.0.0.0	everydayhealth.demdex.net
 0.0.0.0	everyjoe.us.intellitxt.com
 0.0.0.0	ev.ib-ibi.com
@@ -14083,7 +14082,6 @@
 0.0.0.0	i.ctnsnet.com
 0.0.0.0	ic.tynt.com
 0.0.0.0	icydk.us.intellitxt.com
-0.0.0.0	icywinter.com
 0.0.0.0	id11938.luxup.ru
 0.0.0.0	id1.cn
 0.0.0.0	id3103.com
@@ -14442,6 +14440,7 @@
 0.0.0.0	imppl.tradedoubler.com
 0.0.0.0	imprammp.taboola.com
 0.0.0.0	imprchmp.taboola.com
+0.0.0.0	imprese.cz
 0.0.0.0	impression.appsflyer.com
 0.0.0.0	impression-asia.liftoff.io
 0.0.0.0	impression-east.liftoff.io
@@ -22724,6 +22723,7 @@
 0.0.0.0	show-m.mediav.com
 0.0.0.0	show-msgch.qq.com
 0.0.0.0	show.onenetworkdirect.net
+0.0.0.0	shredform.com
 0.0.0.0	shrek.6.cn
 0.0.0.0	shrillspoon.com
 0.0.0.0	shrimpsqueezed.com
@@ -25435,7 +25435,6 @@
 0.0.0.0	tracking.pandoiq.com
 0.0.0.0	tracking.pennystockpicks.net
 0.0.0.0	tracking.percentmobile.com
-0.0.0.0	tracking.p-l-m.com
 0.0.0.0	tracking.propellerads.com
 0.0.0.0	tracking.publicidees.com
 0.0.0.0	tracking.pushcrew.com
@@ -25813,7 +25812,6 @@
 0.0.0.0	trkoptimizer.com
 0.0.0.0	trk.pinterest.com
 0.0.0.0	trkpnt.ongage.net
-0.0.0.0	trk.sayerfinancial.com
 0.0.0.0	trk.securesmrt-dt.com
 0.0.0.0	trk.storyly.io
 0.0.0.0	trk.superads.cn
@@ -34970,7 +34968,6 @@
 ::	adv.blogupp.com
 ::	adv.consadbg.com
 ::	advconversion.com
-::	adv.donejty.pl
 ::	adv.dontcrack.com
 ::	adv.drtuber.com
 ::	ad.ve.doubleclick.net
@@ -35573,7 +35570,6 @@
 ::	amp.permutive.com
 ::	amp.rd.linksynergy.com
 ::	amprtc.media.net
-::	ampscamp.net
 ::	amrytt.adk2x.com
 ::	ams1-ib.adnxs.com
 ::	ams1.ib.adnxs.com
@@ -41680,6 +41676,7 @@
 ::	dr6.biz
 ::	dra.amazon-adsystem.com
 ::	draco-artgallery.wz.cz
+::	dragonbats.com
 ::	dragonfly-express.duckdns.org
 ::	dramatic-challenge.com
 ::	dr.api.useinsider.com
@@ -42415,7 +42412,6 @@
 ::	elv3-tslogging.touchcommerce.com
 ::	elyses.fr
 ::	elzaservis.cz
-::	em1.yoursantander.co.uk
 ::	emagicone.fr
 ::	emailer.stockbit.com
 ::	email.headers.digital
@@ -42796,6 +42792,7 @@
 ::	everesttech.net
 ::	evergage.com
 ::	everlywell.extole.io
+::	eversales.space
 ::	everydayhealth.demdex.net
 ::	everyjoe.us.intellitxt.com
 ::	ev.ib-ibi.com
@@ -45121,7 +45118,6 @@
 ::	i.ctnsnet.com
 ::	ic.tynt.com
 ::	icydk.us.intellitxt.com
-::	icywinter.com
 ::	id11938.luxup.ru
 ::	id1.cn
 ::	id3103.com
@@ -45480,6 +45476,7 @@
 ::	imppl.tradedoubler.com
 ::	imprammp.taboola.com
 ::	imprchmp.taboola.com
+::	imprese.cz
 ::	impression.appsflyer.com
 ::	impression-asia.liftoff.io
 ::	impression-east.liftoff.io
@@ -53762,6 +53759,7 @@
 ::	show-m.mediav.com
 ::	show-msgch.qq.com
 ::	show.onenetworkdirect.net
+::	shredform.com
 ::	shrek.6.cn
 ::	shrillspoon.com
 ::	shrimpsqueezed.com
@@ -56473,7 +56471,6 @@
 ::	tracking.pandoiq.com
 ::	tracking.pennystockpicks.net
 ::	tracking.percentmobile.com
-::	tracking.p-l-m.com
 ::	tracking.propellerads.com
 ::	tracking.publicidees.com
 ::	tracking.pushcrew.com
@@ -56851,7 +56848,6 @@
 ::	trkoptimizer.com
 ::	trk.pinterest.com
 ::	trkpnt.ongage.net
-::	trk.sayerfinancial.com
 ::	trk.securesmrt-dt.com
 ::	trk.storyly.io
 ::	trk.superads.cn
