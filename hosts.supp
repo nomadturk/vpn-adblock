@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri  9 Oct 13:06:05 +03 2026
-# Total number of blocked lines: 62082
+# Ad blocking hosts generated Fri  9 Oct 14:06:05 +03 2026
+# Total number of blocked lines: 62078
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -1348,7 +1348,6 @@
 0.0.0.0	adcache.nymag.com
 0.0.0.0	adc-ad-assets.adtilt.com
 0.0.0.0	ad.ca.doubleclick.net
-0.0.0.0	adcampo.com
 0.0.0.0	adcanadian.com
 0.0.0.0	adcannyads.com
 0.0.0.0	adcanopus.offerstrack.net
@@ -1763,7 +1762,6 @@
 0.0.0.0	admez.com
 0.0.0.0	adm.funshion.com
 0.0.0.0	adm.fwmrm.net
-0.0.0.0	ad.mg
 0.0.0.0	adm.hotjar.com
 0.0.0.0	admicro1.vcmedia.vn
 0.0.0.0	admidadsp.com
@@ -32388,7 +32386,6 @@
 ::	adcache.nymag.com
 ::	adc-ad-assets.adtilt.com
 ::	ad.ca.doubleclick.net
-::	adcampo.com
 ::	adcanadian.com
 ::	adcannyads.com
 ::	adcanopus.offerstrack.net
@@ -32803,7 +32800,6 @@
 ::	admez.com
 ::	adm.funshion.com
 ::	adm.fwmrm.net
-::	ad.mg
 ::	adm.hotjar.com
 ::	admicro1.vcmedia.vn
 ::	admidadsp.com
