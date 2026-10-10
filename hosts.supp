@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat 10 Oct 19:06:04 +03 2026
-# Total number of blocked lines: 62074
+# Ad blocking hosts generated Sat 10 Oct 20:06:04 +03 2026
+# Total number of blocked lines: 62076
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -22570,6 +22570,7 @@
 0.0.0.0	serwisy.gremimedia.pl
 0.0.0.0	serw.myroitracking.com
 0.0.0.0	se.sitestat.com
+0.0.0.0	session.bugsnag.kindle.amazon.dev
 0.0.0.0	sessioncam.com
 0.0.0.0	sessions.bugsnag.com
 0.0.0.0	setrise.nl
@@ -53606,6 +53607,7 @@
 ::	serwisy.gremimedia.pl
 ::	serw.myroitracking.com
 ::	se.sitestat.com
+::	session.bugsnag.kindle.amazon.dev
 ::	sessioncam.com
 ::	sessions.bugsnag.com
 ::	setrise.nl
