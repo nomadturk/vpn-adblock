@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 15 Oct 21:06:12 +03 2026
-# Total number of blocked lines: 62080
+# Ad blocking hosts generated Thu 15 Oct 22:06:04 +03 2026
+# Total number of blocked lines: 62082
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -5720,6 +5720,7 @@
 0.0.0.0	assets.vidora.com
 0.0.0.0	assets-widget-l3.flixcdn.com
 0.0.0.0	as.sexad.net
+0.0.0.0	assistance.app-claude-ai.online
 0.0.0.0	assistcom.fr
 0.0.0.0	assistjs.skimresources.com
 0.0.0.0	a-ssl.ligatus.com
@@ -36759,6 +36760,7 @@
 ::	assets.vidora.com
 ::	assets-widget-l3.flixcdn.com
 ::	as.sexad.net
+::	assistance.app-claude-ai.online
 ::	assistcom.fr
 ::	assistjs.skimresources.com
 ::	a-ssl.ligatus.com
