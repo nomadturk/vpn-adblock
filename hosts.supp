@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 16 Oct 14:06:05 +03 2026
-# Total number of blocked lines: 62112
+# Ad blocking hosts generated Fri 16 Oct 15:06:05 +03 2026
+# Total number of blocked lines: 62114
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -3935,6 +3935,7 @@
 0.0.0.0	adv.blogupp.com
 0.0.0.0	adv.consadbg.com
 0.0.0.0	advconversion.com
+0.0.0.0	adv.donejty.pl
 0.0.0.0	adv.dontcrack.com
 0.0.0.0	adv.drtuber.com
 0.0.0.0	ad.ve.doubleclick.net
@@ -12482,6 +12483,7 @@
 0.0.0.0	freighttools.live
 0.0.0.0	frenchbweb.fr
 0.0.0.0	frenesies.fr
+0.0.0.0	frequentflesh.com
 0.0.0.0	freshmarketer.com
 0.0.0.0	freshrelevance.com
 0.0.0.0	fresh.sa.com
@@ -13454,6 +13456,7 @@
 0.0.0.0	handelsblatt01.webtrekk.net
 0.0.0.0	handsomehose.com
 0.0.0.0	handyfireman.com
+0.0.0.0	handyincrease.com
 0.0.0.0	hapax.qc.ca
 0.0.0.0	haplesshydrant.com
 0.0.0.0	happyfresh.fr
@@ -21208,7 +21211,6 @@
 0.0.0.0	remodelingonlinecom.112.2o7.net
 0.0.0.0	remote-data.asnapieu.com
 0.0.0.0	remote-data.urbanairship.com
-0.0.0.0	remox.com
 0.0.0.0	rem.rezonmedia.eu
 0.0.0.0	renacious.nwwadq.cn
 0.0.0.0	rencontreavenue.com
@@ -23283,7 +23285,6 @@
 0.0.0.0	spotxchange.com
 0.0.0.0	spotx.tv
 0.0.0.0	s.ppjol.net
-0.0.0.0	springbot.com
 0.0.0.0	springclick-ads.s3.amazonaws.com
 0.0.0.0	springserve.com
 0.0.0.0	sprint.asapp.com
@@ -34990,6 +34991,7 @@
 ::	adv.blogupp.com
 ::	adv.consadbg.com
 ::	advconversion.com
+::	adv.donejty.pl
 ::	adv.dontcrack.com
 ::	adv.drtuber.com
 ::	ad.ve.doubleclick.net
@@ -43537,6 +43539,7 @@
 ::	freighttools.live
 ::	frenchbweb.fr
 ::	frenesies.fr
+::	frequentflesh.com
 ::	freshmarketer.com
 ::	freshrelevance.com
 ::	fresh.sa.com
@@ -44509,6 +44512,7 @@
 ::	handelsblatt01.webtrekk.net
 ::	handsomehose.com
 ::	handyfireman.com
+::	handyincrease.com
 ::	hapax.qc.ca
 ::	haplesshydrant.com
 ::	happyfresh.fr
@@ -52263,7 +52267,6 @@
 ::	remodelingonlinecom.112.2o7.net
 ::	remote-data.asnapieu.com
 ::	remote-data.urbanairship.com
-::	remox.com
 ::	rem.rezonmedia.eu
 ::	renacious.nwwadq.cn
 ::	rencontreavenue.com
@@ -54338,7 +54341,6 @@
 ::	spotxchange.com
 ::	spotx.tv
 ::	s.ppjol.net
-::	springbot.com
 ::	springclick-ads.s3.amazonaws.com
 ::	springserve.com
 ::	sprint.asapp.com
