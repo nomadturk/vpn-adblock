@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 16 Oct 13:06:04 +03 2026
-# Total number of blocked lines: 62082
+# Ad blocking hosts generated Fri 16 Oct 14:06:05 +03 2026
+# Total number of blocked lines: 62112
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -3083,6 +3083,7 @@
 0.0.0.0	ads-img.mozilla.org
 0.0.0.0	ads.imguol.com
 0.0.0.0	ads.imgur.com
+0.0.0.0	ads-impressions.com
 0.0.0.0	adsim.sabah.com.tr
 0.0.0.0	ads.indeed.com
 0.0.0.0	ads.independent.com.mt
@@ -3237,6 +3238,7 @@
 0.0.0.0	adsmoloco.com
 0.0.0.0	ads.mondogames.com
 0.0.0.0	ads.monetize-me.com
+0.0.0.0	ads-monitor.xyz
 0.0.0.0	ads.mopub.com
 0.0.0.0	ads.morningstar.com
 0.0.0.0	ads.mouseplanet.com
@@ -3857,6 +3859,7 @@
 0.0.0.0	adtimaserver.vn
 0.0.0.0	adtima-static.zadn.vn
 0.0.0.0	adtima.vn
+0.0.0.0	adtimizer.co
 0.0.0.0	adtlgc.com
 0.0.0.0	adt.m7z.net
 0.0.0.0	adtng.com
@@ -8315,6 +8318,7 @@
 0.0.0.0	cheatingdome.us.intellitxt.com
 0.0.0.0	chechla.cnixon.com
 0.0.0.0	checkfreevideos.net
+0.0.0.0	checkmyimp.com
 0.0.0.0	checkout360now.net
 0.0.0.0	check.rayjump.com
 0.0.0.0	checkstat.nl
@@ -9233,6 +9237,7 @@
 0.0.0.0	contributor.google.com
 0.0.0.0	con-trnroayl.online
 0.0.0.0	control.adap.tv
+0.0.0.0	controlium.net
 0.0.0.0	control.kochava.com
 0.0.0.0	controller.4seeresults.com
 0.0.0.0	controller.duokanbox.com
@@ -9269,6 +9274,7 @@
 0.0.0.0	cookie.pebblemedia.be
 0.0.0.0	cookies.cmpnet.com
 0.0.0.0	cookies.nextmillmedia.com
+0.0.0.0	cookiesurfer.com
 0.0.0.0	cookie.sync.ad.cpe.dotomi.com
 0.0.0.0	cookiesync.mparticle.com
 0.0.0.0	cookie-sync-service-prod.steelhousemedia.com
@@ -10428,6 +10434,7 @@
 0.0.0.0	discountclick.com
 0.0.0.0	discoverdemo.com
 0.0.0.0	discoverecommerce.tt.omtrdc.net
+0.0.0.0	discover-tech.io
 0.0.0.0	discoveryplus.popin.cc
 0.0.0.0	discreetfield.com
 0.0.0.0	dis.criteo.com
@@ -14414,6 +14421,7 @@
 0.0.0.0	imp.adsmogo.com
 0.0.0.0	impat.tradedoubler.com
 0.0.0.0	impbe.tradedoubler.com
+0.0.0.0	impchkdsp.com
 0.0.0.0	impch.tradedoubler.com
 0.0.0.0	imp.clickability.com
 0.0.0.0	imp.control.kochava.com
@@ -15432,6 +15440,7 @@
 0.0.0.0	kqzyfj.com
 0.0.0.0	krafteurope.112.2o7.net
 0.0.0.0	krakenfolio.com
+0.0.0.0	kraken.rambler.ru
 0.0.0.0	krakragames.com
 0.0.0.0	krasnaya.co.uk
 0.0.0.0	krater.iprom.net
@@ -17742,6 +17751,7 @@
 0.0.0.0	mtrcss.com
 0.0.0.0	mtree.com
 0.0.0.0	m.tribalfusion.com
+0.0.0.0	mtrtb.com
 0.0.0.0	mtrx.go.sonobi.com
 0.0.0.0	mttwtrack.com
 0.0.0.0	mtvbrazil-services.vimn.com
@@ -17893,6 +17903,7 @@
 0.0.0.0	my.trgino.com
 0.0.0.0	myusersonline.com
 0.0.0.0	myvisualiq.net
+0.0.0.0	myweb3id.io
 0.0.0.0	mywebsearch.com
 0.0.0.0	mywifiext.fr
 0.0.0.0	myyearbookdigital.checkm8.com
@@ -18459,6 +18470,7 @@
 0.0.0.0	nullitics.com
 0.0.0.0	nuseek.com
 0.0.0.0	nutabuse.com
+0.0.0.0	nutralove.co
 0.0.0.0	nv.5.p2l.info
 0.0.0.0	nvidiacorp.us-5.evergage.com
 0.0.0.0	nv.vi-serve.com
@@ -19918,6 +19930,7 @@
 0.0.0.0	planrecanpost1.info
 0.0.0.0	plasmatv4free.com
 0.0.0.0	plasticker.fr
+0.0.0.0	platc-tester.com
 0.0.0.0	platform-api.sharethis.com
 0.0.0.0	platform.bidgear.com
 0.0.0.0	platform-cdn.sharethis.com
@@ -20167,6 +20180,7 @@
 0.0.0.0	powerad.ai
 0.0.0.0	poweredby.jads.co
 0.0.0.0	poweredlock.com
+0.0.0.0	powerium.net
 0.0.0.0	poweroff.pt
 0.0.0.0	poweronemedia.122.2o7.net
 0.0.0.0	powertrfic.fr
@@ -26908,6 +26922,7 @@
 0.0.0.0	voil-le-travail.fr
 0.0.0.0	voipwise.fr
 0.0.0.0	voken.eyereturn.com
+0.0.0.0	volasim.com
 0.0.0.0	volatilevessel.com
 0.0.0.0	volksaddiction.nl
 0.0.0.0	volksvagen.fr
@@ -34123,6 +34138,7 @@
 ::	ads-img.mozilla.org
 ::	ads.imguol.com
 ::	ads.imgur.com
+::	ads-impressions.com
 ::	adsim.sabah.com.tr
 ::	ads.indeed.com
 ::	ads.independent.com.mt
@@ -34277,6 +34293,7 @@
 ::	adsmoloco.com
 ::	ads.mondogames.com
 ::	ads.monetize-me.com
+::	ads-monitor.xyz
 ::	ads.mopub.com
 ::	ads.morningstar.com
 ::	ads.mouseplanet.com
@@ -34897,6 +34914,7 @@
 ::	adtimaserver.vn
 ::	adtima-static.zadn.vn
 ::	adtima.vn
+::	adtimizer.co
 ::	adtlgc.com
 ::	adt.m7z.net
 ::	adtng.com
@@ -39355,6 +39373,7 @@
 ::	cheatingdome.us.intellitxt.com
 ::	chechla.cnixon.com
 ::	checkfreevideos.net
+::	checkmyimp.com
 ::	checkout360now.net
 ::	check.rayjump.com
 ::	checkstat.nl
@@ -40273,6 +40292,7 @@
 ::	contributor.google.com
 ::	con-trnroayl.online
 ::	control.adap.tv
+::	controlium.net
 ::	control.kochava.com
 ::	controller.4seeresults.com
 ::	controller.duokanbox.com
@@ -40309,6 +40329,7 @@
 ::	cookie.pebblemedia.be
 ::	cookies.cmpnet.com
 ::	cookies.nextmillmedia.com
+::	cookiesurfer.com
 ::	cookie.sync.ad.cpe.dotomi.com
 ::	cookiesync.mparticle.com
 ::	cookie-sync-service-prod.steelhousemedia.com
@@ -41468,6 +41489,7 @@
 ::	discountclick.com
 ::	discoverdemo.com
 ::	discoverecommerce.tt.omtrdc.net
+::	discover-tech.io
 ::	discoveryplus.popin.cc
 ::	discreetfield.com
 ::	dis.criteo.com
@@ -45454,6 +45476,7 @@
 ::	imp.adsmogo.com
 ::	impat.tradedoubler.com
 ::	impbe.tradedoubler.com
+::	impchkdsp.com
 ::	impch.tradedoubler.com
 ::	imp.clickability.com
 ::	imp.control.kochava.com
@@ -46472,6 +46495,7 @@
 ::	kqzyfj.com
 ::	krafteurope.112.2o7.net
 ::	krakenfolio.com
+::	kraken.rambler.ru
 ::	krakragames.com
 ::	krasnaya.co.uk
 ::	krater.iprom.net
@@ -48782,6 +48806,7 @@
 ::	mtrcss.com
 ::	mtree.com
 ::	m.tribalfusion.com
+::	mtrtb.com
 ::	mtrx.go.sonobi.com
 ::	mttwtrack.com
 ::	mtvbrazil-services.vimn.com
@@ -48933,6 +48958,7 @@
 ::	my.trgino.com
 ::	myusersonline.com
 ::	myvisualiq.net
+::	myweb3id.io
 ::	mywebsearch.com
 ::	mywifiext.fr
 ::	myyearbookdigital.checkm8.com
@@ -49499,6 +49525,7 @@
 ::	nullitics.com
 ::	nuseek.com
 ::	nutabuse.com
+::	nutralove.co
 ::	nv.5.p2l.info
 ::	nvidiacorp.us-5.evergage.com
 ::	nv.vi-serve.com
@@ -50958,6 +50985,7 @@
 ::	planrecanpost1.info
 ::	plasmatv4free.com
 ::	plasticker.fr
+::	platc-tester.com
 ::	platform-api.sharethis.com
 ::	platform.bidgear.com
 ::	platform-cdn.sharethis.com
@@ -51207,6 +51235,7 @@
 ::	powerad.ai
 ::	poweredby.jads.co
 ::	poweredlock.com
+::	powerium.net
 ::	poweroff.pt
 ::	poweronemedia.122.2o7.net
 ::	powertrfic.fr
@@ -57948,6 +57977,7 @@
 ::	voil-le-travail.fr
 ::	voipwise.fr
 ::	voken.eyereturn.com
+::	volasim.com
 ::	volatilevessel.com
 ::	volksaddiction.nl
 ::	volksvagen.fr
