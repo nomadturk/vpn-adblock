@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Mon 19 Oct 22:06:05 +03 2026
-# Total number of blocked lines: 62114
+# Ad blocking hosts generated Mon 19 Oct 23:06:05 +03 2026
+# Total number of blocked lines: 62116
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -6455,6 +6455,7 @@
 0.0.0.0	beacon.tru.am
 0.0.0.0	beacon.tunecore.com
 0.0.0.0	beacon-us-iad2.rubiconproject.com
+0.0.0.0	beacon.viafoura.io
 0.0.0.0	beacon.walmart.ca
 0.0.0.0	beacon.walmart.com
 0.0.0.0	beacon.wikia-services.com
@@ -37511,6 +37512,7 @@
 ::	beacon.tru.am
 ::	beacon.tunecore.com
 ::	beacon-us-iad2.rubiconproject.com
+::	beacon.viafoura.io
 ::	beacon.walmart.ca
 ::	beacon.walmart.com
 ::	beacon.wikia-services.com
