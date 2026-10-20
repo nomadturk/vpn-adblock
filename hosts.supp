@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 20 Oct 17:06:07 +03 2026
-# Total number of blocked lines: 62118
+# Ad blocking hosts generated Tue 20 Oct 18:06:06 +03 2026
+# Total number of blocked lines: 62120
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -15635,6 +15635,7 @@
 0.0.0.0	lbrtry.com
 0.0.0.0	lb.web-stat.com
 0.0.0.0	lby2kd27c.com
+0.0.0.0	l.ca.ovhcloud.com
 0.0.0.0	lcastorama.fr
 0.0.0.0	lcdn.tsyndicate.com
 0.0.0.0	lcf.cmplay.cmcm.com
@@ -46693,6 +46694,7 @@
 ::	lbrtry.com
 ::	lb.web-stat.com
 ::	lby2kd27c.com
+::	l.ca.ovhcloud.com
 ::	lcastorama.fr
 ::	lcdn.tsyndicate.com
 ::	lcf.cmplay.cmcm.com
