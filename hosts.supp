@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 20 Oct 14:06:04 +03 2026
-# Total number of blocked lines: 62116
+# Ad blocking hosts generated Tue 20 Oct 15:06:05 +03 2026
+# Total number of blocked lines: 62118
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -3895,6 +3895,7 @@
 0.0.0.0	ad.turn.com.akadns.net
 0.0.0.0	ad.tv2.no
 0.0.0.0	ad.tw.doubleclick.net
+0.0.0.0	ad.twinrdengine.com
 0.0.0.0	adt.xdrig.com
 0.0.0.0	ad-u.com
 0.0.0.0	ad.uk.doubleclick.net
@@ -34952,6 +34953,7 @@
 ::	ad.turn.com.akadns.net
 ::	ad.tv2.no
 ::	ad.tw.doubleclick.net
+::	ad.twinrdengine.com
 ::	adt.xdrig.com
 ::	ad-u.com
 ::	ad.uk.doubleclick.net
