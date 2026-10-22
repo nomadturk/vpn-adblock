@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 22 Oct 15:06:05 +03 2026
-# Total number of blocked lines: 62120
+# Ad blocking hosts generated Thu 22 Oct 16:06:06 +03 2026
+# Total number of blocked lines: 62122
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -23301,6 +23301,7 @@
 0.0.0.0	spulse.net
 0.0.0.0	spx.owneriq.net
 0.0.0.0	spylog.com
+0.0.0.0	spyrep.com
 0.0.0.0	spywarelabs.com
 0.0.0.0	spyware-removers.shengen.ru
 0.0.0.0	spywords.com
@@ -54360,6 +54361,7 @@
 ::	spulse.net
 ::	spx.owneriq.net
 ::	spylog.com
+::	spyrep.com
 ::	spywarelabs.com
 ::	spyware-removers.shengen.ru
 ::	spywords.com
