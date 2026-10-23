@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 23 Oct 14:06:04 +03 2026
-# Total number of blocked lines: 62122
+# Ad blocking hosts generated Fri 23 Oct 15:06:06 +03 2026
+# Total number of blocked lines: 62100
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -868,7 +868,6 @@
 0.0.0.0	abscbn.spinbox.net
 0.0.0.0	abseckw.adtlgc.com
 0.0.0.0	abshop.fr
-0.0.0.0	absolutering.com
 0.0.0.0	absolutewrite.fr
 0.0.0.0	absorbingband.com
 0.0.0.0	abs.proxistore.com
@@ -1491,6 +1490,7 @@
 0.0.0.0	adexprt.me
 0.0.0.0	adexprts.com
 0.0.0.0	adext.inkclub.com
+0.0.0.0	ad.exyws.org
 0.0.0.0	adfactor.nl
 0.0.0.0	adfalcon.com
 0.0.0.0	adfarm1.adition.com
@@ -2117,7 +2117,6 @@
 0.0.0.0	ads345.com
 0.0.0.0	ads.359group.com
 0.0.0.0	ads360.com
-0.0.0.0	ads.365.mk
 0.0.0.0	ads36.console.adtarget.com.tr
 0.0.0.0	ads36.vertamedia.com
 0.0.0.0	ads37.console.adtarget.com.tr
@@ -2609,7 +2608,6 @@
 0.0.0.0	adserve.donanimhaber.com
 0.0.0.0	adserve.doteasy.com
 0.0.0.0	adserve.ehpub.com
-0.0.0.0	adserve.gkeurope.de
 0.0.0.0	adserve.gossipgirls.com
 0.0.0.0	adserve.io
 0.0.0.0	adserve.jbs.org
@@ -6322,7 +6320,6 @@
 0.0.0.0	baskettexture.com
 0.0.0.0	baskidunyasi.net
 0.0.0.0	bastardly.us.intellitxt.com
-0.0.0.0	bastingart.com
 0.0.0.0	bat.bing.com
 0.0.0.0	bat.bing.net
 0.0.0.0	batch.upsight-api.com
@@ -6649,7 +6646,6 @@
 0.0.0.0	bigreal.org
 0.0.0.0	bigrourg.net
 0.0.0.0	bigseatsout.net
-0.0.0.0	bigworldfashion.com
 0.0.0.0	bikeforumsnet.skimlinks.com
 0.0.0.0	bilbob.com
 0.0.0.0	bild.de.intellitxt.com
@@ -8517,7 +8513,6 @@
 0.0.0.0	click.email.lhh.com
 0.0.0.0	click.email.microsoftemail.com
 0.0.0.0	click.emails.argos.co.uk
-0.0.0.0	click.email.sonos.com
 0.0.0.0	click.emails.tuclothing.sainsburys.co.uk
 0.0.0.0	click.em.blizzard.com
 0.0.0.0	click.e.progressive.com
@@ -9566,6 +9561,7 @@
 0.0.0.0	cpx.to
 0.0.0.0	cqcounter.com
 0.0.0.0	cra-arc-gc-ca.noads.biz
+0.0.0.0	crabbychin.com
 0.0.0.0	cra-documents.ca
 0.0.0.0	cra-etransfer.online
 0.0.0.0	cra.hum.works
@@ -13841,7 +13837,6 @@
 0.0.0.0	hotlog.ru
 0.0.0.0	hot-mob.com
 0.0.0.0	hotmommagossip.us.intellitxt.com
-0.0.0.0	hotrank.com.tw
 0.0.0.0	hot.useractive.com
 0.0.0.0	hotvideos.fr
 0.0.0.0	houseofkids.fr
@@ -14998,7 +14993,6 @@
 0.0.0.0	jetem.fr
 0.0.0.0	jeu-jeux.fr
 0.0.0.0	jeupicard.fr
-0.0.0.0	jewelrysprings.com
 0.0.0.0	jf71qh5v14.com
 0.0.0.0	j.flxpxl.com
 0.0.0.0	jf.revolvermaps.com
@@ -15342,7 +15336,6 @@
 0.0.0.0	kelder.nl
 0.0.0.0	kelleybluebook.112.2o7.net
 0.0.0.0	kergaukr.com
-0.0.0.0	kernellife.com
 0.0.0.0	kevlaardiet.fr
 0.0.0.0	keybinary.com
 0.0.0.0	keys.dmtracker.com
@@ -19067,7 +19060,6 @@
 0.0.0.0	optimost.com
 0.0.0.0	option9.adultfriendfinder.com
 0.0.0.0	optionmodifycanitem.info
-0.0.0.0	optionsnomad.com
 0.0.0.0	optionstoreplace.com
 0.0.0.0	optmd.com
 0.0.0.0	optmnstr.com
@@ -24218,7 +24210,6 @@
 0.0.0.0	swa.demdex.net
 0.0.0.0	swa.metro.co.uk
 0.0.0.0	swankysquare.com
-0.0.0.0	swan-swan-goose.com
 0.0.0.0	s.webtrends.com
 0.0.0.0	sweb.ulta.com
 0.0.0.0	sweetsforfree.com
@@ -26898,7 +26889,6 @@
 0.0.0.0	vmcsatellite.com
 0.0.0.0	vmix.adbureau.net
 0.0.0.0	vml1.s3.amazonaws.com
-0.0.0.0	vmmpxl.com
 0.0.0.0	vmn.net
 0.0.0.0	vms.bluebillywig.com
 0.0.0.0	vmweb.net
@@ -27610,7 +27600,6 @@
 0.0.0.0	wrating.com
 0.0.0.0	wrestling-edge.us.intellitxt.com
 0.0.0.0	wrigley.122.2o7.net
-0.0.0.0	writerhubs.com
 0.0.0.0	write.trackonomics.net
 0.0.0.0	wrontonshatbona.pro
 0.0.0.0	ws017.coin-hive.com
@@ -31928,7 +31917,6 @@
 ::	abscbn.spinbox.net
 ::	abseckw.adtlgc.com
 ::	abshop.fr
-::	absolutering.com
 ::	absolutewrite.fr
 ::	absorbingband.com
 ::	abs.proxistore.com
@@ -32551,6 +32539,7 @@
 ::	adexprt.me
 ::	adexprts.com
 ::	adext.inkclub.com
+::	ad.exyws.org
 ::	adfactor.nl
 ::	adfalcon.com
 ::	adfarm1.adition.com
@@ -33177,7 +33166,6 @@
 ::	ads345.com
 ::	ads.359group.com
 ::	ads360.com
-::	ads.365.mk
 ::	ads36.console.adtarget.com.tr
 ::	ads36.vertamedia.com
 ::	ads37.console.adtarget.com.tr
@@ -33669,7 +33657,6 @@
 ::	adserve.donanimhaber.com
 ::	adserve.doteasy.com
 ::	adserve.ehpub.com
-::	adserve.gkeurope.de
 ::	adserve.gossipgirls.com
 ::	adserve.io
 ::	adserve.jbs.org
@@ -37382,7 +37369,6 @@
 ::	baskettexture.com
 ::	baskidunyasi.net
 ::	bastardly.us.intellitxt.com
-::	bastingart.com
 ::	bat.bing.com
 ::	bat.bing.net
 ::	batch.upsight-api.com
@@ -37709,7 +37695,6 @@
 ::	bigreal.org
 ::	bigrourg.net
 ::	bigseatsout.net
-::	bigworldfashion.com
 ::	bikeforumsnet.skimlinks.com
 ::	bilbob.com
 ::	bild.de.intellitxt.com
@@ -39577,7 +39562,6 @@
 ::	click.email.lhh.com
 ::	click.email.microsoftemail.com
 ::	click.emails.argos.co.uk
-::	click.email.sonos.com
 ::	click.emails.tuclothing.sainsburys.co.uk
 ::	click.em.blizzard.com
 ::	click.e.progressive.com
@@ -40626,6 +40610,7 @@
 ::	cpx.to
 ::	cqcounter.com
 ::	cra-arc-gc-ca.noads.biz
+::	crabbychin.com
 ::	cra-documents.ca
 ::	cra-etransfer.online
 ::	cra.hum.works
@@ -44901,7 +44886,6 @@
 ::	hotlog.ru
 ::	hot-mob.com
 ::	hotmommagossip.us.intellitxt.com
-::	hotrank.com.tw
 ::	hot.useractive.com
 ::	hotvideos.fr
 ::	houseofkids.fr
@@ -46058,7 +46042,6 @@
 ::	jetem.fr
 ::	jeu-jeux.fr
 ::	jeupicard.fr
-::	jewelrysprings.com
 ::	jf71qh5v14.com
 ::	j.flxpxl.com
 ::	jf.revolvermaps.com
@@ -46402,7 +46385,6 @@
 ::	kelder.nl
 ::	kelleybluebook.112.2o7.net
 ::	kergaukr.com
-::	kernellife.com
 ::	kevlaardiet.fr
 ::	keybinary.com
 ::	keys.dmtracker.com
@@ -50127,7 +50109,6 @@
 ::	optimost.com
 ::	option9.adultfriendfinder.com
 ::	optionmodifycanitem.info
-::	optionsnomad.com
 ::	optionstoreplace.com
 ::	optmd.com
 ::	optmnstr.com
@@ -55278,7 +55259,6 @@
 ::	swa.demdex.net
 ::	swa.metro.co.uk
 ::	swankysquare.com
-::	swan-swan-goose.com
 ::	s.webtrends.com
 ::	sweb.ulta.com
 ::	sweetsforfree.com
@@ -57958,7 +57938,6 @@
 ::	vmcsatellite.com
 ::	vmix.adbureau.net
 ::	vml1.s3.amazonaws.com
-::	vmmpxl.com
 ::	vmn.net
 ::	vms.bluebillywig.com
 ::	vmweb.net
@@ -58670,7 +58649,6 @@
 ::	wrating.com
 ::	wrestling-edge.us.intellitxt.com
 ::	wrigley.122.2o7.net
-::	writerhubs.com
 ::	write.trackonomics.net
 ::	wrontonshatbona.pro
 ::	ws017.coin-hive.com
