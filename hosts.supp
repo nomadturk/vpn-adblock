@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 28 Oct 11:06:05 +03 2026
-# Total number of blocked lines: 61876
+# Ad blocking hosts generated Wed 28 Oct 12:06:05 +03 2026
+# Total number of blocked lines: 61878
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -1513,6 +1513,7 @@
 0.0.0.0	adformdsp.net
 0.0.0.0	adform.net
 0.0.0.0	ad.fout.jp
+0.0.0.0	adfox.cam
 0.0.0.0	ad.foxnetworks.com
 0.0.0.0	adfox.yandex.ru
 0.0.0.0	adfp.fcloud.com.tr
@@ -32450,6 +32451,7 @@
 ::	adformdsp.net
 ::	adform.net
 ::	ad.fout.jp
+::	adfox.cam
 ::	ad.foxnetworks.com
 ::	adfox.yandex.ru
 ::	adfp.fcloud.com.tr
