@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 30 Oct 15:06:05 +03 2026
-# Total number of blocked lines: 61882
+# Ad blocking hosts generated Fri 30 Oct 16:06:05 +03 2026
+# Total number of blocked lines: 61874
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -1380,7 +1380,6 @@
 0.0.0.0	adclient1.tucows.com
 0.0.0.0	adclient-af.lp.uol.com.br
 0.0.0.0	adclient.uimserv.net
-0.0.0.0	adclixx.net
 0.0.0.0	adcloud-dp.nuggad.net
 0.0.0.0	ad.cn.doubleclick.net
 0.0.0.0	adcode.adengage.com
@@ -2947,7 +2946,6 @@
 0.0.0.0	ads.fling.com
 0.0.0.0	ads.flooble.com
 0.0.0.0	ads.floridatoday.com
-0.0.0.0	adsflowprime.top
 0.0.0.0	ads.flurry.com
 0.0.0.0	ads.focus-news.net
 0.0.0.0	ads.fool.com
@@ -6290,7 +6288,6 @@
 0.0.0.0	banner.titan-dsl.de
 0.0.0.0	banner.titanpoker.com
 0.0.0.0	banner.tmgrup.com.tr
-0.0.0.0	bannertrack.net
 0.0.0.0	bannerus1.axelsfun.com
 0.0.0.0	bannerus3.axelsfun.com
 0.0.0.0	banner.webtools24.net
@@ -8504,7 +8501,6 @@
 0.0.0.0	click.digital.metaquestmail.com
 0.0.0.0	click.discord.com
 0.0.0.0	click.e.bbcmail.co.uk
-0.0.0.0	clickedyclick.com
 0.0.0.0	click.email.bbc.com
 0.0.0.0	click.email.lhh.com
 0.0.0.0	click.email.microsoftemail.com
@@ -10360,6 +10356,7 @@
 0.0.0.0	diazepam.ourtablets.com
 0.0.0.0	diazepam.razma.net
 0.0.0.0	diazepam.shengen.ru
+0.0.0.0	dicecandies.com
 0.0.0.0	dickssportinggoods.demdex.net
 0.0.0.0	did.ijinshan.com
 0.0.0.0	didrex.1.p2l.info
@@ -16407,7 +16404,6 @@
 0.0.0.0	magasine-omnicuiseur.fr
 0.0.0.0	magento-analytics.com
 0.0.0.0	maghrebfoot.com
-0.0.0.0	magicadz.co
 0.0.0.0	magicalipone.com
 0.0.0.0	magicaljoin.com
 0.0.0.0	magic.cmcm.com
@@ -32320,7 +32316,6 @@
 ::	adclient1.tucows.com
 ::	adclient-af.lp.uol.com.br
 ::	adclient.uimserv.net
-::	adclixx.net
 ::	adcloud-dp.nuggad.net
 ::	ad.cn.doubleclick.net
 ::	adcode.adengage.com
@@ -33887,7 +33882,6 @@
 ::	ads.fling.com
 ::	ads.flooble.com
 ::	ads.floridatoday.com
-::	adsflowprime.top
 ::	ads.flurry.com
 ::	ads.focus-news.net
 ::	ads.fool.com
@@ -37230,7 +37224,6 @@
 ::	banner.titan-dsl.de
 ::	banner.titanpoker.com
 ::	banner.tmgrup.com.tr
-::	bannertrack.net
 ::	bannerus1.axelsfun.com
 ::	bannerus3.axelsfun.com
 ::	banner.webtools24.net
@@ -39444,7 +39437,6 @@
 ::	click.digital.metaquestmail.com
 ::	click.discord.com
 ::	click.e.bbcmail.co.uk
-::	clickedyclick.com
 ::	click.email.bbc.com
 ::	click.email.lhh.com
 ::	click.email.microsoftemail.com
@@ -41300,6 +41292,7 @@
 ::	diazepam.ourtablets.com
 ::	diazepam.razma.net
 ::	diazepam.shengen.ru
+::	dicecandies.com
 ::	dickssportinggoods.demdex.net
 ::	did.ijinshan.com
 ::	didrex.1.p2l.info
@@ -47347,7 +47340,6 @@
 ::	magasine-omnicuiseur.fr
 ::	magento-analytics.com
 ::	maghrebfoot.com
-::	magicadz.co
 ::	magicalipone.com
 ::	magicaljoin.com
 ::	magic.cmcm.com
