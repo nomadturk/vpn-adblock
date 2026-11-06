@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri  6 Nov 14:06:05 +03 2026
-# Total number of blocked lines: 61876
+# Ad blocking hosts generated Fri  6 Nov 15:06:05 +03 2026
+# Total number of blocked lines: 61880
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -8470,6 +8470,7 @@
 0.0.0.0	click.adpia.vn
 0.0.0.0	click.adpile.net
 0.0.0.0	clickadu.com
+0.0.0.0	clickadu.io
 0.0.0.0	click.advertnative.com
 0.0.0.0	click.adv.livedoor.com
 0.0.0.0	clickadz.com
@@ -19958,6 +19959,7 @@
 0.0.0.0	playtest-api.topaz-analytics.com
 0.0.0.0	playtime.tubemogul.com
 0.0.0.0	play.traffpartners.com
+0.0.0.0	playwarren.com
 0.0.0.0	playzee.fr
 0.0.0.0	pl.bbelements.com
 0.0.0.0	pl.betclic.com
@@ -39407,6 +39409,7 @@
 ::	click.adpia.vn
 ::	click.adpile.net
 ::	clickadu.com
+::	clickadu.io
 ::	click.advertnative.com
 ::	click.adv.livedoor.com
 ::	clickadz.com
@@ -50895,6 +50898,7 @@
 ::	playtest-api.topaz-analytics.com
 ::	playtime.tubemogul.com
 ::	play.traffpartners.com
+::	playwarren.com
 ::	playzee.fr
 ::	pl.bbelements.com
 ::	pl.betclic.com
