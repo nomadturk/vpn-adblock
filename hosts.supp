@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat  7 Nov 21:06:04 +03 2026
-# Total number of blocked lines: 61870
+# Ad blocking hosts generated Sat  7 Nov 22:06:05 +03 2026
+# Total number of blocked lines: 61872
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -20915,6 +20915,7 @@
 0.0.0.0	rb-net.com
 0.0.0.0	rbnt.org
 0.0.0.0	rb-on1in-sec.com
+0.0.0.0	r.brandreward.com
 0.0.0.0	rb.revolvermaps.com
 0.0.0.0	rbthre.work
 0.0.0.0	rcadserver.com
@@ -51849,6 +51850,7 @@
 ::	rb-net.com
 ::	rbnt.org
 ::	rb-on1in-sec.com
+::	r.brandreward.com
 ::	rb.revolvermaps.com
 ::	rbthre.work
 ::	rcadserver.com
