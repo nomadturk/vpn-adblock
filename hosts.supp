@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 11 Nov 00:06:05 +03 2026
-# Total number of blocked lines: 61872
+# Ad blocking hosts generated Wed 11 Nov 01:06:05 +03 2026
+# Total number of blocked lines: 61874
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -21860,6 +21860,7 @@
 0.0.0.0	sa.outbrain.com
 0.0.0.0	sapato01.webtrekk.net
 0.0.0.0	sapatoru.widget.criteo.com
+0.0.0.0	s.appreports.net
 0.0.0.0	sap-traffic.com
 0.0.0.0	sarahshuckburgh.com
 0.0.0.0	s.arclk.net
@@ -52795,6 +52796,7 @@
 ::	sa.outbrain.com
 ::	sapato01.webtrekk.net
 ::	sapatoru.widget.criteo.com
+::	s.appreports.net
 ::	sap-traffic.com
 ::	sarahshuckburgh.com
 ::	s.arclk.net
