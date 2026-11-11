@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 11 Nov 16:06:04 +03 2026
-# Total number of blocked lines: 61874
+# Ad blocking hosts generated Wed 11 Nov 17:06:05 +03 2026
+# Total number of blocked lines: 61876
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -8879,6 +8879,7 @@
 0.0.0.0	cnzz.mmstat.com
 0.0.0.0	co.5.p2l.info
 0.0.0.0	co.akisinn.info
+0.0.0.0	coalmerchants.com
 0.0.0.0	cobalten.com
 0.0.0.0	cocoonelectronicsconfined.com
 0.0.0.0	code2.adtlgc.com
@@ -39815,6 +39816,7 @@
 ::	cnzz.mmstat.com
 ::	co.5.p2l.info
 ::	co.akisinn.info
+::	coalmerchants.com
 ::	cobalten.com
 ::	cocoonelectronicsconfined.com
 ::	code2.adtlgc.com
