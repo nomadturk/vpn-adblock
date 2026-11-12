@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 12 Nov 20:06:07 +03 2026
-# Total number of blocked lines: 62114
+# Ad blocking hosts generated Thu 12 Nov 21:06:08 +03 2026
+# Total number of blocked lines: 62116
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -23206,6 +23206,7 @@
 0.0.0.0	specialdeals.g5e.com
 0.0.0.0	specialoffers.aol.com
 0.0.0.0	specialworld.com.au
+0.0.0.0	speciesjewelry.com
 0.0.0.0	specificmedia.com
 0.0.0.0	specificmedia.co.uk
 0.0.0.0	specificpop.com
@@ -54262,6 +54263,7 @@
 ::	specialdeals.g5e.com
 ::	specialoffers.aol.com
 ::	specialworld.com.au
+::	speciesjewelry.com
 ::	specificmedia.com
 ::	specificmedia.co.uk
 ::	specificpop.com
