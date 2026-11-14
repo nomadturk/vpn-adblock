@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat 14 Nov 13:06:05 +03 2026
-# Total number of blocked lines: 62114
+# Ad blocking hosts generated Sat 14 Nov 14:06:05 +03 2026
+# Total number of blocked lines: 62116
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -879,6 +879,7 @@
 0.0.0.0	abtracker.adultbouncer.com
 0.0.0.0	ab.tweakers.nl
 0.0.0.0	abundantservantexact.com
+0.0.0.0	abu.usaday.biz
 0.0.0.0	abyssmedia.fr
 0.0.0.0	ac3bce28b1ec4def93c344b2d5e13909-4c4cc75a16ed.cdn.forter.com
 0.0.0.0	ac9d98.r.axf8.net
@@ -31935,6 +31936,7 @@
 ::	abtracker.adultbouncer.com
 ::	ab.tweakers.nl
 ::	abundantservantexact.com
+::	abu.usaday.biz
 ::	abyssmedia.fr
 ::	ac3bce28b1ec4def93c344b2d5e13909-4c4cc75a16ed.cdn.forter.com
 ::	ac9d98.r.axf8.net
