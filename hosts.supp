@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Sat 14 Nov 14:06:05 +03 2026
-# Total number of blocked lines: 62116
+# Ad blocking hosts generated Sat 14 Nov 15:06:04 +03 2026
+# Total number of blocked lines: 62118
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -10013,6 +10013,7 @@
 0.0.0.0	dashboard.tinypass.com
 0.0.0.0	dashgreen.online
 0.0.0.0	dashingleather.com
+0.0.0.0	dash.kryon.one
 0.0.0.0	data0.bell.ca
 0.0.0.0	data2.ad-score.com
 0.0.0.0	data2.gosquared.com
@@ -41070,6 +41071,7 @@
 ::	dashboard.tinypass.com
 ::	dashgreen.online
 ::	dashingleather.com
+::	dash.kryon.one
 ::	data0.bell.ca
 ::	data2.ad-score.com
 ::	data2.gosquared.com
