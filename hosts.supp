@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Tue 17 Nov 12:06:05 +03 2026
-# Total number of blocked lines: 62120
+# Ad blocking hosts generated Tue 17 Nov 13:06:06 +03 2026
+# Total number of blocked lines: 62122
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -23279,6 +23279,7 @@
 0.0.0.0	sports.msnbc.us.intellitxt.com
 0.0.0.0	sports.rightpundits.us.intellitxt.com
 0.0.0.0	sportssaint.net
+0.0.0.0	sportswidows.com
 0.0.0.0	sportupdates.info
 0.0.0.0	sportydesktops.com
 0.0.0.0	s.po.st
@@ -54338,6 +54339,7 @@
 ::	sports.msnbc.us.intellitxt.com
 ::	sports.rightpundits.us.intellitxt.com
 ::	sportssaint.net
+::	sportswidows.com
 ::	sportupdates.info
 ::	sportydesktops.com
 ::	s.po.st
