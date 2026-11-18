@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 18 Nov 12:06:05 +03 2026
-# Total number of blocked lines: 62122
+# Ad blocking hosts generated Wed 18 Nov 13:06:05 +03 2026
+# Total number of blocked lines: 62124
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -5958,6 +5958,7 @@
 0.0.0.0	awuam.com
 0.0.0.0	awzbijw.com
 0.0.0.0	a.xanga.com
+0.0.0.0	axcii.com
 0.0.0.0	axdget-sync.nuggad.net
 0.0.0.0	aximsite.us.intellitxt.com
 0.0.0.0	axion.iad.appboy.com
@@ -37018,6 +37019,7 @@
 ::	awuam.com
 ::	awzbijw.com
 ::	a.xanga.com
+::	axcii.com
 ::	axdget-sync.nuggad.net
 ::	aximsite.us.intellitxt.com
 ::	axion.iad.appboy.com
