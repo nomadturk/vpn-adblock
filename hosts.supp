@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Wed 18 Nov 14:06:05 +03 2026
-# Total number of blocked lines: 62124
+# Ad blocking hosts generated Wed 18 Nov 15:06:06 +03 2026
+# Total number of blocked lines: 62126
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -1743,6 +1743,7 @@
 0.0.0.0	admatchly.com
 0.0.0.0	admatch-syndication.mochila.com
 0.0.0.0	admatic.admicro.vn
+0.0.0.0	ad-maven.com
 0.0.0.0	admax.com.tr
 0.0.0.0	admax.nexage.com
 0.0.0.0	adm.baidu.com
@@ -32804,6 +32805,7 @@
 ::	admatchly.com
 ::	admatch-syndication.mochila.com
 ::	admatic.admicro.vn
+::	ad-maven.com
 ::	admax.com.tr
 ::	admax.nexage.com
 ::	adm.baidu.com
