@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Thu 26 Nov 13:06:05 +03 2026
-# Total number of blocked lines: 62162
+# Ad blocking hosts generated Thu 26 Nov 14:06:05 +03 2026
+# Total number of blocked lines: 62164
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -6535,6 +6535,7 @@
 0.0.0.0	berldk.nuggad.net
 0.0.0.0	berlinprotocols.shop
 0.0.0.0	berp.com
+0.0.0.0	berrytots.com
 0.0.0.0	bertelwissenprod.122.2o7.net
 0.0.0.0	besacon.fr
 0.0.0.0	be.sitestat.com
@@ -37615,6 +37616,7 @@
 ::	berldk.nuggad.net
 ::	berlinprotocols.shop
 ::	berp.com
+::	berrytots.com
 ::	bertelwissenprod.122.2o7.net
 ::	besacon.fr
 ::	be.sitestat.com
