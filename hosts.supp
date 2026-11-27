@@ -1,6 +1,6 @@
 #<local-data>
-# Ad blocking hosts generated Fri 27 Nov 15:06:05 +03 2026
-# Total number of blocked lines: 62166
+# Ad blocking hosts generated Fri 27 Nov 16:06:05 +03 2026
+# Total number of blocked lines: 62164
 0.0.0.0	00000.uno
 0.0.0.0	005.free-counter.co.uk
 0.0.0.0	006.free-counter.co.uk
@@ -6214,6 +6214,7 @@
 0.0.0.0	banners.amigos.com
 0.0.0.0	banners.asiafriendfinder.com
 0.0.0.0	banners.askmecca.com
+0.0.0.0	banners.babylon-x.com
 0.0.0.0	banners.betcris.com
 0.0.0.0	banners.bgmaps.com
 0.0.0.0	banners.bigchurch.com
@@ -6803,7 +6804,6 @@
 0.0.0.0	bluekai.com
 0.0.0.0	bluekai.com.edgekey.net
 0.0.0.0	bluelithium.com
-0.0.0.0	bluenest.net
 0.0.0.0	bluepartner.fr
 0.0.0.0	bluescreenalert.com
 0.0.0.0	blue.sexer.com
@@ -8493,7 +8493,6 @@
 0.0.0.0	click2commission.gotrackier.com
 0.0.0.0	click2freemoney.com
 0.0.0.0	click2.yllix.com
-0.0.0.0	click4.pro
 0.0.0.0	click.a-ads.com
 0.0.0.0	clickadddilla.com
 0.0.0.0	clickad.eo.pl
@@ -12511,7 +12510,6 @@
 0.0.0.0	freighttools.live
 0.0.0.0	frenchbweb.fr
 0.0.0.0	frenesies.fr
-0.0.0.0	frequentflesh.com
 0.0.0.0	freshmarketer.com
 0.0.0.0	freshrelevance.com
 0.0.0.0	fresh.sa.com
@@ -13484,7 +13482,6 @@
 0.0.0.0	handelsblatt01.webtrekk.net
 0.0.0.0	handsomehose.com
 0.0.0.0	handyfireman.com
-0.0.0.0	handyincrease.com
 0.0.0.0	hapax.qc.ca
 0.0.0.0	haplesshydrant.com
 0.0.0.0	happyfresh.fr
@@ -13741,6 +13738,7 @@
 0.0.0.0	hits.theguardian.com
 0.0.0.0	hits.tv8.com.tr
 0.0.0.0	hits.webstat.com
+0.0.0.0	hittail.com
 0.0.0.0	hit.topc.org
 0.0.0.0	hit.ua
 0.0.0.0	hitwebcounter.com
@@ -14058,6 +14056,7 @@
 0.0.0.0	iadctest.qwapi.com
 0.0.0.0	iad.g.163.com
 0.0.0.0	iad-login.dotomi.com
+0.0.0.0	iadnet.com
 0.0.0.0	i.adnium.com
 0.0.0.0	iadsdk.apple.com
 0.0.0.0	iad-usadmm.dotomi.com
@@ -24876,6 +24875,7 @@
 0.0.0.0	theblemish.us.intellitxt.com
 0.0.0.0	thebosh.us.intellitxt.com
 0.0.0.0	thebrighttag.com
+0.0.0.0	thebugs.ws
 0.0.0.0	thebuzz.today
 0.0.0.0	thecarconnection.us.intellitxt.com
 0.0.0.0	thecelebritycafe.us.intellitxt.com
@@ -25109,7 +25109,6 @@
 0.0.0.0	tnc16-useast1a.byteoversea.com
 0.0.0.0	tnc16-useast1a.isnssdk.com
 0.0.0.0	t.neodatagroup.com
-0.0.0.0	t.news.browns-restaurants.co.uk
 0.0.0.0	tnews.day
 0.0.0.0	tnkexchange.com
 0.0.0.0	tnkfactory.com
@@ -27479,7 +27478,6 @@
 0.0.0.0	wikidevs.com
 0.0.0.0	wikiforosh.ir
 0.0.0.0	wikihow-com.videoplayerhub.com
-0.0.0.0	wikiquotations.com
 0.0.0.0	wildcard46.akstat.io.edgekey.net
 0.0.0.0	wildcard-ads-448740142.us-west-2.elb.amazonaws.com
 0.0.0.0	wildcard-ads-new-1653986885.us-east-1.elb.amazonaws.com
@@ -30786,6 +30784,7 @@
 0.0.0.0	xtainment.net
 0.0.0.0	xtendmedia.com
 0.0.0.0	x.thecatmachine.com
+0.0.0.0	x-traceur.com
 0.0.0.0	xtracker.logimeter.com
 0.0.0.0	xtrasizeoriginal.com.br
 0.0.0.0	xtr.carambo.la
@@ -37296,6 +37295,7 @@
 ::	banners.amigos.com
 ::	banners.asiafriendfinder.com
 ::	banners.askmecca.com
+::	banners.babylon-x.com
 ::	banners.betcris.com
 ::	banners.bgmaps.com
 ::	banners.bigchurch.com
@@ -37885,7 +37885,6 @@
 ::	bluekai.com
 ::	bluekai.com.edgekey.net
 ::	bluelithium.com
-::	bluenest.net
 ::	bluepartner.fr
 ::	bluescreenalert.com
 ::	blue.sexer.com
@@ -39575,7 +39574,6 @@
 ::	click2commission.gotrackier.com
 ::	click2freemoney.com
 ::	click2.yllix.com
-::	click4.pro
 ::	click.a-ads.com
 ::	clickadddilla.com
 ::	clickad.eo.pl
@@ -43593,7 +43591,6 @@
 ::	freighttools.live
 ::	frenchbweb.fr
 ::	frenesies.fr
-::	frequentflesh.com
 ::	freshmarketer.com
 ::	freshrelevance.com
 ::	fresh.sa.com
@@ -44566,7 +44563,6 @@
 ::	handelsblatt01.webtrekk.net
 ::	handsomehose.com
 ::	handyfireman.com
-::	handyincrease.com
 ::	hapax.qc.ca
 ::	haplesshydrant.com
 ::	happyfresh.fr
@@ -44823,6 +44819,7 @@
 ::	hits.theguardian.com
 ::	hits.tv8.com.tr
 ::	hits.webstat.com
+::	hittail.com
 ::	hit.topc.org
 ::	hit.ua
 ::	hitwebcounter.com
@@ -45140,6 +45137,7 @@
 ::	iadctest.qwapi.com
 ::	iad.g.163.com
 ::	iad-login.dotomi.com
+::	iadnet.com
 ::	i.adnium.com
 ::	iadsdk.apple.com
 ::	iad-usadmm.dotomi.com
@@ -55958,6 +55956,7 @@
 ::	theblemish.us.intellitxt.com
 ::	thebosh.us.intellitxt.com
 ::	thebrighttag.com
+::	thebugs.ws
 ::	thebuzz.today
 ::	thecarconnection.us.intellitxt.com
 ::	thecelebritycafe.us.intellitxt.com
@@ -56191,7 +56190,6 @@
 ::	tnc16-useast1a.byteoversea.com
 ::	tnc16-useast1a.isnssdk.com
 ::	t.neodatagroup.com
-::	t.news.browns-restaurants.co.uk
 ::	tnews.day
 ::	tnkexchange.com
 ::	tnkfactory.com
@@ -58561,7 +58559,6 @@
 ::	wikidevs.com
 ::	wikiforosh.ir
 ::	wikihow-com.videoplayerhub.com
-::	wikiquotations.com
 ::	wildcard46.akstat.io.edgekey.net
 ::	wildcard-ads-448740142.us-west-2.elb.amazonaws.com
 ::	wildcard-ads-new-1653986885.us-east-1.elb.amazonaws.com
@@ -61868,6 +61865,7 @@
 ::	xtainment.net
 ::	xtendmedia.com
 ::	x.thecatmachine.com
+::	x-traceur.com
 ::	xtracker.logimeter.com
 ::	xtrasizeoriginal.com.br
 ::	xtr.carambo.la
